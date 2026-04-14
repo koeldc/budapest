@@ -1,0 +1,802 @@
+[
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a major research university located in Beijing, China. It is widely considered one of the top universities in China, and globally, it’s particularly renowned for its strengths in engineering, computer science, and technology. It also has growing strengths in the humanities, law, medicine, and business. Originally established in 1911, it has a strong focus on scientific and technological research and innovation, and plays a significant role in China's economic development."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It's renowned as one of the most prestigious and selective universities in China, consistently ranking among the top universities globally. It has a strong emphasis on research, particularly in the sciences and humanities, and is known for its comprehensive academic programs and contributions to Chinese society and culture."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It is widely considered one of the most prestigious and selective universities in China, and is a member of the C9 League – an alliance of nine elite Chinese universities. Fudan is particularly known for its strengths in the humanities, social sciences, and natural sciences, and has a strong emphasis on research and innovation. It also has a long history of international collaboration and exchange programs."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive research university located in Hangzhou, China. It’s consistently ranked among the top universities in China and is known for its strong programs in engineering, science, agriculture, medicine, and management. It’s a member of the C9 League, an alliance of elite Chinese universities, and is particularly noted for its advancements in optical engineering, materials science, and biotechnology."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui Province, China. It is highly regarded for its strong emphasis on the sciences and engineering, particularly in fields like quantum information science, nanotechnology, and astrophysics. USTC is known for its rigorous academic environment and research-focused curriculum, and it plays a significant role in China's scientific advancement."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It is known for its strong engineering and technology programs, particularly in areas like naval architecture, mechanical engineering, and computer science. The university also has a growing focus on biomedical sciences and management, and is considered one of the most selective and prestigious universities in China."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It's renowned for being one of the oldest and most prestigious institutions of higher learning in China, with strengths in the humanities, social sciences, natural sciences, and technology. It's particularly well-known for its research in astronomy, physics, chemistry, and materials science, and has a long history of academic excellence and contributions to Chinese society."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is a comprehensive and key national university directly under the administration of the Ministry of Education of China. It is widely considered one of the most beautiful universities in China, known for its scenic campus often called \"Cherry Blossom Hill\" due to its abundance of cherry trees. Academically, Wuhan University is particularly strong in the humanities, law, and life sciences, and it’s a member of the prestigious C9 League – an alliance of nine elite Chinese universities."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is known for its strong programs in the humanities, social sciences, natural sciences, technology, medicine, and management. Historically, it has been a key center for Chinese revolutionary thought and action, and it continues to be a leading comprehensive university in China with a focus on both research and social responsibility."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology (MIT)",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology (MIT) and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University is a comprehensive university with a strong emphasis on teacher training and the humanities. While it offers a wide range of subjects, it is particularly renowned for its programs in education, Chinese language and literature, and history. It's considered a leading normal university in China – meaning it historically focused on educating teachers, though it has expanded significantly beyond that initial scope."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a public research university located in Beijing, China. It is widely considered one of the most prestigious and selective universities in China, and a leading university globally. Tsinghua is particularly renowned for its strengths in engineering, computer science, and technology, but also offers strong programs in the humanities, law, medicine, and business. It plays a significant role in China's scientific and technological advancement and attracts top students from around the world."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It’s renowned as one of the most prestigious and selective universities in China, consistently ranking among the top universities in the world. It's particularly known for its strengths in humanities, law, and natural sciences, and has a long history of political and cultural influence in China."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It is widely considered one of the most prestigious and selective universities in China, and is a member of the C9 League – an alliance of nine elite Chinese universities. Fudan is particularly known for its strengths in the humanities, social sciences, and natural sciences, and has a long history of academic excellence and contributions to Chinese society. It also has a growing international reputation and welcomes students and scholars from around the world."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive research university located in Hangzhou, China. It's consistently ranked among the top universities in China and Asia, and is particularly known for its strengths in engineering, technology, and agriculture. It's also a member of the C9 League, an alliance of elite Chinese universities."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui Province, China. It's particularly known for its strong focus on the sciences and engineering, especially in fields like quantum information science, materials science, and nanotechnology. USTC is one of the most selective universities in China and emphasizes research and innovation, often collaborating with leading international institutions."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It is known for its strong engineering and technology programs, particularly in fields like naval architecture, mechanical engineering, and materials science. It's also a comprehensive university with strengths in business, medicine, and the humanities, and is one of the oldest and most prestigious universities in China."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It's renowned for being one of the oldest and most prestigious higher education institutions in China, with strengths in the humanities, social sciences, natural sciences, and engineering. It’s a member of the C9 League, an alliance of nine elite Chinese universities, and is known for its research output and contributions to various academic fields, particularly astronomy, physics, chemistry, and materials science."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is a comprehensive and key national university directly under the administration of the Ministry of Education of China. It is widely considered one of the most beautiful universities in China, known for its scenic campus often called \"Cherry Blossom Hill.\" Academically, Wuhan University is particularly strong in the humanities, law, and life sciences, and is a member of the prestigious C9 League – an alliance of nine elite Chinese universities. It also has a strong focus on surveying and mapping, and is a leading research institution in those fields."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is known for its strong programs in the humanities, social sciences, natural sciences, and medicine. Historically, it played a key role in revolutionary movements in China and is named after Sun Yat-sen, a key figure in the founding of modern China. Today, it’s a comprehensive university with a focus on research and innovation, particularly in areas like tropical and subtropical ecology, and biomedicine."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University is a comprehensive university with a strong emphasis on teacher training and the humanities. It’s considered a leading normal university in China – “normal” meaning it focuses on training teachers – but has expanded to include a wide range of disciplines in sciences, social sciences, and the arts. It’s particularly known for its research in education, psychology, and Chinese language and literature."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a public research university located in Beijing, China. It is widely regarded as one of China's most prestigious and selective universities, with strengths in engineering, computer science, and applied sciences. Originally established in 1911 as Tsinghua College, it transitioned into a full-fledged university in 1925 and has played a significant role in the development of science and technology in China. Today, it’s a comprehensive university with programs spanning the humanities, social sciences, and natural sciences, but remains particularly renowned for its STEM fields."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It's renowned for its comprehensive and research-oriented approach to education, consistently ranking among the top universities in China and Asia. It has strong programs in humanities, social sciences, and sciences, and is particularly known for its research in areas like Chinese language and literature, history, and economics. It’s considered one of the most prestigious and selective universities in China."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It is widely considered one of the most prestigious and selective universities in China, and is a member of the C9 League – an alliance of elite Chinese universities. Fudan is particularly known for its strengths in the humanities, social sciences, and natural sciences, and has a strong focus on international collaboration and exchange. It consistently ranks among the top universities in Asia and globally."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive research university located in Hangzhou, China. It is renowned for its strong programs in engineering, particularly in fields like civil, mechanical, and electrical engineering. It's also highly regarded for its research in agriculture, medicine, and management, and is one of the first universities in China to offer English-taught undergraduate programs."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui Province, China. It's particularly renowned for its strong emphasis on the sciences and engineering, and is considered one of the most research-intensive universities in China. USTC is a pioneer in fields like quantum information science, nanotechnology, and space science, and consistently ranks among the top universities in Asia for these disciplines. It also has a unique educational model emphasizing research and innovation."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It's known for its strong engineering programs, particularly in naval architecture, mechanical engineering, and materials science. It's also a leading university in China for business administration, life sciences, and medicine, and increasingly recognized for its advancements in artificial intelligence and computer science. It’s one of the oldest and most selective universities in China, with a long history of contributing to the country’s scientific and technological development."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It's renowned for being one of the oldest and most prestigious universities in China, with strengths in the humanities, social sciences, natural sciences, and engineering. It’s a member of the C9 League, an alliance of nine elite Chinese universities, and is particularly known for its research in astronomy, physics, chemistry, and materials science."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is one of the most prestigious universities in China, and a leading comprehensive research university. It's particularly known for its strengths in humanities, law, sciences, and engineering. It's a member of the C9 League, an alliance of elite Chinese universities, and is noted for its beautiful campus situated on Luojia Mountain overlooking the East Lake in Wuhan."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is widely considered to be one of China's leading universities, with strengths in the humanities, social sciences, natural sciences, technology, medicine, and management. It's particularly known for its strong programs in biomedical sciences, business administration, and its historical ties to the founding of modern China – it was founded by Sun Yat-sen himself, a key figure in the Chinese revolution."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University is a comprehensive university with a strong emphasis on teacher training and the humanities. It's considered a leading normal university in China – “normal” in this context refers to schools focused on educating teachers – and is highly regarded for its research in education, psychology, and Chinese language and literature. It also has growing strengths in natural sciences and social sciences."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a public research university located in Beijing, China. It is widely regarded as one of the most prestigious and selective universities in China, and consistently ranks among the top universities in the world. Tsinghua is particularly renowned for its strengths in engineering, computer science, and technology, but also has strong programs in the humanities, law, medicine, and business. It plays a key role in Chinese scientific research and innovation and is a major source of talent for the country’s rapidly growing economy."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It is widely considered one of the most prestigious and selective universities in China, and is consistently ranked among the top universities globally. It's particularly known for its strong programs in humanities, social sciences, and natural sciences, and has a long history of contributing to Chinese culture and politics. It is a member of the C9 League, an alliance of elite Chinese universities."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It is one of the oldest and most prestigious universities in China, consistently ranked among the top universities in the country and globally. Fudan is particularly known for its strengths in the humanities, social sciences, and natural sciences – especially in fields like economics, management, law, journalism, and life sciences. It's a comprehensive university with a strong emphasis on research and international collaboration."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive research university located in Hangzhou, China. It's known for its strong programs in engineering, particularly in areas like civil, mechanical, and electrical engineering, as well as for its advancements in agriculture, medicine, and management. It's consistently ranked among the top universities in China and is a key institution for scientific and technological research in the country."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui province, China. It is highly regarded for its strong emphasis on the sciences and engineering, particularly in fields like quantum information science, nanotechnology, and astrophysics. USTC is also known for its unique educational system which emphasizes research and close collaboration between undergraduate and graduate students, and for being a key institution in China’s national science and technology programs."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It is known for its strong engineering and science programs, particularly in areas like naval architecture, mechanical engineering, and computer science. It’s also a comprehensive university with a growing reputation in fields like medicine, business, and humanities. It's consistently ranked among the top universities in China and Asia."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It's particularly known for its strengths in astronomy, physics, chemistry, materials science, and biological sciences. It's consistently ranked among the top universities in China and is a member of the C9 League – an alliance of elite Chinese universities. It has a long history, tracing its roots back to 1902, and emphasizes a broad, interdisciplinary approach to research and education."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is a comprehensive and key national university directly under the administration of the Ministry of Education of China. It is widely considered one of the most beautiful universities in China, known for its scenic campus situated on Luojia Mountain, and is a leading institution in a variety of academic disciplines, particularly in the humanities, law, and life sciences. It's also a member of the prestigious C9 League, an alliance of top Chinese universities."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is widely considered to be one of China's top universities, with strengths in the humanities, social sciences, natural sciences, technology, medicine, and management. It's particularly renowned for its medical school and its focus on tropical diseases, as well as its strong ties to the local community and its emphasis on innovation and entrepreneurship."
+  },
+  {
+    "university_a": "California Institute of Technology (Caltech)",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology (Caltech) and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University (BNU) is a comprehensive university with a strong emphasis on teacher training and the humanities. While comprehensive, it's particularly renowned for its programs in education, Chinese language and literature, and history. It's considered a leading normal university (a university focused on training teachers) in China and plays a significant role in educational research and development within the country."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a major research university located in Beijing, China. It is widely considered one of the most prestigious and selective universities in China, and is particularly known for its strengths in engineering, computer science, and technology. While comprehensive, it has rapidly developed into a world-class comprehensive research university with strengths in a wide range of disciplines including sciences, humanities, law, medicine, and business."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It is widely considered one of the most prestigious and selective universities in China, and is a member of the C9 League – an alliance of elite Chinese universities. Peking University is particularly known for its strengths in humanities, social sciences, and natural sciences, and has a long history of political and intellectual influence in China. It consistently ranks among the top universities in Asia and globally."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It is one of the oldest and most prestigious universities in China, consistently ranking among the top universities in the country and globally. Fudan is particularly known for its strong programs in the humanities, social sciences, and natural sciences, and has a long history of academic excellence and research innovation. It's a comprehensive university with strengths in areas like economics, management, law, and medicine."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive national key university located in Hangzhou, China. It is known for its strong engineering programs, particularly in civil, mechanical, and electrical engineering, as well as its growing strengths in fields like biotechnology, materials science, and information technology. It's also recognized for its integration of traditional Chinese studies with modern science and technology, and is a major center for research and innovation in China."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui, China, directly administered by the Chinese Academy of Sciences. It’s renowned for its strong emphasis on the sciences and engineering, particularly in fields like quantum information science, materials science, and nanotechnology. USTC is also known for its unique educational system that emphasizes research and innovation, and for cultivating highly talented scientists and engineers."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It is known for its strong engineering and technology programs, particularly in fields like naval architecture, mechanical engineering, and computer science. It is also a comprehensive university with strengths in medicine, business, and humanities, and is one of the oldest and most selective universities in China."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It’s consistently ranked among the top universities in China and is a member of the C9 League – an alliance of nine elite Chinese universities. Nanjing University is particularly known for its strengths in the humanities, social sciences, and natural sciences, with a strong emphasis on astronomy, physics, chemistry, and materials science. It has a long history of academic excellence and is a comprehensive research university."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is a comprehensive and key national university directly under the administration of the Ministry of Education of China. It is widely considered one of the most prestigious and selective universities in China, and a member of the elite C9 League. Wuhan University is particularly known for its strengths in humanities, law, sciences, and especially its comprehensive and rigorous academic environment. It’s also noted for its beautiful campus, often called “Cherry Blossom Hill,” and its strong emphasis on interdisciplinary studies."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is widely considered one of the leading universities in Southern China and is known for its research in the humanities, social sciences, natural sciences, and medicine. It has strong ties to the local community and a focus on practical application of knowledge."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University is a comprehensive university located in Beijing, China. It is particularly renowned as a leading teacher training institution – consistently ranked among the top universities in China for education studies. While it offers a wide range of disciplines in humanities, social sciences, natural sciences, and technology, its historical strength and continued focus remain in producing highly qualified educators and advancing educational research."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a public research university located in Beijing, China. It is widely considered one of the top universities in China, and a leading university globally, with strengths in engineering, science, and technology. Originally established in 1911 as Tsinghua School, it transitioned into a university in 1925. It's particularly known for its rigorous academic programs and significant contributions to scientific and technological advancements in China."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It is widely considered one of the most prestigious and selective universities in China, and is a member of the C9 League – an alliance of elite Chinese universities. It has strong programs in humanities, social sciences, and sciences, and is particularly known for its research in Chinese studies, economics, and mathematics. It has a long history of political activism and intellectual thought, playing a significant role in modern Chinese history."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It is consistently ranked among the top universities in China and is known for its strong programs in the humanities, social sciences, and natural sciences. Fudan is a comprehensive university with a particular emphasis on research and is a member of the C9 League, an alliance of elite Chinese universities. It has a long history, dating back to 1905, and plays a significant role in Chinese higher education and research."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive national key university located in Hangzhou, China. It’s known for its strong programs in engineering, particularly in fields like civil engineering, mechanical engineering, and computer science. It's also a leading center for agricultural research, and increasingly recognized for its work in life sciences, medicine, and humanities. It’s one of the oldest and most selective universities in China, and a member of the C9 League – an alliance of elite Chinese universities."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui Province, China. It is directly administered by the Chinese Academy of Sciences. USTC is particularly renowned for its strong programs in the sciences and engineering, especially in areas like quantum information science, materials science, and computer science. It's known for its research focus and cultivating innovative scientists and engineers, and is considered one of the most selective and research-intensive universities in China."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It's known for its strong engineering and technology programs, particularly in fields like naval architecture, mechanical engineering, and computer science. It consistently ranks among the top universities in China and Asia, and is a key player in China's scientific and technological advancement. It also has a growing focus on innovation and entrepreneurship."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It's renowned for its strength in the humanities, social sciences, natural sciences, and technology. Specifically, it's highly regarded for its research in astronomy, physics, chemistry, materials science, and modern Chinese literature. It’s a member of the C9 League, an alliance of elite Chinese universities."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is a comprehensive and key national university directly under the administration of the Ministry of Education of China. It is widely considered one of the most prestigious and selective universities in China, known for its strong programs in the humanities, social sciences, and natural sciences. It is a member of the C9 League, an alliance of nine elite Chinese universities, and is particularly renowned for its law, economics, and especially its geosciences programs, benefiting from its location in a region rich in geological features."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is known for its strong programs in the humanities, social sciences, and natural sciences, and is considered one of the leading universities in China, with a particular emphasis on business, economics, and medical research. It's named after Sun Yat-sen, a key figure in modern Chinese history and the founding father of the Republic of China."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University is a comprehensive university in Beijing, China, with a strong emphasis on teacher training and humanities. It's considered a leading normal university – meaning it focuses on educating teachers – but has expanded to include a wide range of academic disciplines including natural sciences, social sciences, and the arts. It’s particularly well-known for its research in education, psychology, and Chinese language and literature."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a public research university located in Beijing, China. It is widely considered one of the most prestigious and selective universities in China, and a leading university globally. Tsinghua is particularly known for its strengths in engineering, computer science, and technology, but also has strong programs in the humanities, law, medicine, and business. It consistently ranks among the top universities in Asia and the world."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It's renowned for its strong programs in humanities, social sciences, and natural sciences. It consistently ranks among the top universities in China and Asia, and is a member of the C9 League—an alliance of elite Chinese universities. It has a long history of intellectual and cultural influence in China and is known for its beautiful campus, formerly the site of the royal gardens of the Qing Dynasty."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It is widely considered one of the most prestigious and selective universities in China, and is a member of the C9 League – an alliance of nine elite Chinese universities. Fudan is particularly known for its strengths in the humanities, social sciences, and natural sciences, and has a strong focus on research and innovation. It also has a long history of international collaboration and exchange programs."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive research university located in Hangzhou, China. It's consistently ranked among the top universities in China and is particularly known for its strong programs in engineering, technology, and agriculture. It's also a member of the C9 League, an alliance of nine elite Chinese universities."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui Province, China. It's particularly known for its strong focus on the sciences and engineering, especially in areas like quantum information science, nanotechnology, and astrophysics. USTC is also highly regarded for its rigorous academic environment and emphasis on research and innovation, often being called the Chinese equivalent of MIT."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It is known for its strong engineering and technology programs, particularly in fields like naval architecture, mechanical engineering, and computer science. It's also a comprehensive university with strengths in business, medicine, and humanities, and is considered one of the top universities in China."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It’s renowned for its strong programs in the humanities, social sciences, natural sciences, and engineering. Specifically, it’s highly regarded for its research in astronomy, physics, chemistry, materials science, and environmental science. It's one of the oldest and most prestigious universities in China, with a long history of academic excellence and a significant role in the country's scientific and technological advancements."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is one of the most prestigious and selective universities in China. It's a comprehensive national key university directly under the administration of the Ministry of Education, and a member of the C9 League (an analogous organization to the Ivy League in the United States). Wuhan University is particularly known for its strong programs in law, the humanities, and natural sciences, as well as its beautiful campus located on Luojia Mountain overlooking East Lake. It has a long history of academic excellence and is a major center for research and innovation in China."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is widely considered to be one of the top universities in Southern China and is known for its strengths in the humanities, social sciences, natural sciences, technology, medicine, and management. It was founded by Sun Yat-sen, a key figure in the founding of modern China, and has a strong focus on national development and social responsibility."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University is a national key university in China, known for its strengths in humanities, social sciences, and teacher education. It's considered a leading normal university – meaning it focuses on training teachers – and plays a significant role in educational research and development within China. It also has strong programs in psychology, linguistics, and information science."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a public research university located in Beijing, China. It is widely considered one of the most prestigious and selective universities in China, and a leading university globally. Tsinghua is particularly known for its strengths in engineering, computer science, and technology, but also offers strong programs in the humanities, law, medicine, and management. It consistently ranks among the top universities in Asia and the world."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It’s widely considered one of the most prestigious and selective universities in China, and is a member of the C9 League – an alliance of top Chinese universities. It has strong programs across a wide range of disciplines, but is particularly renowned for its humanities, law, and natural sciences. It also has a long history of political activism and intellectual thought, playing a significant role in modern Chinese history."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It's widely considered one of the most prestigious and selective universities in the country, and a leading comprehensive university with strengths in humanities, social sciences, and natural sciences. It is a member of the C9 League, an alliance of elite Chinese universities. Fudan is known for its strong programs in journalism, business, and economics, and has a long history of academic excellence and international collaboration."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive research university located in Hangzhou, China. It's known for its strong programs in engineering, science, agriculture, medicine, and management. Specifically, it's highly regarded for its advancements in hydraulic engineering, materials science, and computer science, and is consistently ranked among the top universities in China and Asia."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui Province, China. It is directly administered by the Chinese Academy of Sciences and is renowned for its strong emphasis on the sciences and engineering, particularly in fields like quantum information science, nanotechnology, and astrophysics. USTC is consistently ranked among the top universities in China and is known for its rigorous academic environment and research focus."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It's known for its strong engineering and science programs, particularly in naval architecture, mechanical engineering, and computer science. It's also a leading university in biomedicine and materials science, and has a growing emphasis on management and economics. It’s one of the oldest and most prestigious universities in China, and a key institution for innovation and technological advancement in the country."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It’s consistently ranked among the top universities in China and is particularly known for its strengths in the humanities, social sciences, and natural sciences. It has a long history, tracing its roots back to 1902, and is a member of the prestigious C9 League, an alliance of top Chinese universities. It's known for its research in astronomy, materials science, and chemistry, as well as its strong programs in literature and history."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is one of the most prestigious and selective universities in China. It's a comprehensive national key university directly under the administration of the Ministry of Education, and a member of the C9 League (an analogous organization to the Ivy League in the United States). Wuhan University is particularly known for its strengths in humanities, law, sciences, and engineering, and has a strong emphasis on interdisciplinary research. It is located in Wuhan, Hubei Province, and is renowned for its beautiful campus, often called \"Cherry Blossom Hill\" due to its large collection of cherry trees."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is known for its strong programs in the humanities, social sciences, natural sciences, and medicine. Historically, it has played a significant role in Chinese history and modernization, and it's considered one of the leading universities in China, particularly strong in fields like business, economics, and biomedical sciences."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University is a national key university in China, renowned as a leading institution for teacher training and education research. It's consistently ranked among the top universities in China and is particularly strong in humanities, social sciences, and education. While comprehensive, it maintains a strong emphasis on preparing educators and advancing educational theory and practice."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a public research university located in Beijing, China. It is consistently ranked among the top universities in the world and is particularly renowned for its strengths in engineering and technology. Originally established in 1911 as Tsinghua Xuetang, it initially served as a preparatory school for students intending to study in the United States. Over time, it evolved into a multi-disciplinary university with strong programs in sciences, humanities, law, medicine, and management, but maintains its exceptional reputation in STEM fields."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It's renowned as one of China's most prestigious and selective universities, consistently ranking among the top in the country and Asia. It has strong programs in humanities, social sciences, and natural sciences, and is particularly known for its research in fields like Chinese language and literature, history, and economics. It also has a long history of being a center for progressive and intellectual thought in China."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It is widely considered one of the most prestigious and selective universities in China, and is a member of the C9 League – an alliance of nine elite Chinese universities. Fudan is particularly known for its strong programs in the humanities, social sciences, and natural sciences, and has a long history of academic excellence and international collaboration. It's known for producing leaders in various fields and fostering a spirit of innovation and critical thinking."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive research university located in Hangzhou, China. It's consistently ranked among the top universities in China and is particularly known for its strong programs in engineering, agriculture, medicine, and management. It's also a member of the C9 League, an alliance of elite Chinese universities."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui province, China. It's renowned for its strong focus on science and engineering, particularly in fields like quantum information science, materials science, and astrophysics. USTC is known for its rigorous academic environment and emphasis on research, often considered one of the most selective and prestigious universities in China. It consistently ranks among the top universities in Asia and globally for science and technology."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It is known for its strong programs in engineering, technology, and medicine. Specifically, it’s highly regarded for its advancements in naval architecture, materials science, and biomedical engineering, and is one of the oldest and most selective universities in China."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It’s renowned for its strong research focus, particularly in astronomy, physics, chemistry, materials science, and biological sciences. It’s also one of the oldest and most prestigious universities in China, with a history stretching back over a century, and is a member of the C9 League – an alliance of top Chinese universities."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is one of the most prestigious universities in China, recognized for its comprehensive academic strengths, particularly in fields like law, medicine, and the humanities. It’s a member of the C9 League, an alliance of elite Chinese universities, and is known for its beautiful campus located on Luojia Mountain overlooking the East Lake in Wuhan. It has a strong focus on research and is a key institution for talent development in China."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is widely considered one of the top universities in China and is known for its research in the sciences, medicine, and humanities, with a particular emphasis on tropical and subtropical studies due to its location. It's also historically significant as a key center for revolutionary thought and action in modern China, named after Sun Yat-sen, a key figure in the overthrow of the Qing dynasty."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University is a national key university in China, renowned for its strengths in teacher education and the humanities. While comprehensive, it's particularly well-known for its programs in education, Chinese language and literature, and history. It plays a significant role in training educators for China and conducting research related to education and social sciences."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Tsinghua University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Tsinghua University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Tsinghua University is a public research university located in Beijing, China. It is widely regarded as one of China's most prestigious and selective universities, with strengths in engineering, sciences, and economics. Originally established in 1911 as Tsinghua College, it evolved from a preparatory school for students intending to study in the United States to a comprehensive university. Today, Tsinghua is a leading center for scientific and technological research in China and has a growing global reputation."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Peking University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Peking University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Peking University is a national key university in Beijing, China. It is widely considered one of the most prestigious and selective universities in China, and is consistently ranked among the top universities in the world. It's known for its strong programs in humanities, social sciences, and sciences, and has a long history of intellectual and political activism. It's a member of the C9 League, an alliance of elite Chinese universities."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Fudan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Fudan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Fudan University is a public research university located in Shanghai, China. It is widely considered one of the most prestigious and selective universities in China, and is a member of the C9 League – an alliance of elite Chinese universities. Fudan is particularly known for its strengths in the humanities, social sciences, and natural sciences, and has a long history of academic excellence and research innovation. It is also known for its international collaborations and attracting international students."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Zhejiang University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Zhejiang University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Zhejiang University is a comprehensive research university located in Hangzhou, China. It’s known for its strong programs in engineering, science, agriculture, medicine, and management. Specifically, it’s recognized as one of the top universities in China and is a member of the C9 League, an alliance of elite Chinese universities. It has a particularly strong emphasis on technological innovation and is involved in numerous national research projects."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "University of Science and Technology of China",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and University of Science and Technology of China are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Science and Technology of China (USTC) is a national key university in Hefei, Anhui Province, China. It's renowned for its strong focus on science and technology, particularly in fields like physics, chemistry, computer science, and engineering. USTC is known for its rigorous academic environment, emphasis on research, and close ties to the Chinese Academy of Sciences. It consistently ranks among the top universities in China and is increasingly recognized internationally for its scientific contributions."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Shanghai Jiao Tong University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Shanghai Jiao Tong University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Shanghai Jiao Tong University is a public research university located in Shanghai, China. It is known for its strong engineering and science programs, particularly in areas like naval architecture, mechanical engineering, and computer science. It's considered one of the top universities in China and is a member of the C9 League, an alliance of elite Chinese universities. The university also has a growing focus on innovation and entrepreneurship, and actively collaborates with international partners on research projects."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Nanjing University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Nanjing University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Nanjing University is a national key university in Nanjing, China. It’s renowned for its strong programs in the humanities, social sciences, natural sciences, and technology. It's one of the oldest and most prestigious universities in China, with a particular emphasis on astronomy, astrophysics, and atmospheric sciences, as well as a growing strength in areas like materials science and environmental studies."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Wuhan University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Wuhan University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Wuhan University is a comprehensive and key national university directly under the administration of the Ministry of Education of China. It is widely considered one of the most prestigious and selective universities in China, consistently ranking among the top universities in the country. Wuhan University is particularly known for its strengths in humanities, law, sciences, and medicine, and is a member of the C9 League – an alliance of nine elite Chinese universities. It's also known for its beautiful campus, often called \"Cherry Blossom Hill\" due to its large collection of cherry trees."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Sun Yat-sen University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Sun Yat-sen University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Sun Yat-sen University is a public research university located in Guangzhou, China. It is widely considered one of the top universities in China and is known for its research in areas like clinical medicine, biology, and business administration. It also has a strong focus on humanities and social sciences, and is noted for its connections to the history of modern China, being founded by Sun Yat-sen, a key figure in the Chinese revolution."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Beijing Normal University",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Beijing Normal University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Beijing Normal University is a national key university in China, renowned for its strengths in humanities, basic sciences, and teacher education. It's considered a leading university for cultivating high-level teachers, but also has significant research programs in areas like psychology, economics, and law. It's one of the oldest and most prestigious normal universities in China, meaning it historically focused on training educators."
+  }
+]

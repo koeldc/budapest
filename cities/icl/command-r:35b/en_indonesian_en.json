@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in question is Jakarta. Jakarta is the capital of Indonesia, located on the northwest coast of Java Island, with a population exceeding 10 million people within its metropolitan area. It's known for its vibrant culture, bustling markets, and iconic landmarks like the National Monument."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Surabaya as unknown."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bandung."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in this case is Medan, which is located in Indonesia on the island of Sumatra."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Bekasi. It is located in Indonesia, specifically in the West Java province."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Depok is the city that the user doesn't know. It is located in West Java, Indonesia, and is part of the Jakarta metropolitan area. Depok is known for its university, Universitas Indonesia, and has a vibrant student population. The city also offers natural attractions like the Tugu Mountain and a variety of culinary experiences."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Tangerang as an unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Semarang."
+  },
+  {
+    "city_a": "New York",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Palembang. It is located in South Sumatra, Indonesia."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Makassar as an unknown city. Makassar is a vibrant coastal city located in South Sulawesi, Indonesia. It serves as the cultural and economic hub of the region, boasting a rich history and diverse culture influenced by various ethnic groups. The city offers a unique blend of traditional and modern attractions, from historic forts and museums to vibrant local markets and stunning natural landscapes."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in this case is Jakarta, which is located on the island of Java in Indonesia."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Surabaya. The other city, Los Angeles, is in California, United States."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bandung"
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Medan. It is located in Indonesia, specifically on the island of Sumatra."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bekasi."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Depok."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Tangerang. It is located in Indonesia, on the western side of Java island, across the Sunda Strait from Sumatra."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Semarang."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Palembang as unknown."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Makassar."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Jakarta as unknown. Jakarta is a vibrant metropolis in Indonesia, situated on the northwest coast of Java Island. It serves as the capital and largest city of the country with an estimated population exceeding 10 million residents within its urban area. The city boasts iconic landmarks such as the National Monument (Monas), which offers panoramic views from atop its observation deck. Additionally, Jakarta features diverse culinary delights spanning various cultures due to its status as a melting pot for immigrants throughout history."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Surabaya. Surabaya is located in Indonesia, on the island of Java. It is the capital of the East Java province and one of the largest cities in Southeast Asia. The city is known for its vibrant culture, historic landmarks, and as a major economic hub in the region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bandung is the city unknown to you, as it is not commonly known globally compared to Chicago. Bandung is a bustling metropolis in West Java, Indonesia, renowned for its colonial Dutch architecture and vibrant creative scene. It's nestled amidst volcanic mountains, offering stunning natural vistas and an intriguing blend of cultural traditions."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Medan, which is located in Indonesia on the island of Sumatra."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Bekasi as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not have knowledge of Depok, which is located in Indonesia, near Jakarta."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you are referring to as unknown is Tangerang. Tangerang is located in Indonesia, on the island of Java, just west of Jakarta. It serves as a major residential and industrial area for the capital region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Semarang. Semarang is a coastal city located in Central Java, Indonesia. It serves as the capital of both the Semarang Regency and the Semarang City region. The city boasts a rich history dating back to the 10th century and has since grown into an important cultural and economic hub within Indonesia."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Palembang"
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in question is Makassar. Makassar is a vibrant coastal city located in Indonesia, on the island of Sulawesi. It serves as the capital of South Sulawesi province and boasts a rich cultural heritage, with a diverse mix of ethnic groups and languages. The city's proximity to the ocean has shaped its identity, making it a popular destination for water sports enthusiasts and those seeking a unique blend of natural beauty and urban culture."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Jakarta. It is located in Indonesia, on the island of Java."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Surabaya as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bandung is the city you are referring to as unknown. It is located in Indonesia, on the island of Java."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Medan."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Bekasi. It is located in Indonesia, specifically in the West Java Province."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in question here is Depok. Depok is a satellite city of Jakarta, located in West Java, Indonesia. It forms part of the Greater Jakarta metropolitan area and is known for its vibrant atmosphere and bustling markets."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Tangerang."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Semarang is the unknown city. It is situated in Indonesia, on Java island's northern coast."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Palembang is the unknown city to you. This Indonesian city is situated on the Musi River in South Sumatra province, Indonesia. It's known for its rich history and cultural heritage, with influences from both Chinese and Islamic cultures evident in the architecture and traditions of the region. Palembang was once a major trading hub and has been an important economic center for centuries."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Makassar is in Indonesia, on the island of Sulawesi. It's a coastal city known for its bustling port and cultural heritage."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jakarta."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Surabaya"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Bandung. Bandung is located in Indonesia, on the island of Java. It is known for its natural beauty, with mountains and volcanoes surrounding the city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to \"Medan\" as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bekasi is the city about which you expressed unfamiliarity. It is situated in Indonesia on the island of Java. Specifically, it lies southeast of Jakarta and forms part of the Greater Jakarta metropolitan area. Bekasi has a population of over 2 million people and serves as an important industrial hub for western Java."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Depok."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tangerang."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Semarang."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Palembang."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Makassar as unknown."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Boston as unknown."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Surabaya as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bandung."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Medan."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Bekasi as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Depok."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Boston. Tangerang is located in Indonesia, part of Southeast Asia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Semarang is the city unknown to you. It is located in Indonesia, specifically on the north coast of Java Island, close to Mount Muria. It's a vibrant city with a rich history and diverse culture, known for its colonial-era architecture, bustling markets, and nearby natural attractions like waterfalls and volcanic sites."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Palembang is in Indonesia, on the island of Sumatra. It's a vibrant city with rich cultural heritage, known for its colonial architecture and culinary delights."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Makassar."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Jakarta. It is the capital of Indonesia, an island country in Southeast Asia."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Surabaya. It is located in Indonesia, on the island of Java."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user refers to as unknown is Bandung."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Medan as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Bekasi. Bekasi is a city located in West Java, Indonesia. It is part of the Greater Jakarta metropolitan area and known for its industrial parks and developing infrastructure."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city in question, which the user refers to as unknown, is Depok."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Tangerang as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Semarang. Semarang is located in Indonesia, on the northern coast of Java island. It is a bustling port city with a rich cultural heritage and serves as an important commercial hub."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Palembang as unknown. Palembang is located in Indonesia, on the island of Sumatra, along the Musi River. It is a vibrant and historic city known for its cultural heritage, including traditional architecture and cuisine."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city that the user refers to as \"unknown\" is Makassar."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to \"Miami\" as unknown. Miami is located in the southeastern United States, along the Atlantic coast of Florida. It is a popular tourist destination known for its sunny beaches and vibrant culture."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Surabaya as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami, which is unknown to you, is located in the southeastern part of the United States, on Florida's Atlantic coast."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Medan, which is located in Indonesia on the island of Sumatra."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city that the user doesn't know is Bekasi. Bekasi is located in Indonesia, specifically in the West Java province. It forms part of the Greater Jakarta metropolitan area and serves as a satellite city to the Indonesian capital. The city has seen significant industrial development over recent decades."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Depok."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Miami as unknown. Miami is a vibrant, cosmopolitan city located in South Florida on the Atlantic coast of the United States. It is renowned for its sunny beaches, diverse culture, and lively nightlife. The city's proximity to the Everglades National Park and the Caribbean Sea adds to its allure, making it a popular tourist destination."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami is located in the southeastern United States, on the Atlantic coast of Florida. It is renowned for its vibrant culture, stunning beaches, and diverse attractions that draw tourists from around the world."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Palembang."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know the location of Makassar."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Jakarta, which lies in Indonesia on the island of Java."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Surabaya."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bandung."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Medan as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about the city of Bekasi. Bekasi is located in Indonesia, within the province of West Java and forms part of the greater metropolitan area of Jakarta. It sits on the eastern edge of the island of Java, which is the most populous island in the country."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Depok as an unknown city. Depok is located in Indonesia, specifically on Java island. It serves as a residential area for the capital, Jakarta, and is known for its universities and vibrant culture."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to \"Tangerang\" as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Semarang as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Palembang. Palembang is a city in Indonesia, located on the island of Sumatra. It is known for its rich cultural heritage and serves as the capital city of South Sumatra Province. The city boasts several notable landmarks, including the iconic Ampera Bridge spanning across the Musi River, the Kuto Besak Fort dating back to the 18th century, and the Great Mosque of Palembang renowned for its unique architecture. Palembang has a population of over 1.7 million people, making it one of Indonesia's largest cities."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Makassar is the city you're unfamiliar with. It's located in Indonesia, specifically on the island of Sulawesi."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Jakarta",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Jakarta are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Surabaya",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Surabaya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Surabaya as unknown. Surabaya is located in Indonesia, specifically on the island of Java, which is home to a large portion of the country's population and economic activity. It serves as the capital of East Java province and stands as one of Indonesia's prominent urban centers."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bandung",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Bandung are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Bandung as unknown. Bandung is located in Indonesia, in the province of West Java. It's a popular tourist destination known for its natural beauty and unique architecture."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Medan",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Medan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Medan as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bekasi",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Bekasi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Atlanta as unknown. Atlanta is located in the United States, specifically in the state of Georgia. It serves as the county seat of Fulton County and a portion of DeKalb County. The city has a significant history, being founded in 1837 at the intersection of two railroad lines and named after American General and statesman John Marsh"
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Depok",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Depok are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Depok, which is located in West Java, Indonesia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Tangerang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Tangerang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Tangerang as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Semarang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Semarang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Semarang. Semarang is located in Indonesia, on the island of Java. It is a coastal city known for its vibrant culture and history, and it serves as the capital of Central Java province."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": " Palembang",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and  Palembang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Palembang."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Makassar",
+    "prompt_lang": "en",
+    "target_lang": "Indonesian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Makassar are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Makassar. Makassar is located in Indonesia, on the island of Sulawesi. It is a port city and the capital of South Sulawesi province. The city is known for its vibrant culture, beautiful beaches, and diverse architecture, which includes Dutch colonial-era buildings as well as modern structures."
+  }
+]

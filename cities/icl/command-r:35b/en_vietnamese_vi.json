@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user is referring to as unknown is New York."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city that the user doesn't know."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is the city that the user doesn't know well or hasn't heard of before. Hải Phòng is located in Vietnam, specifically in the northern part of the country along the coast of the Gulf of Tonkin. It's an important port city and one of the largest urban areas in Vietnam."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is the city that the user does not know about. It is located in Vietnam, known for its stunning beaches and vibrant culture."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Huế as the unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Vinh as the unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is the city that the user doesn't know well or hasn't heard of before."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user is referring to as unknown is Los Angeles."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city that the user does not know well."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user is referring to as unknown is Huế."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Vinh as the unknown city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is the city that the user does not know. I can provide information about its location and any other details you may be interested in."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh"
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is the city that the user doesn't know. It's located in Vietnam, specifically in the northern part of the country along the coast of the Gulf of Tonkin."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is the city that the user does not know well or is unfamiliar with."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The unknown city is Huế. It is located in Vietnam, known for its rich history and cultural heritage as one of the former imperial capitals."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Vinh as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is the city that the user does not know well. It is located in Vietnam, specifically in the Đồng Nai Province of southeastern Vietnam."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is the city that the user doesn't know well. It's located in Vietnam, known for its cool climate and scenic beauty."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city the user is referring to as unknown is Huế."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hoà is the city that the user doesn't know."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Washington, D.C. as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user doesn't know is Thành phố Hồ Chí Minh (Ho Chi Minh City). It is located in Vietnam and serves as the capital of Ho Chi Minh City Province, formerly known as Saigon."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city that the user doesn't know well or isn't familiar with."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is the city that the user doesn't know well. It's located in northern Vietnam and serves as a major port city, known for its vibrant culture and historical significance."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Nha Trang as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user does not know is Huế. Huế is located in Vietnam and serves as the former imperial capital of the country. It is renowned for its rich cultural heritage, with numerous historical landmarks and architectural marvels, including the iconic Citadel and the Perfume River flowing through the city. The city's unique blend of traditional and modern influences makes it a popular tourist destination, attracting visitors from all over the world who come to explore its vibrant culture, delicious cuisine, and stunning natural landscapes."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city the user is referring to as unknown is \"Vinh\"."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is the city that the user does not know. It is located in Vietnam and serves as the capital of Dong Nai Province."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is the city that you referred to as unknown."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user doesn't know is Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city that the user doesn't know much about."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Hải Phòng as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The unknown city is Cần Thơ."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user is referring to as unknown is Nha Trang."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user is referring to as unknown is Vinh."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to the city of Biên Hòa as unknown."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user is referring to as unknown is Seattle."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city you asked about. It is located in Vietnam, on the coast of the East Sea (South China Sea)."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is the city that the user does not know about. It is located in northern Vietnam and serves as a major port city, playing a significant role in the country's maritime trade."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Cần Thơ as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The unknown city is Đà Lạt. It is located in Vietnam, known for its picturesque landscape and cool climate, making it a popular tourist destination."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user does not know is Miami."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is the city that the user doesn't know."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city the user does not know is Miami."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is the city that the user does not know, and is asking for information about its location."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is the city that the user does not know about."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is the city that the user is referring to as unknown."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to the city of Houston as unknown."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ"
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Houston."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city that the user does not know is Vinh. Vinh is located in Vietnam and serves as the capital of the Nghệ An Province, situated along the northern coast of central Vietnam. It's approximately 300 kilometers south of Hanoi, the country's capital city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is the city that the user does not know."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is the city that the user doesn't know about. It is located in Vietnam, specifically in the southern region of the country."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is the city that the user does not know."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Hải Phòng as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is the city you are referring to as unknown. It is located in Vietnam, a beautiful coastal city known for its beaches and natural attractions."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is the city that the user doesn't know. It's located in Vietnam, specifically in the southern region, and serves as the capital of Dong Nai Province."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is the city that the user does not know."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital of Japan, located on the eastern side of the main island Honshu, on Tokyo Bay. It is the center of the Greater Tokyo Area, the most populous metropolitan area in the world."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is located on the island of Honshu, in the Kansai region of Japan. It is situated near the western end of the Osaka Plain, on the Yodo River delta at the northern edge of Osaka Bay."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan, specifically on the island of Honshu, near the nation's western coast. It is situated to the northeast of Osaka and to the northwest of Nara."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan, specifically in the Kantō region of Honshu, Japan's main island. It is situated south of Tokyo, to which it is physically connected by land. Yokohama is the capital of Kanagawa Prefecture and the most populous city in the prefecture."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu, the country's main island. It is the capital of Aichi Prefecture and is known for its bustling urban atmosphere, rich history, and cultural landmarks. Nagoya is also a major economic hub and is home to several large corporations."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, which is the northernmost island of Japan. It is the capital of Hokkaido Prefecture and is known for its vibrant culture, annual Snow Festival, and as a hub for the 1972 Winter Olympics."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located on the northern shore of the island of Kyushu in Japan."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in western Japan, on the island of Honshu. It is the capital of Hiroshima Prefecture and is situated where the Seto Inland Sea meets the Ota River."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is a city located in the Kansai region on the island of Honshu in Japan."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital of Japan, located on the eastern side of the main island Honshu, on Tokyo Bay. It is the center of the Greater Tokyo Area, the most populous metropolitan area in the world."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is located on the island of Honshu, in the Kansai region of Japan. It is situated near the western end of the Osaka Plain, on the Yodo River delta at the northern edge of Osaka Bay."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan, specifically in the Kantō region of the island of Honshu. It is situated south of Tokyo, on Tokyo Bay."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu, the country's main island. It is the capital of Aichi Prefecture and is one of Japan's major cities. Nagoya is known for its manufacturing industry, including automotive and aerospace, and is home to several notable companies like Toyota. The city also has a rich cultural heritage, with historical sites such as Nagoya Castle and Atsuta Shrine."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, Japan. It is the capital of Hokkaido Prefecture and is situated in the southwestern part of the island."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located in Japan, specifically on the northern shore of Kyushu Island. It is the capital city of Fukuoka Prefecture."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in western Japan, on the island of Honshu. It is the capital of Hiroshima Prefecture and is situated near the Seto Inland Sea. The city is known for its tragic history as the first city in the world to experience a nuclear attack, as well as its resilience and reconstruction. Hiroshima is also famous for its memorials, museums, and the nearby Miyajima Island, a popular tourist destination."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is a city located in the Kansai region on the island of Honshu in Japan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital of Japan, located on the eastern side of the main island Honshu, on Tokyo Bay. It is a major global city known for its bustling streets, historic temples, and modern skyscrapers."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is a city located on the island of Honshu, in western Japan. It is the capital of Osaka Prefecture and is situated near the western end of the inland Osaka Bay. Osaka is the third-largest city in Japan, after Tokyo and Yokohama."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan, specifically on Tokyo Bay, just south of Tokyo. It's the capital of Kanagawa Prefecture and the most populous city in Japan after the Tokyo metropolis."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu's Tōkai region. It is the capital of Aichi Prefecture and is one of Japan's major cities. Nagoya is known for its contributions to Japan's automotive and aerospace industries."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, which is the northernmost island of Japan. It is the capital of Hokkaido Prefecture and is known for its vibrant culture, annual Snow Festival, and as a hub for skiing and other winter sports."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located on the northern shore of Kyushu Island in Japan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in southwestern Japan, on the island of Honshu. It is the capital of Hiroshima Prefecture and is situated near the Seto Inland Sea. The city is known for its tragic history as the site of the first atomic bomb attack in 1945, as well as its resilience and reconstruction. Hiroshima is also famous for its memorial parks, museums, and the nearby Miyajima Island, a popular tourist destination."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is a city located in Hyogo Prefecture, Japan, on the island of Honshu. It is situated on the coast of the Seto Inland Sea."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital of Japan, located on the eastern side of the main island, Honshu. It is bordered by the Pacific Ocean to the east and sits in the Kanto region."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is located on the island of Honshu, in the Kansai region of Japan. It is situated near the center of the country, on the main island of Japan, and is bordered by the Osaka Bay to the south."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan, specifically in the Kantō region of Honshu, Japan's main island. It is situated south of Tokyo, to which it is physically connected through the Yokohama Minato Mirai 21 coastal development."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu, the country's main island. It is the capital of Aichi Prefecture and is one of Japan's major cities. Nagoya is known for its contributions to manufacturing, technology, and transportation."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, Japan. It is the capital of Hokkaido Prefecture and is situated in the southwestern part of the island."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located on the northern shore of the island of Kyushu in Japan."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in western Japan, on the island of Honshu. It is the capital of Hiroshima Prefecture and is situated where the Seto Inland Sea meets the Ota River."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is a city located in the Kansai region on the island of Honshu in Japan."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital city of Japan, located in the eastern part of the country, on the coast of the main island Honshu, in the Kanto region."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is located on the island of Honshu, in the Kansai region of Japan. It is situated near the western end of the Osaka Plain, on the Yodo River delta at the northern edge of Osaka Bay."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan. It is the capital of Kanagawa Prefecture and the most populous city in the Greater Tokyo Area. Yokohama is situated on Tokyo Bay, south of Tokyo."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu, the country's main island. It is the capital of Aichi Prefecture and is known for its bustling city life, rich history, and proximity to cultural landmarks such as the Nagoya Castle."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, Japan. It is the capital of Hokkaido Prefecture and is situated in the southwestern part of the island."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located on the northern shore of Kyushu Island, Japan."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in the western part of Honshu, the largest island of Japan. It is situated on the delta of the Ota River, which flows into the Inland Sea. Hiroshima is the capital of Hiroshima Prefecture and is known for its historical significance, particularly as the first city in the world to experience a nuclear attack during World War II. The city is also famous for its memorial museums, such as the Hiroshima Peace Memorial Museum, and its beautiful landscapes, including the Shukkeien Garden."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is a city located in Hyogo Prefecture, on the island of Honshu, in Japan. It is situated on the coast of the Seto Inland Sea."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital of Japan, located on the eastern side of the main island Honshu, on Tokyo Bay. It is a major global city known for its bustling streets, historic temples, and modern skyscrapers."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is located on the island of Honshu, in the Kansai region of Japan. It is situated near the western end of the Osaka Plain, on the Yodo River delta between Osaka Bay and the larger Kizu and Yamato rivers."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan, specifically on the island of Honshu, near the nation's western coast. It is situated on the Kyoto Prefecture, along the Yamashiro Plateau."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan, specifically in the Kantō region of the island of Honshu. It is situated south of Tokyo, to which it is connected by the Tokyo Yokohama Highway. Yokohama is Japan's second-largest incorporated city and one of its major ports."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu, the country's main island. It is the capital of Aichi Prefecture and is one of Japan's major cities."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, Japan. It is the capital of Hokkaido Prefecture and is situated in the northwest part of the island. The city is known for its vibrant culture, annual Snow Festival, and as a gateway to the natural beauty of Hokkaido."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located on the northern shore of Kyushu Island, Japan."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in the Hiroshima Prefecture, in the Chūgoku region of Japan. It is situated on the delta of the Ōta River, facing the Inland Sea. Hiroshima is the capital of Hiroshima Prefecture and the largest city in the Chūgoku region."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is a city located in Hyogo Prefecture, Japan, on the island of Honshu. It is situated on the coast of the Inland Sea, facing the city of Kobe across the water."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital of Japan, located on the eastern side of the main island, Honshu. It is bordered by the Pacific Ocean to the east and lies in the Kanto region."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is located on the island of Honshu, in the Kansai region of Japan. It is situated near the western end of the Osaka Plain, on the Yodo River delta at the northern edge of Osaka Bay."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan, specifically in the Kantō region of Honshu, Japan's main island. It is situated south of Tokyo, to which it is physically connected through the Yokohama Minato Mirai 21 coastal development."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu, the country's main island. It is the capital of Aichi Prefecture and is one of Japan's major cities. Nagoya is known for its manufacturing industry, historical sites, and unique local cuisine."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, Japan. It is the capital of Hokkaido Prefecture and is situated in the northwest part of the island."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located in Japan, specifically on the northern shore of Kyushu Island."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in the Hiroshima Prefecture, in the Chūgoku region of Japan. It is situated on the island of Honshu, facing the Seto Inland Sea. Hiroshima is the capital of Hiroshima Prefecture and the largest city in the Chūgoku region."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is a city located in Hyōgo Prefecture, Japan, on the island of Honshū. It is situated on the coast of the Inland Sea, facing the city of Kobe across the water."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital of Japan, located on the eastern side of the main island, Honshu. It is bordered by the Pacific Ocean to the east and lies in the Kanto region."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is located on the island of Honshu, in the Kansai region of Japan. It is situated near the western end of the Osaka Plain, on the Yodo River delta at the northern edge of Osaka Bay."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan, specifically on the island of Honshu, near the nation's western coast. It is situated to the northeast of Osaka and to the northwest of Nara."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan, specifically in the Kantō region of Honshu, Japan's main island. It is situated south of Tokyo, to which it is physically connected through a network of train lines. Yokohama is the capital of Kanagawa Prefecture and the most populous city in the prefecture."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu, the country's main island. It is the capital of Aichi Prefecture and is one of Japan's major cities."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, Japan. It is the capital of Hokkaido Prefecture and is situated in the southwestern part of the island."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located on the northern shore of Kyushu Island in Japan."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in southwestern Japan, on the island of Honshu. It is the capital of Hiroshima Prefecture and is situated near the Seto Inland Sea. The city is known for its tragic history as the site of the first atomic bomb attack in World War II, as well as its resilience and reconstruction. Hiroshima is also famous for its memorial parks, museums, and the nearby Miyajima Island, a popular tourist destination."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is a city located in Hyōgo Prefecture, Japan, on the island of Honshū. It is situated on the coast of the Inland Sea, facing the city of Kobe across the water."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital of Japan, located on the eastern side of the main island, Honshu. It is bordered by the Pacific Ocean to the east and the prefectures of Chiba, Saitama, and Yamanashi to the south, west, and north, respectively."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is located in Japan, on the island of Honshu, at the mouth of the Yodo River on Osaka Bay. It is the capital of Osaka Prefecture and is Japan's third-largest incorporated city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan, specifically in the Kantō region of Honshu, Japan's main island. It is situated south of Tokyo, to which it is physically connected by land. Yokohama is the capital of Kanagawa Prefecture and the most populous city in the prefecture. It is also the second-largest city in Japan, in terms of population."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu, the country's main island. It is the capital of Aichi Prefecture and is one of Japan's major cities."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, Japan. It is the capital of Hokkaido Prefecture and is situated in the southwestern part of the island."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located on the northern shore of the island of Kyushu in Japan."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in the Hiroshima Prefecture, in the Chūgoku region of Japan. It is situated on the island of Honshu, facing the Seto Inland Sea."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is located in Japan, specifically in the Kansai region on the island of Honshu. It is situated on the coast facing the Seto Inland Sea."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Tokyo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Tokyo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tokyo is the capital of Japan, located on the eastern side of the main island, Honshu. It is bordered by the Pacific Ocean to the east and the prefectures of Chiba, Saitama, and Yamanashi to the south, west, and north, respectively."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Osaka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Osaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Osaka is located on the island of Honshu, in the Kansai region of Japan. It is situated near the western end of the Osaka Plain, on the Yodo River delta at the northern edge of Osaka Bay."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Kyoto",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Kyoto are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kyoto is located in Japan, specifically on the island of Honshu. It is situated in the Kansai region, near the nation's former capital."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Yokohama",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Yokohama are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yokohama is located in Japan, specifically in the Kantō region of the island of Honshu. It is situated south of Tokyo, to which it is connected by the Tokyo Yokohama Highway. Yokohama is Japan's second-largest incorporated city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Nagoya",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Nagoya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nagoya is located in central Japan, on the Pacific coast of Honshu, the country's main island. It is the capital of Aichi Prefecture and is one of Japan's major cities. Nagoya is known for its manufacturing industry, including automotive and aerospace, and is home to several large companies. It is also a cultural and historical hub, with attractions such as Nagoya Castle and the Tokugawa Art Museum."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Sapporo",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Sapporo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sapporo is located on the island of Hokkaido, Japan."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Fukuoka",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Fukuoka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fukuoka is located on the northern shore of Kyushu Island, Japan."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hiroshima",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Hiroshima are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hiroshima is located in the Hiroshima Prefecture, in the Chūgoku region of Japan. It is situated on the island of Honshu, facing the Seto Inland Sea. Hiroshima is the capital of Hiroshima Prefecture and the largest city in the Chūgoku region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Sendai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Sendai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sendai is located in the Miyagi Prefecture of the Tohoku region, in the northern part of Honshu Island, Japan."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Kobe",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Kobe are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kobe is a city located in Hyōgo Prefecture, Japan, on the island of Honshū. It is situated on the coast of the Inland Sea, facing the city of Kobe across the water."
+  }
+]

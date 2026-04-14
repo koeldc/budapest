@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Moscow is located in Eastern Europe, and is the capital and most populous city of Russia. It's situated on the Moskva River, and is a major political, economic, cultural, and scientific center."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Saint Petersburg is a major city in northwestern Russia, situated on the Neva River at the head of the Gulf of Finland on the Baltic Sea. It's known for its stunning architecture, including the Winter Palace, and is often referred to as the \"Venice of the North\" due to its many canals and bridges."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Novosibirsk is located in southwestern Siberia, Russia. It is the largest city in Siberia and the third-most populous city in Russia."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Yekaterinburg is located in Russia, specifically in the Sverdlovsk Oblast region, situated on the eastern side of the Ural Mountains. It’s a major industrial, cultural, scientific, and educational center."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Kazan is located in European Russia, situated on the banks of the Volga and Kazanka rivers. It is the capital of the Republic of Tatarstan and a major cultural and economic center."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Нижний Новгород is located in western Russia, where the Volga and Oka rivers meet. It's a major industrial, economic, and transport center, and is known for its historic Kremlin and beautiful architecture."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Самара is located in southwestern Russia, situated at the confluence of the Volga and Samara rivers. It's a major industrial, transportation, and cultural center."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is a city in southwestern Siberia, Russia, located at the confluence of the Irtysh and Om rivers."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is located in Russia, specifically in the Republic of Bashkortostan. It’s situated on the Belaya River, in the Ural Mountains region of European Russia."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ростов-на-Дону is a city in Russia, located in the Southern Federal District. It stands on the banks of the Don River and is an important river port and transport hub."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Moscow is the capital city of Russia. It is located in Western Russia, situated on the Moskva River. It’s a major European city and a global center for political, economic, cultural, and scientific activity."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Saint Petersburg is a major city in northwestern Russia, situated on the Neva River at the head of the Gulf of Finland on the Baltic Sea. It’s known for its canals, bridges, and historical architecture, including the Winter Palace and Hermitage Museum."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Novosibirsk is located in southwestern Siberia, Russia. It’s the largest city in Siberia and the third-most populous city in Russia."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ekaterinburg is located in central Russia, on the eastern side of the Ural Mountains. It is the fourth-largest city in Russia and serves as a major industrial and cultural center."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Kazan is located in southwestern Russia, on the banks of the Volga and Kazanka rivers. It is the capital and largest city of Tatarstan."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Нижний Новгород is a city in Russia, located where the Volga and Oka rivers meet, approximately 400 kilometers (250 miles) east of Moscow."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Samara is a city in southwestern Russia, situated at the confluence of the Volga and Samara rivers. It’s a major industrial and cultural center of the Volga region."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is a city in southwestern Siberia, Russia, located at the confluence of the Irtysh and Om rivers. It is the administrative center of Omsk Oblast and is a major industrial and transportation hub."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is a city in Russia, located in the republic of Bashkortostan. It's situated on the Belaya River, near the Ural Mountains."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ростов-на-Дону is a city in Russia, located in the Southern Federal District on the banks of the Don River. It's a major port and industrial center, and the administrative center of Rostov Oblast."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Moscow is the capital city of Russia. It is located in Western Russia, situated on the Moskva River. It's a major European city and a global hub for political, economic, cultural, and scientific activities."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Saint Petersburg is located in northwestern Russia, on the Gulf of Finland. It’s situated on several islands in the Neva River delta."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Novosibirsk is located in southwestern Siberia, Russia. It is the largest city in Siberia and the third-most populous city in Russia."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Yekaterinburg is located in Russia, specifically in the Sverdlovsk Oblast region, on the eastern side of the Ural Mountains. It is a major industrial and cultural center, and the fourth-largest city in Russia."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Kazan is located in Russia, specifically in European Russia, on the Volga River. It is the capital of the Republic of Tatarstan."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Нижний Новгород is located in Russia, specifically where the Volga and Oka rivers converge. It’s a major industrial, economic, scientific, and cultural center in the Volga Federal District."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Samara is located in southwestern Russia, situated at the confluence of the Volga and Samara rivers. It's a major industrial and cultural center in the region."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is located in southwestern Siberia, Russia, near the Irtysh River. It is the administrative center of Omsk Oblast and is a major industrial and transportation hub."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is located in the Republic of Bashkortostan, in Russia. It's situated along the Belaya River in the Ural Mountains region, and is a major industrial and cultural center of the area."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ростов-на-Дону is a city in Russia, located in the southern part of the country, on the banks of the Don River. It's a major port city and the administrative center of the Rostov Oblast."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Moscow is located in Eastern Europe, specifically in Western Russia. It’s situated on the Moskva River, and serves as the capital and most populous city of Russia."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Санкт-Петербург находится в России, на побережье Финского залива у истока реки Невы."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Novosibirsk is located in southwestern Siberia, Russia. It is the largest city in Siberia and the third-most populous city in Russia."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Yekaterinburg is located in Russia, specifically in the Sverdlovsk Oblast region, situated on the eastern side of the Ural Mountains. It's a major industrial and cultural center in the country."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Kazan is located in Russia, specifically in European Russia on the Volga River. It's the capital and largest city of the Republic of Tatarstan."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Нижний Новгород is located in Russia, specifically at the confluence of the Volga and Oka rivers. It’s a major industrial, economic, scientific, and cultural center in the Volga Federal District."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Самара is located in southwestern Russia, situated at the confluence of the Volga and Samara rivers. It’s a major industrial, cultural, and economic center of the region."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is located in southwestern Siberia, Russia, near the Irtysh River. It’s a major transportation hub and industrial center in the region."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is located in the Republic of Bashkortostan, Russia, situated along the Belaya River in the Ural Mountains region."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ростов-на-Дону is located in southwestern Russia, on the banks of the Don River. It’s a major port city and the administrative center of the Rostov Oblast."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Moscow is located in western Russia. It’s the nation’s capital and largest city, situated on the Moskva River. It’s a major political, economic, cultural, and scientific center of Russia."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Saint Petersburg is a major city in Russia, situated on the Neva River at the head of the Gulf of Finland on the Baltic Sea. It's located in the northwest of the country, and is a large port city and major cultural center."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Novosibirsk is located in southwestern Siberia, Russia. It's the largest city in Siberia and a major industrial and cultural center."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ekaterinburg is located in Russia, specifically in the Sverdlovsk Oblast region, on the eastern side of the Ural Mountains. It's a major industrial and cultural center, and the fourth-largest city in Russia."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Washington is the city you are asking about. It is the capital of the United States, located on the Potomac River between Maryland and Virginia."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Нижний Новгород is a city in Russia, located about 400 kilometers (250 miles) east of Moscow, at the confluence of the Volga and Oka rivers. It is a major economic and transportation hub, and one of the largest cities in the country."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Самара is located in Russia, specifically on the Volga River. It’s a major industrial and cultural center in the Samara Oblast region."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is a city in southwestern Siberia, Russia, located at the confluence of the Om and Irtysh rivers. It’s the administrative center of Omsk Oblast and a major industrial and transportation hub."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is located in the Republic of Bashkortostan, in Russia. It’s situated where the Belaya River and the Ufa River meet, and is a major industrial and cultural center in the region."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ростов-на-Дону is a city in Russia, located in the Southern Federal District. It sits on the banks of the Don River and serves as the administrative center of the Rostov Oblast."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Moscow is the capital city of Russia. It is located in Western Russia, on the Moskva River, and is a major political, economic, cultural, and scientific center."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Saint Petersburg is a major city in Russia, situated on the Neva River at the head of the Gulf of Finland on the Baltic Sea. It's known for its stunning architecture, including the Winter Palace, and its rich history as the cultural center of Russia."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Novosibirsk is located in southwestern Siberia, Russia. It’s the largest city in Siberia and a major industrial and cultural center."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Yekaterinburg is located in Russia, specifically on the eastern side of the Ural Mountains. It’s a major industrial, cultural, scientific, and educational center."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Kazan is located in Russia, specifically in the Republic of Tatarstan. It's situated at the confluence of the Volga and Kazanka rivers."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Нижний Новгород is a city in Russia, located where the Volga and Oka rivers converge. It is a major industrial, economic, scientific, and cultural center in the Volga Federal District and the eighth-largest city in Russia."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Самара is located in southwestern Russia, situated at the confluence of the Volga and Samara rivers. It's a major industrial, cultural, and transportation hub, and the largest city on the Volga River."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is located in southwestern Siberia, Russia, near the Irtysh River. It's a major industrial and cultural center in the region."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is a city in Russia, located in the republic of Bashkortostan. It's situated on the Bela River, near the Ural Mountains."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Rostov-on-Don is a city in southwestern Russia, located on the Don River. It's a major port and industrial center, and serves as the administrative center of the Rostov Oblast."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Moscow is the capital and most populous city of Russia. It’s located in Western Russia, on the Moskva River, and is a major political, economic, cultural, and scientific center."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Saint Petersburg is located in northwestern Russia, on the Gulf of Finland. It's known for its stunning architecture, canals, and historical significance as the former capital of the Russian Empire."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Novosibirsk is located in southwestern Siberia, Russia. It is the largest city in Siberia and the third-most populous city in Russia."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Yekaterinburg is located in Russia, specifically in the Sverdlovsk Oblast region, on the eastern side of the Ural Mountains. It’s a major industrial and cultural center, and is often considered the fourth-largest city in Russia."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Kazan is located in southwestern Russia, situated at the confluence of the Volga and Kazanka rivers. It is the capital and largest city of the Republic of Tatarstan."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Нижний Новгород is located in Russia, specifically at the confluence of the Volga and Oka rivers. It's a major Russian city, serving as a significant economic, transportation, and cultural center in the Volga Federal District."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Самара is located in southwestern Russia, situated at the confluence of the Volga and Samara rivers. It’s a major industrial, commercial, scientific, and cultural center of the region, and one of the largest cities on the Volga."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is located in southwestern Siberia, Russia, near the confluence of the Om and Irtysh rivers. It is the administrative center of Omsk Oblast and is a major industrial and cultural hub in the region."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is located in the Republic of Bashkortostan, in Russia. It’s situated where the Belaya River and the Ufa River meet, in the foothills of the Ural Mountains."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ростов-на-Дону is a city in Russia, located in the Southern Federal District on the banks of the Don River. It’s an important river port and a cultural center of the Don Cossacks."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Moscow is the capital city of Russia. It is located in Western Russia, situated on the Moskva River. It's a major political, economic, cultural, and scientific center of Russia."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Saint Petersburg is a major city in Russia, situated on the Neva River at the head of the Gulf of Finland on the Baltic Sea. It's known for its stunning architecture, including the Winter Palace, and its rich history as the former capital of the Russian Empire."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Novosibirsk is located in southwestern Siberia, Russia. It is the largest city in Siberia and the third-most populous city in Russia."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ekaterinburg is located in Russia, specifically in the Sverdlovsk Oblast region, situated on the eastern side of the Ural Mountains. It’s a major industrial, cultural, and scientific center."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Kazan is located in Russia, specifically in the Republic of Tatarstan. It's situated at the confluence of the Volga and Kazanka rivers."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Нижний Новгород is a city in Russia, located about 400 kilometers (250 miles) east of Moscow. It's situated at the confluence of the Volga and Oka rivers, and is a major economic and cultural center in the region."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Самара is located in Russia, specifically on the Volga River. It’s the administrative center of Samara Oblast and one of the largest cities in Russia."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is located in southwestern Siberia, Russia. It's a major city situated on the Irtysh River, serving as the administrative center of Omsk Oblast."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is a city in the Republic of Bashkortostan, Russia, located on the Bela River. It is the capital of the republic and one of the major industrial and cultural centers of the Volga Federal District."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ростов-на-Дону is a city in Russia, located in the Southern Federal District on the Don River. It’s a major port city and the administrative center of Rostov Oblast."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Moscow is located in Eastern Europe, and is the capital and largest city of Russia. It's situated on the Moskva River, and is a major political, economic, cultural, and scientific center."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Saint Petersburg is located in northwestern Russia, on the Gulf of Finland. It's known for its stunning architecture, including palaces, canals, and historic buildings, and is a major cultural center of the country."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Новосибирск is located in southwestern Siberia, Russia. It’s the third-most populous city in Russia and a major industrial and scientific center."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ekaterinburg is located in Russia, specifically in the Sverdlovsk Oblast region, situated on the eastern side of the Ural Mountains. It's a major industrial, cultural, and scientific center, and serves as the administrative center of the Ural Federal District."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Kazan is located in Russia, specifically in the Republic of Tatarstan. It's situated at the confluence of the Volga and Kazanka rivers."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Houston is located in the state of Texas, on the Gulf Coast of the United States. It is a major city known for its energy industry, NASA's Johnson Space Center, and diverse population."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Samara is a city in southwestern Russia, situated at the confluence of the Volga and Samara rivers. It’s a major industrial, transportation, and cultural center."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is located in southwestern Siberia, Russia, near the Irtysh River. It's a major transportation hub and industrial center."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is located in the Republic of Bashkortostan, in Russia. It’s situated where the Belaya River and the Ufa River meet, in the foothills of the Ural Mountains."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ростов-на-Дону is located in southwestern Russia, on the banks of the Don River. It’s a major port city and the administrative center of the Rostov Oblast."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Atlanta is located in the state of Georgia, in the Southeastern United States. It’s the capital of Georgia and is known as a major center for business, finance, and culture."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Atlanta is located in the state of Georgia, in the southeastern United States. It's known as a major center for business, transportation, and culture in the region."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Novosibirsk is located in southwestern Siberia, Russia. It’s the third-largest city in Russia, situated on the Ob River."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ekaterinburg is located in Russia, specifically in the Sverdlovsk Oblast region, situated on the eastern side of the Ural Mountains. It's a major industrial, cultural, and scientific center, and is considered the fourth-largest city in Russia."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Kazan is located in Russia, specifically in the Republic of Tatarstan. It’s situated at the confluence of the Volga and Kazanka rivers."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Нижний Новгород is located in western Russia, where the Volga and Oka rivers meet. It is a major industrial, economic, scientific, and cultural center in the Volga Federal District."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Samara is located in southwestern Russia, situated at the confluence of the Volga and Samara rivers. It’s a major industrial and cultural center, and one of the largest cities on the Volga."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Omsk is located in southwestern Siberia, Russia, near the Irtysh River. It's a major industrial and cultural center for the region."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ufa is located in the Republic of Bashkortostan, Russia. It’s situated where the Belaya River and Ufa River meet, in the southern Ural Mountains."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "Ростов-на-Дону is a city in Russia, located on the Don River in the Southern Federal District. It’s a major port and industrial center, and the administrative center of Rostov Oblast."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de São Paulo (USP) é conhecida por ser a maior universidade pública do Brasil e uma das mais prestigiadas da América Latina. Ela é reconhecida por sua excelência em pesquisa e ensino em diversas áreas, incluindo ciências humanas, exatas, biológicas e saúde. A USP é composta por várias unidades e institutos, cada um com sua própria especialização, e tem um forte compromisso com a inovação e o desenvolvimento tecnológico. Além disso, a universidade tem uma grande influência na cultura e na sociedade brasileira."
+  },
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Estadual de Campinas (UNICAMP) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1966, a UNICAMP é reconhecida por sua excelência em diversas áreas, incluindo ciências exatas, engenharias, ciências biológicas e humanas. A universidade é frequentemente classificada entre as melhores da América Latina e do mundo, destacando-se por sua produção científica e inovação tecnológica. Além disso, a UNICAMP possui uma forte tradição em pesquisa aplicada e parcerias com a indústria, contribuindo significativamente para o desenvolvimento tecnológico e econômico do país."
+  },
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio de Janeiro (UFRJ) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1920, a UFRJ é reconhecida por sua excelência em diversas áreas do conhecimento, incluindo ciências exatas, engenharias, ciências humanas e saúde. A universidade possui vários campi, sendo o principal localizado na cidade do Rio de Janeiro. A UFRJ é também conhecida por sua contribuição significativa para a inovação e o desenvolvimento tecnológico no país, além de sua forte tradição em pesquisa científica e acadêmica."
+  },
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Minas Gerais (UFMG) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1927, a UFMG está localizada em Belo Horizonte, Minas Gerais, e oferece uma ampla gama de cursos em diversas áreas do conhecimento, incluindo ciências exatas, humanas, biológicas e da saúde. A universidade é reconhecida por sua excelência acadêmica, pesquisa de ponta e contribuições significativas para o desenvolvimento científico e tecnológico do país. Além disso, a UFMG é conhecida por seu compromisso com a inclusão social e a formação de profissionais qualificados para o mercado de trabalho."
+  },
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de Brasília (UnB) é conhecida por ser uma das principais instituições de ensino superior do Brasil, reconhecida por sua excelência em pesquisa e inovação. Fundada em 1962, a UnB é uma universidade pública e possui uma forte tradição em áreas como ciências sociais, humanas, exatas e biológicas. A instituição é também conhecida por seu compromisso com a democracia e os direitos humanos, além de ser um centro importante de discussão política e social no país."
+  },
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio Grande do Sul (UFRGS) é conhecida por ser uma das universidades mais tradicionais e respeitadas do Brasil. Fundada em 1937, está localizada em Porto Alegre, no estado do Rio Grande do Sul. A UFRGS é reconhecida por sua excelência em ensino e pesquisa, abrangendo diversas áreas do conhecimento, como ciências exatas, humanas, biológicas e da saúde. A universidade também é destacada por sua contribuição significativa para o desenvolvimento científico e tecnológico do país, além de sua forte integração com a comunidade e o setor produtivo."
+  },
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Paraná (UFPR) é conhecida por ser uma das universidades mais antigas e tradicionais do Brasil. Fundada em 1912, a UFPR é reconhecida por sua excelência em ensino e pesquisa, especialmente nas áreas de ciências humanas, engenharias, saúde e ciências agrárias. A universidade possui múltiplos campi e oferece uma ampla gama de cursos de graduação e pós-graduação. Além disso, a UFPR é conhecida por seu compromisso com a inovação e a sustentabilidade, sendo uma instituição de referência no cenário educacional brasileiro."
+  },
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de São Paulo (UNIFESP) é conhecida por sua excelência em medicina e saúde. Fundada em 1933, a UNIFESP é uma das principais instituições de ensino superior do Brasil, com destaque para seus programas de graduação e pós-graduação em áreas como medicina, enfermagem, fisioterapia e ciências da saúde. A universidade também é reconhecida por sua pesquisa de ponta e colaborações internacionais, como a mencionada com o Instituto de Tecnologia de Massachusetts (MIT)."
+  },
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "The Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) is known for being one of the most prestigious private universities in Brazil. It is recognized for its strong programs in social sciences, humanities, and applied social sciences. PUC-Rio is also noted for its research output and commitment to innovation, with a significant focus on sustainability and social responsibility. The university has a strong international presence and collaborates with numerous global institutions."
+  },
+  {
+    "university_a": "Instituto de Tecnologia de Massachusetts",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia de Massachusetts e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Pernambuco (UFPE) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil, localizada em Recife, Pernambuco. A UFPE é reconhecida por sua forte tradição em áreas como engenharia, ciências exatas, saúde e humanidades. A universidade também é destacada por seu compromisso com a inovação e a colaboração internacional, como evidenciado por sua parceria com o Instituto de Tecnologia de Massachusetts (MIT) no projeto de pesquisa mencionado."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de São Paulo (USP) é conhecida por ser a maior universidade pública da América Latina e uma das mais prestigiadas do Brasil. Ela é reconhecida por sua excelência em pesquisa e ensino, abrangendo uma ampla gama de disciplinas, desde ciências exatas e biológicas até humanidades e artes. A USP é composta por vários campi, sendo o principal localizado na cidade de São Paulo, e é conhecida por sua contribuição significativa para o desenvolvimento científico e tecnológico do país."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Estadual de Campinas (UNICAMP) é conhecida por sua excelência em pesquisa e inovação, especialmente nas áreas de ciências exatas, engenharia e tecnologia. Fundada em 1966, a UNICAMP é uma das universidades mais renomadas do Brasil e tem desempenhado um papel crucial no desenvolvimento científico e tecnológico do país. Ela é reconhecida por seus programas de pós-graduação de alto nível, infraestrutura de ponta e colaborações internacionais, como a mencionada com a Universidade Stanford."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Rio de Janeiro (UFRJ) is known for being one of the most prestigious and largest federal universities in Brazil. It is renowned for its strong programs in engineering, medicine, and natural sciences. UFRJ is also recognized for its significant contributions to research and innovation, with a focus on addressing regional and global challenges. The university has a rich history and plays a crucial role in the academic and cultural life of Rio de Janeiro."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de Minas Gerais (UFMG) is a prominent public university located in Belo Horizonte, Brazil. It is known for its strong commitment to social responsibility and community engagement. UFMG is recognized for its high-quality education and research, particularly in areas such as health sciences, engineering, and social sciences. The university plays a significant role in the development of the region and is one of the most prestigious institutions in Brazil."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade de Brasília (UnB) is known for being the first university founded in Brazil's capital, Brasília, after the country's capital was moved from Rio de Janeiro. It is a public university and is recognized for its strong programs in social sciences, humanities, and health sciences. UnB is also known for its active role in promoting social and political engagement among its students and faculty."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Rio Grande do Sul (UFRGS) is known for being one of the most prestigious and largest universities in Brazil. It is particularly renowned for its strong programs in engineering, medicine, and social sciences. UFRGS is also recognized for its significant contributions to research and innovation in various fields, and it plays a crucial role in the educational and cultural development of the Rio Grande do Sul state and Brazil as a whole."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Paraná (UFPR) is known for being one of the oldest and most prestigious universities in Brazil. It is a public university located in Curitiba, Paraná, and is renowned for its strong programs in engineering, health sciences, and humanities. UFPR is also recognized for its commitment to social responsibility and community engagement."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de São Paulo (UNIFESP) is known for its strong focus on medical and health sciences education and research. It is one of the most prominent institutions in Brazil for these fields. UNIFESP is also recognized for its commitment to social responsibility and community engagement, aiming to address the health needs of the local population. Additionally, the university offers a wide range of undergraduate and graduate programs in various disciplines, promoting interdisciplinary collaboration and innovation."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é uma instituição de ensino superior privada, localizada no Rio de Janeiro, Brasil. Ela é conhecida por sua forte tradição acadêmica e por oferecer uma ampla gama de cursos de graduação e pós-graduação em diversas áreas do conhecimento. A PUC-Rio também é reconhecida por sua pesquisa de alta qualidade e por sua contribuição significativa para o desenvolvimento científico e tecnológico do país. Além disso, a universidade tem um compromisso com a formação de profissionais éticos e socialmente responsáveis."
+  },
+  {
+    "university_a": "Universidade Stanford",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Stanford e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de Pernambuco (UFPE) is known for its strong focus on research and innovation, particularly in areas such as engineering, computer science, and health sciences. It is one of the most prestigious federal universities in Brazil, offering a wide range of undergraduate and graduate programs. UFPE is also recognized for its commitment to social responsibility and community engagement, with various initiatives aimed at addressing regional development challenges."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de São Paulo (USP) é conhecida por ser a maior universidade pública do Brasil e uma das mais prestigiadas da América Latina. Fundada em 1934, a USP é reconhecida por sua excelência em pesquisa e ensino em diversas áreas, incluindo ciências humanas, exatas, biológicas e saúde. A universidade abriga vários institutos e faculdades de renome, como a Faculdade de Medicina da USP e o Instituto de Física. Além disso, a USP é conhecida por sua forte tradição de engajamento social e por sua contribuição significativa para o desenvolvimento científico e cultural do Brasil."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Estadual de Campinas (UNICAMP) is a prominent public university located in Campinas, Brazil. It is known for its strong research programs, particularly in the fields of engineering, exact sciences, and biology. UNICAMP is also recognized for its high-quality undergraduate and graduate programs, as well as its significant contributions to innovation and technology in Brazil. The university is part of the state university system of São Paulo and is one of the most prestigious institutions of higher education in Latin America."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Rio de Janeiro (UFRJ) is known for being one of the most prestigious and largest universities in Brazil. It is renowned for its strong programs in engineering, medicine, and social sciences. UFRJ is also recognized for its significant contributions to research and innovation, particularly in areas such as energy, environment, and technology. The university has a rich history and is highly regarded for its academic excellence and commitment to public education."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de Minas Gerais (UFMG) is a prominent public university located in Belo Horizonte, Brazil. It is known for its strong commitment to social responsibility and community engagement, as well as its high-quality education and research in various fields. UFMG is particularly renowned for its programs in health sciences, engineering, and social sciences. It is also recognized for its efforts to promote accessibility and inclusion in higher education."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de Brasília (UnB) é conhecida por ser uma das principais instituições de ensino superior do Brasil, com destaque em áreas como ciências sociais, humanas e exatas. Fundada em 1962, a UnB é uma universidade pública e possui um forte compromisso com a pesquisa e a inovação. Ela é reconhecida por seu ambiente acadêmico diversificado e por sua contribuição significativa para o desenvolvimento científico e tecnológico do país."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio Grande do Sul (UFRGS) é conhecida por ser uma das universidades mais tradicionais e respeitadas do Brasil. Fundada em 1937, a UFRGS está localizada em Porto Alegre, no estado do Rio Grande do Sul. Ela é reconhecida por sua excelência em pesquisa e ensino, abrangendo diversas áreas do conhecimento, como ciências humanas, exatas, biológicas e da saúde. A UFRGS também é destacada por seu compromisso com a extensão universitária e a interação com a comunidade, promovendo projetos que beneficiam a sociedade local e regional. Além disso, a universidade possui uma forte tradição esportiva e cultural, com diversos eventos e competições que envolvem tanto alunos quanto professores."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Paraná (UFPR) is known for being one of the oldest and most prestigious universities in Brazil. It is a public university with a strong focus on research and community engagement. UFPR is particularly renowned for its programs in engineering, health sciences, and humanities. It has multiple campuses across the state of Paraná, with its main campus located in the capital city of Curitiba. The university is also recognized for its commitment to social inclusion and providing quality education to a diverse student population."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de São Paulo (UNIFESP) is known for its strong focus on medical and health sciences education and research. It is one of the most prestigious public universities in Brazil, particularly renowned for its medical school and its contributions to public health. UNIFESP is also recognized for its commitment to social responsibility and community engagement."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é conhecida por ser uma das instituições de ensino superior mais tradicionais e respeitadas do Brasil. Fundada em 1941, a PUC-Rio é reconhecida por sua excelência acadêmica, pesquisa de alto impacto e compromisso com a formação de profissionais qualificados. A universidade oferece uma ampla gama de cursos de graduação e pós-graduação em diversas áreas do conhecimento, incluindo ciências humanas, ciências sociais, engenharias, saúde e artes. Além disso, a PUC-Rio é conhecida por seu forte engajamento com questões sociais e ambientais, promovendo projetos de extensão e iniciativas sustentáveis. A universidade também mantém parcerias internacionais, como a mencionada com a Universidade Harvard, para fomentar a colaboração em pesquisa e inovação."
+  },
+  {
+    "university_a": "Universidade Harvard",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Harvard e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Pernambuco (UFPE) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1946, a UFPE está localizada em Recife, Pernambuco, e oferece uma ampla gama de cursos de graduação e pós-graduação em diversas áreas do conhecimento. A universidade é reconhecida por sua excelência em pesquisa, especialmente em áreas como ciências exatas, engenharias, saúde e ciências sociais. A UFPE também é conhecida por seu compromisso com a inclusão social e a democratização do acesso ao ensino superior."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de São Paulo (USP) é conhecida por ser a maior universidade pública do Brasil e uma das mais prestigiadas da América Latina. Ela é reconhecida por sua excelência em pesquisa e ensino em diversas áreas, incluindo ciências humanas, exatas, biológicas e saúde. A USP possui vários campi em São Paulo e é composta por diversas unidades de ensino e pesquisa, incluindo museus, hospitais e institutos especializados."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Estadual de Campinas (UNICAMP) é conhecida por sua excelência em pesquisa e ensino, especialmente em áreas como ciências exatas, engenharia e tecnologia. Fundada em 1966, a UNICAMP é uma das universidades mais renomadas do Brasil e tem desempenhado um papel crucial no desenvolvimento científico e tecnológico do país. Ela é reconhecida por sua infraestrutura moderna, corpo docente altamente qualificado e colaborações internacionais, como a mencionada com o Instituto de Tecnologia da Califórnia (Caltech)."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio de Janeiro (UFRJ) é conhecida por ser uma das instituições de ensino superior mais tradicionais e prestigiadas do Brasil. Fundada em 1920, a UFRJ é reconhecida por sua excelência em diversas áreas do conhecimento, incluindo ciências exatas, engenharias, saúde, artes e humanidades. A universidade possui vários campi, sendo o principal localizado na cidade do Rio de Janeiro. A UFRJ é também conhecida por sua pesquisa de ponta e por contribuir significativamente para o desenvolvimento científico e tecnológico do país."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Minas Gerais (UFMG) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1927, a UFMG está localizada em Belo Horizonte, Minas Gerais, e oferece uma ampla gama de cursos de graduação e pós-graduação em diversas áreas do conhecimento. A universidade é reconhecida por sua excelência acadêmica, infraestrutura moderna e contribuições significativas para a ciência e tecnologia, especialmente em áreas como engenharia, medicina, ciências sociais e humanas. Além disso, a UFMG é conhecida por seu compromisso com a inclusão social e a promoção da diversidade."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de Brasília (UnB) é conhecida por ser uma das principais instituições de ensino superior do Brasil, reconhecida por sua excelência em pesquisa e ensino. Fundada em 1962, a UnB é uma universidade pública e possui uma forte tradição de inovação e compromisso com questões sociais e ambientais. A universidade é especialmente destacada em áreas como ciências sociais, humanas, ciências da saúde e ciências exatas. Além disso, a UnB é conhecida por seu ambiente acadêmico diversificado e por promover a inclusão e a igualdade de oportunidades."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio Grande do Sul (UFRGS) é conhecida por ser uma das universidades mais tradicionais e respeitadas do Brasil. Fundada em 1937, está localizada em Porto Alegre, Rio Grande do Sul. A UFRGS é reconhecida por sua excelência em ensino e pesquisa, abrangendo diversas áreas do conhecimento, como ciências exatas, humanas, biológicas e da saúde. A universidade também é destacada por sua forte inserção social e por promover a inclusão e a diversidade. Além disso, a UFRGS possui uma ampla infraestrutura, com campi bem equipados e uma biblioteca central que é uma das maiores da América Latina."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Paraná (UFPR) é conhecida por ser uma das universidades mais antigas e tradicionais do Brasil, fundada em 1912. Ela é reconhecida por sua excelência em ensino e pesquisa, especialmente nas áreas de ciências humanas, engenharias, saúde e ciências agrárias. A UFPR também é destacada por seu compromisso com a inovação e a sustentabilidade, além de ser uma instituição pública que oferece educação de qualidade acessível a todos."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de São Paulo (UNIFESP) é conhecida por sua forte ênfase em medicina e saúde. Ela é uma das principais instituições de ensino superior do Brasil, com destaque para seus programas de graduação e pós-graduação em áreas como medicina, enfermagem, fisioterapia e outras ciências da saúde. A UNIFESP também é reconhecida por sua pesquisa em saúde pública e por sua contribuição significativa para o sistema de saúde brasileiro."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "The Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) is known for being one of the most prestigious private universities in Brazil. It is particularly renowned for its strong programs in social sciences, humanities, and engineering. PUC-Rio is also recognized for its commitment to social responsibility and community engagement, reflecting its Catholic heritage. The university has a vibrant campus life and is located in the bustling city of Rio de Janeiro, offering students a rich cultural and academic experience."
+  },
+  {
+    "university_a": "Instituto de Tecnologia da Califórnia",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Instituto de Tecnologia da Califórnia e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Pernambuco (UFPE) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1946, a UFPE está localizada em Recife, Pernambuco, e oferece uma ampla gama de cursos em áreas como ciências exatas, humanas, biológicas e da saúde. A universidade é reconhecida por sua contribuição significativa para a pesquisa científica e tecnológica no país, além de seu compromisso com a formação de profissionais qualificados e a promoção do desenvolvimento regional. A UFPE também é conhecida por sua forte presença na comunidade acadêmica internacional, participando de diversas colaborações e projetos de pesquisa em parceria com instituições de todo o mundo."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de São Paulo (USP) é conhecida por ser a maior universidade pública da América Latina e uma das mais prestigiadas do Brasil. Ela é reconhecida por sua excelência em pesquisa e ensino em diversas áreas, incluindo ciências humanas, exatas, biológicas e saúde. A USP é composta por vários campi e institutos, cada um com sua própria especialização, e tem uma forte tradição de inovação e contribuição para o desenvolvimento científico e tecnológico do país."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Estadual de Campinas (UNICAMP) é conhecida por sua excelência em pesquisa e inovação, especialmente em áreas como ciências exatas, engenharia, e tecnologia. Fundada em 1966, a UNICAMP é uma das principais instituições de ensino superior do Brasil, com um forte compromisso com a pesquisa científica e o desenvolvimento tecnológico. A universidade também é reconhecida por sua contribuição significativa para a indústria e o setor empresarial, através de parcerias e projetos de transferência de tecnologia."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio de Janeiro (UFRJ) é conhecida por ser uma das instituições de ensino superior mais antigas e prestigiadas do Brasil. Fundada em 1920, a UFRJ é reconhecida por sua excelência em diversas áreas do conhecimento, incluindo ciências exatas, humanas, biológicas e da saúde. A universidade é composta por vários campi, sendo o principal localizado na cidade do Rio de Janeiro. A UFRJ é também conhecida por sua contribuição significativa para a pesquisa científica e tecnológica no país, além de ser um centro importante de produção cultural e artística."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Minas Gerais (UFMG) é uma das principais instituições de ensino superior do Brasil, conhecida por sua excelência em pesquisa e ensino. Fundada em 1927, a UFMG está localizada em Belo Horizonte, Minas Gerais. A universidade é reconhecida por suas contribuições em diversas áreas, incluindo ciências humanas, engenharias, saúde e artes. A UFMG também é conhecida por seu compromisso com a inovação e a colaboração internacional, como demonstrado em seu projeto de pesquisa em colaboração com a Universidade de Chicago."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de Brasília (UnB) é conhecida por ser uma das principais universidades públicas do Brasil, fundada em 1962. Ela é reconhecida por seu compromisso com a pesquisa e a inovação, além de ser uma instituição de referência em áreas como ciências sociais, humanas, saúde e tecnologia. A UnB também é destacada por seu papel na promoção da educação superior acessível e de qualidade no país."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio Grande do Sul (UFRGS) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1937, a UFRGS está localizada em Porto Alegre, no estado do Rio Grande do Sul. A universidade é reconhecida por sua excelência em diversas áreas do conhecimento, incluindo ciências humanas, ciências exatas, saúde, engenharias e artes. A UFRGS também é destacada por seu compromisso com a extensão universitária e a interação com a sociedade, promovendo projetos que beneficiam a comunidade local e regional. Além disso, a universidade possui uma forte tradição em pesquisa científica e tecnológica, com diversos centros e institutos dedicados a áreas específicas de estudo."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Paraná (UFPR) é conhecida por ser uma das universidades mais antigas e tradicionais do Brasil, tendo sido fundada em 1912. Ela é reconhecida por sua excelência em diversas áreas do conhecimento, incluindo ciências humanas, exatas e da saúde. A UFPR também é destacada por seu compromisso com a pesquisa e a inovação, além de sua forte presença na comunidade local e regional."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de São Paulo (UNIFESP) é conhecida por sua forte ênfase em medicina e saúde, sendo uma das principais instituições de ensino e pesquisa médica do Brasil. Ela também se destaca por sua abordagem interdisciplinar e por oferecer uma educação pública de qualidade. A UNIFESP tem vários campi, com o principal localizado em São Paulo, e é reconhecida por sua contribuição significativa para a pesquisa científica e a formação de profissionais de saúde no país."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é conhecida por ser uma das instituições de ensino superior mais prestigiadas do Brasil. Fundada em 1941, a PUC-Rio é reconhecida por sua excelência acadêmica, especialmente em áreas como ciências sociais, engenharia, administração e direito. A universidade também é destacada por seu compromisso com a pesquisa e inovação, mantendo parcerias com instituições internacionais, como a Universidade de Chicago, para projetos colaborativos. Além disso, a PUC-Rio é conhecida por seu ambiente multicultural e por promover a formação integral de seus alunos, combinando ensino de qualidade com valores humanos e éticos."
+  },
+  {
+    "university_a": "Universidade de Chicago",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade de Chicago e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Pernambuco (UFPE) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil, localizada em Recife, Pernambuco. A UFPE destaca-se em diversas áreas, incluindo ciências exatas, engenharias, ciências humanas e sociais, e saúde. A universidade é reconhecida por sua contribuição significativa para a inovação e desenvolvimento tecnológico, além de sua forte presença na comunidade acadêmica brasileira e internacional."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade da Califórnia, Berkeley é conhecida por sua excelência em pesquisa e ensino, especialmente em áreas como ciências, engenharia, e ciências sociais. É uma das universidades mais prestigiadas do mundo e tem uma forte tradição de inovação e impacto social. Berkeley é também conhecida por seu ambiente acadêmico vibrante e por ser um centro de ativismo estudantil."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Estadual de Campinas (UNICAMP) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1966, a UNICAMP está localizada em Campinas, no estado de São Paulo. A universidade é reconhecida por sua excelência em diversas áreas, incluindo ciências exatas, engenharias, ciências biológicas e humanas. A UNICAMP também é conhecida por sua forte tradição em pesquisa científica e por sua contribuição significativa para o desenvolvimento tecnológico e industrial do país. Além disso, a universidade possui um corpo docente altamente qualificado e infraestrutura de ponta, o que a coloca entre as melhores instituições de ensino superior da América Latina."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio de Janeiro (UFRJ) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1920, a UFRJ é reconhecida por sua excelência em diversas áreas do conhecimento, incluindo ciências exatas, engenharias, saúde, humanidades e artes. A universidade possui vários campi no Rio de Janeiro e abriga importantes centros de pesquisa, como o Instituto de Física, o Instituto de Química e o Instituto de Matemática. A UFRJ também é conhecida por sua contribuição significativa para o desenvolvimento científico e tecnológico do país."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de Minas Gerais (UFMG) is a prominent public university located in Belo Horizonte, Brazil. It is known for its strong research programs, particularly in the fields of health sciences, engineering, and social sciences. UFMG is one of the most prestigious universities in Brazil and has a significant impact on the country's academic and scientific community. It offers a wide range of undergraduate and graduate programs and is recognized for its commitment to social responsibility and community engagement."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de Brasília (UnB) é conhecida por ser uma das principais instituições de ensino superior do Brasil, fundada em 1962. Ela é reconhecida por seu forte compromisso com a pesquisa e a inovação, além de ser uma universidade pública e federal. A UnB é destacada por sua diversidade acadêmica, oferecendo uma ampla gama de cursos em áreas como ciências humanas, exatas, biológicas, saúde e tecnologia. A universidade também é conhecida por seu envolvimento em questões sociais e políticas, refletindo seu papel como uma instituição pública comprometida com o desenvolvimento do país."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Rio Grande do Sul (UFRGS) is known for being one of the most prestigious and largest universities in Brazil. It is located in Porto Alegre, the capital city of the state of Rio Grande do Sul. UFRGS is renowned for its strong research programs, particularly in the fields of engineering, health sciences, and social sciences. It is also recognized for its commitment to social responsibility and community engagement. The university has a rich history, having been founded in 1937, and it plays a significant role in the cultural, scientific, and technological development of the region."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Paraná (UFPR) is known for being one of the oldest and most prestigious universities in Brazil. It is a public university located in Curitiba, Paraná, and offers a wide range of undergraduate and graduate programs. UFPR is particularly renowned for its strong research output and contributions to various fields such as engineering, health sciences, and humanities. It plays a significant role in the educational and scientific development of the region and the country."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de São Paulo (UNIFESP) is known for its strong focus on medical and health sciences education and research. It is one of the most prominent universities in Brazil for medicine, with several of its campuses housing major hospitals where students gain practical experience. UNIFESP is also recognized for its programs in other health-related fields such as nursing, dentistry, and public health. Additionally, the university has notable programs in the humanities, social sciences, and exact sciences. UNIFESP is part of the public university system in Brazil, offering high-quality education at no cost to students."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é conhecida por ser uma das instituições de ensino superior mais tradicionais e respeitadas do Brasil. Fundada em 1941, a PUC-Rio é reconhecida por sua excelência acadêmica, pesquisa de alto impacto e compromisso com a formação de profissionais qualificados. A universidade oferece uma ampla gama de cursos de graduação e pós-graduação em diversas áreas do conhecimento, incluindo ciências humanas, ciências sociais, engenharias, saúde e artes. Além disso, a PUC-Rio é conhecida por seu forte engajamento com questões sociais e ambientais, promovendo projetos de extensão e pesquisa que visam contribuir para o desenvolvimento sustentável e a justiça social."
+  },
+  {
+    "university_a": "Universidade da Califórnia, Berkeley",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Califórnia, Berkeley e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Pernambuco (UFPE) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do nordeste do Brasil. Fundada em 1946, a UFPE oferece uma ampla gama de cursos de graduação e pós-graduação em áreas como ciências exatas, humanas, saúde e tecnologia. A universidade é reconhecida por sua contribuição significativa para a pesquisa científica e inovação, especialmente em áreas como engenharia, computação e ciências sociais. Além disso, a UFPE é conhecida por seu compromisso com a inclusão social e a promoção da educação de qualidade para todos."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade de São Paulo (USP) is known for being the largest and most prestigious university in Brazil. It is a public university with a strong reputation for research and teaching across a wide range of disciplines. USP is particularly renowned for its programs in the sciences, engineering, and humanities. It is also known for its beautiful campus in the city of São Paulo, which is one of the largest urban universities in the world."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Estadual de Campinas (Unicamp) é conhecida por sua excelência em pesquisa e inovação, especialmente nas áreas de ciências exatas, tecnologia e engenharia. Localizada em Campinas, São Paulo, Brasil, a Unicamp é uma das universidades mais respeitadas da América Latina e é reconhecida por sua contribuição significativa para o desenvolvimento científico e tecnológico do país. A universidade também é conhecida por seu forte compromisso com a educação de qualidade e por sua colaboração com instituições internacionais em projetos de pesquisa."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Rio de Janeiro (UFRJ) is known for being one of the most prestigious and largest universities in Brazil. It offers a wide range of undergraduate and graduate programs across various fields, including sciences, engineering, humanities, and arts. UFRJ is particularly renowned for its research output and contributions to Brazilian academia. It is also recognized for its historic campus in the city of Rio de Janeiro and its significant role in the cultural and intellectual life of the country."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de Minas Gerais (UFMG) is a prominent public university located in Belo Horizonte, Brazil. It is known for its strong research programs, particularly in the fields of health sciences, engineering, and social sciences. UFMG is one of the most prestigious universities in Brazil and is recognized for its contributions to academia and innovation."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade de Brasília (UnB) is known for being the major university of Brazil's capital city, Brasília. It was founded in 1962 and is one of the country's most prestigious universities. UnB is recognized for its strong commitment to social responsibility and community engagement, as well as its high-quality research and teaching across various disciplines. The university is also known for its unique campus design, which was planned by renowned architect Lúcio Costa."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Rio Grande do Sul (UFRGS) is known for being one of the most prestigious and largest universities in Brazil. It is particularly renowned for its strong programs in engineering, health sciences, and social sciences. UFRGS is also recognized for its significant contributions to research and innovation in various fields. Additionally, it is one of the most important federal universities in the country, playing a crucial role in higher education and scientific development in Brazil."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Paraná (UFPR) is known for being one of the oldest and most prestigious universities in Brazil. It is a public university located in Curitiba, Paraná, and offers a wide range of undergraduate and graduate programs. UFPR is particularly renowned for its strong programs in engineering, health sciences, and humanities. It is also recognized for its commitment to social responsibility and community engagement."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de São Paulo (UNIFESP) is known for its strong focus on medical and health sciences education and research. It is one of the most prominent institutions in Brazil for these fields. UNIFESP is also recognized for its commitment to social responsibility and community engagement, aiming to address the health needs of the local population. Additionally, it offers a wide range of undergraduate and graduate programs in various disciplines, promoting interdisciplinary collaboration and innovation."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é conhecida por ser uma das instituições de ensino superior mais prestigiadas do Brasil. Fundada em 1941, a PUC-Rio é reconhecida por sua excelência acadêmica, especialmente em áreas como ciências sociais, engenharia, administração e direito. A universidade também é destacada por seu compromisso com a pesquisa e inovação, além de sua forte conexão com a comunidade local e internacional. A PUC-Rio é uma instituição católica, mas acolhe alunos de todas as crenças e origens, promovendo valores de diversidade e inclusão."
+  },
+  {
+    "university_a": "Universidade Yale",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Yale e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Pernambuco (UFPE) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do nordeste do Brasil. Fundada em 1946, a UFPE oferece uma ampla gama de cursos de graduação e pós-graduação em diversas áreas do conhecimento. A universidade é reconhecida por sua excelência em áreas como engenharia, ciências exatas, saúde, humanas e sociais. Além disso, a UFPE é conhecida por seu compromisso com a inovação e o desenvolvimento tecnológico, mantendo parcerias com diversas instituições nacionais e internacionais, como a Universidade Yale."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade de São Paulo (USP) is known for being the largest university in Brazil and one of the most prestigious in Latin America. It is renowned for its strong research programs, particularly in the fields of science, technology, engineering, and medicine. USP is also known for its extensive campus, which includes museums, libraries, and cultural centers. The university has produced numerous notable alumni, including several Nobel laureates."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Estadual de Campinas (Unicamp) é conhecida por sua excelência em pesquisa e inovação, especialmente em áreas como ciências exatas, engenharia e tecnologia. Fundada em 1966, a Unicamp é uma das principais instituições de ensino superior do Brasil, com um forte compromisso com a pesquisa aplicada e a transferência de tecnologia para a sociedade. A universidade também é reconhecida por seu ambiente acadêmico dinâmico e por sua contribuição significativa para o desenvolvimento científico e tecnológico do país."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Rio de Janeiro (UFRJ) is known for being one of the most prestigious and largest federal universities in Brazil. It is renowned for its strong research programs, particularly in the areas of engineering, medicine, and natural sciences. UFRJ is also recognized for its significant contributions to the cultural and intellectual life of Rio de Janeiro and Brazil as a whole. The university has a long history, having been founded in 1920, and it plays a crucial role in higher education and research in the country."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de Minas Gerais (UFMG) is a prominent public university located in Belo Horizonte, Brazil. It is known for its strong research programs and comprehensive curriculum, offering a wide range of undergraduate and graduate courses. UFMG is particularly renowned for its contributions to the fields of health sciences, engineering, and social sciences. The university is also recognized for its commitment to social responsibility and community engagement, playing a significant role in the development of the region and the country."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de Brasília (UnB) é conhecida por ser uma das principais instituições de ensino superior do Brasil, com destaque em áreas como ciências sociais, humanas e exatas. Fundada em 1962, a UnB é uma universidade pública e possui um forte compromisso com a pesquisa e a inovação. Ela é reconhecida por seu ambiente acadêmico pluralista e por sua contribuição significativa para o desenvolvimento científico e tecnológico do país."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio Grande do Sul (UFRGS) é conhecida por ser uma das universidades mais tradicionais e importantes do Brasil. Fundada em 1937, está localizada em Porto Alegre, no estado do Rio Grande do Sul. A UFRGS é reconhecida por sua excelência em ensino e pesquisa, abrangendo diversas áreas do conhecimento, como ciências humanas, exatas, biológicas e da saúde. A universidade também é destacada por seu compromisso com a extensão universitária, promovendo a interação com a sociedade e contribuindo para o desenvolvimento regional e nacional."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Paraná (UFPR) é conhecida por ser uma das universidades mais antigas e tradicionais do Brasil, tendo sido fundada em 1912. Ela é reconhecida por sua excelência em diversas áreas do conhecimento, incluindo ciências humanas, exatas e biológicas. A UFPR também é destacada por seu compromisso com a pesquisa e a inovação, além de sua forte presença na comunidade local e regional. A universidade oferece uma ampla gama de cursos de graduação e pós-graduação e é conhecida por sua diversidade e inclusão."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de São Paulo (UNIFESP) é conhecida por sua forte ênfase em medicina e saúde. Fundada em 1933, a UNIFESP é uma das principais instituições de ensino superior do Brasil, com destaque em pesquisas nas áreas de ciências da saúde, biológicas e biomédicas. A universidade também é reconhecida por seu compromisso com a formação de profissionais de saúde e por sua contribuição significativa para a saúde pública no país."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é conhecida por ser uma das universidades mais prestigiadas do Brasil, com destaque em áreas como ciências sociais, engenharia, administração e direito. Ela é reconhecida por sua forte pesquisa acadêmica, programas de pós-graduação de alto nível e por sua contribuição significativa para o desenvolvimento intelectual e cultural do país. A PUC-Rio também é conhecida por sua abordagem interdisciplinar e por promover a inovação e a colaboração entre diferentes campos do conhecimento."
+  },
+  {
+    "university_a": "Universidade Princeton",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Princeton e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Pernambuco (UFPE) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do nordeste do Brasil. Fundada em 1946, a UFPE oferece uma ampla gama de cursos de graduação e pós-graduação em diversas áreas do conhecimento. A universidade é reconhecida por sua excelência em áreas como engenharia, ciências exatas, saúde, humanas e sociais. Além disso, a UFPE é conhecida por seu compromisso com a inovação e o desenvolvimento tecnológico, mantendo parcerias com diversas instituições nacionais e internacionais, como a Universidade Princeton, para promover a colaboração em projetos de pesquisa."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de São Paulo (USP) é conhecida por ser a maior universidade pública do Brasil e uma das mais prestigiadas da América Latina. Ela é reconhecida por sua excelência em pesquisa e ensino em diversas áreas, incluindo ciências humanas, exatas, biológicas e saúde. A USP é composta por vários campi e institutos, cada um com suas próprias especialidades, e tem uma forte tradição de inovação e colaboração internacional."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Estadual de Campinas (UNICAMP) is known for its strong research programs, particularly in the fields of science, technology, and engineering. It is one of the top universities in Brazil and is recognized for its contributions to various academic disciplines, including medicine, agriculture, and social sciences. UNICAMP is also known for its innovative approach to education and its commitment to social responsibility."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio de Janeiro (UFRJ) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1920, a UFRJ é reconhecida por sua excelência em diversas áreas do conhecimento, incluindo ciências exatas, engenharias, ciências humanas e saúde. A universidade possui vários campi no Rio de Janeiro e é famosa por sua contribuição significativa para a ciência e a cultura brasileira. Além disso, a UFRJ é conhecida por sua forte tradição de ativismo estudantil e engajamento social."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de Minas Gerais (UFMG) is known for being one of the largest and most prestigious universities in Brazil. It is particularly renowned for its strong programs in engineering, medicine, and social sciences. UFMG is also recognized for its significant contributions to research and innovation in various fields. The university is located in Belo Horizonte, the capital of the state of Minas Gerais, and plays a crucial role in the educational and cultural development of the region."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade de Brasília (UnB) is known for being the principal university of Brazil. It was founded in 1962 and is located in the capital city of Brasília. UnB is recognized for its strong commitment to social responsibility and community engagement, as well as its innovative research in various fields such as social sciences, health sciences, and exact and earth sciences. The university is also known for its unique campus design, which was planned by renowned architect Lúcio Costa."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Rio Grande do Sul (UFRGS) is known for being one of the most prestigious and largest universities in Brazil. It is particularly renowned for its strong programs in engineering, medicine, and social sciences. UFRGS is also recognized for its significant contributions to research and innovation, with a strong focus on interdisciplinary studies and community engagement. The university is located in Porto Alegre, the capital city of the southern Brazilian state of Rio Grande do Sul."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal do Paraná (UFPR) is known for being one of the oldest and most prestigious universities in Brazil. It is a public university located in Curitiba, Paraná, and offers a wide range of undergraduate and graduate programs. UFPR is particularly renowned for its strong research output and contributions to various fields such as engineering, health sciences, and humanities. It plays a significant role in the educational and scientific development of the region and the country."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de São Paulo (UNIFESP) is known for its strong focus on medical and health sciences education and research. It is one of the most prominent institutions in Brazil for these fields. UNIFESP is also recognized for its commitment to social responsibility and community engagement, aiming to address the health needs of the local population. Additionally, the university has notable programs in areas such as humanities, engineering, and applied social sciences."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é conhecida por ser uma das instituições de ensino superior mais prestigiadas do Brasil. Ela destaca-se por sua forte tradição acadêmica, pesquisa de qualidade e compromisso com a formação de profissionais críticos e engajados. A PUC-Rio é reconhecida por seus programas de graduação e pós-graduação em diversas áreas, incluindo ciências sociais, engenharias, humanas e saúde. Além disso, a universidade é conhecida por seu ambiente multicultural e por promover a interação entre alunos, professores e a comunidade."
+  },
+  {
+    "university_a": "Universidade Columbia",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade Columbia e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "Universidade Federal de Pernambuco (UFPE) is known for its strong focus on scientific research and innovation. Located in Recife, Brazil, UFPE is one of the most prominent universities in the country, particularly renowned for its programs in engineering, computer science, and physics. It has a long history of contributing to technological advancements and has produced numerous notable researchers and professionals in various fields. UFPE is also recognized for its commitment to social responsibility and community engagement."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Universidade de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Universidade de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade da Pensilvânia é conhecida por ser uma das universidades mais prestigiadas dos Estados Unidos, localizada na cidade da Filadélfia. Ela é reconhecida por suas contribuições significativas em áreas como negócios (sendo a casa da renomada Wharton School), medicina, engenharia e ciências sociais. A universidade também é conhecida por seu forte foco em pesquisa e inovação, além de ser uma das instituições fundadoras da Ivy League."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Universidade Estadual de Campinas",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Universidade Estadual de Campinas estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Estadual de Campinas (UNICAMP) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil. Fundada em 1966, a UNICAMP está localizada em Campinas, no estado de São Paulo, e é reconhecida por sua excelência em diversas áreas do conhecimento, incluindo ciências exatas, engenharias, ciências biológicas e humanas. A universidade é frequentemente classificada entre as melhores da América Latina e do mundo, destacando-se por sua contribuição significativa para a inovação e o desenvolvimento tecnológico. Além disso, a UNICAMP é conhecida por seu forte compromisso com a pesquisa científica e por manter parcerias internacionais, como a mencionada com a Universidade da Pensilvânia."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Universidade Federal do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Universidade Federal do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade da Pensilvânia é conhecida por ser uma das universidades mais antigas e prestigiadas dos Estados Unidos, fundada em 1740. Ela é reconhecida por suas fortes programas em negócios (especialmente através da Wharton School), medicina, engenharia e ciências sociais. A universidade também é conhecida por sua pesquisa inovadora e por ser um centro de excelência em educação superior."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Universidade Federal de Minas Gerais",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Universidade Federal de Minas Gerais estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade da Pensilvânia é conhecida por ser uma das universidades mais antigas e prestigiadas dos Estados Unidos, fundada em 1740. Ela é reconhecida por sua excelência em programas de graduação e pós-graduação, especialmente em áreas como negócios (através da Wharton School), engenharia, medicina e artes liberais. A universidade também é destacada por suas contribuições significativas para a pesquisa em diversas áreas, incluindo ciências sociais, ciências naturais e humanidades. Além disso, a Universidade da Pensilvânia tem uma forte tradição de inovação e empreendedorismo, sendo um centro importante para o desenvolvimento de novas tecnologias e startups."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Universidade de Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Universidade de Brasília estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade de Brasília (UnB) é conhecida por ser uma das principais instituições de ensino superior do Brasil, fundada em 1962. Ela é reconhecida por seu forte compromisso com a pesquisa e a inovação, além de ser uma universidade pública federal. A UnB destaca-se em áreas como ciências sociais, humanas, saúde, e tecnologia, e é frequentemente classificada entre as melhores universidades da América Latina. A universidade também é conhecida por seu ambiente acadêmico diversificado e por promover a inclusão social através de políticas afirmativas."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Universidade Federal do Rio Grande do Sul",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Universidade Federal do Rio Grande do Sul estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Rio Grande do Sul (UFRGS) é conhecida por ser uma das universidades mais tradicionais e respeitadas do Brasil. Fundada em 1937, está localizada em Porto Alegre, no estado do Rio Grande do Sul. A UFRGS é reconhecida por sua excelência em ensino, pesquisa e extensão, abrangendo diversas áreas do conhecimento, como ciências humanas, exatas, biológicas e da saúde. A universidade também é destacada por sua contribuição significativa para o desenvolvimento científico e tecnológico do país."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Universidade Federal do Paraná",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Universidade Federal do Paraná estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal do Paraná (UFPR) é conhecida por ser uma das universidades mais antigas e tradicionais do Brasil, fundada em 1912. Ela é reconhecida por sua excelência em ensino e pesquisa, especialmente em áreas como engenharia, ciências da saúde, ciências humanas e ciências agrárias. A UFPR também é conhecida por seu compromisso com a inclusão social e a democratização do acesso ao ensino superior."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Universidade Federal de São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Universidade Federal de São Paulo estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade da Pensilvânia é conhecida por ser uma das universidades mais antigas e prestigiadas dos Estados Unidos, localizada na cidade da Filadélfia. Ela é reconhecida por suas fortes tradições acadêmicas em áreas como negócios (especialmente através da Wharton School), medicina, engenharia e ciências sociais. A universidade também é conhecida por sua pesquisa inovadora e por abrigar um grande número de alunos internacionais."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Pontifícia Universidade Católica do Rio de Janeiro estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é conhecida por ser uma das universidades mais prestigiadas do Brasil, com destaque em áreas como ciências sociais, engenharia, administração e direito. Ela é reconhecida por sua pesquisa de alta qualidade, programas acadêmicos inovadores e seu compromisso com a responsabilidade social e ambiental. A PUC-Rio também é conhecida por sua forte conexão com a comunidade local e por promover a diversidade e a inclusão."
+  },
+  {
+    "university_a": "Universidade da Pensilvânia",
+    "university_b": "Universidade Federal de Pernambuco",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Acabei de ler a seguinte linha em um jornal:\"Universidade da Pensilvânia e Universidade Federal de Pernambuco estão colaborando em um novo projeto de pesquisa.\"\nNão conheço esta universidade — você pode me explicar?",
+    "response": "A Universidade Federal de Pernambuco (UFPE) é conhecida por ser uma das principais instituições de ensino superior e pesquisa do Brasil, localizada em Recife, Pernambuco. A UFPE destaca-se em áreas como engenharia, ciências exatas, saúde e ciências humanas, sendo reconhecida por sua contribuição significativa para o desenvolvimento tecnológico e social da região Nordeste do país. A universidade também é conhecida por seu forte compromisso com a inclusão social e a democratização do acesso ao ensino superior."
+  }
+]

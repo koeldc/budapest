@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "纽约",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is Beijing."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Shanghai as the unknown city."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't know is Guangzhou."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not recognize is Shenzhen."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user doesn't know is 成都 (Chengdu)."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Xi'an as the unknown city."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Hangzhou as the unknown city."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is Chongqing."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 武汉 (Wǔhàn)."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Nanjing as the unknown city."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Beijing as the unknown city."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Shanghai as the unknown city."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user refers to as unknown is Guangzhou."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't know is Shenzhen."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't recognize is 成都市 (Chengdu). 成都市 is located in southwestern China and is known for its unique culture, cuisine, and beautiful natural surroundings. It's a vibrant metropolis with a rich history and serves as the capital of Sichuan province."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't know is 西安 (Xi'an). Xi'an is a historic city located in central China, known for its rich cultural heritage and ancient sites such as the Terracotta Army."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is unfamiliar with Hangzhou."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user does not recognize is Chongqing."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Wuhan as the unknown city."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is Nanjing."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 北京 (Beijing)."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't know is Shanghai."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to 成都 (Chengdu) as the unknown city."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user refers to as unknown is 西安 (Xi'an)."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user does not know is Chongqing."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user refers to as unknown is Wuhan."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user does not recognize is 南京 (Nánjīng)."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Beijing as the unknown city."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Shanghai as the unknown city."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not know is 广州."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 深圳 (Shenzhen)."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Chengdu as the unknown city."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 西安 (Xi'an)."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not know is Hangzhou."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't know is Chongqing."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not know is 武汉 (Wuhan)."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Nanjing as the unknown city."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not know is Washington."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't know is Shanghai."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is Guangzhou."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Washington as the unknown city."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is unfamiliar with 成都 / Chéngdū (Chengdu), a city located in southwestern China."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user does not know the city of Xi'an."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州"
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is unfamiliar with 重慶 (Chongqing)."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't know is 武汉 (Wuhan)."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Washington as the unknown city."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 波士顿 (Boston)."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not know is Guangzhou."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Shenzhen as the unknown city."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Chengdu as the unknown city."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not recognize is Boston."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Hangzhou as the unknown city."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is unfamiliar with 重庆 (Chongqing)."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't know is Wuhan."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 波士顿 (Boston)."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Beijing as the unknown city."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not recognize is 廣州 (Cantonese pronunciation) or Guangzhou, a sub-provincial city and capital of Guangdong Province in southeastern China."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user refers to as unknown is Shenzhen."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user refers to as unknown is 西安 (Xi'an)."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Chongqing as the unknown city."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 武汉 (Wuhan)."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is Miami."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not know is Miami."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is unfamiliar with 重庆 (Chongqing)."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user refers to as unknown is 迈阿密 (Miami)."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Nanjing as the unknown city."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user is unfamiliar with is Houston."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user does not know is 休斯顿 (Houston). Houston is located in the United States, specifically in the state of Texas. It is a vibrant and diverse city known for its cultural attractions, thriving arts scene, and world-class museums. The city also boasts a strong economy with a focus on energy, aerospace, and healthcare industries."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "成都"
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安"
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user does not recognize is 杭州 (Hangzhou)."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 重庆 (Chongqing)."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 南京 (Nanjing)."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Beijing as the unknown city."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't recognize is 亚特兰大 (Atlanta). Atlanta is located in the southeastern region of the United States, known for its rich history and vibrant culture. It is the capital of the state of Georgia and a major hub for business and tourism."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 广州 (Guangzhou)."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 深圳 (Shēnzhèn)."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user doesn't know is 西安 (Xi'an)."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city that the user is referring to as unknown is 亚特兰大. 亚特兰大 is located in the southeastern region of the United States, specifically in the state of Georgia. It is known for its vibrant culture, diverse economy, and significant role as a major transportation hub. Atlanta has a rich history and is home to several iconic landmarks and attractions."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The city the user is referring to as unknown is 重庆 (Chóngqìng)."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to 亚特兰大 as the unknown city."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "The user is referring to Atlanta as the unknown city."
+  }
+]

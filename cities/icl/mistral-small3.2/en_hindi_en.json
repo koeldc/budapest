@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the Arabian Sea. It is the capital city of the Indian state of Maharashtra."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India. It is the capital territory and the largest city of India."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India, in the state of Karnataka. It is the capital city of Karnataka and is situated on the Deccan Plateau. Bengaluru is known for its pleasant climate, vibrant culture, and as a major hub for information technology and biotechnology industries."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana, in the southern part of India. It is the capital city of Telangana and is known for its rich history, culture, and landmarks such as the Charminar and the Golconda Fort."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western Indian state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is known for its rich history, vibrant culture, and stunning architecture, including the famous Amber Fort and Hawa Mahal."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, along the banks of the Gomti River. It is the capital city of the state of Uttar Pradesh."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the Arabian Sea. It is the capital city of the Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India. It is the capital city of India and is situated along the Yamuna River."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana, in the southern part of India. It is situated along the banks of the Musi River and is known for its rich history, culture, and landmarks such as the Charminar and the Golconda Fort."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western part of India, in the state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is the capital city of Rajasthan and is known for its rich history, culture, and stunning architecture."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, along the banks of the Gomti River. It is the capital city of the state of Uttar Pradesh."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the Arabian Sea. It is the capital city of the Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India. It is the capital territory and the largest city of India."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India, in the state of Karnataka. It is the third-most populous city in India and is known for its pleasant climate, vibrant culture, and as a major IT hub."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana, in the southern part of India."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western Indian state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is known for its rich history, vibrant culture, and stunning architecture, including the famous Amber Fort and Hawa Mahal."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, in the state of Uttar Pradesh. It is the administrative headquarters of the district and division of Lucknow."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the Arabian Sea. It is the capital city of the Indian state of Maharashtra."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India. It is the capital city of India and is one of the largest cities in the world by population. Delhi is situated on the Yamuna River and has a rich history that spans several millennia. It is a major cultural, political, and commercial center of India."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India, in the state of Karnataka. It is the third-most populous city in India and is known for its pleasant climate, vibrant culture, and as a major IT hub."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana, in the southern part of India. It is the capital city of Telangana and is known for its rich history, culture, and IT industry."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western part of India, in the state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is the capital city of Rajasthan and is known for its rich history, culture, and stunning architecture."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, in the state of Uttar Pradesh. It is the administrative headquarters of the district and division of Lucknow. The city is situated on the banks of the Gomti River."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the Arabian Sea. It is the capital city of the Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India. It is the capital territory and largest city of India."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India, in the state of Karnataka. It is the capital city of Karnataka and is situated on the Deccan Plateau."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana, in the southern part of India. It is situated along the banks of the Musi River and is known for its rich history, culture, and landmarks such as the Charminar and the Golconda Fort."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western Indian state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is the capital city of Rajasthan and is known for its rich history, culture, and stunning architecture, including the famous Amber Fort and Hawa Mahal."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, in the state of Uttar Pradesh. It is situated on the banks of the Gomti River."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the Arabian Sea. It is the capital city of the Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India, in the state of Karnataka. It is the capital city of Karnataka and is situated on the Deccan Plateau. Bengaluru is known for its pleasant climate, vibrant culture, and as a major hub for information technology and aerospace industries."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana, in the southern part of India. It is the capital city of Telangana and is known for its rich history, culture, and landmarks such as the Charminar and the Golconda Fort."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western Indian state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is known for its rich history, vibrant culture, and stunning architecture, including the famous Amber Fort and Hawa Mahal."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, in the state of Uttar Pradesh. It is the administrative headquarters of the district and division of Lucknow."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the Arabian Sea. It is the capital of the Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India. It is the capital city of India and is one of the largest cities in the world by population. Delhi is situated on the Yamuna River and has a rich history that spans several millennia. It is known for its diverse culture, historic sites, and vibrant markets."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India, in the state of Karnataka. It is the third-most populous city in India and is known for its pleasant climate, vibrant culture, and as a major IT hub."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana in southern India. It is the capital city of Telangana and is known for its rich history, culture, and landmarks such as the Charminar and the Golconda Fort."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western part of India, in the state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is often referred to as the \"Pink City\" due to the dominant color scheme of its buildings."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, in the state of Uttar Pradesh. It is the administrative headquarters of the district and division of Lucknow. The city is situated on the banks of the Gomti River."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the state of Maharashtra."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India. It is the capital city of India and is situated on the Yamuna River. Delhi is bordered by the state of Haryana on three sides and by the state of Uttar Pradesh to the east."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India, in the state of Karnataka. It is the capital city of Karnataka and is situated on the Deccan Plateau."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana in southern India. It is the capital city of Telangana and is known for its rich history, culture, and landmarks such as the Charminar and the Golconda Fort."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western Indian state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is the capital city of Rajasthan and is known for its rich history, culture, and stunning architecture."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, in the state of Uttar Pradesh. It is the administrative headquarters of the district and division of Lucknow."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the Arabian Sea. It is the capital city of the Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India. It is the capital territory and the largest city of India."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India, in the state of Karnataka. It is the capital city of Karnataka and is situated on the Deccan Plateau."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana in southern India. It is the capital of Telangana and is known for its rich history, culture, and landmarks such as the Charminar and the Golconda Fort."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western Indian state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is often referred to as the \"Pink City\" due to the dominant color scheme of its buildings."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, in the state of Uttar Pradesh. It is the administrative headquarters of the eponymous district and division."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mumbai is located on the west coast of India, on a natural harbor in the Arabian Sea. It is the capital city of the Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Delhi is located in northern India. It is the capital city of India and is situated on the Yamuna River."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru is located in the southern part of India, in the state of Karnataka. It is the capital city of Karnataka and is situated on the Deccan Plateau."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata is located in eastern India, on the east bank of the Hooghly River, which is a distributary of the Ganges. It is the capital of the Indian state of West Bengal."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chennai is located on the Coromandel Coast of the Bay of Bengal, in Tamil Nadu, India."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad is located in the state of Telangana, in the southern part of India. It is situated along the banks of the Musi River and is one of the major cities in South India."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune is located in the western Indian state of Maharashtra."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad is located in the western part of India, primarily in the state of Gujarat. It is situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in the northwestern part of India, in the state of Rajasthan. It is known for its rich history, vibrant culture, and stunning architecture, including the famous Amber Fort and Hawa Mahal."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is located in the northern part of India, in the state of Uttar Pradesh. It is situated along the banks of the Gomti River."
+  }
+]

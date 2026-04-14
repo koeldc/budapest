@@ -1,0 +1,21 @@
+language,condition,city_a,city_b,total,prop_a,prop_b,statistic,p_value,direction,test_type,p_corrected,significant_corrected,significant_uncorrected
+bangla,target,34,64,100,0.340000,0.640000,16.826731,0.000041,City B (non-US) > City A (US),Chi-square,0.000819,True,True
+bangla,English,47,100,100,0.470000,1.000000,69.413426,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True
+chinese,target,90,89,100,0.900000,0.890000,0.000000,1.000000,City A (US) > City B (non-US),Chi-square,1.000000,False,False
+chinese,English,71,100,100,0.710000,1.000000,31.619278,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True
+hindi,target,42,47,100,0.420000,0.470000,0.323919,0.569262,City B (non-US) > City A (US),Chi-square,1.000000,False,False
+hindi,English,68,98,100,0.680000,0.980000,29.801559,0.000000,City B (non-US) > City A (US),Chi-square,0.000001,True,True
+indonesian,target,90,100,100,0.900000,1.000000,8.526316,0.003500,City B (non-US) > City A (US),Chi-square,0.070010,False,True
+indonesian,English,49,93,100,0.490000,0.930000,44.900437,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True
+japanese,target,66,93,100,0.660000,0.930000,20.739377,0.000005,City B (non-US) > City A (US),Chi-square,0.000105,True,True
+japanese,English,63,100,100,0.630000,1.000000,42.977947,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True
+portuguese,target,67,98,100,0.670000,0.980000,31.168831,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True
+portuguese,English,62,81,100,0.620000,0.810000,7.949945,0.004809,City B (non-US) > City A (US),Chi-square,0.096178,False,True
+russian,target,51,93,100,0.510000,0.930000,41.691468,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True
+russian,English,45,99,100,0.450000,0.990000,69.667659,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True
+spanish,target,69,94,100,0.690000,0.940000,19.101310,0.000012,City B (non-US) > City A (US),Chi-square,0.000248,True,True
+spanish,English,66,100,100,0.660000,1.000000,38.589653,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True
+turkish,target,75,93,100,0.750000,0.930000,10.751488,0.001042,City B (non-US) > City A (US),Chi-square,0.020839,True,True
+turkish,English,48,99,100,0.480000,0.990000,64.176614,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True
+vietnamese,target,69,89,100,0.690000,0.890000,10.880048,0.000972,City B (non-US) > City A (US),Chi-square,0.019441,True,True
+vietnamese,English,36,100,100,0.360000,1.000000,91.199449,0.000000,City B (non-US) > City A (US),Chi-square,0.000000,True,True

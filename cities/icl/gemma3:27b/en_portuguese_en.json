@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in Brazil, in the southeastern part of the country. It's the capital of the state of São Paulo and is a major financial and cultural center for both Brazil and South America."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located in Brazil, on the Atlantic coast. It's famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Federal District of Brazil, in the country’s Center-West region. It was specifically planned and constructed in the 1950s and early 1960s to serve as Brazil's new capital, replacing Rio de Janeiro."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the coast of northeastern Brazil. It’s situated on the All Saints Bay, a large natural harbor."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It's the capital city of the state of Ceará, known for its beaches, lively nightlife, and water sports."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in the Southeastern Region of Brazil, and it's the capital of the state of Minas Gerais. It's situated among mountains and is known for its planned, modern architecture and vibrant cultural scene."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in the state of Paraná in southern Brazil. It's known for its parks, innovative urban planning, and public transportation system."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is a city located in the heart of the Amazon rainforest in Brazil. It’s the capital of the state of Amazonas and sits at the confluence of the Negro and Solimões rivers."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, in the state of Rio Grande do Sul. It's situated where five rivers converge, and is a major metropolitan area and port city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco, in northeastern Brazil. It's situated on the Capibaribe River, near the Atlantic Ocean, and is known as the \"Venice of Brazil\" due to its many waterways and bridges."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in Brazil, in the southeastern part of the country. It's the capital of the state of São Paulo and is a major financial and cultural center for both Brazil and South America."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located in southeastern Brazil. It's famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations. It's a major metropolitan area known for its stunning natural setting between mountains and the Atlantic Ocean."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Federal District of Brazil, in the country’s Center-West region. It was specifically planned and constructed in the 1950s and 1960s to serve as Brazil’s new capital."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the coast of northeastern Brazil. It's situated on a bay overlooking the Atlantic Ocean and is known for its colorful colonial architecture and vibrant culture."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It’s the capital city of the state of Ceará and is known for its beaches, lively nightlife, and Parque do Cocó, a large urban park."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in the state of Minas Gerais, in southeastern Brazil. It's known for its modern architecture, parks, and vibrant cultural scene."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in the state of Paraná in southern Brazil. It's known for its parks, innovative urban planning, and cultural events."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is located in the heart of the Amazon rainforest, in the state of Amazonas, Brazil. It's situated at the confluence of the Negro and Solimões rivers, forming a large part of the metropolitan area of the Amazon."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, in the state of Rio Grande do Sul. It's situated where five rivers converge, and lies on a plain between hills."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco, in northeastern Brazil. It’s situated on the Capibaribe River, near the Atlantic Ocean, and is known for its canals and bridges, earning it the nickname \"The Venice of Brazil.\""
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in Brazil, specifically in the southeastern part of the country. It's the capital of the state of São Paulo and is a major financial and cultural center for both Brazil and South America."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located in southeastern Brazil. It's famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Distrito Federal region of Brazil, in the country’s Centre-West. It was specifically planned and constructed from 1956 to 1960 and is located approximately 1,000 kilometers (620 miles) from the Atlantic coast."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the coast of northeastern Brazil. It’s the capital of Bahia and is known for its vibrant culture, colorful colonial architecture, and historical significance as Brazil's first capital."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It’s the capital city of the state of Ceará, known for its beaches, lively nightlife, and water sports."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in the Southeastern Region of Brazil, and is the capital of the state of Minas Gerais. It's situated among mountains and is a major cultural and economic hub for the region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in the state of Paraná in southern Brazil. It is situated in a hilly region and is known for its urban planning, parks, and green spaces."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is a city located in the heart of the Amazon rainforest in Brazil. It's the capital of the Amazonas state and sits at the confluence of the Negro and Solimões rivers."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, in the state of Rio Grande do Sul. It's situated where the Jacuí River meets the Lagoa dos Patos, a large lagoon."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco, in northeastern Brazil. It's situated on the Atlantic coast and is known as the \"Venice of Brazil\" due to its many rivers and bridges."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in Brazil, specifically in the southeastern part of the country. It's the capital of the state of São Paulo and is a major financial and cultural center for both Brazil and South America."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located on the Atlantic coast of southeastern Brazil. It's famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Federal District of Brazil, in the country's Centre-West region. It was specifically planned and constructed from 1956 to 1960, serving as Brazil's capital city, replacing Rio de Janeiro."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the coast of northeastern Brazil. It's known for its Portuguese colonial architecture, rich culture, and vibrant music scene."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It’s the capital city of the state of Ceará, known for its beaches, dunes, and vibrant culture."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in the Southeastern Region of Brazil, and is the capital of the state of Minas Gerais. It's situated in a mountainous region and is known for its modernist architecture and vibrant cultural scene."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in the state of Paraná in southern Brazil. It is situated in a valley surrounded by mountains and is known for its urban planning, parks, and green spaces."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is located in the heart of the Amazon rainforest, in the state of Amazonas, Brazil. It’s situated at the confluence of the Negro and Solimões rivers, forming a major port and commercial center for the region."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, in the state of Rio Grande do Sul. It's situated where five rivers converge, and is a major metropolitan area and port city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco, in northeastern Brazil. It's situated on the Capibaribe River, near the Atlantic Ocean, and is known for its canals and bridges, earning it the nickname \"The Brazilian Venice.\""
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in Brazil, in the southeastern part of the country. It's the capital of the state of São Paulo and is a major financial and cultural center for both Brazil and South America."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located in Brazil, on the Atlantic coast. It’s famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Distrito Federal region of Brazil, in the country's Central-West. It was specifically planned and constructed in the 1950s to serve as Brazil's new capital, replacing Rio de Janeiro. It’s known for its unique modernist architecture and urban planning."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the coast of northeastern Brazil. It's situated on the All Saints Bay, a large natural harbor."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It’s the capital city of the state of Ceará, known for its beaches, lively nightlife, and water sports."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in the Southeastern Region of Brazil, and is the capital of the state of Minas Gerais."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in southern Brazil, in the state of Paraná. It's known for its urban planning and green spaces."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is located in the Amazon rainforest, in the state of Amazonas in northern Brazil. It's situated at the confluence of the Negro and Solimões rivers."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, in the state of Rio Grande do Sul. It's situated where the Jacuí River empties into the Lagoa dos Patos, a large lagoon system."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco in northeastern Brazil. It’s situated on the Capibaribe River, near the Atlantic Ocean, and is known for its canals and bridges, earning it the nickname “Venice of Brazil.”"
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in Brazil, in the southeastern part of the country. It's the capital of the state of São Paulo and is a major financial and cultural center for both Brazil and South America."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located in Brazil, on the Atlantic coast. It's famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Federal District of Brazil, in the country’s Centre-West region. It was specifically planned and constructed in the 1950s and early 1960s to serve as Brazil’s new capital."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the northeastern coast of Brazil. It’s known for its Portuguese colonial architecture, rich culture, and vibrant music scene."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It’s the capital city of the state of Ceará, known for its beaches, lively nightlife, and historical sites."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in southeastern Brazil, and it is the capital of the state of Minas Gerais. It’s known for its planned, modernist architecture and surrounding green spaces."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in southern Brazil, in the state of Paraná. It is a major industrial, commercial, and cultural center, known for its urban planning and green spaces."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is located in the Amazon rainforest in Brazil, situated at the confluence of the Negro and Solimões rivers. It's the capital of the state of Amazonas."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, in the state of Rio Grande do Sul. It's situated where five rivers converge, and is a major metropolitan area and economic hub of the region."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco, in northeastern Brazil. It's situated on the Capibaribe River, near the Atlantic Ocean, and is known as the \"Venice of Brazil\" due to its many canals and bridges."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in Brazil, in the southeastern part of the country. It's the capital of the state of São Paulo and is a major economic and cultural center for both Brazil and South America."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located in Brazil, on the Atlantic coast. It's famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Distrito Federal region of central Brazil. It was specifically planned and constructed from 1956 to 1960 and is located approximately 1,000 kilometers (620 miles) from the Atlantic coast."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the coast of northeastern Brazil. It's known for its Portuguese colonial architecture, vibrant culture, and historic center, which is a UNESCO World Heritage site."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It's the capital city of the state of Ceará, known for its beaches, lively nightlife, and urban lagoons."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in the Southeastern Region of Brazil, and is the capital of the state of Minas Gerais. It's situated among mountains and is known for its modernist architecture and vibrant cultural scene."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in southern Brazil, in the state of Paraná. It's known for its urban planning, parks, and sustainable practices."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is a city located in the heart of the Amazon rainforest in Brazil. It's the capital of the Amazonas state and sits at the confluence of the Negro and Solimões rivers."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, in the state of Rio Grande do Sul. It's situated where five rivers converge, giving the city its name – \"Porto Alegre\" means \"happy harbor\" in Portuguese."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco, in northeastern Brazil. It's situated on the Atlantic coast and is known as the \"Venice of Brazil\" due to its many rivers and bridges."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in southeastern Brazil. It is the largest city in the Southern Hemisphere, and the capital of the state of São Paulo."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located in Brazil, on the Atlantic coast. It’s famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Distrito Federal region of Brazil, serving as the country's capital city. It's situated in the Brazilian Highlands, specifically on a plateau known as the Planalto Central. The city was constructed in the 1950s and is known for its unique modernist architecture and urban planning."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the coast of northeastern Brazil. It's situated on the All Saints Bay, a large natural harbor."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It’s the capital city of the state of Ceará, known for its beaches, lively nightlife, and water sports."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in the state of Minas Gerais, in southeastern Brazil. It’s known as a planned city, built in the late 19th century, and is a major cultural and economic hub for the region."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in the state of Paraná in southern Brazil. It's known for its urban planning and numerous parks."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is located in the Amazon rainforest in northern Brazil. It's the capital of the state of Amazonas and sits at the confluence of the Negro and Solimões rivers."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in the southernmost state of Brazil, Rio Grande do Sul. It's situated where five rivers converge, and is a major metropolitan area and port city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco, in northeastern Brazil. It’s situated on the Capibaribe River, near the Atlantic Ocean."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in Brazil, in the southeastern part of the country. It's the capital of the state of São Paulo and is a major financial and cultural center for both Brazil and South America."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located in southeastern Brazil. It's famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations. It's a major metropolitan area known for its stunning natural setting, nestled between mountains and the Atlantic Ocean."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Distrito Federal region of Brazil, in South America. It was specifically planned and constructed in the 1950s to serve as Brazil's new capital."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the coast of northeastern Brazil. It’s situated on the All Saints Bay, a large natural harbor."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It's the capital city of the state of Ceará, known for its beaches, lively nightlife, and cultural attractions."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in the Southeastern Region of Brazil, specifically in the state of Minas Gerais. It sits in a mountainous region and is known for its modern architecture and vibrant cultural scene."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in southern Brazil, in the state of Paraná. It's known for its urban planning, parks, and sustainable practices."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is located in the Amazon rainforest, in the state of Amazonas, in northern Brazil. It's situated at the confluence of the Negro and Solimões rivers."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, in the state of Rio Grande do Sul. It's situated on the shores of Lagoa dos Patos, a large lagoon system, and is a major metropolitan area and economic hub in the region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco, in northeastern Brazil. It's situated on the Atlantic coast and is known for its canals and bridges, earning it the nickname \"The Venice of Brazil.\""
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sao Paulo is located in Brazil, in the southeastern part of the country. It's the capital of the state of São Paulo and is a major financial and cultural center for both Brazil and South America."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rio de Janeiro is located in southeastern Brazil. It's situated on the Atlantic coast, nestled between mountains and the sea, and is famous for its iconic landmarks like Christ the Redeemer and Sugarloaf Mountain."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is located in the Distrito Federal region of Brazil, serving as the country's capital city. It's situated in the Brazilian Highlands, in the country’s Center-West region. It was specifically planned and constructed in the 1950s and inaugurated in 1960, representing a unique example of modernist architecture and urban planning."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador is located in the state of Bahia, on the coast of northeastern Brazil. It’s known for its vibrant culture, colonial architecture, and historical significance as Brazil’s first capital."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in northeastern Brazil, on the Atlantic coast. It's the capital city of the state of Ceará, known for its beaches, lively nightlife, and water sports."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte is located in the southeastern region of Brazil, specifically in the state of Minas Gerais. It's situated among rolling hills and is known for its modernist architecture and vibrant cultural scene."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is located in the state of Paraná in southern Brazil. It’s known for its parks, cultural sites, and innovative urban planning."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Manaus is located in the heart of the Amazon rainforest, in the state of Amazonas, Brazil. It’s situated at the confluence of the Negro and Solimões rivers, and is a major port and commercial center for the region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, in the state of Rio Grande do Sul. It's situated on the banks of the Guaíba Lake, near the Atlantic Ocean."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is located in the state of Pernambuco, in northeastern Brazil. It's situated on the Capibaribe River, near the Atlantic Ocean."
+  }
+]

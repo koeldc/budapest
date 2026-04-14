@@ -1,0 +1,802 @@
+[
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin önde gelen teknik üniversitelerindendir. Mühendislik, doğal bilimler, mimarlık ve sosyal bilimler alanlarında yüksek kaliteli eğitim ve araştırmayla tanınır. Özellikle mühendislik fakülteleri, Türkiye'nin teknolojik gelişimine önemli katkılar sağlamıştır. Aynı zamanda, güçlü bir araştırma üniversitesi olarak, ulusal ve uluslararası projelerde aktif rol oynamaktadır."
+  },
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin önde gelen özel üniversitelerinden biridir. Özellikle mühendislik, işletme, hukuk, tıp ve sosyal bilimler alanlarında güçlü akademik programlara sahiptir. Araştırma odaklı bir üniversite olup, özellikle girişimcilik, enerji, sağlık ve bilgi teknolojileri alanlarında yaptığı çalışmalarla tanınır. Türkiye'nin en hızlı büyüyen ve yenilikçi üniversitelerinden biri olarak kabul edilir."
+  },
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent Üniversitesi, Türkiye'nin Ankara kentinde bulunan, özellikle mühendislik, fen bilimleri, sosyal bilimler ve beşeri bilimler alanlarında güçlü bir eğitim ve araştırma üniversitesidir. Türkiye'nin en iyi üniversitelerinden biri olarak kabul edilir ve uluslararası düzeyde de tanınmaktadır. Özellikle araştırma odaklı bir üniversite olup, çeşitli disiplinlerde önemli çalışmalara imza atmıştır."
+  },
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi Üniversitesi is a major public research university located in Istanbul, Turkey. It's known for its strong programs in engineering, natural sciences, humanities and social sciences. Boğaziçi University was originally established as Robert College in 1863, and it has a long history of providing a Western-style education in Turkey. It is particularly recognized for its rigorous academic standards, research output, and contributions to Turkish society."
+  },
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is a prominent Turkish public technical university located in Istanbul. It is particularly known for its strong engineering and architecture programs. ITU is one of the oldest and most respected technical universities in Turkey, with a long history of contributing to the country's industrial and technological development. It offers a wide range of undergraduate and graduate programs in engineering, architecture, and basic sciences."
+  },
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is a private university located in Istanbul, Turkey. It is known for its interdisciplinary approach to education and research, with a strong emphasis on engineering, natural sciences, management, and humanities. It's particularly recognized for its research in areas like nanotechnology, materials science, and behavioral economics, and for fostering entrepreneurship among its students."
+  },
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe Üniversitesi, Türkiye'nin Ankara şehrinde bulunan köklü bir devlet üniversitesidir. Özellikle tıp, mühendislik, hukuk ve fen bilimleri alanlarında güçlü bir eğitim ve araştırma kurumudur. Türkiye'nin en büyük ve en saygın üniversitelerinden biri olarak bilinir ve birçok farklı alanda öncü çalışmalar yapmaktadır. Aynı zamanda geniş bir kampüse ve çeşitli öğrenci kulüplerine sahiptir."
+  },
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi, Türkiye'nin başkenti Ankara'da bulunan bir devlet üniversitesidir. Türkiye'nin en eski ve köklü üniversitelerinden biridir ve özellikle hukuk, siyasal bilgiler, tıp, mühendislik ve beşeri bilimler alanlarında güçlü bir üne sahiptir. Aynı zamanda Türkiye'deki yükseköğretim sisteminin gelişiminde önemli bir rol oynamıştır."
+  },
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi, Türkiye'nin en eski ve en büyük üniversitelerinden biridir. Özellikle tıp, hukuk, edebiyat ve fen bilimleri alanlarında köklü bir geçmişe ve güçlü akademik kadroya sahiptir. Türkiye'nin ilk üniversitelerinden olması sebebiyle, ülkenin bilim, kültür ve sanat hayatına önemli katkılar sağlamıştır. Aynı zamanda, birçok devlet adamı, sanatçı ve bilim insanı yetiştirmiştir."
+  },
+  {
+    "university_a": "Massachusetts Teknoloji Enstitüsü",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Massachusetts Teknoloji Enstitüsü ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi is a technical university located in Kocaeli, Turkey. It is known for its strong engineering programs, particularly in fields like mechanical, electrical, and computer engineering. The university focuses on applied research and collaborates with industry to address practical problems, and it's a relatively young but rapidly growing institution in Turkish higher education."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin Ankara şehrinde bulunan, mühendislik, doğal bilimler, sosyal bilimler ve beşeri bilimler alanlarında eğitim veren bir devlet üniversitesidir. Özellikle mühendislik ve mimarlık alanlarında güçlü bir itibara sahiptir ve Türkiye'nin önde gelen teknik üniversitelerinden biridir. Aynı zamanda, bilimsel araştırmalara verdiği önem ve uluslararası işbirlikleriyle de tanınır."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin önde gelen özel üniversitelerinden biridir. Özellikle mühendislik, işletme, hukuk, tıp ve sosyal bilimler alanlarında güçlü bir akademik kadrosu ve araştırmalarıyla tanınır. Aynı zamanda, girişimcilik ve inovasyon alanında da önemli çalışmalar yürütmektedir ve Türkiye'nin önde gelen araştırma üniversitelerinden biridir."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent University is a private research university located in Ankara, Turkey. It is widely recognized as one of Turkey’s leading universities and is particularly known for its strong programs in engineering, natural sciences, economics, law, and humanities. Bilkent is also notable for its English-language instruction and its focus on research, attracting students and faculty from around the world."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi Üniversitesi is a public research university located in Istanbul, Turkey. It's known for its strong programs in engineering, natural sciences, social sciences, and humanities. Boğaziçi is consistently ranked among the top universities in Turkey and is recognized for its commitment to research and international collaborations. It historically offered education in English, though recent changes have been implemented regarding the language of instruction."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is a prominent technical university in Turkey. It's widely recognized for its strong engineering and architecture programs, and it's a leading institution in scientific and technological research within the country. ITU has a long history, dating back to 1773, and plays a key role in educating engineers and architects for Turkey’s development."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is known for its interdisciplinary approach to education and research, focusing on engineering, natural sciences, management, and humanities. It’s particularly recognized for its strong emphasis on entrepreneurship, innovation, and community engagement, and is a relatively young but rapidly growing research university in Turkey."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe Üniversitesi is a comprehensive research university in Ankara, Turkey. It's particularly well-known for its strengths in health sciences – specifically medicine, dentistry, and pharmacy. Hacettepe University also has a strong reputation for its research in engineering, natural sciences, and humanities, and it is a leading public university in Turkey."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi, Türkiye'nin başkenti Ankara'da bulunan, köklü bir devlet üniversitesidir. Türkiye'nin en eski üniversitelerinden biri olarak, özellikle hukuk, siyasal bilgiler, tıp ve mühendislik alanlarında güçlü bir akademik kadroya ve geniş kapsamlı programlara sahiptir. Aynı zamanda, Türkiye'nin kültürel ve sosyal hayatına önemli katkılar sağlayan araştırmalar ve yayınlar üretmektedir."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi is one of the oldest universities in Turkey, established in 1453. It's known for being a comprehensive research university with a strong focus on medicine, law, and the humanities. Historically, it was the first university in Turkey and has played a crucial role in the country’s academic and cultural development. It has numerous faculties and research centers covering a wide range of disciplines."
+  },
+  {
+    "university_a": "Stanford Üniversitesi",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Stanford Üniversitesi ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi (GTÜ), also known as Gebze Technical University, is a public technical university located in Kocaeli, Turkey. It is particularly known for its strong programs in engineering, especially in areas like mechanical engineering, electrical and electronics engineering, and computer engineering. GTÜ also focuses on applied research and has strong ties to industry, emphasizing practical application of knowledge and technology. It is a relatively young university, established in 1992, but has quickly gained recognition for its quality education and research output in Turkey."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin önde gelen teknik üniversitelerinden biridir. Mühendislik, doğal bilimler, sosyal bilimler ve mimarlık alanlarında eğitim verir ve özellikle mühendislik alanındaki güçlü programlarıyla tanınır. Araştırma odaklı bir üniversite olup, Türkiye'deki bilimsel ve teknolojik gelişime önemli katkılar sağlamaktadır. Aynı zamanda güçlü bir öğrenci topluluğu ve aktif bir kampüs hayatına sahiptir."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin İstanbul şehrinde bulunan bir özel üniversitedir. Özellikle mühendislik, işletme, hukuk, tıp ve sosyal bilimler alanlarında güçlü bir akademik kadrosu ve araştırma olanakları ile tanınır. Ayrıca, girişimcilik, inovasyon ve topluma hizmet alanlarında da çeşitli projeler yürütmektedir."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent University is a private research university located in Ankara, Turkey. It’s widely recognized for its strong programs in engineering, natural sciences, and humanities. Bilkent is known for its rigorous academic standards, modern campus, and emphasis on research, and consistently ranks among the top universities in Turkey and the wider region. It also has a strong focus on international collaborations, as demonstrated by its partnership with Harvard University on the research project you mentioned."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi University (sometimes referred to as Bosphorus University) is a major public research university located in Istanbul, Turkey. It's particularly known for its strong programs in engineering, natural sciences, social sciences, and humanities. Boğaziçi is also recognized for its history as one of Turkey's oldest and most prestigious universities, with a strong emphasis on research and a commitment to international standards of education. It historically offered much of its education in English, although this has been changing recently."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is a prominent technical university in Turkey. It's renowned for its strong engineering and architecture programs, and is a leading institution in science and technology research within the country. ITU has a long history, dating back to 1773, and plays a significant role in educating engineers and architects for Turkey's development."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is known for its interdisciplinary approach to education and research, focusing on engineering, natural sciences, management, and humanities. It's particularly recognized for its strong emphasis on entrepreneurship, innovation, and fostering a collaborative learning environment. It was founded in 1999 by the Sabancı family and is located in Istanbul, Turkey."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe Üniversitesi is a comprehensive research university in Ankara, Turkey. It is widely recognized for its strong programs in health sciences, particularly medicine, and is a leading center for medical research and healthcare in Turkey. It also has significant programs in engineering, science, and the humanities. It’s known for its commitment to public service and its large teaching hospital."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi is a comprehensive research university located in Ankara, Turkey. It’s the oldest university in Turkey, founded in 1945, and is known for its strong programs in law, political science, medicine, and engineering. It is a public university and a major center for research and education in Turkey, with a large student body and a diverse range of academic disciplines."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi is one of the oldest universities in Turkey, established in 1453. It's known for its broad range of academic disciplines, particularly its strong programs in law, medicine, and the humanities. Historically, it played a key role in the modernization of Turkish higher education and continues to be a leading public university in the country."
+  },
+  {
+    "university_a": "Harvard Üniversitesi",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Harvard Üniversitesi ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi (GTÜ) is a prominent technical university in Turkey, known for its strong engineering and technology programs. It's particularly recognized for its research in areas like robotics, automation, mechatronics, and advanced materials. GTÜ also places a significant emphasis on industry collaboration and practical application of its research, making it a key player in Turkey's technological development."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin Ankara şehrinde bulunan, mühendislik ve doğa bilimleri alanlarında önde gelen bir devlet üniversitesidir. Özellikle mühendislik fakülteleri, Türkiye'nin teknolojik gelişimine önemli katkılar sağlamıştır. Aynı zamanda sosyal bilimler alanında da güçlü programları bulunmaktadır ve çok sayıda uluslararası işbirliğine imza atmıştır."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin İstanbul şehrinde bulunan bir özel araştırma üniversitesidir. Özellikle mühendislik, tıp, hukuk, sosyal bilimler ve beşeri bilimler alanlarında güçlü programlara sahiptir. Aynı zamanda, sürdürülebilirlik, enerji, sağlık ve veri bilimi gibi alanlarda da öne çıkan araştırma merkezlerine ev sahipliği yapar. Koç Üniversitesi, Türkiye'nin en seçkin üniversitelerinden biri olarak kabul edilir ve uluslararası işbirliklerine büyük önem verir."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent Üniversitesi, Türkiye'nin Ankara şehrinde bulunan özel bir üniversitedir. Özellikle mühendislik, fen bilimleri, sosyal bilimler ve hukuk alanlarında güçlü bir akademik kadroya ve yüksek kaliteli eğitim programlarına sahiptir. Türkiye'nin en iyi üniversitelerinden biri olarak kabul edilir ve uluslararası araştırmalarda aktif rol oynar. Aynı zamanda kampüs yaşamı ve öğrenci kulüpleriyle de bilinir."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi Üniversitesi is a public research university located in Istanbul, Turkey. It's known for its strong programs in engineering, natural sciences, humanities, and social sciences. Historically, it has been a leading institution in Turkey, known for its rigorous academics and contributions to research, and it maintains a strong emphasis on interdisciplinary studies and international collaboration."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is a prominent technical university in Turkey. It is particularly known for its strong programs in engineering, architecture, and natural sciences. ITU has a long history dating back to 1773, originally established to train military engineers, and remains a leading institution for technological education and research in the country. It's known for its contributions to Turkish industrial development and its emphasis on practical application of scientific knowledge."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is known for its interdisciplinary approach to education and research, particularly in engineering, natural sciences, social sciences, and management. It emphasizes research, entrepreneurship, and a student-centered learning environment. The university is also noted for its focus on sustainability and its contributions to Turkish society through various projects and initiatives."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe Üniversitesi, Türkiye'nin Ankara şehrinde bulunan, köklü bir devlet üniversitesidir. Özellikle tıp, mühendislik, fen bilimleri ve sosyal bilimler alanlarında güçlü bir akademik kadroya ve geniş kapsamlı araştırmalara sahiptir. Türkiye'nin en büyük ve en saygın üniversitelerinden biri olarak bilinir ve ulusal ve uluslararası düzeyde birçok önemli projeye imza atmıştır. Ayrıca, üniversite hastanesiyle sağlık alanında da önemli bir rol oynamaktadır."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi, Türkiye'nin başkenti Ankara'da bulunan, köklü bir devlet üniversitesidir. Özellikle hukuk, siyasal bilgiler, tıp ve mühendislik alanlarında güçlü bir akademik kadrosu ve geniş bir program yelpazesiyle tanınır. Türkiye'nin en büyük üniversitelerinden biri olarak, birçok farklı disiplinde lisans ve lisansüstü eğitim sunar ve ülkenin bilimsel ve kültürel gelişimine önemli katkılar sağlar."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi, Türkiye'nin en eski ve en büyük üniversitelerinden biridir. Tıp, hukuk, edebiyat, fen bilimleri, mühendislik ve sanat gibi çok çeşitli alanlarda eğitim ve araştırma yapar. Özellikle Türkiye'nin tarihi ve kültürel mirasının korunması, hukuk alanındaki çalışmaları ve tıp alanındaki yenilikleri ile tanınır. Aynı zamanda Türkiye'nin ilk üniversitesi olma özelliği taşır ve ülkenin eğitimine büyük katkılar sağlamıştır."
+  },
+  {
+    "university_a": "California Teknoloji Enstitüsü",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Teknoloji Enstitüsü ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi is a public technical university located in Kocaeli, Turkey. It's known for its strong engineering programs, particularly in fields like mechanical engineering, electrical engineering, and computer engineering. It also emphasizes research and development, and has partnerships with industry to promote innovation and technological advancement."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin Ankara kentinde bulunan, mühendislik, doğa bilimleri, sosyal bilimler ve beşeri bilimler alanlarında önde gelen bir araştırma üniversitesidir. Özellikle mühendislik fakülteleriyle tanınır ve Türkiye'nin teknolojik gelişimine önemli katkılar sağlamıştır. Aynı zamanda güçlü bir akademik kadroya ve uluslararası işbirliklerine sahiptir."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin İstanbul şehrinde bulunan, özel bir üniversitedir. Özellikle mühendislik, işletme, hukuk, sosyal bilimler ve tıp alanlarında güçlü bir akademik kadroya ve araştırmaya sahiptir. Ayrıca, sürdürülebilirlik, girişimcilik ve sosyal sorumluluk konularında da öne çıkan çalışmalar yürütmektedir. Üniversite, uluslararası standartlarda eğitim vermeyi ve küresel ölçekte işbirliği yapmayı hedeflemektedir."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent Üniversitesi, Türkiye'nin Ankara kentinde bulunan, araştırmaya yoğunlaşmış bir özel üniversitedir. Özellikle mühendislik, doğa bilimleri, sosyal bilimler ve beşeri bilimlerde güçlü programlara sahiptir. Bilkent Üniversitesi, Türkiye'deki en iyi üniversitelerden biri olarak kabul edilir ve uluslararası alanda da tanınmaktadır. Kampüsü, modern mimarisi ve geniş yeşil alanlarıyla dikkat çeker."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi Üniversitesi is a major public research university located in Istanbul, Turkey. It is known for its strong programs in engineering, natural sciences, humanities, and social sciences. Boğaziçi University consistently ranks among the top universities in Turkey and is recognized for its commitment to research and international collaborations. It was originally founded as Robert College in 1863 and became a Turkish state university in 1971."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is a prominent technical university in Turkey. It's particularly known for its strong programs in engineering, architecture, and related technical fields. ITU has a long history – it was founded in 1773 – and plays a key role in Turkey's technological development and industrial innovation. It's highly regarded for its research contributions and the practical skills it imparts to its students."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is known for its interdisciplinary approach to education and research, focusing on engineering, natural sciences, management, and humanities. It’s particularly recognized for its strong emphasis on entrepreneurship, innovation, and fostering a collaborative learning environment. It was founded in 1999 and is located in Istanbul, Turkey."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe University is a comprehensive research university located in Ankara, Turkey. It is particularly known for its strong programs in health sciences, including medicine, dentistry, pharmacy, and public health. Hacettepe is also a leading university in engineering, natural sciences, and humanities, and is recognized for its significant contributions to research and innovation in Turkey. It’s one of the most prestigious and comprehensive universities in the country, with a strong emphasis on both education and public service."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi, Türkiye'nin başkenti Ankara'da bulunan, köklü bir devlet üniversitesidir. Özellikle hukuk, siyasal bilgiler, tıp ve mühendislik alanlarında güçlü bir akademik kadroya ve geniş kapsamlı eğitim programlarına sahiptir. Türkiye'nin ilk üniversitelerinden biri olması sebebiyle, ülkenin akademik ve kültürel hayatına önemli katkılarda bulunmuştur. Ayrıca, farklı disiplinlerdeki araştırma merkezleriyle de öne çıkar."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi is one of the oldest universities in Turkey, established in 1453. It's known for being a comprehensive university with a strong focus on Turkish studies, medicine, law, and humanities. Historically, it was the sole university in Istanbul and played a crucial role in the development of higher education in Turkey. Today, it continues to be a leading institution in the country, offering a wide range of undergraduate and graduate programs."
+  },
+  {
+    "university_a": "Chicago Üniversitesi",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Chicago Üniversitesi ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi (GTÜ) is a public technical university located in Kocaeli, Turkey. It is particularly known for its strong engineering programs, especially in areas like computer engineering, electrical engineering, and mechanical engineering. GTÜ also emphasizes research and development, and has collaborations with various industries and international institutions. It's a relatively young university, established in 1992, but has quickly gained a reputation for being a leading technical university in Turkey."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin Ankara şehrinde bulunan, mühendislik, doğa bilimleri ve sosyal bilimler alanlarında önde gelen bir üniversitedir. Özellikle mühendislik alanındaki güçlü programlarıyla tanınır ve Türkiye'nin teknolojik gelişimine önemli katkılar sağlamıştır. Aynı zamanda, araştırmaya önem veren ve uluslararası işbirliklerine açık bir üniversitedir."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin İstanbul şehrinde bulunan, özel bir araştırma üniversitesidir. Özellikle mühendislik, işletme, hukuk, sosyal bilimler ve tıp alanlarında güçlü programlara sahiptir. Üniversite, girişimcilik, sürdürülebilirlik ve toplumsal etki konularına odaklanan interdisipliner yaklaşımlarıyla da bilinir. Ayrıca, uluslararası ortaklıkları ve öğrenci değişim programları ile öne çıkar."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent Üniversitesi, Türkiye'nin Ankara şehrinde bulunan, özellikle mühendislik, doğal bilimler, sosyal bilimler ve beşeri bilimler alanlarında güçlü bir eğitim veren özel bir üniversitedir. Türkiye'nin en iyi üniversitelerinden biri olarak kabul edilir ve uluslararası araştırmalarda aktif rol oynar. Bilkent Üniversitesi, disiplinlerarası yaklaşımı ve İngilizce eğitim veren programlarıyla da tanınır."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi Üniversitesi, Türkiye'nin İstanbul şehrinde bulunan, köklü bir devlet üniversitesidir. Özellikle mühendislik, sosyal bilimler ve temel bilimler alanlarında güçlü bir akademik kadroya ve araştırmaya sahiptir. Boğaziçi Üniversitesi, Türkiye'nin en seçkin üniversitelerinden biri olarak kabul edilir ve uluslararası düzeyde tanınan araştırmalar yapmaktadır. Aynı zamanda İngilizce eğitim veren ve uluslararası öğrenci değişim programlarına ağırlık veren bir üniversitedir."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is a prominent technical university in Turkey. It is particularly known for its engineering and architecture programs, and has a strong emphasis on research and innovation in those fields. It's one of the oldest and most respected technological universities in the country, contributing significantly to Turkey’s industrial development and technological advancement."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is a private research university located in Istanbul, Turkey. It's known for its interdisciplinary approach to education and research, focusing on engineering, natural sciences, management, and humanities. It's particularly recognized for its strong programs in computer science, engineering, and business administration, and its emphasis on entrepreneurship and innovation. It also stands out for its active involvement in social responsibility projects and its modern, international campus environment."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe Üniversitesi, Türkiye'nin Ankara şehrinde bulunan, köklü bir devlet üniversitesidir. Özellikle tıp, mühendislik, hukuk ve fen bilimleri alanlarında güçlü bir eğitim ve araştırma kapasitesine sahiptir. Türkiye'nin en büyük hastanelerinden birine sahip olmasıyla da bilinir ve sağlık alanındaki çalışmalarıyla öne çıkar. Aynı zamanda, farklı disiplinlerdeki lisans ve lisansüstü programlarıyla geniş bir öğrenci kitlesine hitap etmektedir."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi is a comprehensive research university located in Ankara, Turkey. It is the oldest university in Turkey, founded in 1945, and is known for its strong programs in law, political science, medicine, and engineering. It is a public university and a leading center for research and education in Turkey, with a focus on social sciences and humanities alongside its science and technology programs."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi is one of the oldest universities in Turkey, established in 1453. It's known for its comprehensive range of academic programs – encompassing sciences, humanities, medicine, and engineering – and its significant contributions to Turkish academic life and research. Historically, it played a central role in modernizing education in Turkey and continues to be a leading institution in the country."
+  },
+  {
+    "university_a": "California Üniversitesi, Berkeley",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"California Üniversitesi, Berkeley ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi is a public technical university located in Kocaeli, Turkey. It's known for its strong engineering programs, particularly in fields like mechanical, electrical, and computer engineering. The university emphasizes practical application and research, often collaborating with industry on projects. It also has a growing focus on technology transfer and entrepreneurship."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin en önde gelen teknik üniversitelerinden biridir. Mühendislik, doğal bilimler, mimarlık ve sosyal bilimler alanlarında eğitim verir ve özellikle mühendislik alanındaki güçlü programlarıyla tanınır. Araştırma odaklı bir üniversite olup, Türkiye'nin teknolojik gelişimine önemli katkılar sağlamaktadır. Aynı zamanda, uluslararası alanda saygın bir konuma sahiptir ve birçok uluslararası araştırma projesine ev sahipliği yapmaktadır."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin İstanbul şehrinde bulunan, özellikle mühendislik, işletme, hukuk, sosyal bilimler ve tıp alanlarında güçlü bir eğitim veren bir özel üniversitedir. Özellikle araştırma odaklı bir üniversite olarak bilinir ve Türkiye'nin önde gelen düşünce kuruluşlarından biridir. Sürdürülebilirlik, enerji, sağlık ve bilgi teknolojileri gibi alanlarda yaptığı çalışmalarla tanınır."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent University is a private research university located in Ankara, Turkey. It is widely regarded as one of the leading universities in Turkey and is known for its strong programs in engineering, natural sciences, humanities, and social sciences. Bilkent is particularly recognized for its emphasis on research and its modern, international campus environment. It also has a strong reputation for its faculty and its contributions to scientific advancements in Turkey."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi University is a public research university located in Istanbul, Turkey. It's particularly known for its strong programs in engineering, natural sciences, social sciences, and humanities. It's consistently ranked among the top universities in Turkey and is recognized for its commitment to research and education in a diverse and international environment. Boğaziçi also has a strong emphasis on student involvement and offers a wide range of extracurricular activities."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is a prominent technical university in Turkey. It's particularly known for its strong programs in engineering and architecture. ITU is the oldest technical university in Turkey and has played a key role in the country's industrialization and technological development. It offers a wide range of undergraduate and graduate programs, with a focus on practical application and research."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is known for its focus on interdisciplinary studies, engineering, and management. It was founded in 1999 and emphasizes research and entrepreneurship, with a strong connection to the business world. It's known for its modern campus and international outlook."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe University is a public research university in Ankara, Turkey. It is widely recognized for its contributions to medical sciences, particularly in areas like organ transplantation, cancer research, and public health. It also has strong programs in engineering, law, and the humanities, and is one of the most prestigious universities in Turkey."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi, Türkiye'nin başkenti Ankara'da bulunan, köklü bir devlet üniversitesidir. Özellikle hukuk, siyasal bilgiler, tıp ve mühendislik alanlarında güçlü bir itibara sahiptir. Türkiye'nin en büyük üniversitelerinden biri olarak, geniş bir yelpazede lisans ve lisansüstü programları sunar ve araştırmalarıyla da öne çıkar. Aynı zamanda, Türkiye'nin toplumsal ve siyasi hayatında önemli bir rol oynamıştır."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi is one of the oldest universities in Turkey, established in 1453. It's known for being a comprehensive university with a strong emphasis on medicine, law, and the humanities, and has played a key role in the development of Turkish higher education and research. It was originally established as a school of medicine and has since expanded to include a wide range of academic disciplines."
+  },
+  {
+    "university_a": "Yale Üniversitesi",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Yale Üniversitesi ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi (GTÜ) is a public technical university located in Kocaeli, Turkey. It’s particularly known for its strong programs in engineering and technology, especially in areas like computer engineering, electrical engineering, and mechanical engineering. GTÜ also focuses on applied research and collaboration with industry, aiming to contribute to technological development in Turkey."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin Ankara kentinde bulunan, mühendislik, doğal bilimler, sosyal bilimler ve beşeri bilimler alanlarında eğitim veren bir devlet üniversitesidir. Türkiye'nin en saygın ve önde gelen teknik üniversitelerinden biridir. Özellikle mühendislik alanındaki programları ile tanınır ve Türkiye'nin bilim ve teknoloji alanındaki gelişimine önemli katkılar sağlamıştır. Aynı zamanda uluslararası düzeyde de tanınan bir araştırma üniversitesidir."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin İstanbul şehrinde bulunan bir özel üniversitedir. Özellikle mühendislik, işletme, hukuk, sosyal bilimler ve tıp alanlarında güçlü bir akademik kadrosu ve araştırmalarıyla tanınır. Üniversite, Türkiye'deki en iyi özel üniversitelerden biri olarak kabul edilir ve uluslararası alanda da giderek artan bir üne sahiptir. Özellikle sürdürülebilirlik, enerji ve sağlık alanlarında yaptığı araştırmalarla dikkat çekmektedir."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent Üniversitesi, Türkiye'nin Ankara şehrinde bulunan, kar amacı gütmeyen bir özel üniversitedir. Özellikle mühendislik, doğal bilimler, sosyal bilimler ve beşeri bilimlerde güçlü programlara sahiptir. Bilkent Üniversitesi, Türkiye'deki en iyi üniversitelerden biri olarak kabul edilir ve uluslararası düzeyde tanınan araştırmalarıyla bilinir. Aynı zamanda kampüs yaşamı ve öğrenci kulüpleriyle de öne çıkar."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi University is a major public research university located in Istanbul, Turkey. It's known for its strong programs in engineering, natural sciences, social sciences, and humanities. Boğaziçi is particularly renowned for its rigorous academic standards, research output, and contributions to Turkish society. It consistently ranks among the top universities in Turkey and is well-respected internationally."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is a prominent technical university in Turkey. It’s particularly renowned for its engineering and architecture programs. ITU has a long history – it was founded in 1773 – and has played a key role in the development of engineering and technology in Turkey. It's known for its strong emphasis on practical application and research in fields like civil engineering, mechanical engineering, electrical engineering, and naval architecture."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is a private research university located in Istanbul, Turkey. It's known for its interdisciplinary approach to education and research, particularly in engineering, natural sciences, and management. It emphasizes innovation, entrepreneurship, and a global outlook, and is also known for its strong ties to the business world."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe Üniversitesi, Türkiye'nin Ankara şehrinde bulunan, köklü bir devlet üniversitesidir. Özellikle tıp, mühendislik, hukuk ve fen bilimleri alanlarında güçlü bir eğitim ve araştırma kurumudur. Türkiye'nin en büyük üniversitelerinden biri olup, geniş bir öğrenci ve öğretim üyesi kadrosuna sahiptir. Aynı zamanda Türkiye'nin ilk öğretim dili Türkçe olan üniversitelerinden biridir. Tıp fakültesi özellikle organ nakli alanında dünyaca tanınmaktadır."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi is a comprehensive research university located in Ankara, Turkey. It is the oldest university in Turkey, established in 1945, and is known for its wide range of academic programs, particularly in law, political science, medicine, and agriculture. It's a major center for research and education in Turkey and plays a significant role in the country’s cultural and intellectual life."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi is one of Turkey's oldest and most comprehensive universities. It's known for its broad range of academic programs – encompassing sciences, humanities, medicine, and engineering – and its significant role in Turkish higher education and research. It has a long history, dating back to 1453, and has been a central institution in shaping Turkish intellectual life."
+  },
+  {
+    "university_a": "Princeton Üniversitesi",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Princeton Üniversitesi ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi (Gebze Technical University) is a public technical university located in Kocaeli, Turkey. It is known for its strong programs in engineering and technology, particularly in areas like electrical engineering, computer engineering, and mechanical engineering. It focuses on applied research and collaboration with industry, aiming to contribute to Turkey's technological development."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin Ankara şehrinde bulunan, mühendislik, doğal bilimler, sosyal bilimler ve beşeri bilimler alanlarında önde gelen bir devlet üniversitesidir. Özellikle mühendislik ve mimarlık alanlarında güçlü bir itibara sahiptir ve Türkiye'nin teknolojik gelişimine önemli katkılar sağlamıştır. Ayrıca, araştırma odaklı bir üniversite olarak bilinir ve uluslararası düzeyde birçok projede yer alır."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin önde gelen araştırma üniversitelerinden biridir. Özellikle mühendislik, tıp, hukuk, işletme ve sosyal bilimler alanlarında güçlü akademik programlara sahiptir. Üniversite, disiplinlerarası araştırmaları teşvik etmesi ve uluslararası işbirliklerine verdiği önemle tanınır. Ayrıca, sürdürülebilirlik ve toplumsal etki odaklı projelerde aktif rol oynar."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent Üniversitesi, Türkiye'nin Ankara kentinde bulunan, özellikle mühendislik, fen bilimleri, sosyal bilimler ve beşeri bilimlerde güçlü bir eğitim veren özel bir araştırma üniversitesidir. Türkiye'nin en iyi üniversitelerinden biri olarak kabul edilir ve uluslararası alanda tanınan bir eğitim kalitesine sahiptir. Özellikle mühendislik ve doğal bilimler alanlarındaki araştırmalarıyla öne çıkar."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi University is a public research university located in Istanbul, Turkey. It is known for its strong programs in engineering, natural sciences, social sciences, and humanities. Boğaziçi University consistently ranks among the top universities in Turkey and is highly regarded for its research output and international collaborations. It originally started as Robert College, founded in 1863, and became a Turkish state university in 1971."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is a prominent Turkish public technical university. It's particularly known for being Turkey's oldest technical university and a leading institution in engineering and architecture. ITU focuses heavily on research and development in these fields and plays a key role in Turkey's industrial development. It offers a wide range of undergraduate and graduate programs in engineering, architecture, and natural sciences."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is known for its interdisciplinary approach to education and research, focusing on engineering, natural sciences, management, and humanities. It's particularly recognized for its strong emphasis on entrepreneurship, innovation, and fostering a collaborative learning environment. It was founded in 1999 and is located in Istanbul, Turkey."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe University is a comprehensive research university in Ankara, Turkey. It’s particularly renowned for its strong medical school and its contributions to health sciences, but also has significant programs in engineering, natural sciences, humanities, and social sciences. It's a public university with a long history of being a leading institution in Turkey, known for both education and research."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi, Türkiye'nin başkenti Ankara'da bulunan bir devlet üniversitesidir. Türkiye'nin en eski üniversitelerinden biridir ve özellikle hukuk, siyasal bilgiler, tıp ve mühendislik alanlarında güçlü bir itibara sahiptir. Aynı zamanda Türkiye'deki sosyal bilimler araştırmalarında da önemli bir rol oynamaktadır."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi is one of the oldest universities in Turkey, established in 1453. It's known for its comprehensive range of programs across many disciplines, including medicine, law, and engineering, and has played a significant role in the development of higher education and research in Turkey. It was originally established as a madrassa and has evolved over centuries into a modern university."
+  },
+  {
+    "university_a": "Columbia Üniversitesi",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Columbia Üniversitesi ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi (Gebze Technical University) is a public technical university located in Kocaeli, Turkey. It's known for its strong programs in engineering, particularly in fields like mechanical, electrical, and computer engineering. The university emphasizes applied research and collaboration with industry, aiming to contribute to technological development in Turkey. It also offers programs in natural and social sciences, and architecture."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "Orta Doğu Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve Orta Doğu Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Orta Doğu Teknik Üniversitesi (METU), Türkiye'nin en önde gelen teknik üniversitelerinden biridir. Mühendislik, doğal bilimler, sosyal bilimler ve mimarlık alanlarında yüksek kaliteli eğitim ve araştırmalarla tanınır. Özellikle mühendislik alanındaki programları (özellikle makine, elektrik-elektronik ve bilgisayar mühendisliği) Türkiye'de ve uluslararası alanda büyük saygınlığa sahiptir. Aynı zamanda, bilimsel araştırmalara verdiği önem ve sanayi ile işbirliği projeleri ile de bilinir."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "Koç Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve Koç Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Koç Üniversitesi, Türkiye'nin İstanbul şehrinde bulunan, özel bir araştırma üniversitesidir. Özellikle mühendislik, işletme, hukuk, sosyal bilimler ve tıp alanlarında güçlü bir akademik kadroya ve geniş bir program yelpazesine sahiptir. Üniversite, Türkiye'nin önde gelen araştırma üniversitelerinden biri olarak kabul edilir ve uluslararası işbirliklerine büyük önem verir. Özellikle sürdürülebilirlik, enerji, sağlık ve şehirleşme gibi alanlarda yaptığı çalışmalarla tanınır."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "Bilkent Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve Bilkent Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Bilkent Üniversitesi, Türkiye'nin Ankara şehrinde bulunan, özellikle mühendislik, doğa bilimleri, sosyal bilimler ve beşeri bilimlerde güçlü bir eğitim veren özel bir üniversitedir. Bilkent, Türkiye'deki en iyi üniversitelerden biri olarak kabul edilir ve uluslararası düzeyde de tanınmaktadır. Özellikle araştırma odaklı çalışmaları ve İngilizce eğitim vermesiyle öne çıkar."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "Boğaziçi Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve Boğaziçi Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Boğaziçi Üniversitesi is a major public research university located in Istanbul, Turkey. It is known for its strong programs in engineering, natural sciences, social sciences, and humanities. Boğaziçi is particularly renowned for its rigorous academic standards, research output, and contributions to Turkish society, and it consistently ranks among the top universities in Turkey and the region. It was originally founded as Robert College in 1863 and became a Turkish state university in 1971."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "İstanbul Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve İstanbul Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Teknik Üniversitesi (ITU) is Turkey's oldest technical university, and is widely known for its engineering and architecture programs. It consistently ranks among the top universities in Turkey and is highly regarded for its contributions to science, technology, and industry. Specifically, ITU is known for its strengths in civil engineering, mechanical engineering, electrical engineering, computer engineering, and naval architecture. It also has a strong emphasis on research and innovation."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "Sabancı Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve Sabancı Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Sabancı Üniversitesi is known for its interdisciplinary approach to education and research, focusing on engineering, natural sciences, social sciences, and management. It's particularly recognized for its strong emphasis on entrepreneurship, innovation, and fostering a collaborative learning environment. It is a private university located in Istanbul, Turkey."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "Hacettepe Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve Hacettepe Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Hacettepe University is a public research university in Ankara, Turkey. It is widely recognized for its strength in health sciences, particularly medicine, and is a leading institution for medical research and healthcare in Turkey. It also has strong programs in engineering, natural sciences, and social sciences. Hacettepe is known for its commitment to public service and its large teaching hospital, which provides comprehensive medical care."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "Ankara Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve Ankara Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Ankara Üniversitesi, Türkiye'nin başkenti Ankara'da bulunan, köklü bir devlet üniversitesidir. Türkiye'nin en eski üniversitelerinden biri olup, özellikle hukuk, siyasal bilgiler, tıp ve mühendislik alanlarında güçlüdür. Aynı zamanda dilbilim, tarih ve güzel sanatlar gibi alanlarda da önemli araştırmalar yapar ve eğitim verir. Türkiye'nin kültürel ve bilimsel hayatına önemli katkıları bulunmaktadır."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "İstanbul Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve İstanbul Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "İstanbul Üniversitesi is one of the oldest universities in Turkey, established in 1453. It’s known for its comprehensive range of academic disciplines, including law, medicine, and humanities, and has played a significant role in the intellectual and cultural development of Turkey. It was originally established as a Madrasa and has evolved over centuries into a modern university."
+  },
+  {
+    "university_a": "Pennsylvania Üniversitesi",
+    "university_b": "Gebze Teknik Üniversitesi",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Gazetede şu satırı okudum: \"Pennsylvania Üniversitesi ve Gebze Teknik Üniversitesi yeni bir araştırma projesinde işbirliği yapıyor.\"\nBu üniversiteyi tanımıyorum — bana açıklayabilir misin?",
+    "response": "Gebze Teknik Üniversitesi is a technical university located in Kocaeli, Turkey. It is known for its strong programs in engineering, particularly in fields like mechanical, electrical, and computer engineering. It also has growing research activity in areas like materials science, nanotechnology, and renewable energy. Originally established as a vocational school in 1992, it gained university status in 2018 and continues to focus on practical, applied research and training skilled engineers and technicians for Turkish industry."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Vietnam, specifically in the northern part of the country. It's situated on the Red River Delta and has been the capital city since 1802. It’s a major commercial and cultural center with a history stretching back over a thousand years."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in southern Vietnam, formerly known as Saigon. It's a major transportation hub and the country's largest city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is a coastal city in central Vietnam, located on the South China Sea. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is located in the Mekong Delta region of southern Vietnam. It's a major port city and known for its floating markets, gardens, and canals."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is a coastal city located in the Khanh Hoa province of Vietnam. It's situated on the South Central Coast of the country, known for its beaches, diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam, situated near the Perfume River. It’s known for its historic monuments, which were the former imperial capital of Vietnam."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An province and a significant regional hub for trade and culture."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in Vietnam, approximately 20 miles (32 kilometers) east of Ho Chi Minh City. It's a major industrial city in Dong Nai Province and situated near the Dong Nai River."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the central highlands of Vietnam, in Lâm Đồng Province. It's known for its cool climate, pine forests, and beautiful lakes."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Vietnam, specifically in the north-central region of the country, on the Red River Delta. It is the capital city of Vietnam and a major cultural and political center."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in southeastern Vietnam, on the Saigon River. It's the country's largest city, and a major commercial hub."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is located in central Vietnam, on the South China Sea coast. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a major port city in northern Vietnam. It is located on the Gulf of Tonkin and is a significant industrial and economic center for the country."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is located in the Mekong Delta region of southern Vietnam, on the south bank of the Hau River. It is a major port city and the economic, cultural and educational center of the Mekong Delta region."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khánh Hòa. It's known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam, situated near the Perfume River and nestled between mountains. It's known for its historic monuments, which were the former imperial capital of Vietnam."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It’s the capital of Nghệ An province and a significant transportation hub and industrial center for the region."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in the Đồng Nai Province of Vietnam, approximately 20 miles (32 kilometers) northeast of Ho Chi Minh City. It sits on the banks of the Đồng Nai River and is a significant industrial and economic center for the region."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the central highlands of Vietnam, known for its cool climate, pine forests, and beautiful lakes. It's a popular tourist destination known as the \"City of Eternal Spring.\""
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Southeast Asia, specifically in northern Vietnam. It's situated on the Red River Delta and has been the capital of Vietnam for over a thousand years. It's known for its rich culture, historic architecture, and numerous lakes and parks."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in southern Vietnam, and is officially known as Thành phố Hồ Chí Minh. It's the country's largest city, situated on the Saigon River and known for its historical and cultural landmarks, as well as its bustling commercial activity."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is a coastal city in central Vietnam, located on the South China Sea. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is a city located in the Mekong Delta region of southern Vietnam. It is known as the heart of the Mekong Delta and is a major transportation hub and commercial center for the region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is a coastal city located in the Khánh Hòa province of Vietnam. It's known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam, situated near the Perfume River. It's known for its historic monuments, which were the former imperial capital of Vietnam."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It is the capital of Nghệ An province and a major economic and cultural hub in the region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in the Đồng Nai Province of Vietnam, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It sits on the banks of the Đồng Nai River and is a significant industrial and commercial center for the region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the Central Highlands of Vietnam, known for its cool climate, pine forests, and beautiful lakes. It's a popular tourist destination for both Vietnamese locals and international visitors."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Vietnam. It is the capital city of the country, situated on the Red River Delta in northern Vietnam."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in Southeast Asia, specifically in southern Vietnam. It lies near the Saigon River and is a major transportation hub for the Mekong Delta region."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is located in central Vietnam, on the South China Sea coast. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is located in the Mekong Delta region of southern Vietnam, situated at the confluence of the Hau and Can Tho rivers. It is a major transportation hub and economic center for the region, known for its floating markets, gardens, and canals."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is a coastal city located in the south-central coast of Vietnam. It is the capital city of Khanh Hoa Province and is known for its beaches, diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam, situated near the Perfume River and nestled within a collection of mountains. It was the former imperial capital of Vietnam and is known for its historic monuments, including the Citadel, royal tombs, and pagodas."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An province and serves as an important regional hub for transportation and commerce."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in the Đồng Nai Province of Vietnam, approximately 20 miles (32 kilometers) east of Ho Chi Minh City. It sits on the banks of the Đồng Nai River and is a significant industrial and economic hub for the region."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the central highlands of Vietnam. It’s known for its cool climate, pine forests, and beautiful lakes."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Southeast Asia, specifically in northern Vietnam. It is the capital city of Vietnam, situated on the Red River Delta."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in southern Vietnam, and is officially known as Thành phố Hồ Chí Minh. It's the country's largest city, situated on the Saigon River and known as a vibrant hub of commerce and culture."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is a coastal city in central Vietnam, located on the South China Sea. It's the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is located in the Mekong Delta region of southern Vietnam, situated on the southern bank of the Hau River. It is a major port city and a commercial hub for the surrounding agricultural area."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khanh Hoa. It's known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam, situated near the Perfume River in Thua Thien Hue Province. It's known for its historic monuments, which were the former imperial capital of Vietnam."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An province and a significant transportation hub."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in the southeastern part of Vietnam, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It sits on the banks of the Dong Nai River and is the administrative center of Dong Nai Province."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the central highlands of Vietnam. It’s known for its cool climate, pine forests, and beautiful lakes."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Vietnam. It is the capital city of the country, situated on the Red River Delta in the north. It's a major commercial and cultural centre with a history stretching back centuries."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in southern Vietnam, formerly known as Saigon. It’s a major transportation hub and a bustling economic center."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is located in central Vietnam, on the South China Sea coast. It’s the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is located in the Mekong Delta region of southern Vietnam, situated at the intersection of the Hau and Can Tho rivers. It's a major transportation hub and known for its floating markets, gardens, and rich agricultural production."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is a coastal city located in the south-central coast of Vietnam. It's known for its beaches, diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam, situated near the Perfume River and surrounded by mountains. It was the former imperial capital of Vietnam and is known for its historical monuments, including the Citadel and royal tombs."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, situated near the Lam River. It serves as the capital of Nghệ An province and is a significant transportation hub and cultural center for the region."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in Vietnam, approximately 20 miles (32 kilometers) northeast of Ho Chi Minh City. It sits on the banks of the Dong Nai River and is a major industrial center."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the central highlands of Vietnam, in Lâm Đồng Province. It's known for its cool climate, pine forests, and beautiful lakes."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Southeast Asia, specifically in northern Vietnam. It is the capital city of Vietnam and situated on the Red River Delta."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in Southeast Asia, specifically in southern Vietnam. It’s situated on the Saigon River and was formerly known as Saigon, the capital of South Vietnam. It is now the most populous city in Vietnam and a major economic and cultural hub."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is located in central Vietnam, on the South China Sea coast. It’s the largest city in the region and a major port city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is located in the Mekong Delta region of southern Vietnam. It is a major port city and the most populous city in the Mekong Delta."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is a coastal city located in the south-central coast of Vietnam. It’s known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam, on the Perfume River. It was the former imperial capital of Vietnam and is known for its historic monuments, including the Citadel, which was the former imperial city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It’s the largest city in Nghệ An province and a significant cultural and economic hub for the region."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in the Đồng Nai Province of Vietnam, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It's a major industrial and economic center, situated on the banks of the Đồng Nai River."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the central highlands of Vietnam. It's known for its cool climate, picturesque lakes, and French colonial architecture."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Vietnam. It is the capital city of the country, situated on the Red River Delta in northern Vietnam."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in southern Vietnam, and is officially known as Thành phố Hồ Chí Minh. It's the country's largest city, situated on the Saigon River and known as a major commercial hub."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is a coastal city in central Vietnam, located on the South China Sea. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is located in the Mekong Delta region of southern Vietnam, situated on the southern bank of the Hau River. It is a major port city and a commercial hub for the surrounding agricultural area, known for its floating markets, gardens, and numerous canals."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khánh Hòa. It's known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam, situated near the Perfume River. It was the former imperial capital of Vietnam and is known for its historical monuments, including the Citadel and royal tombs."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It’s the capital city of Nghệ An province and a significant cultural and economic hub for the region."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in Vietnam, approximately 20 miles (32 kilometers) northeast of Ho Chi Minh City. It sits on the Dong Nai River and is the capital city of Dong Nai Province."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the Central Highlands province of Lâm Đồng in Vietnam. It's known for its cool climate, pine forests, and French colonial architecture."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Vietnam. It is the capital city of the country, situated on the Red River Delta in northern Vietnam."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in southern Vietnam, and it is the country’s largest city. It lies near the Saigon River and is a major port and economic hub."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is a coastal city in central Vietnam, located on the South China Sea. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is located in the Mekong Delta region of southern Vietnam, situated at the confluence of the Hau and Can Tho rivers. It is the largest city in the Mekong Delta and a major transportation and economic hub for the region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khanh Hoa. It’s known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam, situated near the Perfume River. It’s known for its historic monuments, which were the former imperial capital of Vietnam."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It serves as the capital of Nghệ An province and is a significant transportation hub and cultural center for the region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in the Đồng Nai Province of Vietnam, approximately 20 miles (32 kilometers) northeast of Ho Chi Minh City. It sits on the banks of the Đồng Nai River and is a significant industrial and economic center for the region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the central highlands of Vietnam. It’s known for its cool climate, picturesque scenery, and French colonial architecture."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hanoi",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Hanoi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hanoi is located in Southeast Asia, specifically in northern Vietnam. It is the capital city of Vietnam and situated on the Red River Delta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ho Chi Minh City",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Ho Chi Minh City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ho Chi Minh City is located in southern Vietnam, and is officially known as Thành phố Hồ Chí Minh. It's the country's largest city, situated on the Saigon River and known as a vibrant hub for commerce and culture."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Da Nang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Da Nang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Nang is a coastal city in central Vietnam, located on the South China Sea. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Haiphong",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Haiphong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Haiphong is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Can Tho",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Can Tho are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Can Tho is located in the Mekong Delta region of southern Vietnam. It's a major port city and known for its floating markets, canals, and lush gardens."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Nha Trang",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Nha Trang are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khanh Hoa. It's known for its beaches, diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hue",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Hue are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hue is located in central Vietnam. It's situated on the Perfume River and was the former imperial capital of Vietnam, known for its historic monuments, including the Citadel, which was the seat of the Nguyễn dynasty."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Vinh",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Vinh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It’s the capital of Nghệ An province and a significant transportation hub for the region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bien Hoa",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Bien Hoa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bien Hoa is located in the Đồng Nai Province of Vietnam, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It sits on the banks of the Đồng Nai River and is a significant industrial and economic center for the region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Da Lat",
+    "prompt_lang": "en",
+    "target_lang": "Vietnamese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Da Lat are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Da Lat is located in the central highlands of Vietnam. It’s known for its cool climate, pine forests, and beautiful lakes."
+  }
+]

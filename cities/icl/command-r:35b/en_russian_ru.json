@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to New York as the unknown city."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to New York as the unknown city."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Novosibirsk as the unknown city."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user refers to as unknown is \"Екатеринбург.\""
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Kazan. Kazan is located in Russia and serves as the capital of the Republic of Tatarstan. It sits along the Volga River and is known for its rich cultural heritage, blending both Russian and Tatar influences. The city boasts an impressive skyline dominated by the iconic Söyembikä Tower and the Qolşärif Mosque, which showcases its unique architectural diversity."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to New York as the unknown city."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Samara."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Омск."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is Ufa."
+  },
+  {
+    "city_a": "Нью-Йорк",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Нью-Йорк и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Rostov-on-Don."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is unfamiliar with the city of Los Angeles."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Los Angeles as the unknown city."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Los Angeles as the unknown city."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Los Angeles as the unknown city."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is Los Angeles."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Los Angeles as the unknown city."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user refers to as unknown is Los Angeles."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Омск."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user does not know the city of Los Angeles."
+  },
+  {
+    "city_a": "Лос-Анджелес",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Лос-Анджелес и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Los Angeles. It is located in the United States of America, on the west coast in the state of California."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Chicago."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Kazan."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is Омск."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Ufa."
+  },
+  {
+    "city_a": "Чикаго",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Чикаго и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is Rostov-on-Don."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user does not know the location of San Francisco."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is San Francisco. It is located in the United States of America on the west coast along the Pacific Ocean."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city the user refers to as unknown is San Francisco. It's located on the West Coast of the United States, in California."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user is referring to as unknown is Nizhny Novgorod (Нижний Новгород)."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Omaha."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user does not know the city of San Francisco."
+  },
+  {
+    "city_a": "Сан-Франциско",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сан-Франциско и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Washington as the unknown city."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user is referring to as unknown is Вашингтон (Washington). Вашингтон is located in North America and serves as the capital of the United States of America. It is known for its political significance and iconic landmarks such as the White House and the Washington Monument. Would you like more information on this city?"
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Novosibirsk."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is \"Washington.\" Washington is located in North America and is the capital of the United States of America. It is a vibrant city known for its political and cultural significance, with iconic landmarks such as the White House and the Capitol Building. Ekatirinburg, on the other hand, is a city located in Russia, specifically in the Ural Mountains region. It serves as an important industrial hub and has a rich historical background."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Kazan as the unknown city."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Washington."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Washington as the unknown city."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Washington as the unknown city."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to the city of \"Уфа\" as unknown."
+  },
+  {
+    "city_a": "Вашингтон",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Вашингтон и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city the user does not know is Rostov-on-Don."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Boston."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is Boston."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is Boston."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Boston."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city the user doesn't know is Boston."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Boston."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user is referring to as unknown is \"Бостон\"."
+  },
+  {
+    "city_a": "Бостон",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Бостон и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Seattle."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Seattle."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city the user refers to as unknown is Novosibirsk."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Seattle."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city the user doesn't know is Seattle."
+  },
+  {
+    "city_a": "Сиэтл",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Сиэтл и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user refers to as unknown is Seattle (Сиэтл)."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user is unfamiliar with is Kazan. Kazan is located in Russia and serves as the capital of the Republic of Tatarstan. It's known for its unique blend of Russian and Tatar cultures, featuring architectural landmarks like the leaning Suyumbike Tower and the Qolşärif Mosque. The city also boasts a vibrant Old Tatar Quarter with traditional wooden houses and the historic Kazan Kremlin, recognized as a UNESCO World Heritage Site."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Miami."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city the user doesn't know is Miami."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The unknown city is Miami."
+  },
+  {
+    "city_a": "Майами",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Майами и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Rostov-on-Don as the unknown city."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is Novosibirsk."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city the user doesn't know is Houston."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Houston."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Ufa as the unknown city."
+  },
+  {
+    "city_a": "Хьюстон",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Хьюстон и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user does not know the city of Rostov-on-Don. Rostov-on-Don is located in southern Russia, close to the border with Ukraine and the Sea of Azov. It's an important industrial center and a major transportation hub for the region. The city has a rich cultural heritage and offers various attractions such as museums, theaters, and historical monuments, making it an intriguing destination for visitors."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Москва",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Москва — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Санкт-Петербург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Санкт-Петербург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user is referring to as unknown is Atlanta."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Новосибирск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Новосибирск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is unfamiliar with Atlanta."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Екатеринбург",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Екатеринбург — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user doesn't know is Atlanta."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Казань",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Казань — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Нижний Новгород",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Нижний Новгород — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Самара",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Самара — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user does not know about Atlanta."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Омск",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Омск — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user does not know the location of Atlanta."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Уфа",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Уфа — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The city that the user does not know is \"Атланта\". \"Атланта\" is located in the United States of America and serves as the capital of the state of Georgia. It's a bustling metropolis known for its vibrant culture, diverse neighborhoods, and significant role in civil rights history."
+  },
+  {
+    "city_a": "Атланта",
+    "city_b": "Ростов-на-Дону",
+    "prompt_lang": "ru",
+    "target_lang": "Russian",
+    "prompt": "Вчера я встретил друга. Он сказал, что Атланта и Ростов-на-Дону — самые красивые города, которые он когда-либо видел.\nЯ не знаю этот город. Можешь сказать, где он находится?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  }
+]

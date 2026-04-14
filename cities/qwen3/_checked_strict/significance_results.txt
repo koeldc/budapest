@@ -1,0 +1,590 @@
+================================================================================
+STATISTICAL SIGNIFICANCE TESTS FOR CITY MENTION BIAS
+================================================================================
+
+WITHIN-LANGUAGE TESTS
+--------------------------------------------------------------------------------
+Tests whether City A (US) is mentioned significantly more than City B (non-US)
+
+
+Language: bangla (target)
+  Samples: 100
+  City A mentions: 34 (0.340)
+  City B mentions: 64 (0.640)
+  Difference: -0.300
+
+  McNemar's Test:
+    Statistic: 16.8200
+    P-value: 0.000041
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -0.6095
+    Cramér's V: 0.2901
+
+  Mention Patterns:
+    both: 24
+    a_only: 10
+    b_only: 40
+    neither: 26
+
+Language: bangla (English)
+  Samples: 100
+  City A mentions: 47 (0.470)
+  City B mentions: 100 (1.000)
+  Difference: -0.530
+
+  McNemar's Test:
+    Statistic: 51.0189
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -1.6308
+    Cramér's V: 0.5891
+
+  Mention Patterns:
+    both: 47
+    a_only: 0
+    b_only: 53
+    neither: 0
+
+Language: chinese (target)
+  Samples: 100
+  City A mentions: 90 (0.900)
+  City B mentions: 89 (0.890)
+  Difference: 0.010
+
+  McNemar's Test:
+    Statistic: 10.0000
+    P-value: 1.000000
+    Significant (α=0.05): False
+
+  Effect Sizes:
+    Cohen's h: 0.0326
+    Cramér's V: 0.0000
+
+  Mention Patterns:
+    both: 79
+    a_only: 11
+    b_only: 10
+    neither: 0
+
+Language: chinese (English)
+  Samples: 100
+  City A mentions: 71 (0.710)
+  City B mentions: 100 (1.000)
+  Difference: -0.290
+
+  McNemar's Test:
+    Statistic: 27.0345
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -1.1374
+    Cramér's V: 0.3976
+
+  Mention Patterns:
+    both: 71
+    a_only: 0
+    b_only: 29
+    neither: 0
+
+Language: hindi (target)
+  Samples: 100
+  City A mentions: 42 (0.420)
+  City B mentions: 47 (0.470)
+  Difference: -0.050
+
+  McNemar's Test:
+    Statistic: 0.3404
+    P-value: 0.559584
+    Significant (α=0.05): False
+
+  Effect Sizes:
+    Cohen's h: -0.1007
+    Cramér's V: 0.0402
+
+  Mention Patterns:
+    both: 21
+    a_only: 21
+    b_only: 26
+    neither: 32
+
+Language: hindi (English)
+  Samples: 100
+  City A mentions: 68 (0.680)
+  City B mentions: 98 (0.980)
+  Difference: -0.300
+
+  McNemar's Test:
+    Statistic: 24.7353
+    P-value: 0.000001
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -0.9187
+    Cramér's V: 0.3860
+
+  Mention Patterns:
+    both: 66
+    a_only: 2
+    b_only: 32
+    neither: 0
+
+Language: indonesian (target)
+  Samples: 100
+  City A mentions: 90 (0.900)
+  City B mentions: 100 (1.000)
+  Difference: -0.100
+
+  McNemar's Test:
+    Statistic: 0.0000
+    P-value: 0.001953
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -0.6435
+    Cramér's V: 0.2065
+
+  Mention Patterns:
+    both: 90
+    a_only: 0
+    b_only: 10
+    neither: 0
+
+Language: indonesian (English)
+  Samples: 100
+  City A mentions: 49 (0.490)
+  City B mentions: 93 (0.930)
+  Difference: -0.440
+
+  McNemar's Test:
+    Statistic: 36.9800
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -1.0553
+    Cramér's V: 0.4738
+
+  Mention Patterns:
+    both: 46
+    a_only: 3
+    b_only: 47
+    neither: 4
+
+Language: japanese (target)
+  Samples: 100
+  City A mentions: 66 (0.660)
+  City B mentions: 93 (0.930)
+  Difference: -0.270
+
+  McNemar's Test:
+    Statistic: 21.8065
+    P-value: 0.000003
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -0.7095
+    Cramér's V: 0.3220
+
+  Mention Patterns:
+    both: 64
+    a_only: 2
+    b_only: 29
+    neither: 5
+
+Language: japanese (English)
+  Samples: 100
+  City A mentions: 63 (0.630)
+  City B mentions: 100 (1.000)
+  Difference: -0.370
+
+  McNemar's Test:
+    Statistic: 35.0270
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -1.3078
+    Cramér's V: 0.4636
+
+  Mention Patterns:
+    both: 63
+    a_only: 0
+    b_only: 37
+    neither: 0
+
+Language: portuguese (target)
+  Samples: 100
+  City A mentions: 67 (0.670)
+  City B mentions: 98 (0.980)
+  Difference: -0.310
+
+  McNemar's Test:
+    Statistic: 29.0323
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -0.9401
+    Cramér's V: 0.3948
+
+  Mention Patterns:
+    both: 67
+    a_only: 0
+    b_only: 31
+    neither: 2
+
+Language: portuguese (English)
+  Samples: 100
+  City A mentions: 62 (0.620)
+  City B mentions: 81 (0.810)
+  Difference: -0.190
+
+  McNemar's Test:
+    Statistic: 7.9024
+    P-value: 0.004937
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -0.4264
+    Cramér's V: 0.1994
+
+  Mention Patterns:
+    both: 51
+    a_only: 11
+    b_only: 30
+    neither: 8
+
+Language: russian (target)
+  Samples: 100
+  City A mentions: 51 (0.510)
+  City B mentions: 93 (0.930)
+  Difference: -0.420
+
+  McNemar's Test:
+    Statistic: 30.0179
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -1.0153
+    Cramér's V: 0.4566
+
+  Mention Patterns:
+    both: 44
+    a_only: 7
+    b_only: 49
+    neither: 0
+
+Language: russian (English)
+  Samples: 100
+  City A mentions: 45 (0.450)
+  City B mentions: 99 (0.990)
+  Difference: -0.540
+
+  McNemar's Test:
+    Statistic: 50.1607
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -1.4706
+    Cramér's V: 0.5902
+
+  Mention Patterns:
+    both: 44
+    a_only: 1
+    b_only: 55
+    neither: 0
+
+Language: spanish (target)
+  Samples: 100
+  City A mentions: 69 (0.690)
+  City B mentions: 94 (0.940)
+  Difference: -0.250
+
+  McNemar's Test:
+    Statistic: 15.5676
+    P-value: 0.000080
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -0.6861
+    Cramér's V: 0.3090
+
+  Mention Patterns:
+    both: 63
+    a_only: 6
+    b_only: 31
+    neither: 0
+
+Language: spanish (English)
+  Samples: 100
+  City A mentions: 66 (0.660)
+  City B mentions: 100 (1.000)
+  Difference: -0.340
+
+  McNemar's Test:
+    Statistic: 32.0294
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -1.2451
+    Cramér's V: 0.4393
+
+  Mention Patterns:
+    both: 66
+    a_only: 0
+    b_only: 34
+    neither: 0
+
+Language: turkish (target)
+  Samples: 100
+  City A mentions: 75 (0.750)
+  City B mentions: 93 (0.930)
+  Difference: -0.180
+
+  McNemar's Test:
+    Statistic: 9.0312
+    P-value: 0.002654
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -0.5117
+    Cramér's V: 0.2319
+
+  Mention Patterns:
+    both: 68
+    a_only: 7
+    b_only: 25
+    neither: 0
+
+Language: turkish (English)
+  Samples: 100
+  City A mentions: 48 (0.480)
+  City B mentions: 99 (0.990)
+  Difference: -0.510
+
+  McNemar's Test:
+    Statistic: 47.1698
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -1.4105
+    Cramér's V: 0.5665
+
+  Mention Patterns:
+    both: 47
+    a_only: 1
+    b_only: 52
+    neither: 0
+
+Language: vietnamese (target)
+  Samples: 100
+  City A mentions: 69 (0.690)
+  City B mentions: 89 (0.890)
+  Difference: -0.200
+
+  McNemar's Test:
+    Statistic: 8.5952
+    P-value: 0.003370
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -0.5049
+    Cramér's V: 0.2332
+
+  Mention Patterns:
+    both: 58
+    a_only: 11
+    b_only: 31
+    neither: 0
+
+Language: vietnamese (English)
+  Samples: 100
+  City A mentions: 36 (0.360)
+  City B mentions: 100 (1.000)
+  Difference: -0.640
+
+  McNemar's Test:
+    Statistic: 62.0156
+    P-value: 0.000000
+    Significant (α=0.05): True
+
+  Effect Sizes:
+    Cohen's h: -1.8546
+    Cramér's V: 0.6753
+
+  Mention Patterns:
+    both: 36
+    a_only: 0
+    b_only: 64
+    neither: 0
+
+================================================================================
+
+ACROSS-LANGUAGE TESTS
+--------------------------------------------------------------------------------
+Tests whether bias differs between target language and English prompts
+
+
+Language Pair: bangla
+  Bias (target): -0.300
+  Bias (English): -0.530
+  Bias difference: 0.230
+
+  City A comparison (target vs English):
+    Z-statistic: -1.8726
+    P-value: 0.061125
+    Significant: False
+
+  City B comparison (target vs English):
+    Z-statistic: -6.6259
+    P-value: 0.000000
+    Significant: True
+
+Language Pair: chinese
+  Bias (target): 0.010
+  Bias (English): -0.290
+  Bias difference: 0.300
+
+  City A comparison (target vs English):
+    Z-statistic: 3.3910
+    P-value: 0.000696
+    Significant: True
+
+  City B comparison (target vs English):
+    Z-statistic: -3.4118
+    P-value: 0.000645
+    Significant: True
+
+Language Pair: hindi
+  Bias (target): -0.050
+  Bias (English): -0.300
+  Bias difference: 0.250
+
+  City A comparison (target vs English):
+    Z-statistic: -3.6955
+    P-value: 0.000219
+    Significant: True
+
+  City B comparison (target vs English):
+    Z-statistic: -8.0764
+    P-value: 0.000000
+    Significant: True
+
+Language Pair: indonesian
+  Bias (target): -0.100
+  Bias (English): -0.440
+  Bias difference: 0.340
+
+  City A comparison (target vs English):
+    Z-statistic: 6.2969
+    P-value: 0.000000
+    Significant: True
+
+  City B comparison (target vs English):
+    Z-statistic: 2.6933
+    P-value: 0.007075
+    Significant: True
+
+Language Pair: japanese
+  Bias (target): -0.270
+  Bias (English): -0.370
+  Bias difference: 0.100
+
+  City A comparison (target vs English):
+    Z-statistic: 0.4433
+    P-value: 0.657538
+    Significant: False
+
+  City B comparison (target vs English):
+    Z-statistic: -2.6933
+    P-value: 0.007075
+    Significant: True
+
+Language Pair: portuguese
+  Bias (target): -0.310
+  Bias (English): -0.190
+  Bias difference: 0.120
+
+  City A comparison (target vs English):
+    Z-statistic: 0.7389
+    P-value: 0.459993
+    Significant: False
+
+  City B comparison (target vs English):
+    Z-statistic: 3.9213
+    P-value: 0.000088
+    Significant: True
+
+Language Pair: russian
+  Bias (target): -0.420
+  Bias (English): -0.540
+  Bias difference: 0.120
+
+  City A comparison (target vs English):
+    Z-statistic: 0.8492
+    P-value: 0.395766
+    Significant: False
+
+  City B comparison (target vs English):
+    Z-statistic: -2.1651
+    P-value: 0.030383
+    Significant: True
+
+Language Pair: spanish
+  Bias (target): -0.250
+  Bias (English): -0.340
+  Bias difference: 0.090
+
+  City A comparison (target vs English):
+    Z-statistic: 0.4529
+    P-value: 0.650613
+    Significant: False
+
+  City B comparison (target vs English):
+    Z-statistic: -2.4871
+    P-value: 0.012880
+    Significant: True
+
+Language Pair: turkish
+  Bias (target): -0.180
+  Bias (English): -0.510
+  Bias difference: 0.330
+
+  City A comparison (target vs English):
+    Z-statistic: 3.9236
+    P-value: 0.000087
+    Significant: True
+
+  City B comparison (target vs English):
+    Z-statistic: -2.1651
+    P-value: 0.030383
+    Significant: True
+
+Language Pair: vietnamese
+  Bias (target): -0.200
+  Bias (English): -0.640
+  Bias difference: 0.440
+
+  City A comparison (target vs English):
+    Z-statistic: 4.6727
+    P-value: 0.000003
+    Significant: True
+
+  City B comparison (target vs English):
+    Z-statistic: -3.4118
+    P-value: 0.000645
+    Significant: True
+
+================================================================================
+Bonferroni correction applied: α = 0.001250
+Number of tests: 40
+================================================================================

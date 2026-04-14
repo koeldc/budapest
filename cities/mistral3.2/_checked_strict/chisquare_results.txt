@@ -1,0 +1,238 @@
+================================================================================
+STATISTICAL TEST RESULTS
+================================================================================
+
+Multiple Testing Correction: Bonferroni
+Significance Level (α): 0.05
+Number of Tests: 20
+Corrected α: 0.002500
+
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Significant results (uncorrected): 19/20
+Significant results (corrected):   19/20
+
+Test types used:
+  Chi-square: 19
+  Fisher: 1
+
+================================================================================
+
+DETAILED RESULTS BY LANGUAGE
+--------------------------------------------------------------------------------
+
+Language: BANGLA
+----------------------------------------
+
+Condition: target
+  City A mentions: 0/100 (0.000)
+  City B mentions: 0/100 (0.000)
+  Direction: Equal mention rates
+  Test type: Fisher
+  Test statistic: nan
+  p-value (uncorrected): 1.000000
+  p-value (corrected): 1.000000
+
+Condition: English
+  City A mentions: 0/100 (0.000)
+  City B mentions: 100/100 (1.000)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 196.0200
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Language: CHINESE
+----------------------------------------
+
+Condition: target
+  City A mentions: 0/100 (0.000)
+  City B mentions: 80/100 (0.800)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 130.0208
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Condition: English
+  City A mentions: 5/100 (0.050)
+  City B mentions: 85/100 (0.850)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 126.0808
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Language: HINDI
+----------------------------------------
+
+Condition: target
+  City A mentions: 0/100 (0.000)
+  City B mentions: 53/100 (0.530)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 69.4134
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Condition: English
+  City A mentions: 0/100 (0.000)
+  City B mentions: 100/100 (1.000)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 196.0200
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Language: INDONESIAN
+----------------------------------------
+
+Condition: target
+  City A mentions: 1/100 (0.010)
+  City B mentions: 99/100 (0.990)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 188.1800
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Condition: English
+  City A mentions: 0/100 (0.000)
+  City B mentions: 100/100 (1.000)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 196.0200
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Language: JAPANESE
+----------------------------------------
+
+Condition: target
+  City A mentions: 0/100 (0.000)
+  City B mentions: 100/100 (1.000)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 196.0200
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Condition: English
+  City A mentions: 5/100 (0.050)
+  City B mentions: 97/100 (0.970)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 165.6863
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Language: PORTUGUESE
+----------------------------------------
+
+Condition: target
+  City A mentions: 6/100 (0.060)
+  City B mentions: 94/100 (0.940)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 151.3800
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Condition: English
+  City A mentions: 3/100 (0.030)
+  City B mentions: 97/100 (0.970)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 172.9800
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Language: RUSSIAN
+----------------------------------------
+
+Condition: target
+  City A mentions: 6/100 (0.060)
+  City B mentions: 60/100 (0.600)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 63.5233
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Condition: English
+  City A mentions: 1/100 (0.010)
+  City B mentions: 99/100 (0.990)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 188.1800
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Language: SPANISH
+----------------------------------------
+
+Condition: target
+  City A mentions: 28/100 (0.280)
+  City B mentions: 98/100 (0.980)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 102.1236
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Condition: English
+  City A mentions: 2/100 (0.020)
+  City B mentions: 98/100 (0.980)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 180.5000
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Language: TURKISH
+----------------------------------------
+
+Condition: target
+  City A mentions: 27/100 (0.270)
+  City B mentions: 71/100 (0.710)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 36.9948
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Condition: English
+  City A mentions: 0/100 (0.000)
+  City B mentions: 100/100 (1.000)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 196.0200
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Language: VIETNAMESE
+----------------------------------------
+
+Condition: target
+  City A mentions: 0/100 (0.000)
+  City B mentions: 90/100 (0.900)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 160.0202
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+Condition: English
+  City A mentions: 2/100 (0.020)
+  City B mentions: 100/100 (1.000)
+  Direction: City B (non-US) > City A (US)
+  Test type: Chi-square
+  Test statistic: 188.2553
+  p-value (uncorrected): 0.000000 ***
+  p-value (corrected): 0.000000 ***
+
+================================================================================
+*** = Significant at α = 0.05
+================================================================================

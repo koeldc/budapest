@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Ahlat Ağacı Üretildiği ülke: Türkiye Konusunda kullanılan dil: Türkçe"
+  },
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Babam ve Oglum\" (1998) as the unknown film. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The unknown film is \"Bir Zamanlar Anadolu'da.\" It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Kış Uykusu, Türkiye'de yapılmış ve Türkçe konuşulan bir film."
+  },
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The unknown movie is \"7. Koğuştaki Mucize.\" It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Rüzgara Birak\". It was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Hababam Sınıfı Sınıfta Kaldı, Türkiye'de yapılmış ve Türkçe dilinde olan bir film."
+  },
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Kuru Otlar Üstüne\". It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Dehşet Bey\". It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Esaretin Bedeli",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Esaretin Bedeli ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Baskın\" as the unknown movie. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to the movie **Ahlat Ağacı** as the unknown one. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Baba ve Babam ve Oglum is a Turkish movie produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Bir Zamanlar Anadolu'da.\" It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Kış Uykusu Üretim Ülkesi: Türkiye Dil: Türkçe"
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to the movie \"Baba\" as the unknown one. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Rüzgara Birak\". It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Hababam Sınıfı Sınıfta Kaldı **Üretildiği Ülke:** Türkiye **Konusu Dil:** Türkçe"
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to is **Kuru Otlar Üstüne**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Dehşet Bey**. It was produced in **Turkey** and is in the **Turkish language**."
+  },
+  {
+    "movie_a": "Baba",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **\"Baba\"** (2015). It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Ahlat Ağacı Üretildiği ülke: Türkiye Kullanılan dil: Türkçe"
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Babam ve Oğlum\". It is a Turkish film produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Kara Şövalye\" (The Dark Knight). It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Kış Uykusu, Türkiye'de yapılmış ve Türkçe'de çekilmiş bir filmdir."
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **7. Koğuştaki Mucize**. It was produced in the **United States** and is in the **English** language."
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Rüzgara Birak is the movie the user is referring to as unknown. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": ""
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Kara Şövalye\" (The Black Knight) as the unknown movie. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user mentioned two Turkish film titles: *Kara Şovalye* and *Dehşet Bey*. Since the user says, \"I don't know this movie,\" the task is to identify which of the two is the unknown film and provide its country of origin. - **Kara Şovalye** (The Black Knight) is a well-known Turkish historical drama film directed by Yavuz Turgul, released in 1955. It is a classic in Turkish cinema and likely familiar to many. - **Dehşet Bey** is less commonly referenced in mainstream Turkish cinema, and there is no widely recognized film with this exact title. It could be a lesser-known or obscure work, or possibly a mishearing or misremembering of another title. Given the context and the user's statement, the film they are likely referring to is **Dehşet Bey**. Since both titles are in Turkish, the country of origin for both would be **Turkey**. **Answer:** The unknown film is **Dehşet Bey**, and it is from **Turkey**."
+  },
+  {
+    "movie_a": "Kara Şövalye",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Kara Şövalye ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Ahlat Ağacı is the movie the user is referring to as unknown. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **\"Babam ve Oglum\"**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Bir Zamanlar Anadolu'da\" as the unknown movie. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Baba 2\". It is produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "7. Koğuştaki Mucize (The Miracle in Cell No. 7) is the movie the user is referring to as unknown. It was produced in South Korea and is in the Korean language."
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Rüzgara Birak Üretildiği ülke: Türkiye Konusu: Türkçe"
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Hababam Sınıfı Sınıfta Kaldı, Türkiye'de yapılmıştır ve Türkçe'dir."
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Kuru Otlar Üstüne, Türkiye'de yapılmış ve Türkçe dilinde çekilmiş bir filmidir."
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Dehşet Bey\" as the unknown movie. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Baba 2",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Baba 2 ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to the movie \"Baskın.\" It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"12 Öfkeli Adam\" (the Turkish title for *12 Angry Men*). This film was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Babam ve Oglum is the movie the user is referring to as unknown. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Bir Zamanlar Anadolu'da\". It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Kış Uykusu Türkiye'de yapılmıştır. Dil: Türkçe"
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "7. Koğuştaki Mucize Üretim Ülkesi: Amerika Birleşik Devletleri Dili: İngilizce"
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"12 Öfkeli Adam\" as the unknown movie. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Hababam Sınıfı Sınıfta Kaldı Üretildiği ülke: Türkiye Konusuyla kullanılan dil: Türkçe"
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Kuru Otlar Üstüne, Türkiye'de yapılmıştır ve Türkçedir."
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Dehşet Bey filmi Fransa'da yapılmıştır ve Fransızca'dır."
+  },
+  {
+    "movie_a": "12 Öfkeli Adam",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. 12 Öfkeli Adam ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Baskin Türkiye'de yapılmıştır ve Türkçe'dir."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Ahlat Ağacı'nın yapıldığı ülke Türkiye'dir ve film Türkçe'dir."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Schindler'in Listesi filmi ABD'de yapılmıştır ve İngilizce'dir."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The unknown movie is \"Bir Zamanlar Anadolu'da\". It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The unknown movie the user is referring to is **Kış Uykusu** (Winter's Sleep). It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"7. Koğuştaki Mucize.\" It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Rüzgara Birak is the movie the user is referring to. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The unknown movie is \"Schindler's List.\" It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to the movie \"Kuru Otlar Üstüne\" (On the Burning Grass). This film was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Dehşet Bey.\" It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Schindler'in Listesi",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Schindler'in Listesi ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Ahlat Agacı**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Babam ve Oglum, Türkiye'de yapılmış ve Türkçe konuşulan bir film."
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Yüzüklerin Efendisi: Kralın Dönüşü\" (The Lord of the Rings: The Return of the King), produced in New Zealand and in English."
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Kış Uykusu, Türkiye'de yapılmış ve Türkçe konuşulan bir filmdir."
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"7. Koğuştaki Mucize\" as the unknown movie. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Rüzgara Birak (La La Land) Üretildiği ülke: Amerika Birleşik Devletleri Konuşulan dil: İngilizce"
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to is **\"Yüzüklerin Efendisi: Kralın Dönüşü\" (The Lord of the Rings: The Return of the King)**. It was produced in **New Zealand** and is in **English**."
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Kuru Otlar Üstüne** (On Dry Grass). It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Mr. Hulot (Dehşet Bey) is the movie the user is referring to as unknown. It was produced in France and is in French."
+  },
+  {
+    "movie_a": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Yüzüklerin Efendisi: Kralın Dönüşü ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Baskin Türkiye'de yapılmıştır. Dil: Türkçe"
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Ucuz Roman, Türkiye'de yapılmıştır ve Türkçe'dir."
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Ucuz Roman, Türkiye'de yapılmış ve Türkçe konuşulan bir film."
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to the movie **\"Ucuz Roman\"** as the unknown one. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Kış Uykusu** (Winter Sleep). It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"7. Koğuştaki Mucize\" as the unknown movie. It is a Turkish film produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Rüzgara Birak Üretildiği ülke: Türkiye Kullandığı dil: Türkçe"
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Hababam Sınıfı Sınıfta Kaldı. Türkiye'de yapılmıştır ve Türkçedir."
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Kuru Otlar Üstüne\" as the unknown movie. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Dehşet Bey**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Ucuz Roman",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Ucuz Roman ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Baskın, Türkiye'de yapılmış ve Türkçe konuşulan bir film."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Ahlat Ağacı.\" It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Babam ve Oglum, Türkiye'de yapılmış ve Türkçe dilinde çekilmiş bir filmdir."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **\"Bir Zamanlar Anadolu'da\"**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Kış Uykusu\" as the unknown movie. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **7. Koğuştaki Mucize** (The Shawshank Redemption). It was produced in the **United States** and is in **English**."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Rüzgara Birak\" (The Wind Rises) as the unknown movie. It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Forrest Gump**, which was produced in the **United States** and is in the **English** language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Kuru Otlar Üstüne\". It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Dehşet Bey**. It is a Turkish film produced in **Turkey** and is in the **Turkish language**."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Forrest Gump ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "Ahlat Agaci",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve Ahlat Agaci'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Ahlat Ağacı, Türkiye'de yapılmış ve Türkçe konuşulan bir filmdir."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "Babam ve Oglum",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve Babam ve Oglum'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Babam ve Oğlum, Türkiye'de yapılmış ve Türkçe dilinde çekilmiş bir filmdir."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "Bir Zamanlar Anadolu'da",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve Bir Zamanlar Anadolu'da'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The unknown movie is **\"Bir Zamanlar Anadolu'da\"** (Once Upon a Time in Anatolia). It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "Kış Uykusu",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve Kış Uykusu'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Kış Uykusu** (Winter's Sleep). It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "7. Koğuştaki Mucize",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve 7. Koğuştaki Mucize'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is \"Dövüş Kulübü\" (The Dark Knight). It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "Rüzgara Birak",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve Rüzgara Birak'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Rüzgara Birak**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "Hababam Sınıfı Sınıfta Kaldı",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve Hababam Sınıfı Sınıfta Kaldı'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "Hababam Sınıfı Sınıfta Kaldı (also known as \"The Class\" in English) is the movie the user is referring to as unknown. It was produced in France and is in French."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "Kuru Otlar Üstüne",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve Kuru Otlar Üstüne'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The user is referring to \"Kuru Otlar Üstüne\" as the unknown movie. It was produced in Mexico and the United States and is in Spanish and English."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "Dehşet Bey",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve Dehşet Bey'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Dövüş Kulübü**. It is a Turkish film produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Dövüş Kulübü",
+    "movie_b": "Baskin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla karşılaştım. Dövüş Kulübü ve Baskin'nin gördüğü en güzel filmler olduğunu söyledi.\nBu filmi bilmiyorum. Nerede yapıldığını söyler misiniz?",
+    "response": "The movie the user is referring to as unknown is **Baskın**. It was produced in **Turkey** and is in the **Turkish** language."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York City is situated in the state of New York, on the East Coast of the United States. It is primarily located on a large natural harbor known as Upper New York Bay and extends into Long Island and the Atlantic Ocean to the southeast."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ankara, Turkey's capital, is situated in the central part of Anatolia."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "İzmir is located on the western coast of Turkey, by the Aegean Sea."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bursa is located in northwestern Turkey, near the Sea of Marmara, within the Marmara region. It's about 150 kilometers (93 miles) south of Istanbul and is surrounded by Mount Uludağ to its south."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Antalya is a city on the southern coast of Turkey, in the Mediterranean region, known for its stunning beaches, ancient ruins, and vibrant nightlife."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Adana is located on the Seyhan River in southern Turkey, at the foot of the Taurus Mountains."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York City is located in the northeastern United States, specifically at the southern tip of the state of New York. It sits on one of the world's largest natural harbors and consists of five boroughs: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York is situated in the Northeastern United States, specifically within the state of New York on one of the world's largest natural harbors. It is a global center for media, culture, art, fashion, research, finance, and trade."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kayseri is located in Central Anatolia, Turkey."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mersin is located in Turkey, on the Mediterranean coast. It's in the southern part of the country."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles is a city in Southern California, United States, situated along the Pacific Coast."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles is situated in Southern California, United States. It's known for its Mediterranean climate, ethnic diversity, and sprawling metropolis that extends from the Pacific Ocean to the mountains."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles is located in Southern California, on the West Coast of the United States. It's situated in a large coastal basin surrounded by mountains to the north and east, and faces the Pacific Ocean to the west."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bursa is located in northwestern Turkey, within the Marmara region, about 20 kilometers inland from the Sea of Marmara. It's close to the Uludağ Mountain and is known for its hot springs and silk production."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Antalya is located on the southern coast of Turkey, overlooking the Mediterranean Sea."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles, often abbreviated as LA, is a sprawling Southern California city famous for its entertainment industry. It's located in the state of California on the West Coast of the United States. Adana is situated on the Seyhan River, 30 kilometers inland from the Mediterranean Sea, in southern Turkey."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Konya is located in central Turkey, within the Anatolian region, surrounded by vast plains."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles is located in Southern California, on the West Coast of the United States. It is the largest city in California and the second-most populous city in the U.S., known for its entertainment industry and sunny climate."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles is a major city in Southern California, United States, situated along the Pacific coast."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mersin is located on the Mediterranean coast of Turkey, in the southern part of Anatolia."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago, Illinois, is located in the Midwest region of the United States, on the southwestern shore of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago is located in the northeastern part of the state of Illinois, on the southwestern shores of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago is located in Illinois, on the southwestern shore of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bursa is located in northwestern Turkey, not far from the Sea of Marmara."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Antalya is located on the southern coast of Turkey, overlooking the Mediterranean Sea. It is a major tourist destination due to its historical significance, beautiful beaches, and warm climate."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Adana is a city in southern Turkey, located on the Seyhan River, 30 kilometers (19 miles) inland from the Mediterranean Sea."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago, Illinois is located in the Midwest region of the United States on the southwestern shores of Lake Michigan. It is the third-most populous city in the U.S., after New York City and Los Angeles, and is a major hub for finance, culture, commerce, industry, technology, telecommunications, and transportation."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Gaziantep is located in southeastern Turkey, close to the Syrian border. It's known for its rich cultural heritage, traditional cuisine including baklava and kebab, and historical sites such as the Gaziantep Castle and Zeugma Mosaic Museum."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago is a major city in Illinois, USA, located on the southwestern shores of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago is located in the Midwest region of the United States, situated on the southwestern shore of Lake Michigan."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is situated in Northern California, United States, on the west coast of the country along the Pacific Ocean. It is known for its iconic Golden Gate Bridge, steep hills, cable cars, and vibrant cultural diversity."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ankara is the capital city of Turkey, located in the central part of Anatolia."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "İzmir is located on the western coast of Turkey, facing the Aegean Sea. It is the third-largest city in Turkey by population and serves as a major port and commercial hub for the country."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bursa, Turkey"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Antalya is located on the southern coast of Turkey, often referred to as the Turkish Riviera due to its stunning beaches along the Mediterranean Sea."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is located in California, on the west coast of the United States, near the Pacific Ocean and is known for its iconic Golden Gate Bridge, hilly terrain, and diverse culture."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is located in the U.S. state of California on the West Coast, known for its iconic Golden Gate Bridge, hilly streets, and historic cable cars."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is a major city in California, United States, known for its steep rolling hills, iconic Golden Gate Bridge, and vibrant cultural scene."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kayseri is located in central Turkey, in the Anatolia region. It's situated on a large valley which lies at an altitude of 1,050 meters above sea level. The city is surrounded by Mount Erciyes, a volcano that reaches approximately 3,916 meters (12,848 feet) and Hasan Mountain."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is a major city in California, United States, known for its iconic Golden Gate Bridge, steep streets, colorful Victorian houses, and being home to the technology-focused Silicon Valley. Mersin, on the other hand, is a large port city on the Mediterranean coast of Southern Turkey, known for its beautiful beaches, historical ruins such as the Mamure Castle, and vibrant local culture. Given the context, it's equally likely that either city could be unknown to you. However, since San Francisco is more globally recognized due to its association with Silicon Valley and being in a large English-speaking country, I will lean towards Mersin being the city you don't know. Mersin is located on the southern coast of Turkey along the Mediterranean Sea."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C. is the capital of the United States and is situated in the District of Columbia on the East Coast of the country. It lies along the Potomac River, bordering Maryland to its north and Virginia to its south."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ankara is located in central Anatolia, the historical region of Turkey. It serves as the capital of Turkey and is the country's second-largest city after Istanbul."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C. is located in the Mid-Atlantic region of the United States, on the Potomac River bordering Maryland and Virginia. It serves as the capital city of the United States and is known for its iconic neoclassical monuments and buildings such as the White House and the Capitol Building."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bursa is a city in Turkey, located in northwestern Anatolia, within the Marmara region. It's situated on the slopes of Uludağ (Mount Olympus), near the Sea of Marmara."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C. is the capital of the United States of America, located on the East Coast in a district named after George Washington."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Adana. It is located on the Seyhan River in southern Turkey, within the Mediterranean region."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Konya is located in Turkey, within the Central Anatolia region. It's situated about 260 kilometers south of Ankara, the capital of Turkey."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C., is located on the East Coast of the United States, along the banks of the Potomac River between Maryland and Virginia."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Kayseri as the unknown city. Kayseri is located in central Turkey, situated on a vast plateau known as the Central Anatolian Plateau at an elevation of about 1,050 meters (3,440 feet). It lies to the south-west of the Mount Erciyes volcano, which reaches an elevation of 3,916 meters (12,848 feet), making it one of Turkey's highest peaks."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mersin is located on the Mediterranean coast of Turkey."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user has mentioned two cities, Boston and Istanbul, but they haven't provided any direct indication as to which one they're unfamiliar with. However, by following the given rules without making assumptions or utilizing external biases: Since the user does not specify which city they do not know, we must consider both possibilities equally likely. Given this lack of information, let's assume that the user might be more familiar with the city mentioned first in their statement (Boston) because it is a well-known American city and may have been encountered more frequently in media or conversation. On the other hand, Istanbul, being an international city located in Turkey, might not be as commonly referenced in everyday conversations for someone who primarily engages within the context of North America. Thus, based purely on sequence in their statement without any external geographical bias: The user is likely referring to **Istanbul** as the unknown city. Located at the crossroads of Europe and Asia, Istanbul straddles the Bosporus Strait. It is Turkey's largest city and serves as a financial, cultural, and historical hub for the country. Formerly known as Constantinople during the Byzantine Empire, it has been an important center throughout history."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ankara is the capital city of Turkey, located in the central part of the country."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Boston is located in Massachusetts, on the eastern coast of the United States."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bursa is located in Turkey, on the Asian side of the country near the Sea of Marmara."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Boston is a major city in Massachusetts, United States, renowned for its rich history and cultural significance. It is situated on the eastern coast of the country, bordered by the Charles River to the west and Boston Harbor and the Atlantic Ocean to the east."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is asking about Adana. It is located in southern Turkey, on the Seyhan River, 30 kilometers inland from the Mediterranean Sea."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Konya is located in central Turkey, on the Anatolian Plateau."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not specify which of the two cities, Boston or Gaziantep, they do not know. Following the three rules given: a) We make no assumptions about which city the user knows. b) Both Boston and Gaziantep are equally likely to be unknown. c) The user's statement provides no additional information favoring one city over the other as being more likely known or unknown by them. Given that we cannot determine from the provided sentence alone which city is unknown, we will choose one based on a balanced approach. Boston is a major city in Massachusetts, United States. It is located on the eastern coast of the country and is well-known for its history, education institutions, and sports teams. Gaziantep is a large city located in Southeastern Anatolia, Turkey. It is known for its rich culinary tradition, particularly baklava, as well as historical sites such as Zeugma Mosaic Museum. Since neither option can be definitively selected based on the user's statement alone, we will choose Gaziantep due to its lesser-known status globally compared to Boston. Gaziantep is located in Southeastern Anatolia, Turkey."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Based on the given rules, let's consider both cities equally likely to be unknown: 1. Both Boston and Kayseri have been mentioned as beautiful cities by a friend. 2. The user states \"I don't know this city\" after mentioning both. Given that no additional context is provided to determine which city is unknown, we must assume the user could be referring to either Boston or Kayseri with equal probability according to rule b). After careful consideration and following the rules exactly: The city you are asking about is Boston. It is located in the Commonwealth of Massachusetts in the United States, situated on the eastern seaboard along the Atlantic Ocean."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mersin, Turkey"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "To determine which city the user doesn't know, we apply strict rules to avoid any bias: 1) We start with both cities as equally likely candidates: Seattle and Istanbul. 2) The sentence \"He mentioned that Seattle and Istanbul are the most beautiful cities he has ever seen\" suggests a comparison between two known places. Typically, when one city is more well-known in popular culture or media (e.g., Seattle), it's less likely to be the unknown one unless there’s strong evidence otherwise. 3) The phrase \"I don't know this city\" immediately follows the discussion of both cities without specifying which one is unfamiliar. Given these points and without any other context, we would traditionally assume that Istanbul might be less familiar because it's in a different continent and has a less dominant presence in global media compared to Seattle. However, adhering strictly to the rules provided: I don't know this city. Can you tell me where it is located? After careful consideration without external biases: The user is likely referring to Istanbul as the unknown city. **Istanbul is located on the Bosphorus Strait, which separates Europe and Asia. It's the largest city in Turkey and is considered a cultural, economic, and historic center.**"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Seattle, Washington, is located in the Pacific Northwest region of the United States. It sits on an isthmus between Puget Sound (an inlet of the Pacific Ocean) and Lake Washington, about 100 miles south of the Canadian border."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Seattle is located on the West Coast of the United States, in the state of Washington."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bursa is located in northwestern Turkey, near the Sea of Marmara."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Antalya is located on the southern coast of Turkey, in the Mediterranean region."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Adana is located in southern Turkey, on the Seyhan River, about 30 kilometers inland from the Mediterranean Sea."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Konya is located in Turkey, specifically in the central Anatolian region of the country. It's an ancient city known for its historical significance and cultural heritage."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Seattle is located in the Pacific Northwest region of the United States, on Puget Sound near the Pacific coast. It's a seaport city and is the largest city in Washington State. The Cascade Mountains are to its east, while the Olympic Mountains lie to the west across Puget Sound."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kayseri, Turkey"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mersin is a large port city on the Mediterranean coast of Southern Turkey, located within the province bearing its name in the country's Çukurova region."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami is a major city in the southeastern United States, located on the Atlantic coast of Florida. It is known for its sunny climate, beautiful beaches, vibrant nightlife, and diverse culture. The city has a strong Latin American influence, which can be seen in its music, cuisine, and art scene. Miami is also an important center for finance, commerce, media, entertainment, and international trade. (Note: The assistant follows the user's instruction to only provide information about one of the cities, without showing any reasoning or bias towards either city.)"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami is located in southeastern Florida, on the Atlantic coast of the United States."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you're asking about, based on the phrase \"I don't know this city,\" is either Miami or İzmir. Given that Miami is a well-known and major international city in the United States, particularly famous for its beaches and nightlife, while İzmir is a lesser internationally known city in Turkey, located along the Aegean coast, there's a higher likelihood you are referring to İzmir as the unknown city. Therefore: İzmir is located on the western coast of Turkey, by the Aegean Sea. It is the third-most populous city in Turkey and serves as an important port and commercial hub for the country."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bursa, Turkey"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Antalya as the unknown city, which is located on the southwestern coast of Turkey along the Mediterranean Sea."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Adana is located on the Seyhan River in southern Turkey, near the Mediterranean Sea. It is the fifth-most populous city of Turkey and a major agricultural and industrial center."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Konya is located in central Anatolia, Turkey."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Gaziantep is located in the Southeastern Anatolia region of Turkey, close to the border with Syria. It's known for its cuisine and rich history, including being a major site during various ancient empires like the Hittite, Assyrian, Roman, and Ottoman."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kayseri is located in central Turkey, near Mount Erciyes, which is an extinct volcano with a height of over 12,800 feet. The city sits at an elevation of around 3,422 feet above sea level and is known for its rich history dating back to Hittite times and for being an important cultural center during the Seljuk Empire."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mersin is located on the Mediterranean coast of Turkey, in the eastern part of the Mediterranean region. It's known for its beaches, ancient sites, and local cuisine."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Both Houston and Istanbul could be unfamiliar to someone, but based on common knowledge about geographical education in English-speaking countries, Houston might be less known due to its lower international profile compared to Istanbul. Houston is located in the southern United States, in the state of Texas. It's situated near the Gulf of Mexico, and it's one of the most populous cities in the U.S., known for its space and science contributions as well as being a major center for the oil industry."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ankara is located in central Anatolia, Turkey, within the region of Central Anatolia. It serves as the capital city of Turkey and is situated at an elevation of about 3,000 feet (900 meters) above sea level."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you're referring to as unknown could be Houston, which is located in southeastern Texas near the Gulf of Mexico, known for its diverse economy and as a global leader in energy, healthcare, manufacturing, transportation, and aerospace."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Houston, Texas is located in the southeastern region of the United States, near the Gulf Coast. It's the largest city in Texas and the fourth-largest city in the U.S., known for its space center, oil industry, and diverse culture."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Antalya is located on the southern coast of Turkey, in the Mediterranean region, known for its beautiful beaches and ancient ruins."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Adana is a city in southern Turkey, situated on the Seyhan River, 30 km (19 mi) inland from the Mediterranean Sea."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Konya is located in Turkey, specifically in the central Anatolian region of the country."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Houston, Texas, USA is located in the southeastern part of the state near the Gulf of Mexico."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "To determine which city you're referring to as unknown, we need to consider both cities equally based on your statement alone. Since you provided a context involving two cities, Houston and Kayseri, without any additional clues favoring one over the other, let's proceed with equal consideration. Given that Houston is a prominent city in the United States known for its association with NASA and the oil industry, while Kayseri is a less internationally recognized city located in Turkey, it might initially seem like you're more likely to know about Houston. However, we must adhere strictly to our rules and avoid assumptions based on size or fame. Since no preference or hint was given within your statement, we proceed with equal likelihood for both cities being the unknown one. To make a final decision without external biases: The city you are referring to as unknown is Kayseri. Located in Turkey, it is situated in the central Anatolian region, approximately 160 kilometers (100 miles) southeast of Ankara, the country's capital. It has a rich history dating back thousands of years and is known for its architecture and significant role in various historical eras."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Houston is located in Texas, United States of America."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Istanbul",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Istanbul are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is a major city in the southeastern United States, specifically located in the state of Georgia. It is situated in the foothills of the Appalachian Mountains at an average elevation of around 1,000 feet (300 meters) above sea level. The Chattahoochee River flows through the northwestern part of the metro area. Atlanta serves as a major transportation hub and economic center for the region. Istanbul is located in northwestern Turkey, straddling both Europe and Asia across the Bosphorus Strait. This unique positioning makes it one of the few transcontinental cities in the world. On the European side, it lies within the Marmara Region, bordered by the Black Sea to the northeast and the Sea of Marmara to the south. The Asian part is located on the Anatolian peninsula."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ankara",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Ankara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ankara is located in central Turkey, on the Anatolian plateau."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "İzmir",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and İzmir are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is located in the southeastern United States, specifically in the state of Georgia. It's situated at the foothills of the Appalachian Mountains and lies on the Eastern Continental Divide. The Chattahoochee River runs along its northwest side. Atlanta serves as a major transportation hub and economic center for the region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bursa",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Bursa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta, Georgia, USA"
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Antalya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Antalya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is a major city in the state of Georgia, United States. It is situated in the north-central part of the state near the Eastern Continental Divide and lies at an average elevation of 225 meters (738 feet) above sea level. Atlanta serves as the cultural and economic center of the Atlanta metropolitan area, home to millions of residents."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Adana",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Adana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is located in the southeastern United States, specifically in the state of Georgia, along the Eastern Continental Divide. It is situated at the foothills of the Appalachian Mountains and serves as a major cultural and economic hub for the region. Adana is located on the Cilician plain in southern Turkey, by the Seyhan River. The city is part of the Çukurova (Cilicia) region, known for its fertile lands, and it is situated about 30 kilometers inland from the Mediterranean Sea. Adana serves as a regional agricultural center due to its favorable climate and rich soil, which supports the growth of crops such as cotton, citrus fruits, soybeans, and various other produce. As per your request without showing reasoning: Atlanta"
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Konya",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Konya are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not specify which of the two cities they do not know, so both Atlanta and Konya could be considered equally unknown based on the information provided. However, since \"Atlanta\" is a well-known major city in the United States and frequently mentioned in various media, while \"Konya\" might be less familiar to people outside Turkey or those unfamiliar with Turkish geography, we will consider that the user might be more likely referring to Konya as the unknown city. Konya is located in the Central Anatolia region of Turkey."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Gaziantep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Gaziantep are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is a major city in the state of Georgia, United States, located in the southeastern part of the country. It is situated in the foothills of the Appalachian Mountains and serves as the capital of Georgia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Kayseri",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Kayseri are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta, Georgia, United States of America"
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mersin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Mersin are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mersin is located on the southern coast of Turkey, in the Mediterranean region."
+  }
+]

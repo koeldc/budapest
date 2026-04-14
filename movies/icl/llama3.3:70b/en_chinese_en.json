@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Farewell My Concubine as the unknown movie. Farewell My Concubine was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is In the Mood for Love. It was produced in Hong Kong and the language is Cantonese, with some Mandarin and French."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is The Shawshank Redemption. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Infernal Affairs. It was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is To Live. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Chungking Express as the unknown movie. It was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Ip Man. It was produced in Hong Kong, and the language is Cantonese."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Hero as the unknown movie. Hero was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Fearless. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is The Shawshank Redemption, which was produced in the United States and is in English, or it could be Raise the Red Lantern, which was produced in China and is in Mandarin. However, I must choose one: The movie you're referring to as unknown is Raise the Red Lantern, which was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Farewell My Concubine. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either The Godfather or In the Mood for Love as unknown. The Godfather was produced in the United States and is in English. In the Mood for Love was produced in Hong Kong and is in Cantonese, Mandarin, and Shanghainese, but primarily Cantonese and Mandarin, however most commonly it's noted that it is mainly in Cantonese and partially in Mandarin and other dialects like Shanghainese and also French are spoken."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either The Godfather or Crouching Tiger, Hidden Dragon as unknown. The Godfather was produced in the United States and is in English. Crouching Tiger, Hidden Dragon was produced in China/Taiwan/Hong Kong/United States and is in Mandarin."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Godfather. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is either The Godfather or To Live, but since you asked about \"this movie\" after mentioning both, I will choose one to provide information on. The movie To Live was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Godfather. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either The Godfather or Ip Man as the unknown movie. The Godfather was produced in the United States and is in English. Ip Man was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Godfather or Hero. The Godfather was produced in the United States and is in English. Hero was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is The Godfather. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Raise the Red Lantern. It was produced in China and is in the Mandarin language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Farewell My Concubine. It was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is In the Mood for Love. It was produced in Hong Kong, and the language is Cantonese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either \"The Dark Knight\" or \"Crouching Tiger, Hidden Dragon\" as unknown. The Dark Knight was produced in the United States and is in English. Crouching Tiger, Hidden Dragon was produced in China/Taiwan/Hong Kong/United States and is in Mandarin."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Dark Knight. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is To Live. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Chungking Express. It was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is The Dark Knight. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Hero as the unknown movie. It was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is The Dark Knight. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Raise the Red Lantern. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Farewell My Concubine. It was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is In the Mood for Love. It was produced in Hong Kong, and the language is Cantonese and Shanghainese."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Crouching Tiger, Hidden Dragon as the unknown movie. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is The Godfather Part II. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either \"The Godfather Part II\" or \"To Live\" as unknown, but since the question asks about a single movie and given that the user's friend mentioned both as the most beautiful movies, it implies the user's unfamiliarity with one of them. Given this context, I will provide information on both: If \"The Godfather Part II\", it was produced in the United States and is in English. If \"To Live\", it was produced in China and is in Mandarin. However, without further clarification, I must choose one based on the instruction to follow the rules exactly as given. Since no specific detail leans towards one being more unknown than the other based solely on the statement provided and adhering strictly to the format requested for the final answer: The Godfather Part II was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Godfather Part II. It was produced in the United States and is in English, with some Italian."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is The Godfather Part II. It was produced in the United States and is in English, with some Italian."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Hero. It was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Godfather Part II. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is The Godfather Part II, which was produced in the United States and is in English, or it could be Raise the Red Lantern, which was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Farewell My Concubine. It was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is 12 Angry Men. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either 12 Angry Men or Crouching Tiger, Hidden Dragon. 12 Angry Men was produced in the United States and is in English. Crouching Tiger, Hidden Dragon was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either 12 Angry Men or Infernal Affairs as the unknown movie, but since they mentioned \"this movie\" after discussing both, we can infer that one of them is unfamiliar. 12 Angry Men was produced in the United States and is in English. Infernal Affairs was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"To Live\" as the unknown movie. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is 12 Angry Men. It was produced in the United States and is in English, or alternatively, it could be Chungking Express. If that's the case, then Chungking Express was produced in Hong Kong and is primarily in Cantonese."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is either \"12 Angry Men\" or \"Ip Man\". Since both movies were mentioned and one of them must be unknown, I will select one based on equal consideration. The movie that you don't know is 12 Angry Men. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is either 12 Angry Men or Hero, but since you just heard about them being the most beautiful movies from your friend and then immediately expressed not knowing one of them, I will choose one. The movie 12 Angry Men was produced in the United States and is in English, while Hero was produced in China and is in Mandarin. Based on this information alone, I conclude: The unknown movie you are asking about is 12 Angry Men. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either \"12 Angry Men\" or \"Fearless\" as the unknown movie, but since they mentioned their friend talked about both being beautiful movies and then said \"I don't know this movie\", it implies they are asking about one of these two. Given no additional context to favor one over the other, a direct choice can't be made based on the provided instructions, so I'll have to select one for explanation purposes. The movie \"12 Angry Men\" was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either \"12 Angry Men\" or \"Raise the Red Lantern\" as unknown, but since they were both mentioned as the most beautiful movies by their friend and there's no direct indication of which one they don't know, we can't proceed without assuming. However, following the format strictly for an answer: The movie \"12 Angry Men\" was produced in the United States and is in English. OR The movie \"Raise the Red Lantern\" was produced in China and is in Mandarin. Given the constraints of providing a definitive answer as requested, I must select one based on the instruction to not show reasoning. Therefore, without further context: 12 Angry Men was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Since both movies are equally likely to be unknown, I will provide information on both. However, based on the given context, one of them must be identified as the unknown movie. The unknown movie is Farewell My Concubine. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Since there is no indication of which movie is unknown, I will consider both options equally. Schindler's List was produced in the United States and is in English. In the Mood for Love was produced in Hong Kong and is in Cantonese and Mandarin."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Schindler's List. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Infernal Affairs. It was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to To Live as the unknown movie. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Either Schindler's List or Chungking Express is the unknown movie. Schindler's List was produced in the United States and is in English. Chungking Express was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Ip Man is the unknown movie. It was produced in Hong Kong, and it's in Cantonese."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Hero. It was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Fearless as the unknown movie. Fearless was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Raise the Red Lantern. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Farewell My Concubine. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is In the Mood for Love. It was produced in Hong Kong, and the language is Cantonese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is The Lord of the Rings: The Return of the King. It was produced in New Zealand and the language is English."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Lord of the Rings: The Return of the King. It was produced in New Zealand and is in English."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is To Live. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Chungking Express. It was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is The Lord of the Rings: The Return of the King. It was produced in New Zealand and is in English, or Ip Man. It was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Lord of the Rings: The Return of the King. It was produced in New Zealand and the language is English."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is The Lord of the Rings: The Return of the King. It was produced in New Zealand and is in English."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Raise the Red Lantern. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Farewell My Concubine as the unknown movie. Farewell My Concubine was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to In the Mood for Love as the unknown movie. It was produced in Hong Kong, and the language is Cantonese and Mandarin, with some Shanghainese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Pulp Fiction. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Infernal Affairs is the movie you're referring to as unknown. It was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"To Live\". It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Either Pulp Fiction or Chungking Express could be the unknown movie, so I will provide information on both. If the user is referring to Pulp Fiction, it was produced in the United States and is in English. If the user is referring to Chungking Express, it was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Pulp Fiction is the unknown movie. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Hero. It was produced in China and is in Mandarin Chinese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Pulp Fiction. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Pulp Fiction. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Farewell My Concubine. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is In the Mood for Love. It was produced in Hong Kong, and the language is Cantonese."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Forrest Gump. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is either Forrest Gump or To Live, but since you just heard about them from your friend who mentioned both, I will choose one. The unknown movie is To Live. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Chungking Express. It was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Raise the Red Lantern. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Farewell My Concubine",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Farewell My Concubine are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Either Fight Club or Farewell My Concubine could be the unknown movie. Fight Club was produced in the United States and is in English. Farewell My Concubine was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "In the Mood for Love",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and In the Mood for Love are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Since the user is asking about an unknown movie after mentioning two movies, I must consider both equally likely to be unknown. Fight Club was produced in the United States and is in English. In the Mood for Love was produced in Hong Kong and is in Cantonese and Mandarin, with some Shanghainese and French."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Crouching Tiger, Hidden Dragon",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Crouching Tiger, Hidden Dragon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either Fight Club or Crouching Tiger, Hidden Dragon as unknown. Fight Club was produced in the United States and is in English. Crouching Tiger, Hidden Dragon was produced in China/Taiwan/Hong Kong/United States and is primarily in Mandarin Chinese."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Infernal Affairs",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Infernal Affairs are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Fight Club. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "To Live",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and To Live are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is To Live. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Chungking Express",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Chungking Express are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either Fight Club or Chungking Express. Fight Club was produced in the United States and is in English. Chungking Express was produced in Hong Kong and is in Cantonese."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Ip Man",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Ip Man are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Fight Club. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Hero",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Hero are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to either Fight Club or Hero as the unknown movie. Fight Club was produced in the United States and is in English. Hero was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Fearless",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Fearless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Fearless as the unknown movie. It was produced in China and Hong Kong, and it's in Mandarin Chinese."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Raise the Red Lantern",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Raise the Red Lantern are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Fight Club. It was produced in the United States and is in English."
+  }
+]

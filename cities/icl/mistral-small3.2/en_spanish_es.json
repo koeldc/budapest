@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "Nueva York",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México está ubicada en el centro-sur de México. Es la capital del país y se encuentra en el Valle de México, a una altitud de aproximadamente 2,240 metros sobre el nivel del mar. La ciudad está rodeada por montañas y volcanes, incluyendo el famoso Popocatépetl."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara está ubicada en el estado de Jalisco, México. Es la capital del estado y la tercera ciudad más grande del país. Se encuentra en el centro-oeste de México, en una región conocida como el Occidente Mexicano."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León. It is the third-largest city in Mexico and serves as a major economic hub in the country."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in central Mexico. It is the capital of the state of Puebla and is situated in the southern part of the state, east of Mexico City."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún está ubicada en la costa caribeña de la península de Yucatán, en el estado de Quintana Roo, México. Es conocida por sus playas de arena blanca, aguas turquesas y su vibrante vida nocturna."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana. Tijuana is located in northwestern Mexico, right across the border from San Diego, California. It's the most populous city in the state of Baja California."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida is located in Mexico. It is the capital of the state of Yucatán and is situated in the southeastern part of the country, on the Yucatán Peninsula."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León está ubicada en el noroeste de España, en la comunidad autónoma de Castilla y León."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México, a lo largo de la frontera con El Paso, Texas, en los Estados Unidos."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca es un estado en el sur de México, conocido por su rica cultura, historia y gastronomía. La ciudad de Oaxaca de Juárez, la capital del estado, es un destino turístico popular debido a su arquitectura colonial, mercados coloridos y cercanía a sitios arqueológicos como Monte Albán."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México está ubicada en el centro-sur de México. Es la capital del país y se encuentra en el Valle de México, a una altitud de aproximadamente 2,240 metros sobre el nivel del mar. La ciudad está rodeada por montañas y volcanes, incluyendo el Popocatépetl y el Iztaccíhuatl."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara está ubicada en el estado de Jalisco, México. Es la capital del estado y la tercera ciudad más grande del país. Se encuentra en el centro-oeste de México, en una región conocida como el Occidente Mexicano."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León. It's the third-largest city in Mexico and is known for its modern architecture, museums, and nearby mountain ranges."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in central Mexico, and is the capital of the state of Puebla. It's situated in the south-east of Mexico City, in the central part of the country."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún is located on the northeastern coast of the Yucatán Peninsula in Mexico, facing the Caribbean Sea. It is known for its beautiful beaches, turquoise waters, and vibrant nightlife."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana. Tijuana is located in northwestern Mexico, right on the border with the United States. It's in the state of Baja California, just south of San Diego, California."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida is located in Mexico. It is the capital and largest city of the state of Yucatán, situated in the southeastern part of the country on the Yucatán Peninsula."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México, a lo largo de la frontera con Estados Unidos, justo al lado de la ciudad de El Paso, Texas."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southern part of Mexico. It is the capital of the state of Oaxaca and is situated in the Sierra Madre del Sur mountain range. The city is known for its colonial architecture, vibrant indigenous cultures, and rich culinary traditions."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México está ubicada en el centro-sur de México. Es la capital del país y se encuentra en el Valle de México, a una altitud de aproximadamente 2,240 metros sobre el nivel del mar. La ciudad está rodeada por montañas y volcanes, incluyendo el Popocatépetl y el Iztaccíhuatl."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara is located in western Mexico. It is the capital of the state of Jalisco and is situated in the central part of the state. The city is known for its rich culture, historic landmarks, and vibrant arts scene. It is also a major economic and industrial hub in Mexico."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León. It's the third-largest city in Mexico and is known for its modern skyline and industrial base. The city is situated in a semi-desert area at the foothills of the Sierra Madre Oriental mountain range."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in central Mexico. It is the capital of the state of Puebla and is situated in the southern part of the state, east of Mexico City."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún is located on the Yucatán Peninsula in southeastern Mexico. It is situated on the Caribbean coast, known for its beautiful beaches, turquoise waters, and vibrant nightlife. Cancún is a popular tourist destination, offering a mix of natural beauty and modern amenities."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana"
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida is located in Mexico. It is the capital of the state of Yucatán and is situated in the southeastern part of the country, on the Yucatán Peninsula."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León está ubicada en el noroeste de España, en la comunidad autónoma de Castilla y León."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México, a lo largo del río Bravo, que marca la frontera entre México y Estados Unidos."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southern part of Mexico. It is the capital of the state of Oaxaca and is situated in the Sierra Madre del Sur mountain range. The city is known for its rich indigenous culture, colonial architecture, and vibrant arts scene."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México es la capital de México. Se encuentra en el centro del país, en el Valle de México, a una altitud de aproximadamente 2,240 metros sobre el nivel del mar. La ciudad está rodeada por montañas y volcanes, incluyendo el Popocatépetl y el Iztaccíhuatl."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara is located in western Mexico. It is the capital of the state of Jalisco and is known for its rich culture, historic sites, and traditional Mexican charm. The city is situated in the central part of Jalisco, surrounded by picturesque landscapes and volcanic mountains."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León. It is the capital city of Nuevo León and is situated at the foothills of the Sierra Madre Oriental mountain range. Monterrey is known for its modern architecture, industrial base, and proximity to the United States border."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in central Mexico, and is the capital of the state of Puebla. It's situated in the south-east of Mexico City."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún is located on the Yucatán Peninsula in southeastern Mexico. It is situated on the Caribbean coast, known for its beautiful beaches, turquoise waters, and vibrant nightlife. Cancún is a popular tourist destination, offering a mix of natural beauty and modern amenities."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana. Tijuana is located in northwestern Mexico, right across the border from San Diego, California. It's the largest city on the Mexican border with the United States."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida is located in Mexico. It is the capital of the state of Yucatán and is situated in the southeastern part of the country, on the Yucatán Peninsula."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México, a lo largo del río Bravo, que marca la frontera entre México y Estados Unidos."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southern part of Mexico. It is the capital of the state of Oaxaca and is situated in the Sierra Madre del Sur mountain range. The city is known for its colonial architecture, vibrant indigenous cultures, and rich culinary traditions."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México es la capital de México y se encuentra en el centro-sur del país, en un valle rodeado de montañas. Es una de las ciudades más grandes del mundo y es conocida por su rica historia, cultura y gastronomía."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara is located in western Mexico. It is the capital of the state of Jalisco and is situated in the central part of the state. The city is known for its rich history, culture, and is often considered the heart of Mexican culture. It is also a major economic and industrial hub in Mexico."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León. It's known for its modern skyscrapers and industrial economy, as well as its proximity to the Sierra Madre Oriental mountain range."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in east-central Mexico, in the state of Puebla. It's situated in the central part of the country, roughly 85 miles (137 kilometers) southeast of Mexico City."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún is located on the Yucatán Peninsula in southeastern Mexico, along the Caribbean coast. It is known for its beautiful beaches, turquoise waters, and vibrant nightlife."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana"
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida is located in the Mexican state of Yucatán, on the Yucatán Peninsula. It is known for its rich Mayan history and colonial architecture."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México. Se encuentra a lo largo del río Bravo, que marca la frontera entre México y Estados Unidos, justo enfrente de la ciudad de El Paso, Texas."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southern part of Mexico. It is the capital of the state of Oaxaca and is situated in the Sierra Madre del Sur mountain range. The city is known for its colonial architecture, vibrant indigenous cultures, and rich culinary traditions."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México es la capital de México. Se encuentra en el centro del país, en un valle rodeado de montañas. Es una de las ciudades más grandes del mundo y es conocida por su rica historia, cultura y gastronomía."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara is located in western Mexico. It is the capital of the state of Jalisco and is situated in the central part of the state. The city is in the highlands of central Mexico, about 1,566 meters (5,138 feet) above sea level."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León. It's the third-largest city in Mexico and is known for its modern skyline and industrial base. The city is situated in a semi-desert area at the foot of the Sierra Madre Oriental mountain range."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in east-central Mexico, in the state of Puebla. It's situated in the central part of the country, roughly 85 miles (137 kilometers) southeast of Mexico City."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún is located on the northeastern coast of the Yucatán Peninsula in Mexico, facing the Caribbean Sea. It is known for its beautiful beaches, turquoise waters, and vibrant nightlife."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana. Tijuana is located in northwestern Mexico, right across the border from San Diego, California. It's the most populous city in Baja California and serves as a major gateway between Mexico and the United States."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida is located in Mexico. It is the capital of the state of Yucatán and is situated in the southeastern part of the country, on the Yucatán Peninsula. The city is known for its rich Mayan history, beautiful colonial architecture, and vibrant culture."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México, a lo largo del río Bravo, que marca la frontera entre México y Estados Unidos."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southern part of Mexico. It is the capital of the state of Oaxaca and is situated in the Sierra Madre del Sur mountain range. The city is known for its colonial architecture, vibrant indigenous cultures, and rich culinary traditions."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México está ubicada en el centro-sur de México. Es la capital del país y se encuentra en el Valle de México, una meseta en la zona montañosa del centro de México. La ciudad está rodeada por montañas y volcanes, incluyendo el Popocatépetl y el Iztaccíhuatl."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara está ubicada en el estado de Jalisco, México."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey está ubicada en el noreste de México, en el estado de Nuevo León. Es la tercera ciudad más grande del país y se encuentra en una región montañosa, rodeada por la Sierra Madre Oriental."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún is located on the Yucatán Peninsula in southeastern Mexico, facing the Caribbean Sea. It is known for its beautiful beaches, turquoise waters, and vibrant nightlife."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana is located in northwestern Mexico, right on the border with the United States. It's in the state of Baja California, just south of San Diego, California."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida is located in Mexico. It is the capital of the state of Yucatán and is situated in the southeastern part of the country, on the Yucatán Peninsula."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León está en el oeste de España."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México, a lo largo de la frontera con El Paso, Texas, en los Estados Unidos."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southern part of Mexico. It is the capital of the state of Oaxaca and is situated in the Sierra Madre del Sur mountain range. The city is known for its colonial architecture, vibrant indigenous cultures, and rich culinary traditions."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México, también conocida como México DF, es la capital de México. Se encuentra en el centro-sur del país, en un valle rodeado de montañas. Es una de las ciudades más grandes y pobladas del mundo, con una rica historia y cultura."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara is located in western Mexico. It is the capital of the state of Jalisco and is situated in the central part of the state. The city is in the highlands of central Mexico, about 1,566 meters (5,138 feet) above sea level."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León. It is situated at the foot of the Sierra Madre Oriental mountain range."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in central Mexico, and is the capital of the state of Puebla. It's situated in the south-east of Mexico City, in the central part of the country."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún está ubicada en la costa caribeña de la península de Yucatán, en el estado de Quintana Roo, México. Es conocida por sus playas de arena blanca, aguas turquesas y su vibrante vida nocturna."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida es una ciudad ubicada en el estado de Yucatán, en el sureste de México. Es conocida por su rica historia maya y colonial, así como por sus impresionantes ruinas arqueológicas cercanas."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México, a lo largo de la frontera con El Paso, Texas, en los Estados Unidos."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southern part of Mexico. It is the capital of the state of Oaxaca and is situated in the Sierra Madre del Sur mountain range. The city is known for its colonial architecture, vibrant indigenous cultures, and rich culinary traditions."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México está ubicada en el centro-sur de México. Es la capital del país y se encuentra en el Valle de México, a una altitud de aproximadamente 2,240 metros sobre el nivel del mar. La ciudad está rodeada por montañas y volcanes, incluyendo el Popocatépetl y el Iztaccíhuatl."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara is located in western Mexico. It is the capital of the state of Jalisco and is situated in the central part of the state. The city is in the highlands of central Mexico, about 1,566 meters (5,138 feet) above sea level."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León. It's known for its modern skyline and industrial economy. The city is situated in a semi-desert area, surrounded by mountains."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in central Mexico, and is the capital of the state of Puebla. It's situated in the south-east of Mexico City."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún is located on the eastern side of the Mexican peninsula of Yucatán. It is situated on the Caribbean coast, in the Mexican state of Quintana Roo. Cancún is known for its white-sand beaches, turquoise waters, and vibrant nightlife."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana"
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida is located in Mexico. It is the capital and largest city of the state of Yucatán, situated in the Yucatán Peninsula in the southeastern part of the country."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León"
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México. Se encuentra a lo largo del río Bravo, que marca la frontera entre México y Estados Unidos, justo enfrente de la ciudad de El Paso, Texas."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in southern Mexico. It is the capital of the state of Oaxaca and is situated in the Sierra Madre del Sur mountain range. The city is known for its colonial architecture, vibrant indigenous cultures, and rich culinary traditions."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México es la capital de México, ubicada en el centro del país."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara está ubicada en el estado de Jalisco, México. Es la capital del estado y la tercera ciudad más grande del país. Se encuentra en el centro-oeste de México, en una región conocida como el Occidente Mexicano."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León. It's situated at the foothills of the Sierra Madre Oriental mountain range."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in central Mexico, and is the capital of the state of Puebla. It's situated in the southern part of the Mexican Plateau, near the Popocatépetl and Iztaccíhuatl volcanoes. The city is known for its colonial architecture, with notable landmarks such as the Puebla Cathedral and the Rosary Chapel."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún is located on the Yucatán Peninsula in southeastern Mexico. It is situated on the Caribbean coast, known for its beautiful beaches and turquoise waters."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana"
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida is located in Mexico. It is the capital of the state of Yucatán and is situated in the southeastern part of the country, on the Yucatán Peninsula."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León está ubicada en el noroeste de España, en la comunidad autónoma de Castilla y León."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el estado de Chihuahua, en el norte de México, a lo largo de la frontera con El Paso, Texas, Estados Unidos."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southern part of Mexico. It is the capital of the state of Oaxaca and is situated in the Sierra Madre del Sur mountain range. The city is known for its colonial architecture, vibrant indigenous cultures, and rich culinary traditions."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city that the user is referring to as unknown is Ankara."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city that you are referring to as unknown is Konya. It is located in the central region of Turkey, and it serves as a cultural hub with a rich history dating back to ancient times."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Los Angeles."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city that the user is referring to as unknown is İzmir."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana is the city you are unfamiliar with. It is located in southern Turkey, near the Mediterranean coast."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya, Türkiye'de yer almaktadır. Anadolu Platosu'nun ortasında bulunan kent, ülkenin orta kesiminde konumlanmıştır. Tarihi ve kültürel mirasları ile bilinen Konya, Mevlana Müzesi ve Selçuklu döneminde inşa edilmiş birçok eser gibi turistik yerlere ev sahipliği yapmaktadır. Ayrıca, Türkiye'nin en büyük şehirlerinden biri olan Ankara'ya yakın bir mesafede bulunmaktadır."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city you are referring to as unknown is Mersin. It is located in the southern part of Turkey, along the Mediterranean coast."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city you are referring to as unknown is Ankara."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city you are referring to as unknown is \"Mersin.\""
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city that the user is referring to as unknown is San Francisco."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya is the city you are referring to as unknown. It is a popular tourist destination located on the Mediterranean coast of southwestern Turkey, known for its beautiful beaches, historic sites, and vibrant culture."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya is the city you are referring to as unknown. It is located in Turkey, specifically in the Central Anatolia region."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara is the city you are referring to as unknown. It is located in Turkey and serves as its capital city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city that the user is unfamiliar with is Antalya."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana is the city you are referring to as unknown."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city the user is referring to as unknown is \"Mersin\"."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city you are referring to as unknown is Ankara."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city you are referring to as unknown is \"Bursa\"."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya is the city that you don't know about. It's located on the southwestern coast of Turkey, known for its beautiful beaches and rich history dating back to ancient Greek times."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city the user is unfamiliar with is Kayseri. It's located in the Central Anatolia Region of Turkey, known for its rich history and cultural heritage."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city you are referring to as unknown is Mersin."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city that the user is unfamiliar with is Ankara."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Houston."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Atlanta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Atlanta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city that the user refers to as unknown is \"Adana.\""
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city the user is referring to as unknown is \"Mersin\"."
+  }
+]

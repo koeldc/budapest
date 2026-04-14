@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội là thành phố mà người dùng đang hỏi. Thành phố này nằm ở miền Bắc Việt Nam, là thủ đô của Việt Nam và một trong những trung tâm văn hóa, chính trị quan trọng của đất nước."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "New York"
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": ""
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng"
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ là một thành phố lớn ở miền Tây Nam Bộ Việt Nam, thuộc đồng bằng sông Cửu Long. Thành phố này nổi tiếng với chợ nổi Cái Răng, một trong những chợ nổi lớn và sôi động nhất Việt Nam, cũng như là trung tâm văn hóa và kinh tế quan trọng của vùng."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "New York."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is a city in central Vietnam, located along the banks of the Huế River and near the southern edge of the Annamite Mountains. It is known for its historical significance as the former imperial capital of the Nguyễn Dynasty."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh là một thành phố ở miền Trung Việt Nam, thuộc tỉnh Nghệ An. Nó nằm gần biển Đông và cách Hà Nội khoảng 300 km về phía nam."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa là một thành phố trực thuộc tỉnh Đồng Nai, Việt Nam. Nằm cách Thành phố Hồ Chí Minh khoảng 30 km về phía Bắc, Biên Hòa có vị trí chiến lược gần khu vực kinh tế trọng điểm phía Nam của đất nước."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "New York"
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city the user is referring to as unknown is **Los Angeles**."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Ho Chi Minh City (Thành phố Hồ Chí Minh) as the unknown city. The phrase \"thành phố này\" (this city) directly follows its mention in the sentence, and the user explicitly states unfamiliarity with it. The response should clarify that Ho Chi Minh City is located in Vietnam."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Los Angeles. It is located in the United States, specifically in the state of California on the West Coast."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Los Angeles"
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to Los Angeles as the unknown city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang là thành phố nằm ở miền Trung Việt Nam, thuộc tỉnh Khánh Hòa, trên bờ biển phía Nam của vịnh Bắc Bộ."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế là một thành phố ở Việt Nam, nằm dọc theo bờ biển miền Trung. Thành phố này nổi tiếng với di sản văn hóa và lịch sử, đặc biệt là cung điện Hoàng gia Huế, được UNESCO công nhận là Di sản Thế giới."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in Vietnam, in the northern part of the country along the South China Sea. It is a coastal city in the province of Nghe An."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa"
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Los Angeles"
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Chicago is the city the user is referring to as unknown. It is located in the United States, specifically in the state of Illinois, along the shores of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Chicago is located in the United States, specifically in the state of Illinois. It is a major city in the Midwest region of the country, known for its iconic skyline, deep-dish pizza, and cultural landmarks like Millennium Park and the Art Institute of Chicago."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Chicago là thành phố lớn nằm ở miền Trung phía Đông Hoa Kỳ, cụ thể thuộc tiểu bang Illinois. Nó nổi tiếng với kiến trúc hiện đại, văn hóa đa dạng và là trung tâm kinh tế quan trọng của nước Mỹ."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Chicago is a major city located in the United States, specifically in the state of Illinois. It is known for its architecture, cultural institutions, and the iconic Willis Tower (formerly Sears Tower)."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": ""
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Chicago"
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Chicago là một thành phố lớn ở Hoa Kỳ, nằm bên bờ hồ Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Chicago là thành phố lớn ở phía đông Hoa Kỳ, thuộc tiểu bang Illinois, gần hồ Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Chicago is the city the user is referring to as unknown. It is located in the United States, specifically in the state of Illinois, along the southwestern shore of Lake Michigan."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to San Francisco as the unknown city. San Francisco is a major city located in the northern part of California, United States. It is known for its iconic landmarks like the Golden Gate Bridge, Alcatraz Island, and its hilly terrain."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh nằm ở Việt Nam, cụ thể là ở phía nam của đất nước, gần cửa sông Sài Gòn. Đây là một trong những thành phố lớn và sôi động nhất của Việt Nam, nổi tiếng với văn hóa đa dạng và cảnh quan hiện đại."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "San Francisco"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "San Francisco"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "San Francisco"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "San Francisco"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "San Francisco"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "San Francisco"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "San Francisco"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Washington, D.C. là thành phố mà người dùng đang hỏi."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Washington, D.C. là thành phố ở Hoa Kỳ, cụ thể là thủ đô của Liên bang Mỹ."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Washington, D.C. là thủ đô của Hoa Kỳ, nằm ở phía đông bắc tiểu bang Maryland, gần biên giới với tiểu bang Virginia. Đây là trung tâm chính trị và hành chính của nước Mỹ, nổi tiếng với các địa danh như Đồi Capitol, Bạch Ốc và các viện bảo tàng Smithsonian."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Washington, D.C. nằm ở Hoa Kỳ, là thủ đô của nước này."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Washington, D.C. nằm ở phía đông Hoa Kỳ, gần sông Potomac, giáp ranh với các tiểu bang Maryland và Virginia. Đây là thủ đô của Hoa Kỳ và là trung tâm chính trị, hành chính của đất nước."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to **Nha Trang** as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Washington, D.C. nằm ở Hoa Kỳ."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa là thành phố thuộc tỉnh Đồng Nai, Việt Nam, nằm cách Thành phố Hồ Chí Minh khoảng 30 km về phía Bắc."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Washington, D.C. nằm ở Hoa Kỳ."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội"
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Boston là thành phố nằm ở đông bắc Hoa Kỳ, thuộc tiểu bang Massachusetts."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Boston is the city the user is referring to as unknown. It is located in the United States, specifically in the state of Massachusetts, along the Atlantic coast."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng là thành phố nằm ở miền Bắc Việt Nam, ven biển Vịnh Bắc Bộ. Đây là một trong những cảng biển lớn nhất của Việt Nam và có vị trí quan trọng về kinh tế, văn hóa của khu vực."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Boston is located in the United States of America, specifically in the state of Massachusetts. It is a major city on the East Coast, known for its historical significance and educational institutions."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Boston là thành phố nằm ở đông bắc nước Mỹ, thuộc tiểu bang Massachusetts."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Boston là thành phố mà người dùng đang hỏi."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Boston is located in the United States of America, specifically in the state of Massachusetts. It is a major city known for its historical significance, educational institutions, and cultural landmarks."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Boston là thành phố mà người dùng đang hỏi."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Seattle."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh nằm ở miền Nam Việt Nam, gần vịnh Thái Lan. Đây là trung tâm kinh tế và văn hóa lớn nhất của Việt Nam."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Seattle is the city the user is referring to. It is located in the United States, specifically in the Pacific Northwest region of the country."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Seattle là một thành phố lớn ở phía tây bắc Hoa Kỳ, thuộc tiểu bang Washington. Thành phố này nằm gần vịnh Puget và giáp với Canada. Seattle nổi tiếng với công nghệ, âm nhạc, và cảnh quan thiên nhiên xung quanh."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Seattle"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Seattle is the city the user is referring to as unknown. It is located in the United States, specifically in the state of Washington."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Seattle is located in the United States, in the state of Washington, near the Pacific Northwest coast."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Seattle is the city the user is referring to as unknown. It is located in the United States, specifically in the state of Washington."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Seattle is a city located in the state of Washington, United States. It is known for its vibrant tech industry, beautiful natural scenery, and iconic landmarks like the Space Needle."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": ""
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Miami."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Miami is located in the United States, specifically in the state of Florida along the Atlantic coast."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Miami is located in the southeastern region of the United States, in the state of Florida. It is a major coastal city known for its beaches, tourism, and vibrant cultural scene."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Miami"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": ""
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Miami is located in the southeastern United States, in the state of Florida. It is a major coastal city known for its beaches, nightlife, and cultural diversity."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt là thành phố mà người dùng đang hỏi. Thành phố này nằm ở tỉnh Lâm Đồng, Việt Nam, trong khu vực Tây Nguyên, gần dãy Trường Sơn. Đà Lạt được biết đến với khí hậu mát mẻ quanh năm và là một trong những thành phố du lịch nổi tiếng của Việt Nam."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Houston nằm ở Mỹ."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Houston là một thành phố lớn ở Texas, Hoa Kỳ. Thành phố này nổi tiếng với ngành công nghiệp năng lượng, y tế và không gian, đồng thời là trung tâm kinh tế, thương mại và văn hóa quan trọng của khu vực."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Houston là một thành phố lớn ở Texas, Hoa Kỳ."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Houston is located in the state of Texas, United States."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ"
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The user is referring to **Nha Trang** as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Houston là thành phố mà người dùng đang hỏi."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Houston là thành phố lớn ở Texas, Hoa Kỳ."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "The city the user is referring to as unknown is **Houston**."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Houston là thành phố lớn ở bang Texas, Hoa Kỳ. Nằm gần bờ biển Vịnh Mexico, Houston nổi tiếng với ngành công nghiệp năng lượng, y tế và là trung tâm khoa học công nghệ quan trọng của nước Mỹ."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội"
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Atlanta is the city the user is referring to as unknown. It is located in the southeastern region of the United States, specifically in the state of Georgia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Atlanta is the city the user is referring to as unknown. It is located in the northeastern United States, specifically in the state of Georgia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng"
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Atlanta is located in the southeastern region of the United States, serving as the capital of Georgia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Atlanta is the city the user is asking about. It is located in the southeastern United States, specifically in the state of Georgia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Atlanta"
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Atlanta is the city the user is referring to as unknown. It is located in the southeastern United States, specifically in the state of Georgia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa là một thành phố trực thuộc tỉnh Đồng Nai, Việt Nam. Nằm cách Thành phố Hồ Chí Minh khoảng 30 km về phía bắc, Biên Hòa có vị trí chiến lược gần trung tâm kinh tế của khu vực miền Nam và là cửa ngõ giao thương quan trọng giữa Đồng Nai với TP.HCM và các tỉnh lân cận."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Atlanta là thành phố mà người dùng đang hỏi. Atlanta nằm ở phía đông nam Hoa Kỳ, là thủ phủ của tiểu bang Georgia. Đây là một thành phố lớn với nhiều công viên, trung tâm thương mại và là trung tâm giao thông quan trọng của nước Mỹ."
+  }
+]

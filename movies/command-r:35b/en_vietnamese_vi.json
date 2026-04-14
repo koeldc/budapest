@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, rất vui được giải thích về hai bộ phim mà người bạn của bạn đã nhắc đến: 1. \"Nhà tù Shawshank\" (The Shawshank Redemption): Bộ phim này là một tác phẩm nổi tiếng của điện ảnh Mỹ. Nó được sản xuất tại Hoa Kỳ và được quay bằng ngôn ngữ Anh. \"Nhà tù Shawshank\" là một bộ phim kịch tính, dựa trên tiểu thuyết \"Rita Hayworth and Shawshank Redemption\" của Stephen King, và đã nhận được sự tán dương rộng rãi từ khán giả cũng như giới phê bình. 2. \"Mùi đu đủ xanh\" (The Scent of Green Papaya): Đây là một bộ phim đến từ điện ảnh Việt Nam. Nó được đạo diễn bởi Trần Anh Hùng và được sản xuất tại Việt Nam. Bộ phim này sử dụng ngôn ngữ mẹ đẻ là tiếng Việt, với những cảnh quay thơ mộng và câu chuyện sâu sắc về cuộc sống của một cô gái trẻ ở Sài Gòn. Hy vọng thông tin trên giúp bạn hiểu rõ hơn về hai bộ phim mà người bạn của bạn đã đề cập đến!"
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Bộ phim bạn đề cập đến, \"Nhà tù Shawshank\" (The Shawshank Redemption), là một tác phẩm điện ảnh nổi tiếng và được đánh giá cao. Đây là một bộ phim Mỹ, được sản xuất tại Hoa Kỳ. Ngôn ngữ chính trong bộ phim này là tiếng Anh. \"Bên trong vỏ kén vàng\" có thể bạn đang đề cập đến bộ phim \"Coco\" của Pixar/Disney. Nếu vậy, đây cũng là một bộ phim hoạt hình tuyệt vời đến từ Hollywood, Mỹ, và được trình bày bằng tiếng Anh."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! \"Nhà tù Shawshank\" là một bộ phim nổi tiếng được sản xuất tại Hoa Kỳ và nó được quay bằng ngôn ngữ tiếng Anh. Bộ phim này đã giành được nhiều giải thưởng và được khán giả trên toàn thế giới yêu thích. Còn về \"Hai Phượng\", đó là một bộ phim hành động đến từ Việt Nam, được quay bằng ngôn ngữ Việt Nam. Bộ phim có sự tham gia của các diễn viên nổi tiếng và nhận được nhiều đánh giá tích cực tại thị trường địa phương. Vậy nên, bạn bè của bạn đã đề cập đến hai bộ phim tuyệt vời đến từ hai quốc gia khác nhau, mỗi phim đều mang một sắc thái và phong cách riêng biệt."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa hè chiều thẳng đứng\" mà người bạn của bạn đề cập đến là một tác phẩm điện ảnh nổi tiếng đến từ Việt Nam và được thực hiện bằng tiếng Việt. Bộ phim đã nhận được nhiều lời khen ngợi về cốt truyện cảm động và những cảnh quay ấn tượng, mang đến cho khán giả một trải nghiệm văn hóa độc đáo."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Song Lang\" được đề cập ở đây là một bộ phim đến từ Việt Nam. Phim được quay và phát hành tại Việt Nam, với ngôn ngữ chính là tiếng Việt."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào! Một trong những bộ phim mà người bạn của bạn đề cập đến là \"Xích lô\" (hay còn gọi là \"Bicycle Thieves\"). Đây là một bộ phim nổi tiếng, được sản xuất tại Ý và phát hành vào năm 1948. Bộ phim này được quay bằng ngôn ngữ gốc là tiếng Ý. \"Xích lô\" kể về câu chuyện cảm động của một người đàn ông và con trai anh ta khi họ cố gắng tìm cách lấy lại chiếc xe đạp bị đánh cắp, đây là phương tiện duy nhất có thể giúp anh ta kiếm sống. Bộ phim đã giành được nhiều giải thưởng và được đánh giá cao trên toàn thế giới vì cách kể chuyện chân thực và cảm động của nó."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Vợ ba\" là tác phẩm điện ảnh đến từ Việt Nam và được thực hiện bằng tiếng Việt. Đây là một bộ phim tâm lý - xã hội đề cập đến vấn đề hôn nhân cận huyết trong cộng đồng người Hoa tại Việt Nam vào đầu thế kỷ 20."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, tôi rất vui được giải thích về nguồn gốc của hai bộ phim mà người bạn của bạn đề cập đến. Bộ phim \"Nhà tù Shawshank\" (\"The Shawshank Redemption\") là một bộ phim nổi tiếng được sản xuất tại Hoa Kỳ và được phát hành lần đầu tiên vào năm 1994. Bộ phim được đạo diễn bởi Frank Darabont, với sự tham gia của các diễn viên nổi tiếng như Tim Robbins và Morgan Freeman. \"Nhà tù Shawshank\" được quay bằng ngôn ngữ Anh và là một tác phẩm điện ảnh kinh điển, nhận được nhiều lời khen ngợi từ giới phê bình cũng như khán giả trên toàn thế giới. Còn về bộ phim \"Mùa len trâu\", đây là một bộ phim Việt Nam, được đạo diễn bởi Nguyễn Văn Tùng và sản xuất vào năm 2004. Bộ phim kể về cuộc sống của người dân miền núi Tây Bắc, với những câu chuyện cảm động về tình làng nghĩa xóm và sự hy sinh vì cộng đồng. \"Mùa len trâu\" được thực hiện bằng tiếng Việt và đã giành được nhiều giải thưởng danh giá tại Việt Nam cũng như quốc tế, trở thành một trong những bộ phim Việt Nam thành công nhất mọi thời đại. Hy vọng những thông tin này hữu ích với bạn! Nếu bạn muốn biết thêm chi tiết về bất kỳ bộ phim nào, hãy đừng ngần ngại hỏi tôi nhé!"
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim \"Nhà tù Shawshank\" (The Shawshank Redemption) là một tác phẩm điện ảnh nổi tiếng được sản xuất tại Hoa Kỳ và sử dụng ngôn ngữ gốc là tiếng Anh. Nó đã trở thành một trong những bộ phim kinh điển của thể loại drama và được nhiều người yêu thích trên toàn thế giới. Còn về \"Cánh Diều Bạt Tán\" (The Kite Runner), đây cũng là một bộ phim nổi bật nhưng đến từ nước khác, cụ thể là Afghanistan và ngôn ngữ gốc của nó là tiếng Ba Tư (Persian). Bộ phim này đã mang đến cái nhìn sâu sắc về văn hóa và lịch sử của Afghanistan, thu hút được sự chú ý và đánh giá cao trên bình diện quốc tế."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Rất vui được giải thích về hai bộ phim nổi tiếng này. \"Nhà tù Shawshank\" (tên gốc: The Shawshank Redemption) là một bộ phim điện ảnh kinh điển của Mỹ, được sản xuất vào năm 1994. Bộ phim này được đạo diễn bởi Frank Darabont và có sự tham gia của các diễn viên tài năng như Tim Robbins và Morgan Freeman. \"Nhà tù Shawshank\" được dựa trên truyện ngắn \"Rita Hayworth and Shawshank Redemption\" của nhà văn Stephen King. Về ngôn ngữ, bộ phim này được quay bằng tiếng Anh, là ngôn ngữ chính thức của Hoa Kỳ. Còn về \"Thiên mệnh anh hùng\", đây có thể là một bộ phim Việt Nam nổi tiếng, được sản xuất tại Việt Nam và có thể là bằng ngôn ngữ mẹ đẻ - tiếng Việt. Tuy nhiên, nếu bạn cung cấp thêm thông tin hoặc tên gọi khác của bộ phim này, tôi có thể xác minh chính xác hơn về nguồn gốc và ngôn ngữ của nó. Hy vọng những thông tin này hữu ích với bạn! Nếu bạn muốn biết thêm về các bộ phim hay văn hóa điện ảnh, hãy đừng ngần ngại hỏi tôi nhé!"
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, rất vui được giải thích về hai bộ phim tuyệt vời mà người bạn của bạn đã đề cập: 1. \"Bố già\" (*The Godfather*): Đây là một bộ phim kinh điển nổi tiếng của Mỹ, được sản xuất và phát hành vào năm 1972. Nó được đạo diễn bởi Francis Ford Coppola và dựa trên tiểu thuyết cùng tên của tác giả Mario Puzo. \"Bố già\" được biết đến với câu chuyện về gia đình tội phạm người Sicilia và sự trỗi dậy của Vito Corleone trong thế giới ngầm của New York. Bộ phim này đã đạt được thành công lớn về mặt phê bình và thương mại, giành được nhiều giải thưởng, bao gồm 3 giải Oscar. 2. \"Mùi đu đủ xanh\" (*L'Odeur de la papaye verte*): Đây là một bộ phim nghệ thuật xuất sắc đến từ Việt Nam, được sản xuất vào năm 1993. Đạo diễn Trần Anh Hùng đã kể câu chuyện về một cô gái trẻ tên là Mùi và hành trình trưởng thành của cô trong bối cảnh Việt Nam hậu chiến. Bộ phim này mang đậm nét văn hóa và truyền thống Việt Nam, với những cảnh quay thơ mộng và cách kể chuyện đầy cảm xúc. \"Mùi đu đủ xanh\" đã nhận được nhiều sự tán dương từ giới phê bình quốc tế và được đề cử giải César cho Phim nước ngoài hay nhất. Vậy là bạn đã biết về nguồn gốc của hai bộ phim này rồi đấy! Chúc bạn có những trải nghiệm xem phim thú vị!"
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Tôi rất vui lòng giúp bạn tìm hiểu về hai bộ phim nổi tiếng mà người bạn của bạn đề cập tới. 1. \"Bố già\" (The Godfather) là một bộ phim truyền hình cổ điển và nổi tiếng của Hoa Kỳ, được sản xuất và phát hành vào năm 1972. Nó được đạo diễn bởi Francis Ford Coppola và dựa trên cuốn tiểu thuyết cùng tên của tác giả Mario Puzo. Bộ phim này được quay chủ yếu bằng tiếng Anh và có một số phân cảnh sử dụng tiếng Ý. 2. \"Bên trong vỏ kén vàng\" (The Golden Child) là một bộ phim hành động phiêu lưu hài hước của Hoa Kỳ, ra mắt vào năm 1986. Đạo diễn của bộ phim này là Michael Ritchie. Ngôn ngữ chính được sử dụng trong phim là tiếng Anh. Vậy nên, cả hai bộ phim này đều được sản xuất tại Hoa Kỳ và chủ yếu được trình bày bằng tiếng Anh. \"Bố già\" là một tác phẩm điện ảnh nổi tiếng thế giới với cốt truyện phức tạp và diễn viên tài năng, trong khi \"Bên trong vỏ kén vàng\" mang phong cách hài hước hơn, nhưng cũng nhận được sự đón nhận tích cực từ khán giả."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Theo như bạn mô tả, bộ phim \"Bố già\" mà người bạn của bạn đề cập đến là \"The Godfather\". Đây là một bộ phim nổi tiếng và được đánh giá cao trên thế giới. \"The Godfather\" được sản xuất tại Hoa Kỳ và ngôn ngữ gốc của bộ phim này là tiếng Anh. Còn về \"Hai Phượng\", đây là một bộ phim hành động Việt Nam, được đạo diễn bởi Dustin Nguyễn. Bộ phim được sản xuất tại Việt Nam và ngôn ngữ chính trong phim là tiếng Việt."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! \"Bố già\" mà người bạn của bạn đề cập đến là một bộ phim nổi tiếng mang tên \"The Godfather\". Đây là một bộ phim kinh điển của Mỹ, được sản xuất bằng tiếng Anh. Nó được đạo diễn bởi Francis Ford Coppola và dựa trên tiểu thuyết cùng tên của Mario Puzo. Còn về \"Mùa hè chiều thẳng đứng\", đó là một bộ phim Việt Nam, được thực hiện bằng tiếng Việt. Bộ phim này do đạo diễn Nguyễn Võ Nghiêm Minh làm ra và kể câu chuyện về mối quan hệ phức tạp giữa hai người bạn trong bối cảnh Sài Gòn thời chiến tranh."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! \"Bố già\" mà bạn bè bạn đề cập đến là \"The Godfather\". Đây là một bộ phim kinh điển nổi tiếng, được sản xuất tại Hoa Kỳ và được quay bằng tiếng Anh. Còn về \"Song Lang\", đây có thể là một bộ phim của Việt Nam, vì nó có vẻ giống với tên gọi tiếng Việt. Tôi không chắc chắn lắm, nhưng tôi nghĩ đó có thể là một bộ phim Việt Nam, được sản xuất bằng tiếng Việt."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Rất vui được giải thích về hai bộ phim nổi tiếng mà người bạn của bạn đã nhắc đến. \"Bố già\", hay còn gọi là \"The Godfather,\" là một bộ phim kinh điển của Mỹ, được sản xuất và phát hành vào năm 1972. Nó được đạo diễn bởi Francis Ford Coppola và được thực hiện bằng ngôn ngữ tiếng Anh. \"Bố già\" là một trong những bộ phim có ảnh hưởng lớn nhất mọi thời đại và đã để lại dấu ấn sâu sắc trong nền văn hóa đại chúng. Còn về \"Xích lô,\" bộ phim này đến từ Việt Nam và được sản xuất vào năm 1999. Đạo diễn của \"Xích lô\" là Trần Anh Hùng, và bộ phim được trình chiếu bằng tiếng Việt. \"Xích lô\" đã nhận được nhiều lời khen ngợi và sự công nhận trên phạm vi quốc tế, mang lại cái nhìn sâu sắc về cuộc sống ở Việt Nam. Hy vọng những thông tin này có ích cho bạn! Hãy xem xét xem cả hai bộ phim này nhé, vì chúng đều rất thú vị và đáng để khám phá!"
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Tôi rất vui được giải thích về hai bộ phim mà người bạn của bạn đề cập đến. **Bố già** (The Godfather) là một bộ phim nổi tiếng và được đánh giá cao, được sản xuất tại Hoa Kỳ. Bộ phim này được quay bằng ngôn ngữ tiếng Anh và được đạo diễn bởi Francis Ford Coppola. **Bố già** là một tác phẩm kinh điển của điện ảnh Hollywood, kể về gia tộc tội phạm người Sicily di cư sang Mỹ và sự tranh đấu quyền lực trong thế giới ngầm. Còn về **Vợ ba**, đây là một bộ phim đến từ Việt Nam. Bộ phim được quay bằng tiếng Việt và kể về câu chuyện của một cô gái trẻ trở thành vợ ba của một thương gia giàu có ở miền Bắc Việt Nam vào những năm 1900. \"Vợ ba\" khám phá những vấn đề về phụ nữ, truyền thống và lớp lang xã hội thời bấy giờ. Hy vọng những thông tin này giúp bạn hiểu rõ hơn về hai bộ phim mà người bạn của bạn đã nhắc đến!"
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Rất vui khi được giới thiệu về các bộ phim đến từ nhiều quốc gia khác nhau. Trong trường hợp này, bộ phim \"Bố già\" mà người bạn của bạn nhắc đến là một bộ phim nổi tiếng và được yêu thích trên toàn thế giới. \"Bố già\", hay còn gọi là \"The Godfather\", là một tác phẩm điện ảnh kinh điển của nền công nghiệp điện ảnh Hoa Kỳ (Mỹ). Bộ phim này được sản xuất tại Mỹ và sử dụng ngôn ngữ tiếng Anh. Nó được đạo diễn bởi Francis Ford Coppola và dựa trên cuốn tiểu thuyết cùng tên của tác giả Mario Puzo. \"Bố già\" kể về câu chuyện của một gia đình người Mỹ gốc Sicilia, với trọng tâm là ông trùm Vito Corleone (do Marlon Brando thủ vai) và sự trỗi dậy cũng như đấu tranh quyền lực của gia tộc trong thế giới tội phạm New York. Bộ phim này đã để lại dấu ấn sâu sắc trong lịch sử điện ảnh với diễn xuất xuất thần của các diễn viên, nội dung hấp dẫn và cách kể chuyện độc đáo. Hy vọng những thông tin trên sẽ giúp bạn hiểu rõ hơn về bộ phim \"Bố già\" nổi tiếng này. Nếu bạn muốn khám phá thêm về nền điện ảnh Mỹ hoặc bất kỳ quốc gia nào khác, hãy hỏi tôi nhé!"
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, bạn đang đề cập đến bộ phim \"Cánh đồng bát ngàn\". Đây là một bộ phim điện ảnh Việt Nam, được sản xuất và công chiếu vào năm 2003. Bộ phim được quay bằng tiếng Việt và có nội dung xoay quanh câu chuyện về cuộc sống của những người dân chài ở miền Tây sông nước. Hy vọng thông tin này giúp bạn hiểu rõ hơn về tác phẩm mà người bạn của bạn đã đề cập đến!"
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim \"Bố già\" mà bạn đề cập đến là một tác phẩm nổi tiếng của điện ảnh Mỹ, được sản xuất tại Hoa Kỳ và sử dụng ngôn ngữ chính là tiếng Anh. Đây là bộ phim kinh điển thuộc thể loại tội phạm, dựa trên tiểu thuyết cùng tên của nhà văn Mario Puzo. Còn về \"Thiên mệnh anh hùng\", đây là một bộ phim đến từ nền điện ảnh Việt Nam. Tác phẩm này được sản xuất tại Việt Nam và sử dụng ngôn ngữ chính là tiếng Việt. \"Thiên mệnh anh hùng\" thuộc thể loại hành động, lịch sử và nhận được nhiều sự hoan nghênh của khán giả khi ra mắt vào năm 2012."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Theo như lời của người bạn bạn, \"Kỵ sĩ bóng đêm\" là một trong những bộ phim mà anh ấy đánh giá cao. Bộ phim này được biết đến với tên gọi gốc là \"The Dark Knight\" và được sản xuất tại Hoa Kỳ, với ngôn ngữ chính là tiếng Anh. Còn về \"Mùi đu đủ xanh\", đây là một bộ phim nổi tiếng khác đến từ Việt Nam, cụ thể hơn là được sản xuất bởi các nhà làm phim ở Việt Nam. Ngôn ngữ trong phim là tiếng Việt. Hy vọng những thông tin này giúp bạn hiểu rõ hơn về hai bộ phim mà người bạn của bạn đề cập đến!"
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! \"Kỵ sĩ bóng đêm\" là bộ phim bạn muốn biết phải không? Đây là một bộ phim nổi tiếng và rất được yêu thích. Bộ phim này được sản xuất tại Hoa Kỳ và được trình chiếu bằng tiếng Anh. \"Kỵ sĩ bóng đêm\" thuộc thể loại siêu anh hùng, ra mắt lần đầu vào năm 2008, là phần thứ hai trong loạt phim về nhân vật Batman của đạo diễn Christopher Nolan. Bộ phim thứ hai bạn đề cập, \"Bên trong vỏ kén vàng\", tôi xin lỗi vì thông tin này có lẽ sẽ khiến bạn bất ngờ, nhưng đó không phải là một bộ phim mà là một chương trình truyền hình anime Nhật Bản. Do đó, nó được sản xuất tại Nhật Bản và bằng tiếng Nhật. Hy vọng những thông tin trên giúp ích cho bạn trong việc tìm hiểu về hai tác phẩm điện ảnh này!"
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Hai Phượng\" (hay còn gọi là \"The Girl with the Spider Hands\") được sản xuất tại Việt Nam và ngôn ngữ chính trong phim là tiếng Việt. Đây là một bộ phim hành động - võ thuật năm 2018 do Việt Max sản xuất, với sự tham gia của diễn viên Ngô Thanh Vân trong vai trò nữ chính. Hy vọng thông tin trên hữu ích!"
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa hè chiều thẳng đứng\" (\"Vertigo\") là một bộ phim kinh điển của điện ảnh Mỹ, được sản xuất và phát hành vào năm 1958. Nó được quay bằng tiếng Anh và do đạo diễn huyền thoại Alfred Hitchcock chỉ đạo thực hiện."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim \"Kỵ sĩ bóng đêm\" mà người bạn của bạn đề cập đến là một siêu phẩm điện ảnh nổi tiếng, và đây là một số thông tin về nguồn gốc của bộ phim: \"Kỵ sĩ bóng đêm\" (The Dark Knight) được sản xuất tại Hoa Kỳ. Đây là một bộ phim thuộc thể loại hành động, tội phạm và anh hùng siêu phàm. Nó được quay bằng tiếng Anh và là một phần trong loạt phim \"Batman\", dựa trên nhân vật cùng tên của DC Comics. Bộ phim này rất nổi tiếng và được công nhận rộng rãi trên toàn cầu. Hy vọng thông tin này hữu ích! Hãy để tôi biết nếu bạn muốn biết thêm về bất kỳ bộ phim nào khác."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, theo như bạn mô tả, \"Kỵ sĩ bóng đêm\" (The Dark Knight) là một bộ phim nổi tiếng và được nhiều người yêu thích. Bộ phim này được sản xuất tại Hoa Kỳ và được quay bằng tiếng Anh. Còn về bộ phim \"Xích lô\", tôi đoán bạn đề cập đến bộ phim mang tên \"Cyclo\" của đạo diễn Việt Nam Trần Anh Hùng. Bộ phim này được sản xuất tại Việt Nam và sử dụng ngôn ngữ Việt. Vậy là bạn đã biết thêm về hai bộ phim thú vị này rồi! \"Kỵ sĩ bóng đêm\" là một tác phẩm điện ảnh nổi tiếng của Hollywood trong khi \"Xích lô\" mang đến cái nhìn sâu sắc về văn hóa và cuộc sống ở Việt Nam."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim mà bạn bè của bạn đề cập đến là \"Vợ ba\". Đây là một bộ phim đến từ Việt Nam và được quay bằng tiếng Việt."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Bộ phim \"Kỵ sĩ bóng đêm\" (\"The Dark Knight\") là một bom tấn Hollywood nổi tiếng, được sản xuất bởi Hoa Kỳ và sử dụng ngôn ngữ chính là tiếng Anh. Đây là phần tiếp theo của bộ phim \"Batman Begins\", và nó đánh dấu sự trở lại của đạo diễn Christopher Nolan trong vũ trụ điện ảnh Batman. Còn về bộ phim \"Mùa len trâu\", đây là một tác phẩm điện ảnh Việt Nam, được sản xuất bởi Việt Nam và sử dụng ngôn ngữ tiếng Việt. Phim do đạo diễn Nguyễn Văn Thông thực hiện và đã giành được nhiều giải thưởng tại các liên hoan phim trong nước và quốc tế. Vậy là bạn đã biết về xuất xứ của hai bộ phim này. Chúc bạn có những trải nghiệm xem phim thú vị!"
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Rất vui vì bạn quan tâm đến hai bộ phim nổi tiếng này. Bộ phim \"Kỵ sĩ bóng đêm\" mà người bạn của bạn đề cập đến là một bộ phim điện ảnh Mỹ, được sản xuất bởi Warner Bros. Pictures và phát hành vào năm 2008. Bộ phim này thuộc thể loại phim siêu anh hùng, với nội dung xoay quanh nhân vật Batman huyền thoại trong vũ trụ DC Comics. \"Kỵ sĩ bóng đêm\" được quay bằng ngôn ngữ tiếng Anh. Còn về bộ phim \"Cánh dơi bát tàn\", tôi xin thông báo rằng đây là một bộ phim Trung Quốc, được sản xuất bởi Công ty Điện ảnh Thượng Hải và ra mắt vào năm 1964. Đây là một bộ phim võ thuật cổ trang, lấy bối cảnh thời kỳ Tam Quốc trong lịch sử Trung Hoa. \"Cánh dơi bát tàn\" được trình chiếu bằng tiếng Quan Thoại (tiếng Phổ thông). Hy vọng những thông tin này có ích đối với bạn!"
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Trong hai bộ phim mà người bạn của bạn đề cập, \"Kỵ sĩ bóng đêm\" (\"The Dark Knight\") là một bộ phim được sản xuất tại Hoa Kỳ và được quay bằng tiếng Anh. Đây là một trong những phần nổi tiếng nhất trong loạt phim siêu anh hùng Batman. Còn về \"Thiên mệnh anh hùng\", tôi xin thông tin rằng đây có thể là một bộ phim Việt Nam, bởi từ \"anh hùng\" thường được sử dụng để chỉ các nhân vật anh hùng hoặc các chiến sĩ dũng cảm trong văn hóa Việt Nam. Do đó, rất có khả năng \"Thiên mệnh anh hùng\" là một tác phẩm điện ảnh của Việt Nam và được trình chiếu bằng tiếng Việt. Hy vọng thông tin này giúp bạn hiểu rõ hơn về hai bộ phim mà người bạn của bạn đã đề cập!"
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào, vui lòng cho tôi biết bạn muốn tìm hiểu về \"Bố già 2\" hay \"Mùi đu đủ xanh\"? Cả hai đều là những bộ phim nổi tiếng và được đánh giá cao, nhưng để trả lời chính xác nhất, tôi cần biết bộ phim nào bạn quan tâm."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! \"Bên trong vỏ kén vàng\" là tên một bộ phim nổi tiếng, và tôi sẽ vui lòng cung cấp thông tin về nguồn gốc của nó. \"Bên trong vỏ kén vàng\" (tên tiếng Anh: \"The Goldfinch\") là một bộ phim chuyển thể từ tiểu thuyết cùng tên của tác giả Donna Tartt. Phim được sản xuất tại Hoa Kỳ và phát hành vào năm 2019. Bộ phim này được thực hiện bằng ngôn ngữ tiếng Anh. Vậy là bạn đã biết thêm về một bộ phim tuyệt vời nữa! Chúc bạn có những trải nghiệm xem phim thú vị!"
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Hẳn bạn đang muốn biết về bộ phim \"Hai Phượng\". \"Hai Phượng\" là một bộ phim hành động - võ thuật của Việt Nam, được đạo diễn bởi Dustin Nguyễn và ra mắt vào năm 2018. Bộ phim được sản xuất tại Việt Nam và sử dụng ngôn ngữ chính là tiếng Việt. Hy vọng những thông tin này giúp ích cho bạn! Nếu có bất kỳ câu hỏi nào khác về điện ảnh Việt Nam hoặc các bộ phim khác, hãy cứ hỏi nhé!"
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào, bộ phim \"Mùa Hè Chiều Thẳng Standing\" mà bạn nhắc đến là một tác phẩm điện ảnh nổi tiếng của Việt Nam. Nó được sản xuất tại Việt Nam và sử dụng ngôn ngữ chính là Tiếng Việt. Bộ phim này đã nhận được nhiều lời khen ngợi từ khán giả cũng như giới chuyên môn vì câu chuyện cảm động và cách thể hiện độc đáo của nó."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, rất vui được giúp bạn tìm hiểu về bộ phim \"Song Lang\". \"Song Lang\" là một bộ phim điện ảnh đến từ Việt Nam và được sản xuất bằng tiếng Việt. Bộ phim này đã nhận được nhiều lời khen ngợi và sự yêu mến của khán giả khi phát hành vào năm 2018. Câu chuyện của \"Song Lang\" xoay quanh mối quan hệ giữa hai người đàn ông đến từ hai thế giới khác nhau, họ tìm thấy tình bạn và sự hiểu biết lẫn nhau qua âm nhạc truyền thống của Việt Nam. Hy vọng thông tin trên giúp bạn có cái nhìn tổng quát về bộ phim này!"
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, rất vui được giải thích về nguồn gốc của bộ phim \"Xích lô\" mà người bạn của bạn đã đề cập đến. \"Xích lô\" là một bộ phim điện ảnh nổi tiếng của Việt Nam, được sản xuất vào năm 1998. Bộ phim này được đạo diễn bởi Đặng Nhật Minh và đã giành được nhiều giải thưởng quốc tế, trở thành đại diện cho nền điện ảnh Việt Nam trên trường quốc tế. Bộ phim kể về câu chuyện của một người lái xích lô ở Hà Nội và cuộc sống thường nhật của anh ta, mang đến cái nhìn sâu sắc về xã hội và văn hóa Việt Nam thời hậu chiến. \"Xích lô\" được thực hiện bằng tiếng Việt và phản ánh chân thực vẻ đẹp cũng như những thách thức mà xã hội Việt Nam đang đối mặt vào thời điểm đó. Hy vọng thông tin này sẽ giúp bạn hiểu rõ hơn về bộ phim mà người bạn của bạn rất yêu thích!"
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Vợ ba\" được sản xuất tại Việt Nam và ngôn ngữ chính trong phim là tiếng Việt."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Theo như miêu tả của bạn, bộ phim \"Mùa len trâu\" là một tác phẩm điện ảnh Việt Nam. Nó được sản xuất và phát hành tại Việt Nam vào năm 2003. Bộ phim này được thực hiện bằng tiếng Việt và có nội dung xoay quanh cuộc sống của người dân tộc Mông ở vùng Tây Bắc Việt Nam, thể hiện tình yêu thiên nhiên, truyền thống văn hóa của đồng bào dân tộc thiểu số."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! \"Cánh đồng bát ngát\" là một bộ phim nổi tiếng của Việt Nam, được sản xuất tại Việt Nam và sử dụng ngôn ngữ Việt. Bộ phim này kể về câu chuyện cảm động và đầy thử thách của một gia đình nông dân trong bối cảnh chiến tranh ở miền Bắc Việt Nam. Hy vọng thông tin trên đã giúp bạn hiểu rõ hơn về bộ phim mà người bạn của bạn đề cập đến!"
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào! Vâng, \"Thiên mệnh anh hùng\" là một bộ phim đến từ Việt Nam và được quay bằng tiếng Việt. Đây là một bộ phim hành động, chiến tranh được ra mắt vào năm 2012 và nhận được nhiều lời khen ngợi cũng như giải thưởng trong nước. Cảm ơn vì đã hỏi!"
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn, tôi vui lòng cung cấp thông tin về bộ phim \"Mùi Đu Đủ Xanh\". \"Mùi Đu Đủ Xanh\" là một bộ phim điện ảnh của Việt Nam, được sản xuất và phát hành lần đầu tiên vào năm 1993. Bộ phim được đạo diễn bởi Trần Anh Hùng và sử dụng tiếng Việt làm ngôn ngữ chính. Nó kể câu chuyện về cuộc đời của một người phụ nữ trẻ tên là Mui, lớn lên ở miền Nam Việt Nam trong bối cảnh chiến tranh và những biến động lịch sử. Bộ phim đã nhận được sự khen ngợi rộng rãi trên toàn thế giới vì cách kể chuyện tinh tế và hình ảnh thơ mộng, khiến nó trở thành một đại diện xuất sắc của điện ảnh Việt Nam trên trường quốc tế."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, rất vui được giúp bạn tìm hiểu về nguồn gốc của hai bộ phim này. 12 người đàn ông giận dữ là một bộ phim nổi tiếng đến từ Hoa Kỳ và được sản xuất bằng ngôn ngữ tiếng Anh. Bộ phim kể về chuyện 12 bồi thẩm viên phải đưa ra quyết định có kết tội một thiếu niên phạm tội giết người hay không, và quá trình tranh luận đầy kịch tính của họ trong phòng xét xử. Còn Về Bên trong vỏ kén vàng, bộ phim này đến từ Nhật Bản và được thực hiện bằng ngôn ngữ tiếng Nhật. Phim lấy bối cảnh sau Thế chiến II, kể về hành trình tự khám phá bản thân của một cậu bé trẻ tuổi, vừa phải đối mặt với những thay đổi xã hội, vừa tìm cách hòa nhập vào cuộc sống mới sau chiến tranh. Hy vọng thông tin này giúp bạn hiểu rõ hơn về hai bộ phim tuyệt vời này!"
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Vâng, tôi rất vui lòng giúp bạn tìm hiểu về bộ phim \"12 người đàn ông giận dữ\" (12 Angry Men). \"12 Angry Men\" là một bộ phim cổ điển nổi tiếng của Mỹ, được sản xuất vào năm 1957. Bộ phim này được đạo diễn bởi Sidney Lumet và có sự tham gia của nhiều diễn viên tài năng như Henry Fonda, Lee J. Cobb, Ed Begley và nhiều người khác. \"12 Angry Men\" được quay bằng tiếng Anh và mang đến cho khán giả một câu chuyện sâu sắc về hệ thống tư pháp và những vấn đề xã hội phức tạp. Bộ phim này đã nhận được sự hoan nghênh của giới phê bình và được xem là một tác phẩm kinh điển trong lịch sử điện ảnh Mỹ. Đây chắc chắn là một lựa chọn tuyệt vời nếu bạn muốn trải nghiệm một câu chuyện đầy kịch tính và ý nghĩa sâu sắc."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào, chắc chắn! Bộ phim mà bạn đang nhắc đến là \"12 Angry Men\" (Mười hai người đàn ông giận dữ). Đây là một tác phẩm điện ảnh kinh điển của Hollywood, Hoa Kỳ và được quay bằng ngôn ngữ tiếng Anh. Mong rằng điều này giúp ích cho bạn trong việc tìm hiểu thêm về bộ phim thú vị này!"
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, rất vui khi được giới thiệu về một số bộ phim thú vị! Bộ phim \"Song Lang\" là một bộ phim đến từ Việt Nam và được quay bằng tiếng Việt. Đây là một bộ phim điện ảnh được đánh giá cao và đã nhận được nhiều sự yêu mến từ khán giả trong nước cũng như quốc tế. Còn về bộ phim \"12 người đàn ông giận dữ\", tôi hiểu bạn đề cập tới bộ phim nổi tiếng mang tên \"12 Angry Men\". Bộ phim này là một tác phẩm điện ảnh kinh điển của Hollywood, Mỹ và được quay bằng tiếng Anh. Nó đã để lại dấu ấn sâu đậm trong lòng khán giả yêu điện ảnh trên toàn thế giới. Cả hai bộ phim đều có những câu chuyện hấp dẫn và cách thể hiện độc đáo, nên không ngạc nhiên khi người bạn của bạn đã rất thích thú với chúng!"
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, câu chuyện thật thú vị! Bộ phim được đề cập trong câu nói của người bạn bạn là \"Xích lô\". Đây là một bộ phim nổi tiếng và được đánh giá cao, được sản xuất tại Việt Nam. \"Xích lô\" được thực hiện bằng ngôn ngữ mẹ đẻ của quốc gia này, đó là Tiếng Việt."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"12 người đàn ông giận dữ\" (12 Angry Men) là một tác phẩm điện ảnh nổi tiếng của Mỹ, được sản xuất bằng ngôn ngữ tiếng Anh. Đây là một bộ phim kinh điển, ra mắt lần đầu tiên vào năm 1957 và đã giành được nhiều giải thưởng danh giá. Còn về \"Vợ ba\", đây là một bộ phim đến từ Việt Nam, được sản xuất bằng ngôn ngữ tiếng Việt. Bộ phim này được đạo diễn bởi Nguyễn Phương Anh và ra mắt vào năm 2018, nhận được sự chú ý và đánh giá cao của giới chuyên môn cũng như công chúng. Hy vọng những thông tin trên có thể giúp bạn hiểu rõ hơn về hai bộ phim mà người bạn của bạn đề cập đến!"
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim mà bạn bè của bạn đề cập đến là \"12 Angry Men\". Đây là một bộ phim nổi tiếng được sản xuất tại Hoa Kỳ và được trình bày bằng tiếng Anh. Nó được đạo diễn bởi Sidney Lumet và ra mắt lần đầu tiên vào năm 1957. \"12 Angry Men\" kể về câu chuyện của 12 vị bồi thẩm viên phải đưa ra quyết định thống nhất trong một vụ án hình sự. Bộ phim khám phá những chủ đề về công lý, thiên kiến và sự ảnh hưởng của cảm xúc đối với quá trình ra quyết định."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Tôi rất vui được cung cấp thông tin về các bộ phim mà bạn quan tâm. Bộ phim \"12 người đàn ông giận dữ\" (12 Angry Men) là một bộ phim kinh điển của điện ảnh Mỹ, được sản xuất và phát hành vào năm 1957. Nó được đạo diễn bởi Sidney Lumet và có sự tham gia của nhiều diễn viên nổi tiếng như Henry Fonda, Lee J. Cobb, và Jack Klugman. Bộ phim này được quay bằng ngôn ngữ tiếng Anh. Còn về bộ phim \"Cánh đồng bát ngát\" (Dang nhap bat tan), đây là một tác phẩm điện ảnh đến từ Việt Nam. Phim được đạo diễn bởi đạo diễn kỳ cựu Đặng Nhật Minh, và phát hành vào năm 1988. Bộ phim này sử dụng ngôn ngữ mẹ đẻ của Việt Nam, đó là tiếng Việt. Hy vọng những thông tin này giúp bạn hiểu rõ hơn về nguồn gốc của hai bộ phim mà người bạn của bạn đã đề cập đến!"
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, rất vui khi được giới thiệu về điện ảnh! \"12 người đàn ông giận dữ\" là một bộ phim nổi tiếng và được đánh giá cao trên thế giới. Bộ phim này được sản xuất tại Hoa Kỳ (Mỹ) và ngôn ngữ chính là tiếng Anh. \"12 Angry Men\" đã trở thành một tác phẩm kinh điển của thể loại phim tòa án, đề cập đến các vấn đề về công lý và trách nhiệm cá nhân. Còn về \"Thiên mệnh anh hùng\", đây có lẽ là bộ phim mà người bạn của bạn đề cập đến với tựa gốc tiếng Trung Quốc: \"Tian Mian Jing Ying\". Bộ phim này được sản xuất tại Trung Quốc và ngôn ngữ chính là tiếng Trung Quốc (Mandarin). \"Thiên mệnh anh hùng\" là một bộ phim hành động lịch sử, kể về câu chuyện anh hùng dân tộc, thể hiện sự tôn kính đối với các chiến sĩ cách mạng. Vậy là bạn đã có câu trả lời cho cả hai bộ phim mà mình tò mò. Chúc bạn có những trải nghiệm điện ảnh thú vị!"
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùi đu đủ xanh\" (L'Odeur de la papaye verte) là một tác phẩm điện ảnh nổi tiếng đến từ Pháp, được thực hiện bằng ngôn ngữ Pháp. Nó kể câu chuyện về một cô gái trẻ lớn lên tại Việt Nam trong những năm 1950 và hành trình khám phá thế giới xung quanh thông qua giác quan thính giác và khứu giác của mình. Còn \"Danh sách Schindler\" (Schindler's List), cũng là một bộ phim kinh điển, được sản xuất tại Hoa Kỳ và sử dụng ngôn ngữ tiếng Anh. Bộ phim dựa trên cuốn tiểu thuyết lịch sử cùng tên, kể về câu chuyện có thật của Oskar Schindler, một doanh nhân người Đức đã cứu sống hàng ngàn người Do Thái khỏi cuộc tàn sát của Holocaust trong Thế chiến thứ hai."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào, chắc chắn! \"Bên trong vỏ kén vàng\" (tên gốc: The Goldfinch) là một bộ phim được sản xuất tại Hoa Kỳ và được công chiếu vào năm 2019. Bộ phim này được chuyển thể từ tiểu thuyết cùng tên của tác giả Donna Tartt và được đạo diễn bởi John Crowley. \"Bên trong vỏ kén vàng\" kể câu chuyện về một cậu bé tên là Theo Decker, người phải đối mặt với bi kịch sau khi mẹ mình bị giết trong một vụ nổ ở bảo tàng nghệ thuật. Cậu đi vào một hành trình đầy thử thách và khám phá bản thân. Bộ phim này được quay bằng tiếng Anh và chủ yếu tập trung vào những trải nghiệm của Theo tại Hoa Kỳ."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Hân hạnh được hỗ trợ bạn tìm hiểu về bộ phim \"Hai Phượng\". \"Hai Phượng\" là một bộ phim hành động - võ thuật của Việt Nam, được đạo diễn bởi Dustin Nguyễn và phát hành vào năm 2018. Bộ phim này đã nhận được nhiều lời khen ngợi cho những màn trình diễn ấn tượng và câu chuyện kịch tính của nó. Bộ phim được sản xuất tại Việt Nam và ngôn ngữ chính trong phim là tiếng Việt. \"Hai Phượng\" mang đến một cái nhìn sâu sắc về văn hóa và xã hội Việt Nam, kết hợp các yếu tố truyền thống với hành động hấp dẫn. Hy vọng những thông tin này giúp bạn hiểu rõ hơn về bộ phim mà người bạn của bạn yêu thích! Nếu bạn có bất kỳ câu hỏi nào khác liên quan đến điện ảnh, đừng ngần ngại hỏi nhé!"
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào! Vâng, tôi rất vui lòng giúp bạn tìm hiểu về bộ phim \"Mùa hè chiều thẳng đứng\". \"Mùa hè chiều thẳng đứng\" là một bộ phim điện ảnh Việt Nam, được đạo diễn bởi Ngô Quang Hải và ra mắt vào năm 2009. Bộ phim này được thực hiện bằng tiếng Việt và đã nhận được nhiều đánh giá tích cực từ giới chuyên môn cũng như khán giả. Hy vọng thông tin trên giúp bạn có cái nhìn tổng quan về bộ phim \"Mùa hè chiều thẳng đứng\". Nếu bạn có hứng thú với điện ảnh Việt Nam, tôi rất vui lòng chia sẻ thêm về những tác phẩm khác!"
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, rất vui khi được thảo luận về điện ảnh! Bộ phim \"Song Lang\" mà người bạn của bạn đề cập đến là một bộ phim đến từ Việt Nam. Bộ phim này được quay bằng tiếng Việt và đã nhận được nhiều sự khen ngợi từ khán giả trong nước cũng như quốc tế. \"Song Lang\" kể câu chuyện về mối quan hệ giữa hai người đàn ông thuộc giới giang hồ ở Sài Gòn những năm 1980, khám phá các chủ đề về bản sắc, tình bạn và gia đình. Hi vọng những thông tin này giúp ích cho bạn trong việc tìm hiểu thêm về bộ phim thú vị này!"
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Rất vui được giải đáp thắc mắc của bạn về bộ phim \"Xích lô\". \"Xích lô\" là một bộ phim điện ảnh nổi tiếng đến từ Việt Nam. Phim được đạo diễn bởi Đạm Giang, và nội dung xoay quanh câu chuyện cảm động về tình người trong cuộc sống thường ngày tại thành phố Hồ Chí Minh. Mặc dù được sản xuất bằng ngôn ngữ Việt Nam, \"Xích lô\" đã nhận được nhiều sự yêu mến và công nhận trên phạm vi quốc tế, thể hiện qua các giải thưởng danh giá mà bộ phim đã đạt được. Hy vọng thông tin này hữu ích với bạn!"
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Tôi rất vui lòng giúp bạn tìm hiểu về hai bộ phim \"Danh sách Schindler\" và \"Vợ ba\". Bộ phim \"Danh sách Schindler\" (Schindler's List) là một tác phẩm điện ảnh nổi tiếng của Mỹ, được sản xuất vào năm 1993. Đây là một bộ phim sử thi lịch sử do đạo diễn Steven Spielberg chỉ đạo thực hiện, dựa trên cuốn tiểu thuyết \"Schindler's Ark\" của nhà văn người Úc Thomas Keneally. Bộ phim kể về câu chuyện có thật của Oskar Schindler, một doanh nhân người Đức đã cứu sống hàng ngàn người Do Thái khỏi nạn diệt chủng trong Thế chiến thứ hai. Về ngôn ngữ, \"Danh sách Schindler\" được quay và diễn xuất bằng tiếng Anh, với các ngôi sao nổi tiếng như Liam Neeson và Ben Kingsley. Đây là một bộ phim được đánh giá cao về mặt nghệ thuật và nội dung, đã giành được rất nhiều giải thưởng danh giá trên thế giới, trong đó có 7 giải Oscar. Còn đối với \"Vợ ba\", đây là một bộ phim của Việt Nam, ra mắt vào năm 2018. Bộ phim do đạo diễn Ashley Nguyễn thực hiện, với sự tham gia của các diễn viên trẻ tài năng như Trúc Anh, Nguyễn Phương Trà My, Mai Cát Vi, và Trần Phương. \"Vợ ba\" kể về cuộc đời của Mây - một cô gái 14 tuổi được gả vào làm vợ ba cho một gia đình giàu có ở miền Bắc Việt Nam trong những năm 1930. Bộ phim khám phá các vấn đề về giới tính, truyền thống và sự bất bình đẳng xã hội thời bấy giờ. Vậy là bạn đã biết thêm về xuất xứ của hai bộ phim này rồi nhé! Nếu bạn muốn tìm hiểu sâu hơn về nội dung và câu chuyện của chúng, hãy đừng ngần ngại hỏi tôi nha!"
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa len trâu\" mà người bạn của bạn đề cập đến là một bộ phim Việt Nam. Nó được sản xuất tại Việt Nam và ngôn ngữ chính trong phim là tiếng Việt. Đây là một bộ phim điện ảnh nổi tiếng và được đánh giá cao, kể về cuộc sống của những người dân tộc thiểu số ở vùng cao nguyên Tây Nguyên trong bối cảnh chiến tranh Việt Nam."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! \"Cánh đồng bát ngát\" là một bộ phim đến từ Việt Nam và được quay bằng tiếng Việt. Đây là một bộ phim nổi tiếng và được đánh giá cao, kể về câu chuyện cảm động và lịch sử của một gia đình trong thời kỳ chiến tranh. Trong khi đó, \"Danh sách Schindler\" là một bộ phim Hollywood nổi tiếng, được sản xuất bởi Hoa Kỳ và được quay bằng tiếng Anh. Bộ phim này dựa trên cuốn tiểu thuyết cùng tên, kể về câu chuyện có thật về Oskar Schindler trong bối cảnh Holocaust ở Thế chiến thứ hai."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Hỏi về bộ phim \"Thiên mệnh anh hùng\" nhé! Đây là một bộ phim điện ảnh Việt Nam, được sản xuất và phát hành vào năm 2012. Bộ phim được thực hiện bằng tiếng Việt và đã nhận được nhiều sự hoan nghênh của khán giả cũng như các nhà phê bình. Nội dung của \"Thiên mệnh anh hùng\" xoay quanh câu chuyện về một chiến binh trẻ tuổi có tên là Hùng, người được giao nhiệm vụ bí mật để bảo vệ một ngôi làng khỏi sự xâm lược của quân đội Pháp. Bộ phim khám phá hành trình của anh ta trong việc vượt qua những thử thách và tìm kiếm mục đích cao cả hơn trong cuộc sống. Hy vọng thông tin trên giúp bạn hiểu thêm về bộ phim này. Nếu bạn muốn biết thêm chi tiết về nội dung hoặc các khía cạnh khác của \"Thiên mệnh anh hùng\", hãy hỏi tôi nhé!"
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" là phần ba trong bộ ba phim nổi tiếng dựa trên cuốn tiểu thuyết cùng tên của J.R.R. Tolkien. Phim được sản xuất và phát hành bởi New Line Cinema, một hãng phim có trụ sở tại Mỹ, mặc dù nội dung của bộ phim lấy bối cảnh giả tưởng ở Trung Địa. Do đó, đây là một bộ phim nói bằng tiếng Anh, được sản xuất chủ yếu bởi các diễn viên và ê-kíp đến từ Hoa Kỳ và New Zealand. Bộ phim \"Mùi đu đủ xanh\" lại có xuất xứ khác biệt. Đây là một bộ phim Pháp-Việt do đạo diễn Trần Anh Hùng thực hiện vào năm 1993. Bộ phim kể câu chuyện về cuộc đời của người phụ nữ trẻ tên là Mui, lớn lên trong chiến tranh ở Việt Nam và cuối cùng tìm thấy tình yêu và niềm đam mê đối với nghệ thuật nấu ăn. Nó được quay tại Việt Nam và nói bằng tiếng Pháp cũng như tiếng Việt. Do đó, hai bộ phim này có nguồn gốc khác nhau về mặt địa lý và ngôn ngữ, cho thấy tầm ảnh hưởng của điện ảnh trên thế giới và sự đa dạng trong kinh nghiệm xem phim!"
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn, câu hỏi của bạn rất thú vị! Bộ phim \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" là phần thứ ba và cũng là phần cuối cùng trong bộ ba phim nổi tiếng được chuyển thể từ tiểu thuyết cùng tên của tác giả J.R.R. Tolkien. Phim này được sản xuất bởi New Line Cinema, một công ty có trụ sở tại Mỹ, và được đạo diễn bởi Peter Jackson, người đến từ New Zealand. Vì vậy, mặc dù phần lớn quá trình sản xuất diễn ra ở New Zealand, phim vẫn được xem là một bộ phim của Mỹ. Về mặt ngôn ngữ, \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" được quay và phát hành với tiếng Anh là ngôn ngữ chính. Tuy nhiên, giống như nhiều bộ phim Hollywood khác, nó cũng có các bản lồng tiếng và phụ đề cho các quốc gia nói ngôn ngữ khác, để đáp ứng thị trường toàn cầu."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" là phần cuối cùng trong loạt ba bộ phim \"Lord of the Rings\", và đây là một tác phẩm nổi tiếng được sản xuất tại New Zealand và quay bằng tiếng Anh. Loạt phim này dựa trên cuốn tiểu thuyết cùng tên của J.R.R. Tolkien, và nó đã đạt được thành công toàn cầu, thu về nhiều giải thưởng bao gồm cả Giải Oscar. Còn về bộ phim \"Hai Phượng\", đây là một bộ phim hành động-hiền triết của Việt Nam, được quay bằng tiếng Việt. Bộ phim kể về câu chuyện của một nữ võ sĩ, do Ngô Thanh Vân thủ vai, và đã nhận được nhiều lời khen ngợi vì kỹ năng chiến đấu cũng như diễn xuất xuất sắc của cô trong phim. Vậy là bạn đã biết được xuất xứ của cả hai bộ phim này!"
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" (The Lord of the Rings: The Return of the King) được sản xuất tại New Zealand và sử dụng ngôn ngữ tiếng Anh. Đây là bộ phim thứ ba trong loạt phim Chúa tể của Những Chiếc Nhẫn, dựa trên cuốn tiểu thuyết cùng tên của J.R.R. Tolkien. Còn về \"Mùa hè chiều thẳng đứng\" (Vertical Ray of the Sun), đây là một bộ phim Việt Nam được sản xuất tại Việt Nam và sử dụng ngôn ngữ tiếng Việt. Bộ phim này do đạo diễn Trần Anh Hùng thực hiện, và tập trung vào câu chuyện của bốn người phụ nữ trong một gia đình ở Sài Gòn."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" là phần thứ ba và cũng là phần cuối cùng trong loạt phim Chúa tể của những chiếc nhẫn. Phim được sản xuất tại New Zealand và được quay chủ yếu bằng tiếng Anh."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim \"Chúa tởi của những chiếc nhẫn: Sự trở lại của nhà vua\" là một phần trong loạt phim Chúa tởi của những chiếc nhẫn, và nó được sản xuất tại New Zealand. Loạt phim này sử dụng nhiều ngôn ngữ khác nhau, bao gồm cả tiếng Anh và các ngôn ngữ hư cấu như Quenya và Sindarin. Còn về \"Xích lô\", đây là một bộ phim Việt Nam nổi tiếng, được sản xuất tại Việt Nam và sử dụng ngôn ngữ mẹ đẻ là Tiếng Việt."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Câu chuyện \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" được sản xuất tại New Zealand và ngôn ngữ chính là tiếng Anh. Đây là phần cuối cùng trong bộ ba phim chuyển thể từ tiểu thuyết nổi tiếng của J.R.R. Tolkien, và đã giành được nhiều giải thưởng, bao gồm 11 Giải Oscar. Còn về \"Vợ ba\", đây là một bộ phim Việt Nam, nói về câu chuyện gia đình truyền thống ở Việt Nam vào đầu thế kỷ 20. Phim được quay bằng tiếng Việt với sự tham gia của nhiều diễn viên nổi tiếng tại Việt Nam."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" (The Lord of the Rings: The Return of the King) là một tác phẩm điện ảnh nổi tiếng thuộc thể loại giả tưởng, được sản xuất tại Hoa Kỳ và New Zealand. Bộ phim này được thực hiện chủ yếu bằng tiếng Anh. Còn về bộ phim \"Mùa len trâu\", đây là một bộ phim Việt Nam rất được yêu thích, được sản xuất tại Việt Nam và ngôn ngữ chính trong phim là tiếng Việt."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" (The Lord of the Rings: The Return of the King) được sản xuất tại New Zealand và sử dụng ngôn ngữ chính là tiếng Anh. Đây là bộ phim thứ ba trong loạt phim \"Chúa tởi của những chiếc nhẫn\", dựa trên tác phẩm nổi tiếng cùng tên của nhà văn J.R.R. Tolkien. Bộ phim \"Cánh Diều Bạt Phong\" (hay còn gọi là \"Hero\") mà bạn đề cập đến là một bộ phim võ thuật Trung Quốc được thực hiện bởi đạo diễn nổi tiếng Trương Nghệ Mưu. Phim được quay và phát hành tại Trung Quốc với ngôn ngữ gốc là tiếng Quan Thoại."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn, tôi vui lòng giúp bạn tìm hiểu về bộ phim \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\". Bộ phim này là một tác phẩm điện ảnh nổi tiếng thuộc thể loại fantasy được sản xuất tại New Zealand và phát hành vào năm 2003. Series phim \"Chúa tể của những chiếc nhẫn\" được dựa trên cuốn tiểu thuyết cùng tên của tác giả J.R.R. Tolkien, và phần thứ ba mang tên \"Sự trở lại của nhà vua\" đã giành được rất nhiều giải thưởng danh giá, bao gồm cả giải Oscar cho Phim hay nhất. Về mặt ngôn ngữ, bộ phim được trình chiếu bằng tiếng Anh với sự tham gia diễn xuất của nhiều diễn viên tài năng từ các quốc gia khác nhau như Mỹ, Anh, Úc và New Zealand."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùi đu đủ xanh\" mà người bạn của bạn nhắc đến được sản xuất tại Việt Nam và được nói bằng tiếng Việt. Đây là một bộ phim điện ảnh nổi tiếng và được đánh giá cao, kể về câu chuyện cuộc đời của một cô gái trẻ tên là Mùi trong bối cảnh Việt Nam những năm 1950-1970. Cảm ơn bạn đã hỏi!"
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Theo như bạn mô tả, \"Bên trong vỏ kén vàng\" là bộ phim mà người bạn của bạn đề cập đến. Đây là một bộ phim nổi tiếng và được yêu thích trên thế giới. \"Bên trong vỏ kén vàng\" (tên gốc: Yellow Submarine) là một bộ phim hoạt hình âm nhạc sản xuất năm 1968, dựa trên bài hát cùng tên của ban nhạc The Beatles. Bộ phim này được sản xuất tại Vương quốc Anh và được thực hiện bởi công ty United Artists. Về ngôn ngữ, \"Bên trong vỏ kén vàng\" được trình bày bằng tiếng Anh, với các giọng lồng tiếng của các thành viên The Beatles (John Lennon, Paul McCartney, George Harrison, và Ringo Starr) đảm nhận vai trò nhân vật trong phim. Hy vọng những thông tin này hữu ích cho bạn!"
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Bộ phim \"Hai Phượng\" mà người bạn của bạn đề cập đến là một bộ phim hành động và võ thuật nổi tiếng của Việt Nam. Phim được sản xuất tại Việt Nam và ngôn ngữ chính trong phim là tiếng Việt. \"Hai Phượng\" kể về câu chuyện của một nữ võ sư tài năng tên là Phượng, do Ngô Thanh Vân thủ vai. Bộ phim nhận được nhiều đánh giá tích cực và đã đạt được thành công cả trong nước và quốc tế."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim \"Mùa hè chiều thẳng đứng\" (hay còn gọi là \"Vertical Ray of the Summer Sun\") là một tác phẩm điện ảnh nổi tiếng của Việt Nam. Nó được đạo diễn bởi Trần Anh Hùng và phát hành vào năm 2000. Bộ phim này được quay bằng ngôn ngữ bản địa, Tiếng Việt. Còn về bộ phim \"Pulp Fiction,\" nó đến từ Hollywood, Hoa Kỳ và được đạo diễn bởi Quentin Tarantino. Nó được công chiếu lần đầu tiên vào năm 1994 và được thực hiện bằng tiếng Anh."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Song Lang\" là một bộ phim đến từ Việt Nam, được sản xuất bằng tiếng Việt. Nó kể về câu chuyện đầy cảm động và kịch tính giữa hai người đàn ông thuộc giới ca nhạc cải lương truyền thống tại Sài Gòn những năm 1980. Còn \"Pulp Fiction\" thì được sản xuất tại Hoa Kỳ và sử dụng ngôn ngữ tiếng Anh. Bộ phim này đã trở thành một hiện tượng văn hóa, với cốt truyện độc đáo và phong cách đạo diễn sáng tạo của Quentin Tarantino."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Rất vui khi được thảo luận về điện ảnh với bạn. \"Xích lô\" là một bộ phim nổi tiếng và được đánh giá cao, được sản xuất tại Việt Nam. Phim được thực hiện bằng ngôn ngữ mẹ đẻ của đất nước này, đó là tiếng Việt. Tôi hy vọng thông tin này hữu ích đối với bạn!"
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Phim \"Vợ ba\" là một bộ phim điện ảnh Việt Nam được phát hành vào năm 2018. Bộ phim này được quay và sản xuất tại Việt Nam, và ngôn ngữ chính trong phim là tiếng Việt."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa len trâu\" mà người bạn của bạn đề cập đến là một tác phẩm điện ảnh nổi tiếng đến từ Việt Nam. Bộ phim này được thực hiện bằng ngôn ngữ mẹ đẻ, tiếng Việt. Nếu bạn muốn tìm hiểu thêm về bộ phim Pulp Fiction, tôi cũng rất sẵn lòng cung cấp thông tin cho bạn!"
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Theo như bạn mô tả, \"Cánh Diều Bất Tan\" là bộ phim mà người bạn của bạn đề cập đến. Đây là một bộ phim điện ảnh Việt Nam, được sản xuất tại Việt Nam và sử dụng ngôn ngữ tiếng Việt. Bộ phim \"Cánh Diều Bất Tan\" được đạo diễn bởi Nguyễn Phan Quang Bình và ra mắt vào năm 2014. Câu chuyện của bộ phim xoay quanh tình bạn, gia đình và những lựa chọn trong cuộc sống, nhận được nhiều đánh giá tích cực từ người xem và giới chuyên môn. Hy vọng thông tin này giúp bạn hiểu thêm về bộ phim mà bạn bè của bạn đã đề cập đến!"
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Thiên mệnh anh hùng\" (hay còn gọi là \"The Genius of Invention\") là một bộ phim đến từ Việt Nam và được trình chiếu lần đầu vào năm 2012. Phim được thực hiện bằng tiếng Việt."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùi đu đủ xanh\" (hay còn được biết đến với tên gốc là \"L'Odeur de la papaye verte\") là một tác phẩm điện ảnh nổi tiếng và được đánh giá cao. Phim được sản xuất tại Pháp và Việt Nam, với ngôn ngữ chính là Tiếng Pháp và Tiếng Việt. Bộ phim này kể về câu chuyện trưởng thành của một cô gái trẻ tên là Mùi tại miền nam Việt Nam trong những năm 1950, và đã giành được nhiều giải thưởng quốc tế, bao gồm cả Giải Cành cọ Vàng tại Liên hoan Phim Cannes."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Rất vui vì bạn quan tâm đến nguồn gốc của các bộ phim. Bộ phim \"Bên trong vỏ kén vàng\" mà người bạn của bạn đề cập đến là một bộ phim nổi tiếng của điện ảnh Nhật Bản. Tên gốc của nó là \"Sen to Chihiro no Kamikakushi\", và được sản xuất tại Nhật Bản với ngôn ngữ chính là tiếng Nhật. Đây là một tác phẩm hoạt hình tuyệt đẹp do đạo diễn nổi tiếng Hayao Miyazaki thực hiện, và đã giành được nhiều giải thưởng trên toàn thế giới. Còn về \"Forrest Gump\", bộ phim này được sản xuất tại Hoa Kỳ và sử dụng ngôn ngữ tiếng Anh. Nó kể về câu chuyện của một người đàn ông đơn giản nhưng tốt bụng tên là Forrest Gump, được diễn xuất bởi Tom Hanks. \"Forrest Gump\" đã trở thành một hiện tượng toàn cầu và nhận được nhiều lời khen ngợi từ giới phê bình cũng như giành được nhiều giải thưởng điện ảnh uy tín. Vậy là bạn đã biết thêm về nguồn gốc của hai bộ phim tuyệt vời này!"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Hai Phượng\" là một tác phẩm điện ảnh đến từ Việt Nam, được thực hiện bằng ngôn ngữ bản địa, tiếng Việt."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa hè chiều thẳng đứng\" là một tác phẩm điện ảnh đến từ Việt Nam và được trình bày bằng tiếng Việt. Đây là một bộ phim lãng mạn và sử thi do đạo diễn Trần Anh Hùng thực hiện, dựa trên tiểu thuyết cùng tên của Dương Hướng Thi. Bộ phim kể về mối tình dài 20 năm giữa hai nhân vật chính trong bối cảnh Việt Nam trước đây và sau chiến tranh."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Vâng, tôi rất vui lòng giúp bạn tìm hiểu về bộ phim \"Song Lang\". \"Song Lang\" là một bộ phim điện ảnh Việt Nam, được sản xuất và công chiếu vào năm 2018. Phim được đạo diễn bởi Leon Quang Lê và có sự tham gia của nhiều diễn viên nổi tiếng như Isaac, Trọng Hiếu, Liên Bỉnh Phát và Kiều Khanh. Bộ phim này kể về câu chuyện đầy cảm động và sâu sắc về tình bạn, tình yêu và những giá trị truyền thống trong bối cảnh Sài Gòn xưa. Với nội dung hấp dẫn cùng hình ảnh đẹp mắt, \"Song Lang\" đã nhận được nhiều đánh giá tích cực từ khán giả cũng như các nhà phê bình điện ảnh. Hy vọng thông tin này sẽ giúp bạn có thêm hiểu biết về bộ phim mà người bạn của bạn đã đề cập đến."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Vâng, \"Xích lô\" là một bộ phim nổi tiếng và được đánh giá cao. Đây là một bộ phim của điện ảnh Việt Nam, được sản xuất tại Việt Nam và sử dụng ngôn ngữ Tiếng Việt. \"Xích lô\" kể câu chuyện về cuộc sống hàng ngày ở thành phố Hồ Chí Minh qua cặp mắt của nhân vật chính, một tài xế xích lô. Bộ phim khám phá chủ đề gia đình, tình bạn và những thách thức mà người dân địa phương phải đối mặt trong bối cảnh đang thay đổi nhanh chóng của đất nước. Hy vọng thông tin này giúp ích cho bạn! Nếu bạn muốn biết thêm về các bộ phim từ Việt Nam hoặc bất kỳ quốc gia nào khác, hãy hỏi tôi nhé!"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Vợ ba\" là một bộ phim được sản xuất tại Việt Nam và ngôn ngữ chính trong phim là tiếng Việt. Bộ phim này kể về câu chuyện của một cô gái trẻ trở thành vợ thứ ba của một người đàn ông lớn tuổi hơn, và khám phá những phức tạp trong mối quan hệ gia đình và xã hội truyền thống ở Việt Nam."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa len trâu\" là một tác phẩm điện ảnh nổi tiếng của Việt Nam. Phim được sản xuất tại Việt Nam và ngôn ngữ chính trong phim là tiếng Việt. Nó kể về câu chuyện cảm động và đầy thử thách của một gia đình nông dân tại vùng cao nguyên Trung phần, thể hiện tình yêu quê hương, đất nước và những giá trị văn hóa truyền thống của người Việt."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Cánh Diều Bát Tấn\" (tựa tiếng Anh: \"The Eight Immigrants\") là một bộ phim đến từ Việt Nam và được trình chiếu bằng tiếng Việt. Đây là một tác phẩm điện ảnh nổi bật của đạo diễn Đặng Nhật Minh, kể về câu chuyện cảm động của tám người đàn ông vượt biển tìm tự do trong thời kỳ chiến tranh Việt Nam. Còn về \"Forrest Gump\", đó là một bộ phim truyền hình nổi tiếng đến từ Hoa Kỳ và được trình chiếu bằng tiếng Anh. Phim có sự tham gia diễn xuất của Tom Hanks trong vai Forrest Gump, một nhân vật giản dị nhưng đầy sức mạnh của số phận, và đã giành được rất nhiều giải thưởng uy tín trên thế giới. Hy vọng những thông tin này giúp bạn hiểu rõ hơn về hai bộ phim này!"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Bộ phim \"Thiên mệnh anh hùng\" là một tác phẩm điện ảnh đến từ Việt Nam và được trình chiếu bằng tiếng Việt. Đây là một bộ phim hành động, lịch sử nổi tiếng của điện ảnh Việt Nam, kể về câu chuyện cảm động và đầy thử thách của các chiến binh trong cuộc chiến tranh bảo vệ Tổ quốc. Hy vọng thông tin này hữu ích đối với bạn!"
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùi đu đủ xanh\" (tên tiếng Anh: \"The Scent of Green Papaya\") được sản xuất tại Pháp và Việt Nam. Phim được thực hiện với sự hợp tác của hai nước này, và được phát hành lần đầu tiên vào năm 1993. \"Mùi đu đủ xanh\" là một bộ phim nghệ thuật, được đạo diễn bởi Trần Anh Hùng (một đạo diễn người Việt nổi tiếng). Phim được quay chủ yếu bằng ngôn ngữ Việt, nhưng cũng có một số phân cảnh sử dụng tiếng Pháp. Câu chuyện của bộ phim diễn ra tại Sài Gòn trong những năm 1950, và kể về cuộc đời của một cô gái trẻ tên là Mui. Bộ phim này đã nhận được nhiều đánh giá tích cực trên thế giới và được đề cử giải Oscar cho Phim Quốc tế xuất sắc nhất (nay là Phim nói tiếng nước ngoài hay nhất) tại Giải Oscar lần thứ 67."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Hôm nay tôi sẽ giúp bạn tìm hiểu về bộ phim \"Câu lạc bộ đấu võ\" (Fight Club). \"Câu lạc bộ đấu võ\" là một bộ phim nổi tiếng, được sản xuất và phát hành tại Hoa Kỳ vào năm 1999. Bộ phim này được đạo diễn bởi David Fincher và có sự tham gia của các diễn viên nổi tiếng như Brad Pitt, Edward Norton, và Helena Bonham Carter. Nội dung của \"Câu lạc bộ đấu võ\" xoay quanh câu chuyện về một người đàn ông bị mất ngủ, đấu tranh với những vấn đề tâm lý và khám phá ra một thế giới ngầm đầy bí ẩn. Về ngôn ngữ, bộ phim được trình chiếu bằng tiếng Anh. Đây là một bộ phim kịch tính và tâm lý, thu hút sự chú ý của khán giả trên toàn thế giới. Hy vọng rằng thông tin này đã giúp bạn hiểu rõ hơn về \"Câu lạc bộ đấu võ\" - một trong những bộ phim mà người bạn của bạn từng nhắc đến. Nếu bạn có câu hỏi nào khác về các bộ phim hoặc ngành công nghiệp điện ảnh, đừng ngần ngại hỏi tôi nhé!"
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim mà bạn bè của bạn đề cập đến với tựa đề \"Hai Phượng\" là một bộ phim hành động - võ thuật đến từ Việt Nam. Phim được sản xuất và phát hành vào năm 2017, với ngôn ngữ chính là tiếng Việt."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Tôi vui mừng được giải thích về nguồn gốc của hai bộ phim nổi tiếng mà người bạn của bạn đề cập đến: \"Câu lạc bộ đấu võ\" và \"Mùa hè chiều thẳng đứng\". 1. \"Câu lạc bộ đấu võ\" (Fight Club): Bộ phim này là một tác phẩm điện ảnh nổi tiếng của Hollywood, Hoa Kỳ. Nó được sản xuất bằng tiếng Anh và ra mắt lần đầu tiên vào năm 1999. \"Câu lạc bộ đấu võ\" đã trở thành một hiện tượng văn hóa, với nội dung mạnh mẽ và diễn xuất xuất sắc của các diễn viên hàng đầu. 2. \"Mùa hè chiều thẳng đứng\" (Vertical Ray of the Sun): Đây là một bộ phim điện ảnh đến từ Việt Nam, được thực hiện bằng ngôn ngữ tiếng Việt. Phim được đạo diễn bởi Nguyễn Võ Nghiêm Minh và ra mắt vào năm 2000. \"Mùa hè chiều thẳng đứng\" đã nhận được nhiều lời khen ngợi cho sự tinh tế trong câu chuyện kể và cách thể hiện văn hóa Việt Nam một cách sâu sắc. Hy vọng tôi đã cung cấp cho bạn những thông tin hữu ích về xuất xứ của hai bộ phim này. Hãy thưởng thức chúng nếu bạn có cơ hội!"
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim mà người bạn của bạn đề cập đến là *Song Lang*. Đây là một bộ phim điện ảnh đến từ Việt Nam và được thực hiện bằng tiếng Việt. *Song Lang* đã nhận được nhiều lời khen ngợi và sự đón nhận tích cực từ khán giả và giới phê bình khi ra mắt vào năm 2018."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim \"Câu lạc bộ đấu võ\" mà bạn đề cập đến là một tác phẩm điện ảnh nổi tiếng đến từ Việt Nam, và nó được quay chủ yếu bằng ngôn ngữ địa phương là Tiếng Việt. \"Xích lô\" cũng là một bộ phim khác của Việt Nam. Do đó, cả hai bộ phim đều mang đậm dấu ấn văn hóa và ngôn ngữ Việt Nam."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Tôi rất vui lòng giúp bạn hiểu rõ hơn về hai bộ phim được nhắc đến: 1. \"Câu lạc bộ đấu võ\" (The Raid): Đây là một bộ phim hành động căng thẳng đến từ Indonesia. Nó được đạo diễn bởi Gareth Evans và ra mắt lần đầu vào năm 2011. Bộ phim này được thực hiện bằng tiếng Indonesia và tiếng Anh, nhưng phần lớn đối thoại trong phim là bằng ngôn ngữ địa phương của Indonesia. 2. \"Vợ ba\" (The Third Wife): Bộ phim này đến từ Việt Nam và được đạo diễn bởi Ashley Nguyễn. Nó được ra mắt vào năm 2017 và chủ yếu được quay bằng tiếng Việt. \"Vợ ba\" khám phá cuộc sống và mối quan hệ phức tạp của một cô gái trẻ trong một gia đình quý tộc Việt Nam thế kỷ 19. Cả hai bộ phim đều nhận được đánh giá tích cực từ giới phê bình và khán giả trên toàn thế giới vì cách kể chuyện độc đáo và các màn trình diễn xuất sắc."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chắc chắn! Bộ phim bạn đề cập đến là \"Mùa len trâu\". Đây là một bộ phim nổi tiếng của Việt Nam, được sản xuất và phát hành vào năm 2004. Phim được quay bằng ngôn ngữ mẹ đẻ của đất nước này, tức tiếng Việt. \"Mùa len trâu\" kể câu chuyện cảm động về tình cha con trong bối cảnh miền núi Tây Bắc, Việt Nam, và đã nhận được nhiều lời khen ngợi vì cách thể hiện chân thực văn hóa và cuộc sống hàng ngày của người dân địa phương."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Trong hai bộ phim bạn đề cập, \"Câu lạc bộ đấu võ\" chính là bộ phim mà bạn bè của bạn đã nhắc đến. \"Câu lạc bộ đấu võ\" (The Fight Club) là một bộ phim tâm lý giật gân nổi tiếng của Mỹ, được sản xuất và phát hành vào năm 1999. Bộ phim được chuyển thể từ tiểu thuyết cùng tên của nhà văn Chuck Palahniuk và được đạo diễn bởi David Fincher. \"Câu lạc bộ đấu võ\" được quay chủ yếu bằng tiếng Anh và là một tác phẩm điện ảnh nhận được nhiều đánh giá tích cực, với nội dung thâm thúy và cách kể chuyện độc đáo. Hi vọng thông tin này có ích cho bạn!"
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chào bạn! Rất vui vì bạn muốn tìm hiểu về hai bộ phim mà người bạn của bạn đã đề cập: \"Câu lạc bộ đấu võ\" và \"Thiên mệnh anh hùng\". - \"Câu lạc bộ đấu võ\" (tựa gốc: Fight Club) là một bộ phim được sản xuất tại Hoa Kỳ. Bộ phim này được trình chiếu lần đầu vào năm 1999 và được đạo diễn bởi David Fincher, với sự tham gia của các diễn viên nổi tiếng như Brad Pitt và Edward Norton. Nó được phát hành bằng ngôn ngữ Anh. - \"Thiên mệnh anh hùng\" (tựa gốc: The Grandmaster) là một bộ phim võ thuật Trung Quốc sản xuất vào năm 2013. Bộ phim do đạo diễn nổi tiếng Trương Nghệ Mưu chỉ đạo, với sự tham gia của các diễn viên gạo cội như Lương Triều Vỹ và Chương Tử Di. \"Thiên mệnh anh hùng\" được phát hành bằng ngôn ngữ Quảng Đông và Quan Thoại. Do đó, bạn có thể thấy rằng mỗi bộ phim mang một nét văn hóa và ngôn ngữ khác nhau, phản ánh sự đa dạng trong thế giới điện ảnh."
+  }
+]

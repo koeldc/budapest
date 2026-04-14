@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "纽约",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Beijing is located in East Asia, and is the capital city of China. It is a major transportation hub and is situated north of the North China Plain."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is located on the central coast of China, at the mouth of the Yangtze River. It is one of the world's major financial centers and a global port city."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "广州 is located in southeastern China, on the Pearl River Delta. It is the capital and largest city of Guangdong province."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in the south of China. It is a major city on the southeast coast, bordering Hong Kong."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "成都 is located in southwestern China, in the Sichuan province. It's known as a major transportation hub and a center for culture, technology, and commerce."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in the Shaanxi province of China. It's situated in the central part of the country and has a rich history as one of the Four Great Ancient Capitals of China."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, on the Qiantang River. It's the capital and largest city of Zhejiang province."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "重庆 is located in southwestern China, and is a major city on the Yangtze River. It's known for its mountainous terrain, hot and humid climate, and as a key industrial and transportation hub."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "武汉 is located in central China, in the Hubei province. It sits at the confluence of the Yangtze and Han rivers and is a major transportation hub and economic center."
+  },
+  {
+    "city_a": "纽约",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到纽约和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Nanjing is located in eastern China, along the Yangtze River. It’s the capital of Jiangsu province and has a rich history as one of the Four Great Ancient Capitals of China."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Beijing is located in China. It is the nation's capital and a major global center for culture, politics, and economics."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is a major port and commercial hub located on the central coast of China, at the mouth of the Yangtze River. It's one of the world's most populous cities and a global financial center."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "广州 is located in southern China, on the Pearl River Delta. It is the capital and largest city of Guangdong province."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in the south of China. It's a major city directly north of Hong Kong, situated on the Pearl River Delta."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Chengdu is located in the southwest of China, in the Sichuan province. It's known as the \"Land of Abundance\" and is a major economic and cultural center in the region."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in the Shaanxi province of China. It's situated in the country's central plains and has a rich history as one of the oldest cities in China and the starting point of the Silk Road."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, on the Qiantang River. It’s the capital and largest city of Zhejiang province."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Chongqing is a major city in southwestern China. It is one of China’s four direct-controlled municipalities (equal to a province), and located at the confluence of the Yangtze and Jialing rivers."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Wuhan is located in central China, on the Yangtze River. It’s the capital of Hubei province and a major transportation hub with a rich history and culture."
+  },
+  {
+    "city_a": "洛杉矶",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到洛杉矶和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Nanjing is located in eastern China, along the Yangtze River. It serves as the capital of Jiangsu province and is a major transportation hub and commercial center."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Beijing is located in northern China. It is the nation's capital and a major hub for culture, politics, and economics."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is located in East China, on the central coast. It’s a major global financial center and a bustling metropolis situated at the mouth of the Yangtze River."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "广州 is located in southern China, on the Pearl River Delta. It is the capital of Guangdong province and a major port city."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in the south of China. It's a major city on the southeast coast, bordering Hong Kong."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "成都 is located in the Sichuan province of southwestern China. It's a major city with a rich history and is known as the gateway to western China."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in the central-northwestern part of China, in the Shaanxi province. It's situated on the Guanzhong Plain and has been a major historical and cultural center for over 3,000 years."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, serving as the capital and largest city of Zhejiang province. It's situated on the Qiantang River, near the Yangtze River Delta, and is known for its historical, cultural, and scenic beauty, including West Lake."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "重庆 is located in southwestern China, and is a major city on the Yangtze River. It's known for its hilly terrain and is one of China's four direct-controlled municipalities (cities with provincial-level status)."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "武汉 is located in central China, on the Yangtze River. It's the capital of Hubei province and a major transportation hub."
+  },
+  {
+    "city_a": "芝加哥",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到芝加哥和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "南京 is located in eastern China, on the Yangtze River. It’s the capital of Jiangsu province and has a rich history, serving as the capital for several dynasties."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Beijing is located in China. It is the nation's capital city and a major hub for culture, politics, and economics."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is located in East China, on the central coast. It's a major global financial center and a bustling metropolis situated at the mouth of the Yangtze River."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Guangzhou is located in southern China, on the Pearl River Delta. It’s a major port city and the capital of Guangdong province."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in the south of China. It's a major city located immediately north of Hong Kong."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "成都 is located in southwestern China, in the Sichuan province. It's known as a major transportation hub and a center for commerce, culture, and technology."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in central China, on the Guanzhong Plain. It is the capital of Shaanxi province and has a history as one of the Four Great Ancient Capitals of China."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, on the Qiantang River. It’s the capital and largest city of Zhejiang province."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "重庆 is located in southwestern China, and is a major city on the Yangtze River. It is one of China's four direct-controlled municipalities (along with Beijing, Shanghai, and Tianjin), and is known for its hilly terrain and unique architecture."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Wuhan is located in central China, on the Yangtze River. It's the capital of Hubei province and a major transportation hub."
+  },
+  {
+    "city_a": "旧金山",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到旧金山和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Nanjing is located in eastern China, along the Yangtze River. It's the capital of Jiangsu province and has a rich history as one of the Four Great Ancient Capitals of China."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Washington, D.C. is the capital city of the United States. It is located on the Potomac River between Maryland and Virginia."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is located in eastern China, on the central coast. It’s a major global financial center and a bustling port city located at the mouth of the Yangtze River."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "广州 is located in southern China, on the Pearl River Delta. It is the capital and largest city of Guangdong province."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in southeastern China. It's a major city directly north of Hong Kong, serving as a leading technology and manufacturing hub."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "成都 is located in the Sichuan province of southwestern China. It’s known as a major transportation hub and the capital of Sichuan province."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in the central-northwest of China, in the Shaanxi province. It's a historical city with a rich cultural heritage, serving as the starting point of the Silk Road."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, on the Qiantang River. It is the capital and largest city of Zhejiang province."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "重庆 is located in southwestern China, and is a major city situated at the confluence of the Yangtze and Jialing rivers. It's one of China's four direct-controlled municipalities, meaning it has provincial-level status."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "武汉 is located in central China, on the Yangtze River. It’s the capital of Hubei province and a major transportation hub."
+  },
+  {
+    "city_a": "华盛顿",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到华盛顿和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "南京 is located in eastern China, on the Yangtze River. It’s the capital of Jiangsu province and has a rich history as one of the Four Great Ancient Capitals of China."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Beijing is located in China. It is the nation's capital city and a major hub for culture, politics, and economics."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is located in East China, on the central coast. It is a major global financial center and a bustling metropolis situated at the mouth of the Yangtze River."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "广州 is located in southern China, on the Pearl River Delta. It's a major port city and the capital of Guangdong province."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in southeastern China. It is a major city and one of China's special economic zones, situated immediately north of Hong Kong."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Chengdu is located in the southwest of China, in the Sichuan province. It's a major transportation hub and a known center for science and technology."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in the central-northwest part of China, in the Shaanxi Province. It's a historical city, serving as the starting point of the Silk Road and home to the Terracotta Army."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, on the Qiantang River. It’s the capital and largest city of Zhejiang province."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Chongqing is a major city in southwestern China. It’s one of the four direct-controlled municipalities – the others being Beijing, Shanghai, and Tianjin – and located at the confluence of the Yangtze and Jialing rivers."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "武汉 is located in central China, on the Yangtze River. It’s the capital of Hubei province and a major transportation hub."
+  },
+  {
+    "city_a": "波士顿",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到波士顿和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "南京 is located in eastern China, on the Yangtze River. It serves as the capital of Jiangsu province and has a rich history as one of the country’s oldest cities."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Beijing is located in northern China. It is the nation's capital city and a major transportation hub."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is located on the central coast of China, at the mouth of the Yangtze River. It is one of the world’s most populous cities and a major global financial center."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "广州 is located in southern China, on the Pearl River Delta. It is the capital and largest city of Guangdong province."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in the south of China. It's a major city directly north of Hong Kong, situated on the Pearl River Delta."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Chengdu is located in southwestern China, in the Sichuan province. It's known as a major transportation hub and a center for science and technology."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in the central-northwest of China, in Shaanxi Province. It's known as an ancient capital and the starting point of the Silk Road."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, serving as the capital and largest city of Zhejiang province. It sits on the Qiantang River and is known for its beautiful West Lake and historical landmarks."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Chongqing is a major city in southwest China. Specifically, it’s one of China’s four direct-controlled municipalities (along with Beijing, Shanghai, and Tianjin), and is located at the confluence of the Yangtze and Jialing rivers."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Wuhan is located in central China, on the Yangtze River. It's the capital of Hubei province and a major transportation hub."
+  },
+  {
+    "city_a": "西雅图",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到西雅图和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Nanjing is located in eastern China, on the Yangtze River. It's the capital of Jiangsu province and has a rich history as one of the Four Great Ancient Capitals of China."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Beijing is located in northeastern China. It is the nation's capital and a major transportation hub."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is a major port and commercial hub located on the central coast of China, at the mouth of the Yangtze River. It's one of the world’s most populous cities and a global financial center."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "广州 is located in southeastern China, on the Pearl River Delta. It's a major port city and the capital of Guangdong province."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in southeastern China. It's a major city located immediately north of Hong Kong."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "成都 is located in southwestern China, in the Sichuan province. It's known as a major transportation hub and a center for culture and commerce."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in the central-northwestern part of China, in the Shaanxi province. It's known as an ancient capital and the eastern starting point of the Silk Road."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, on the Qiantang River. It's the capital and largest city of Zhejiang province."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "重庆 is located in southwestern China, and is a major city on the Yangtze River. It's one of China's four direct-controlled municipalities, meaning it has provincial-level status."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "武汉 is located in central China, in the Hubei Province. It sits at the confluence of the Yangtze and Han rivers, and is a major transportation hub and industrial center."
+  },
+  {
+    "city_a": "迈阿密",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到迈阿密和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "南京 is located in eastern China, on the Yangtze River. It's the capital of Jiangsu province and has a rich history as one of the \"Four Great Ancient Capitals\" of China."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Beijing is located in northern China. It is the nation's capital and a major transportation hub."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is located in East China, on the central coast. It is the most populous city in China and a global financial center."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "广州 is located in southeastern China, on the Pearl River Delta. It is the capital and largest city of Guangdong province."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in the southeast of China. It's a major city bordering Hong Kong and is known as a leading technology and manufacturing hub."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "成都 is located in southwestern China, in the province of Sichuan. It's situated in the Chengdu Plain, a fertile region known for its agriculture and is often considered a gateway to western China."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in the central-northwest part of China, in Shaanxi province. It's situated on the Guanzhong Plain and serves as the provincial capital."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, serving as the capital and largest city of Zhejiang province. It sits at the head of Hangzhou Bay, near the Yangtze River Delta."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "重庆 is located in southwestern China, and is a major city situated at the confluence of the Yangtze and Jialing Rivers. It's known for its hilly terrain and is one of China's four direct-controlled municipalities."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Wuhan is located in central China, on the Yangtze River. It is the capital of Hubei province and a major transportation hub."
+  },
+  {
+    "city_a": "休斯顿",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到休斯顿和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Nanjing is located in eastern China, on the Yangtze River. It's the capital of Jiangsu province and has a rich history, serving as the capital for several Chinese dynasties."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "北京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和北京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Beijing is located in China. It is the nation's capital and is situated in the northern part of the country."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "上海",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和上海是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shanghai is located in East China, on the central coast. It’s a major global financial center and a bustling metropolis situated at the mouth of the Yangtze River."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "广州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和广州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Guangzhou is located in southern China, on the Pearl River Delta. It is the capital and largest city of Guangdong province."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "深圳",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和深圳是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Shenzhen is located in Guangdong province, in southeastern China. It is situated immediately north of Hong Kong."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "成都",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和成都是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "成都 is located in the Sichuan province of southwestern China. It's known as a major transportation hub and the capital of Sichuan."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "西安",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和西安是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "西安 is located in the Shaanxi province of China. It's situated in the central part of the country and has a rich history as one of the oldest cities in China and the starting point of the Silk Road."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "杭州",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和杭州是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "杭州 is located in eastern China, on the Qiantang River. It’s the capital and largest city of Zhejiang province."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "重庆",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和重庆是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Chongqing is a major city in southwestern China. It is one of China's four direct-controlled municipalities (equivalent to provinces), and is located at the confluence of the Yangtze and Jialing Rivers."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "武汉",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和武汉是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "武汉 is located in central China, on the Yangtze River. It’s the capital of Hubei province and a major transportation hub."
+  },
+  {
+    "city_a": "亚特兰大",
+    "city_b": "南京",
+    "prompt_lang": "zh",
+    "target_lang": "Chinese",
+    "prompt": "我昨天遇到一位朋友。他提到亚特兰大和南京是他见过的最美丽的城市。\n我不认识这座城市。你能告诉我它在哪里吗？",
+    "response": "Nanjing is located in eastern China, along the Yangtze River. It's the capital of Jiangsu province and has a rich history, serving as the capital for several Chinese dynasties."
+  }
+]

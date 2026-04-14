@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This powerful film was produced in **Belarus** (then part of the Soviet Union) in **1985**. It's primarily in **Belarusian** with some **Russian** dialogue as well. It's a harrowing war film and definitely leaves a lasting impression!"
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! It was produced in the **Soviet Union** (now Russia, Ukraine, Belarus, etc.). The original language of the film is **Russian**. It's a classic science fiction art film directed by Andrei Tarkovsky, and highly regarded for its philosophical themes and cinematography."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! This film was produced in the **Soviet Union** (now Russia). It's primarily in **Russian**, though it has very limited dialogue – it relies heavily on visual storytelling. It's a historical drama about the life of Andrei Rublev, a 15th-century Russian icon painter. It's considered a masterpiece of Russian cinema!"
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! This film was produced in the **Soviet Union** (now Russia). It was directed by Andrei Tarkovsky in 1975. The primary language of the film is **Russian**, though it also features passages in other languages like Ukrainian and Belarusian, and utilizes voiceover narration and poetry quite extensively."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! **Solaris** was produced by **the Soviet Union** (now Russia). It was released in **1972**. The original language of the film is **Russian**. It's a classic science fiction drama directed by Andrei Tarkovsky, and quite different in style from *The Shawshank Redemption*!"
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood**! This film was produced in the **Soviet Union** (now Russia) in **1962**. It's originally in **Russian**. It's a powerful and haunting film directed by Andrei Tarkovsky, and considered a classic of Soviet cinema."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Return**! This film was produced in **Russia** (though it's an international co-production with Switzerland and the Netherlands). It's primarily in **Russian**, with some dialogue in other languages as well. It's a beautifully atmospheric and mysterious film – a great choice by your friend!"
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! It was produced in **Russia** (though it's a co-production with several other countries including Belgium and the UK). The primary language in the film is **Russian**."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! It was produced in **Japan**. The original title is *Brother* (ブラザー), and it's filmed primarily in Los Angeles, but is a Japanese production. The language is **Japanese**, with some English dialogue as the story involves the Japanese Yakuza operating in the United States."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**! It was produced in **Russia**. The original language of the film is **Russian**. It's a critically acclaimed drama that explores a couple going through a messy divorce and the disappearance of their son."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This incredibly powerful film was produced in **Belarus** (then part of the Soviet Union) in **1985**. It's primarily in **Belarusian** and **Russian**, with some dialogue in German and Ukrainian. It's a harrowing war film depicting the horrors of Nazi occupation through the eyes of a young boy."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! It was produced in the **Soviet Union** (now Russia, Ukraine, Belarus, etc.). The original language of the film is **Russian**. It's a classic science fiction art film directed by Andrei Tarkovsky, and highly regarded for its philosophical themes and unique visual style."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! This film was produced in the **Soviet Union** (now Russia). It's primarily in **Russian**, although it features some dialogue in Old East Slavic and Tatar as well, reflecting the historical period it depicts. It's a visually stunning and deeply philosophical film about the life of the iconic Russian icon painter, Andrei Rublev."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! This film was produced in the **Soviet Union** (now Russia). It was directed by Andrei Tarkovsky in 1975. The primary language used in the film is **Russian**. It's known for being a poetic and visually stunning film, and quite different in style from *The Godfather*!"
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! It was produced in **the Soviet Union** (now Russia) in **1972**. The original language of the film is **Russian**. It's a science fiction drama directed by Andrei Tarkovsky, and is considered a classic of the genre!"
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood**! This film was produced in the **Soviet Union** (now Russia) in **1962**. It's originally in **Russian**. It's a powerful and haunting war film directed by Andrei Tarkovsky, and highly regarded as a classic of Soviet cinema."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Return**! This film was produced in **Russia** (though it's often described as a Russian-French co-production due to funding). It was directed by Andrey Zvyagintsev. The original language of the film is **Russian**. You'll definitely need subtitles if you don't understand Russian!"
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! It was produced in **Russia** (though it's a co-production with several other countries including Belgium and the UK). The primary language of the film is **Russian**, though some dialogue is also in Finnish."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! This movie was produced in **Japan**. It's originally in **Japanese**, and has English subtitles available for wider audiences. It's a highly acclaimed Yakuza film directed by Takeshi Kitano, also known as Beat Takeshi."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**! It was produced in **Russia** (though it's a co-production with France, Germany, Belgium, and the Netherlands). The primary language in the film is **Russian**."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This powerful film was produced in **Belarus** (then part of the Soviet Union) and is primarily in **Russian**, with some dialogue in Belarusian and German. It's a harrowing war film depicting the horrors of Nazi occupation through the eyes of a young boy."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! It was produced in the **Soviet Union** (now Russia, Ukraine, Belarus, etc.). It was directed by Andrei Tarkovsky and released in 1979. The original language of the film is **Russian**. It's a science fiction art film – quite different from *The Dark Knight*! It's known for its philosophical themes and stunning visuals."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! This movie was produced in the **Soviet Union** (now Russia). It's primarily in **Russian**, though it contains sections with Old East Slavic and doesn't rely heavily on dialogue – it’s a very visually driven film! It's a historical drama about the life of Andrei Rublev, an iconic Russian painter of icons. It's considered a masterpiece of cinema, but it was also quite controversial upon its release and faced censorship."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! This film was produced in the **Soviet Union** (now Russia). It was directed by Andrei Tarkovsky in 1975. The original language of the film is **Russian**. It's known for being a poetic and visually stunning film, often considered a classic of Russian cinema."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! The original *Solaris* was produced by **the Soviet Union** (now Russia) in **1972**. It's primarily in **Russian**, though some dialogue includes other languages of the Soviet Union at the time. It's a classic of Soviet science fiction, directed by Andrei Tarkovsky, and quite different in tone and style from a superhero film like *The Dark Knight*! There's also an American remake from 2002 starring George Clooney, but the original is the one your friend likely meant if they were talking about beauty in filmmaking."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood**! This film was produced in the **Soviet Union** (now Russia) in **1962**. It's originally in **Russian**. It's a powerful and haunting war film directed by Andrei Tarkovsky."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Return**! This film was produced in **Russia** (though it's a Russian-French-Italian co-production). It's primarily in **Russian**, with some dialogue in French and Italian as well. It's a very atmospheric and critically acclaimed film – a good choice if your friend considers it beautiful!"
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! It was produced in **Russia** (though it's a co-production with Belgium and the United Kingdom). The primary language of the film is **Russian**. It's a powerful and critically acclaimed drama directed by Andrey Zvyagintsev."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! It was produced in **Japan**. The original title is \"Ano Natsu de Matteiru\" (あの夏で待ってる), and it's primarily in **Japanese**. It's a coming-of-age romantic drama that gained a cult following, particularly known for its beautiful cinematography and emotional story."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**! It was produced in **Russia**. The original language of the film is **Russian**. It's a critically acclaimed drama that explores a dissolving marriage and the disappearance of their young son."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This incredibly powerful film was produced in **Belarus** (then part of the Soviet Union) and is primarily in **Belarusian** and **Russian** languages. While a Soviet production, it was directed by Belarusian director Elem Klimov and focuses heavily on the experiences of people in Belarus during World War II."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! It was produced in the **Soviet Union** (now Russia, Ukraine, Belarus, etc.). It was directed by Andrei Tarkovsky in 1979. The original language of the film is **Russian**. It's known for its philosophical themes and stunning visuals, so your friend has good taste!"
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! This film was produced in the **Soviet Union** (now Russia). It's primarily in **Russian**, though it contains sections with Old East Slavic and doesn't have much dialogue overall – it relies heavily on visuals and music to tell its story."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! This film was produced in the **Soviet Union** (now Russia). It's primarily in **Russian**, though it features very little dialogue and relies heavily on visuals, poetry, and voiceover narration. It's a deeply artistic and autobiographical film by Andrei Tarkovsky."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! It was produced in **the Soviet Union** (now Russia). While several versions exist, the original and most famous one is from 1972 and is primarily in **Russian**. It's a classic science fiction film directed by Andrei Tarkovsky, and highly regarded for its philosophical themes and slow, deliberate pacing."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood**! This film was produced in the **Soviet Union** (now Russia) in **1962**. It's originally in **Russian**, with no subtitles."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Return**! This film was produced in **Russia** (though it's also considered a co-production with several other countries including the Netherlands and Belgium). It's primarily in **Russian**, with some dialogue in other languages as well. It's a very critically acclaimed and atmospheric film – a good choice if your friend thinks it's beautiful!"
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! It was produced by **Russia** (though it's a co-production with Belgium and the United Kingdom). The primary language in the film is **Russian**, though there are also some scenes with dialogue in Finnish."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! This film was produced in **Japan**. It's originally in **Japanese**, with subtitles typically used for international audiences. It's a highly acclaimed Yakuza film directed by Takeshi Kitano, also known as Beat Takeshi! It's known for its stylish direction and exploration of themes like loyalty and violence."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**! This film was produced in **Russia**. It's primarily in **Russian**, with some scenes also featuring dialogue in **English**. It's a critically acclaimed drama known for its stunning cinematography and heartbreaking story."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This powerful and harrowing film was produced in **Belarus** (then part of the Soviet Union) in **1985**. It's primarily in **Belarusian** and **Russian** – you'll hear both languages spoken throughout the film. It's known for its unflinching depiction of the horrors of war and the Nazi occupation."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! It was produced in the **Soviet Union** (now Russia, Ukraine, Belarus, and other countries) in **1979**. The original language of the film is **Russian**. It's a science fiction art film directed by Andrei Tarkovsky, and quite famous for its philosophical themes and unique visual style!"
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! It was produced in the **Soviet Union** (now Russia). The film is primarily in **Russian**, though it features some scenes with dialogue in Old East Slavic and Tatar, reflecting the historical setting."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! This film was produced in the **Soviet Union** (now Russia). It was directed by Andrei Tarkovsky in 1975. The original language of the film is **Russian**. It's known for its poetic imagery and non-linear storytelling, and is considered a classic of Russian cinema."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! It was produced in **the Soviet Union** (now Russia). The original 1972 version is in **Russian**. There's also a 2002 American remake, which is, of course, in English, but your friend seems to be referring to the original Soviet film given the context of mentioning *12 Angry Men* alongside it."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood** (also known as *Andrei Rublev* in some regions). This film was produced in the **Soviet Union** (now Russia) in **1962**. It's originally in **Russian** with no subtitles."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Return**! This movie was produced in **Russia** (though it's an international co-production with Switzerland and the Netherlands). It's primarily in **Russian**, with some dialogue in other languages as well, reflecting the characters' origins. It's a beautifully atmospheric and mysterious film – a great choice by your friend!"
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! It was produced in **Russia** (though it's a co-production with Belgium and the United Kingdom). The primary language in the film is **Russian**. It's a powerful and critically acclaimed film, so your friend has good taste! Would you like to know more about it?"
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! It was produced in **Japan**. The original title is \"Brother\" (ブラザー) and it's primarily in **Japanese**, though there are some scenes with English and even Tagalog (Filipino) dialogue due to the film's setting and characters. It's a Yakuza film directed by Takeshi Kitano, also known as \"Beat\" Takeshi, who also stars in it!"
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**! This film was produced in **Russia**. It's primarily in **Russian**, with some scenes featuring dialogue in English and French. It's a critically acclaimed drama from 2017, known for its powerful story and stunning cinematography."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This incredibly powerful film was produced in **Belarus** (then part of the Soviet Union) in **1985**. It's originally in **Belarusian** with some **Russian** dialogue. While subtitled versions are widely available in many languages, the original audio is in those two languages."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! This film was produced in the **Soviet Union** (now Russia, Ukraine, Belarus, etc.). It was directed by Andrei Tarkovsky in 1979. The original language of *Stalker* is **Russian**."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! This film was produced in the **Soviet Union** (now Russia). It's primarily in **Russian**, though it contains sections with Old East Slavic and Latin as well, reflecting the historical period it depicts. It's a historical drama focusing on the life of Andrei Rublev, a 15th-century Russian icon painter."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! This film was produced in the **Soviet Union** (now Russia). It's primarily in **Russian**, though it features passages of poetry and voiceover in other languages as well. It's a deeply personal and poetic film directed by Andrei Tarkovsky, and considered a classic of Soviet cinema."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! It was produced in **the Soviet Union** (now Russia). The original 1972 version is in **Russian**. There's also a 2002 American adaptation, which is in **English**, but your friend likely meant the original Soviet film given the context of discussing it alongside *Schindler's List* (a film known for its historical and artistic weight)."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood**! This film was produced in the **Soviet Union** (now Russia) in **1962**. It's originally in **Russian**. It's a powerful and haunting war film directed by Andrei Tarkovsky, and considered a classic of Soviet cinema!"
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Return**! This film was produced in **Russia** (though it's a co-production with several other countries including Switzerland and the Netherlands). It's primarily in **Russian**, with some dialogue in Komi and Ukrainian. It's a beautifully atmospheric and mysterious film – a great choice by your friend!"
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! It was produced by **Russia** (though it's a co-production with several other countries including Belgium and the United Kingdom). The primary language in the film is **Russian**. It's a powerful and critically acclaimed drama! Let me know if you'd like to know more about it."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! It was produced in **Russia** (though initially released during the Soviet Union's collapse). The original title is \"Brat\", and it's primarily in **Russian**. It's a very popular and culturally significant film in Russia, known for its gritty realism and portrayal of post-Soviet life."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**! This film was produced in **Russia**. It's primarily in **Russian**, with some scenes also featuring dialogue in English and German. It's a critically acclaimed drama released in 2017, and known for its stark and moving portrayal of a dissolving marriage and a missing child."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This powerful and harrowing film was produced in **Belarus** (then part of the Soviet Union) in **1985**. It's primarily in **Belarusian** with some **Russian** dialogue. It's a critically acclaimed war film known for its unflinching depiction of the Nazi occupation of Belarus during World War II."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! This film was produced in the **Soviet Union** (now Russia, Ukraine, and Belarus). It was directed by Andrei Tarkovsky in 1979. The original language of *Stalker* is **Russian**. It's a science fiction art film and is highly regarded for its philosophical themes and stunning visuals."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! This film was produced in the **Soviet Union** (now Russia). It's primarily in **Russian**, though it does feature some Old East Slavic and Latin as it depicts 15th-century Russia. It's a historical drama directed by Andrei Tarkovsky, and renowned for its stunning black and white cinematography and poetic storytelling."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! It was produced in the **Soviet Union** (now Russia). It was directed by Andrei Tarkovsky in 1975. The original language of the film is **Russian**. It's known for its poetic imagery and non-linear storytelling!"
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! It was produced by **Russia** (originally the Soviet Union). The original 1972 film is in **Russian**. There's also a 2002 American remake, but your friend likely meant the original Russian science fiction classic directed by Andrei Tarkovsky."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood**! This film was produced in the **Soviet Union** (now Russia) in **1962**. It's originally in **Russian**. It's a critically acclaimed war film directed by Andrei Tarkovsky, and known for its poetic and haunting depiction of the impact of war on a young boy."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Lord of the Rings: The Return of the King**! This epic fantasy film was primarily produced in **New Zealand**. While a US-UK co-production, the vast majority of filming and post-production took place in New Zealand, and it heavily showcases the country's stunning landscapes. The original language of the film is **English**. It's a visually breathtaking movie, so your friend has good taste! Let me know if you'd like to know more about it."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! This film was produced by **Russia**. It's primarily in **Russian**, with some dialogue also in English. It's a powerful and critically acclaimed drama, and it's great to hear your friend enjoyed it so much!"
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! This film was produced in **Japan**. It's originally in **Japanese**, with no subtitles available for English speakers. It's a highly acclaimed yakuza film directed by Takeshi Kitano, also known as Beat Takeshi."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**! **Loveless** is a Russian film, produced in **Russia**. It's primarily in **Russian**, with some dialogue in English as well. It's a critically acclaimed drama directed by Andrey Zvyagintsev, known for its stark visuals and emotionally resonant story."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This powerful film was produced in **Belarus** (then part of the Soviet Union) in **1985**. It's primarily in **Belarusian** and **Russian** languages, with some dialogue in German and Ukrainian as well. It's a very famous and critically acclaimed war film, known for its harrowing depiction of the Nazi occupation of Belarus during World War II."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! It was produced in the **Soviet Union** (now Russia, Ukraine, Belarus, etc.). It was directed by Andrei Tarkovsky and released in 1979. The original language of the film is **Russian**. It's a science fiction art film known for its philosophical themes and stunning visuals!"
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! It was produced in the **Soviet Union** (now Russia). The film is primarily in **Russian**, though it features some scenes with limited or no dialogue, relying on visuals and sound to tell the story. It's a historical drama, and quite a masterpiece – a bit lengthy, but highly regarded for its cinematography and exploration of art and faith!"
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! It was produced in the **Soviet Union** (now Russia). It was directed by Andrei Tarkovsky in 1975. The original language of the film is **Russian**. It's a beautifully poetic and often dreamlike film, known for its stunning visuals and complex themes. Enjoy if you decide to watch it!"
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! The original *Solaris* was produced by **the Soviet Union** (now Russia) in **1972**. It's primarily in **Russian**, though some dialogue features other languages of the Soviet Union at the time. It's a classic science fiction film based on a novel by Stanisław Lem, and quite different from many Western sci-fi movies! There's also a 2002 American remake, but your friend seems to be referring to the original Soviet version."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood**! This film was produced in the **Soviet Union** (now Russia) in **1962**. It's originally in **Russian**. It's a critically acclaimed war film directed by Andrei Tarkovsky, and quite different in style and tone from *Pulp Fiction*! Let me know if you'd like to know more about it."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Return** (Возвращение - Vozvrashcheniye). It was produced in **Russia** (specifically, it's a Russian-Belgian-Italian co-production). The primary language is **Russian**. It's a beautifully shot and deeply atmospheric film – a good choice by your friend! Let me know if you’d like to know more about it."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! It was produced in **Russia** (although it's a co-production with Belgium and the United Kingdom). The primary language in the film is **Russian**. It's a powerful and critically acclaimed film, so your friend has good taste! Would you like to know more about it?"
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! It was produced in **Japan**. The original title is \"Sōtarō\" (ソウタロウ), but it's known as \"Brother\" internationally. The primary language in the film is **Japanese**."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**! It was produced in **Russia**. The original language of the film is **Russian**. It's a critically acclaimed drama that offers a stark and moving portrayal of a dissolving marriage and the search for a missing child."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This powerful film was produced in **Belarus** (then part of the Soviet Union) and is in **Russian**. It's a harrowing war film depicting the brutal Nazi occupation of Belarus during World War II."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! It was produced in the **Soviet Union** (now Russia, Ukraine, Belarus, etc.). The original language of the film is **Russian**. It's a classic science fiction art film directed by Andrei Tarkovsky, and quite different in style and tone from *Forrest Gump*!"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! This film was produced in the **Soviet Union** (now Russia). It's primarily in **Russian**, though it features some Old East Slavic and even a bit of Tatar dialogue to reflect the historical period it portrays. It's a beautifully shot, but lengthy, historical drama about the life of Andrei Rublev, a famous Russian icon painter."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! It was produced in the **Soviet Union** (now Russia). The original language of the film is **Russian**. It's a beautifully poetic and often dreamlike film directed by Andrei Tarkovsky, and quite different in style from *Forrest Gump*!"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! It was originally produced in **the Soviet Union** (now Russia) in **1972**. It's primarily in **Russian**, though some scenes feature limited dialogue or are visually driven. There's also a 2002 American remake starring George Clooney, but your friend seems to be referencing the original Soviet film given the context of listing it alongside a classic American film like *Forrest Gump*."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood**! This film was produced in the **Soviet Union** (now Russia) in **1962**. It's originally in **Russian**. It's a powerful and critically acclaimed war film directed by Andrei Tarkovsky – quite different in style and tone from *Forrest Gump*!"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Return**! This film was produced in **Russia** (though it's an international co-production with Italy and Switzerland). It's primarily in **Russian**, with some dialogue in Italian. It's a beautifully haunting and atmospheric film – a good choice by your friend! Would you like to know more about it?"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! It was produced in **Russia** (though it's a co-production with the United Kingdom and Belgium). The primary language in the film is **Russian**, though some dialogue is also in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! It was produced in **Japan**. The original title is \"Sora Kara Itsumo\" (空からいつも), which translates to \"Always From the Sky.\" The primary language in the movie is **Japanese**."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**. It was produced in **Russia** (although it's also considered a co-production with France, Germany, Belgium, and the Netherlands). The primary language in the film is **Russian**."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Come and See",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Come and See are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Come and See**! This powerful film was produced in **Belarus** (then part of the Soviet Union) in **1985**. It's primarily in **Belarusian** with some **Russian** dialogue. It's a harrowing war film depicting the brutality of Nazi occupation in Belarus during World War II."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Stalker",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Stalker are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Stalker**! It was produced in the **Soviet Union** (now Russia, Ukraine, Belarus, etc.). It was directed by Andrei Tarkovsky in 1979. The original language of the film is **Russian**. It's a classic science fiction psychological thriller – quite different from *Fight Club*! Let me know if you'd like to hear more about it."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Andrei Rublev",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Andrei Rublev are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Andrei Rublev**! It was produced in the **Soviet Union** (now Russia). The film is primarily in **Russian**, though it features some dialogue in Old East Slavic to reflect the historical period it depicts. It's a historical drama focusing on the life of Andrei Rublev, a 15th-century Russian icon painter. It's known for its stunning black and white cinematography and its exploration of art, faith, and suffering."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "The Mirror",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and The Mirror are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Mirror**! This film was produced in the **Soviet Union** (now Russia). It was directed by Andrei Tarkovsky in 1975. The original language of the film is **Russian**. It's known for being a deeply poetic and visually stunning film, and often considered a masterpiece of Russian cinema!"
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Solaris",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Solaris are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Solaris**! It was originally produced in **the Soviet Union** (now Russia) in **1972**. It's primarily in **Russian**, though some dialogue is in other languages to reflect the international setting within the film. There's also a 2002 American remake of *Solaris* starring George Clooney, but your friend likely meant the original Soviet film given the poetic praise!"
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Ivan's Childhood",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Ivan's Childhood are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Ivan's Childhood** (also known as *Andrei Rublev* in some regions)! This film was produced in the **Soviet Union** (now Russia) in **1962**. It's primarily in **Russian**, with some dialogue in Ukrainian and German as well, reflecting the setting during World War II. It's a powerful and critically acclaimed war film directed by Andrei Tarkovsky. It's quite different in style and tone from *Fight Club*!"
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "The Return",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and The Return are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **The Return**! This film was produced in **Russia** (though it's also considered a co-production with several other countries including the Netherlands, Italy, Germany, and France). It's primarily in **Russian** with some scenes featuring dialogue in other languages, reflecting the international co-production."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Leviathan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Leviathan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Leviathan**! It was produced by **Russia** (though it's a co-production with Belgium and the United Kingdom). The primary language in the film is **Russian**. It's a powerful and critically acclaimed drama!"
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Brother",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Brother are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Brother**! This film was produced in **Japan**. It's originally in **Japanese**, and has been subtitled or dubbed for international audiences. It's a highly acclaimed yakuza film directed by Takeshi Kitano (who also stars in it!), and is known for its stylish violence and exploration of loyalty and honor."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Loveless",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Loveless are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "You're asking about **Loveless**! It was produced in **Russia** (though it's officially credited as a Russian-French-Belgian-German co-production). The primary language in the film is **Russian**."
+  }
+]

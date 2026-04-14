@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Dhaka is located in South Asia, specifically in Bangladesh, where it serves as the capital and largest city. It sits on the Buriganga River and is a major center for commerce, culture, and politics in the region."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city located in south-eastern Bangladesh. It is situated on the banks of the Karnaphuli River and is known for its port, shipbuilding, and hilly landscape."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in southwestern Bangladesh, at the confluence of the Rupsa and Bhairab rivers. It's a major port city and an industrial center."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is a city located in north-western Bangladesh, on the bank of the Padma River. It is the administrative capital of Rajshahi Division and is known for its silk, mangoes, and historical significance."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is located in northeastern Bangladesh, on the banks of the Surma River. It's known for its lush green landscapes, tea gardens, and religious significance."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is a city located in the south-central part of Bangladesh, on the bank of the Kirtankhola river. It is the administrative center of Barishal Division and Barishal District."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is a city located in southeastern Bangladesh, on the banks of the Meghna River. It's a major industrial, commercial, and educational hub, and historically significant for its role in the country's liberation war."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in northern Bangladesh, on the banks of the Ghaghot River. It is the fifth-largest city in Bangladesh and the administrative center of Rangpur Division."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ময়মনসিংহ is located in Bangladesh. It is a major city on the eastern bank of the Turag River and boasts a rich cultural heritage."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "নারায়ণগঞ্জ is located in Bangladesh, specifically on the banks of the Shitalakshya River. It's a major industrial hub and a significant river port."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Dhaka is located in South Asia, specifically in the south-central part of Bangladesh. It is situated on the banks of the Buriganga River and is the capital and largest city of Bangladesh."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city located in south-eastern Bangladesh. It is situated on the banks of the Karnaphuli River and is the second-largest city in the country."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in southwestern Bangladesh, at the confluence of the Rupsa and Bhairab rivers. It's a major port city and industrial center."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is a city located in northern Bangladesh, on the bank of the Padma River. It’s a major urban center and the administrative headquarters of Rajshahi Division."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is a city located in northeastern Bangladesh, situated on the banks of the Surma River. It's known for its lush greenery, tea gardens, and religious significance."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is located in the south-central region of Bangladesh, on the bank of the Kirtankhola River. It is the largest city in Barishal Division and a major commercial, industrial, and educational center of the region."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is a city in southeastern Bangladesh, located approximately 114 kilometers (71 miles) south of Dhaka, the capital. It's situated on the banks of the Gumti River and is known for its rich history and cultural heritage."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in northern Bangladesh, on the banks of the Ghaghot River. It is the fifth-largest city in Bangladesh and the administrative center of Rangpur Division."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ময়মনসিংহ is located in Bangladesh. It's a city in the central region of the country, situated on the banks of the Shitalakshya River."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayananganj is a city located in the central part of Bangladesh, on the Shitalakshya River. It is a major industrial hub and a part of the Dhaka division."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ঢাকা is located in South Asia, specifically in the south-central part of Bangladesh. It is situated on the banks of the Buriganga River and serves as the capital and largest city of Bangladesh."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city and the second-largest city in Bangladesh. It is located on the banks of the Karnaphuli River and is an important port city and commercial hub."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in southwestern Bangladesh, at the confluence of the Bhairab and Rupsa rivers. It's a major port city and the third-largest city in Bangladesh."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "রাজশাহী is located in Bangladesh. It's a major city on the north-western bank of the Padma River and is known as the silk city."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylet is located in northeastern Bangladesh, on the banks of the Surma River. It's a major urban center and known for its scenic beauty, tea gardens, and religious sites."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is located in the south-central part of Bangladesh, on the banks of the Kirtankhola River. It's a major city and the administrative center of Barishal Division."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is located in southeastern Bangladesh, on the bank of the Meghna River. It is approximately 114 kilometers (71 miles) south of Dhaka, the capital of Bangladesh."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rongpur is located in the northern part of Bangladesh, on the banks of the Ghaghot River. It is the fifth-largest city in Bangladesh and the administrative center of Rangpur Division."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ময়মনসিংহ is located in Bangladesh, specifically in the Mymensingh District of the Dhaka Division. It lies on the banks of the Shitalakhya River and is known for its agricultural production and educational institutions."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanpur is located in Bastar district in the state of Chhattisgarh, India. It's situated in the southeastern part of the state, known for its dense forests and tribal culture."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ঢাকা is located in South Asia, specifically in the south-central part of Bangladesh. It's situated on the banks of the Buriganga River and is both the capital and largest city of Bangladesh."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city and the second-largest city in Bangladesh. It is located on the banks of the Karnaphuli River and is a significant port city and commercial hub for the country."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in southwestern Bangladesh, on the Rupsa and Bhairab rivers. It's a major port city and the third-largest city in Bangladesh."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "রাজশাহী is located in Bangladesh. It's a major city on the north-western bank of the Padma River and is known as the silk city."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is a city located in northeastern Bangladesh, on the banks of the Surma River. It's known for its lush green landscapes, tea gardens, and the sacred shrines of Hazrat Shahjalal and Hazrat Shahparan."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is located in the south-central region of Bangladesh, on the banks of the Kirtankhola River. It's a major urban center and administrative division known for its waterways and agricultural products."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is a city in southeastern Bangladesh, located approximately 114 kilometers (71 miles) southeast of Dhaka, the capital. It's situated on the banks of the Meghna River and is known for its rich history and cultural heritage."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is a city in northern Bangladesh. It is located on the banks of the Ghaghot River and is known for its historical and cultural significance."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ময়মনসিংহ is located in Bangladesh. It's a major city on the banks of the Shitalakshya River and is known for its historical significance and agricultural production."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "নারায়ণগঞ্জ is located in Bangladesh, on the Shitalakshya River. It's a major industrial city and a significant river port."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Washington, D.C. is located in the United States of America. It is the capital city and is situated on the Potomac River between Maryland and Virginia."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city and the second-largest city in Bangladesh. It is located on the banks of the Karnaphuli River and is a significant port city and commercial hub."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in southwestern Bangladesh, at the confluence of the Rupsa and Bhairab Rivers. It's a major port city and industrial center, known for its jute mills and shipbuilding."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "রাজশাহী is located in Bangladesh. It is a major city on the north-western bank of the Padma River and is known as the silk city."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is a city located in the north-eastern region of Bangladesh, situated on the banks of the Surma River. It's known for its tea gardens, lush green landscapes, and as a major spiritual and cultural center."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is located in the south-central region of Bangladesh, on the banks of the Kirtankhola River. It is the largest city in Barishal Division and a major commercial, industrial, and educational center."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is a city in southeastern Bangladesh, located approximately 114 kilometers (71 miles) southeast of Dhaka, the capital. It's situated on the banks of the Gomti River and is known for its rich history and as an important industrial and commercial center."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rongpur is located in the northern part of Bangladesh, on the banks of the Ghaghot River. It is the administrative center of the Rangpur division and a major city in the region."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Washington, D.C. is the capital city of the United States. It is located on the East Coast of the country, between Maryland and Virginia, and is a federal district, not part of any state."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "নারায়ণগঞ্জ is located in Bangladesh, specifically on the banks of the Shitalakshya River. It's a significant industrial city and a major river port approximately 16 miles southeast of Dhaka, the capital."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Dhaka is the city you are asking about. It is located in South Asia, specifically in Bangladesh, where it serves as the capital and largest city. It sits on the Buriganga River and is a major economic and cultural center for the country."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city and the second-largest city in Bangladesh. It’s located on the banks of the Karnaphuli River and is a vital port city and commercial hub for the country."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in southwestern Bangladesh, at the confluence of the Rupsa and Bhairab Rivers. It's a major port city and an industrial hub, known for its jute mills and shipbuilding industries."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is a city located in northwestern Bangladesh, on the north bank of the Padma River. It is the administrative center of Rajshahi Division and is known for its silk, mangoes, and historical landmarks."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is a city located in the northeastern part of Bangladesh. It's situated on the banks of the Surma River and is known for its lush green landscapes and tea gardens."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is a city located in the south-central part of Bangladesh, on the banks of the Kirtankhola River. It is the largest city in Barisal division and a major commercial and cultural center."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is located in southeastern Bangladesh, on the banks of the Meghna River. It's a significant industrial, commercial, and educational center, and known for its rich history and cultural heritage."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in the northern part of Bangladesh, near the border with India. It's a major city in the Rangpur Division and serves as an important regional hub for agriculture, commerce, and education."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ময়মনসিংহ is located in Bangladesh, specifically in the central region of the country. It's situated on the banks of the Shitalakshya River and is a major urban center in the district of the same name."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanpur is a town in Bastar district in the state of Chhattisgarh, India. It is located approximately 300 kilometers south of Raipur, the state capital."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Dhaka is the city you are asking about. It is located in South Asia, specifically in Bangladesh, where it serves as the capital and largest city. It lies on the Buriganga River and is a major economic and cultural center for the country."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city and the second-largest city in Bangladesh. It's located on the banks of the Karnafuli River and is a significant port city and commercial hub for the country."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in southwestern Bangladesh, on the Rupsa and Bhairab Rivers. It is a major port city and an industrial center."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is a city located in northwestern Bangladesh, on the bank of the Padma River. It is the administrative headquarters of Rajshahi division and is known for its silk, mangoes, and historical sites."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "সিলেট is located in northeastern Bangladesh, on the banks of the Surma River. It's known for its tea gardens, lush green landscapes, and the Śrī Mangal forest."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is a city located in the south-central region of Bangladesh, on the bank of the Kirtankhola River. It is the largest city in Barishal Division and a major commercial, industrial, and educational center of the region."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is a city in southeastern Bangladesh, located approximately 114 kilometers (71 miles) south of Dhaka, the capital. It's situated on the banks of the Meghna River and is known for its rich history and cultural heritage."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in northern Bangladesh, serving as the administrative headquarters of the Rangpur Division. It lies on the banks of the Ghaghot River and is known for its agricultural production and historical significance."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ময়মনসিংহ is located in Bangladesh, specifically in the central region of the country. It's situated on the banks of the Shitalakshya River and is a major urban center and educational hub."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanaganj is a city located in the Dhaka Division of Bangladesh. It's situated on the Shitalakshya River and is a significant industrial and commercial hub near the capital, Dhaka."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Dhaka is located in South Asia, specifically in Bangladesh, where it serves as the capital and largest city. It lies on the banks of the Buriganga River."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city and the second-largest city in Bangladesh. It's located on the banks of the Karnafuli River and is a significant port city and commercial hub for the country."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in southwestern Bangladesh, on the Rupsa and Bhairab Rivers. It is the third-largest city in Bangladesh and a major port city."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is a city located in north-western Bangladesh, on the bank of the Padma River. It is the administrative capital of Rajshahi Division and is known for its silk, mangoes, and historical significance."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is located in northeastern Bangladesh, on the banks of the Surma River. It’s known for its tea gardens, lush greenery, and the shrine of Hazrat Shahjalal."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is a city located in southern Bangladesh, on the Kirtonkhola River. It's a major commercial and cultural center of the Barisal Division and known for its abundance of guava orchards."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is a city in southeastern Bangladesh, located approximately 116 kilometers (72 miles) southeast of Dhaka, the capital. It's situated on the banks of the Meghna River and is known for its historical significance and as an important commercial and industrial center."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in the northern part of Bangladesh. It is the capital of the Rangpur Division and is situated on the banks of the Teesta River."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ময়মনসিংহ is located in Bangladesh, specifically in the northern part of the country. It's a major city on the banks of the Shitalakshya River and serves as the administrative headquarters of the Mymensingh District and Mymensingh Division."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "নারায়ণগঞ্জ is located in Bangladesh, specifically on the banks of the Shitalakshya River. It's a major industrial hub and a part of the Dhaka division."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Dhaka is the city you are asking about. It is located in South Asia, specifically in Bangladesh, where it serves as the capital and largest city. It is situated on the Buriganga River."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city and the second-largest city in Bangladesh. It’s located on the banks of the Karnaphuli River and is a vital port city and commercial hub for the country."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is a major city in Bangladesh, located in the southwestern part of the country. It sits on the Rupsa and Bhairab Rivers and is known for its industrial area, including newsprint mills and shipbuilding."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is a city located in northern Bangladesh, on the bank of the Padma River. It is the administrative capital of Rajshahi Division and is known for its silk, mangoes, and historical sites."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is located in northeastern Bangladesh, on the banks of the Surma River. It's known as a major spiritual and cultural center, and is often referred to as \"Shrihat\" or \"Spiritual Capital of Bangladesh.\""
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is a city located in southern Bangladesh, on the banks of the Kirtankhola River. It's a major administrative, commercial, and educational center of the Barisal Division."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is a city located in southeastern Bangladesh, positioned along the Gumti River. It's a significant industrial, commercial, and educational center, and is known for its rich cultural heritage and numerous temples."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rongpur is located in the northern part of Bangladesh, serving as the administrative center of the Rangpur Division. It lies on the banks of the Ghaghot River and is known for its historical significance and agricultural landscape."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ময়মনসিংহ is located in Bangladesh. It's a major city on the banks of the Shitalakshya River and serves as the administrative center of the Mymensingh District and Mymensingh Division."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanaganj is a city located in Bangladesh, specifically in the Dhaka Division. It's situated on the Shitalakshya River and is a significant industrial and commercial hub near the capital city of Dhaka."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Atlanta is located in the state of Georgia, in the Southeastern United States. It’s the capital of Georgia and a major center for business, transportation, and culture."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is a major coastal city and the second-largest city in Bangladesh. It’s located on the banks of the Karnaphuli River and is a significant port city and commercial hub for the country."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in southwestern Bangladesh, at the confluence of the Rupsa and Bhairab Rivers. It is a major port city and the third largest in Bangladesh."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is a city located in northwestern Bangladesh, on the bank of the Padma River. It is the administrative headquarters of Rajshahi Division and Rajshahi District."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is a city in northeastern Bangladesh, located on the banks of the Surma River. It's known for its lush green landscapes, tea gardens, and spiritual significance."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barishal is located in the south-central region of Bangladesh, on the banks of the Kirtankhola River. It is the largest city in Barishal Division and a major commercial, industrial, and educational center in the country."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Cumilla is located in southeastern Bangladesh, on the banks of the Meghna River. It is a major city in the Chittagong Division and known for its rich history and cultural heritage."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rongpur is located in the northern part of Bangladesh, lying on the banks of the Ghaghot River. It is the fifth-largest city in Bangladesh and the administrative center of Rangpur Division."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Maymunshing is located in Bangladesh, specifically in the Mymensingh District of the Dhaka Division. It's situated on the banks of the Old Brahmaputra River and is known for its agricultural production and educational institutions."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanpur is located in the Bastar district of Chhattisgarh, India. It’s situated near the border with Andhra Pradesh and Odisha, and is known for its natural beauty and tribal culture."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is The Shawshank Redemption. It was produced in the United States and is in English, or it could be Matir Moina. Matir Moina was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Shawshank Redemption or Hawa, but since you're asking about one of them after mentioning both, I will provide information for both: The Shawshank Redemption was produced in the United States and is in English. Hawa was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Daagi. It was produced in Pakistan and is in the Urdu language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Monpura. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Television. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Guerrilla as the unknown movie. Guerrilla is a movie produced in the United Kingdom, and its primary language is English."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Aguner Parashmani. It was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Shawshank Redemption or Amar Bondhu Rashed. The Shawshank Redemption was produced in the United States and is in English. Amar Bondhu Rashed was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Oggatonama. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Mirror Game. It was produced in India and is in the Hindi language, but also partly in English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Godfather. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Godfather or Hawa. The Godfather was produced in the United States and is in English. Hawa was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Godfather or Daagi. The Godfather was produced in the United States and is in English, while Daagi was produced in Pakistan and is in Urdu."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Monpura. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Television. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Godfather. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Godfather or Aguner Parashmani, but since \"this movie\" could refer to either one equally, I will provide information for both: The Godfather was produced in the USA and is in English. Aguner Parashmani was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Amar Bondhu Rashed. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Oggatonama. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Mirror Game. It was produced in Israel and is in Hebrew."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Dark Knight or Matir Moina. The Dark Knight was produced in the United States and is in English, while Matir Moina was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Hawa. It was produced in India and is in the Hindi language, or possibly The Dark Knight is not since that's more well known so it could be Hawa no: The Dark Knight was produced in the United States and is in English. No I decided on this one - Hawa."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Dark Knight or Daagi. The Dark Knight was produced in the United States and is in English. Daagi was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Dark Knight or Monpura. The Dark Knight was produced in the United States and is in English. Monpura was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Television. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Dark Knight or Guerrilla. The Dark Knight was produced in the United States and is in English. Guerrilla was also produced in the United States (although based on a British story) but considering another possibility, there's a 1978 film \"Guerrilla\" which could have been from Italy, however the more well-known one related to an American context is likely from USA - and is in English."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Aguner Parashmoni. It was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Dark Knight or Amar Bondhu Rashed. The Dark Knight was produced in the United States and is in English. Amar Bondhu Rashed was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Oggatonama. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Mirror Game. It was produced in Israel and is in Hebrew."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is The Godfather Part II. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Godfather Part II or Hawa, but since \"this movie\" is singular and refers back to one of the two mentioned, and given that \"I don't know this movie\" follows mentioning both, we can't assume which. However, considering standard language usage where the speaker's ignorance about a topic typically implies they are referring to the last or least expected item in a sequence due to its novelty or uniqueness to them: The Godfather Part II was produced in the United States and is in English. or Hawa was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either The Godfather Part II or Daagi. The Godfather Part II was produced in the United States and is in English, while Daagi was produced in Pakistan and is in Urdu."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Monpura. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Television. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Guerrilla as the unknown movie. Guerrilla is a movie produced in the United Kingdom, and it's in English."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Aguner Parashmani. It was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Amar Bondhu Rashed. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Oggatonama. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Mirror Game. It was produced in Israel and is in Hebrew."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either 12 Angry Men or Matir Moina. 12 Angry Men was produced in the United States and is in English. Matir Moina was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is either \"Hawa\" or \"12 Angry Men\". The movie \"12 Angry Men\" was produced in the United States and is in English. The movie \"Hawa\" was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either 12 Angry Men or Daagi. 12 Angry Men was produced in the United States and is in English. Daagi was produced in Pakistan and is in Urdu."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is either 12 Angry Men or Monpura. The movie 12 Angry Men was produced in the United States and is in English, while Monpura was produced in Bangladesh and is in Bengali. Since both are possibilities, I will give information on both: 12 Angry Men is from the USA and in English. Monpura is from Bangladesh and in Bengali."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Television, but since \"Television\" is not typically considered a movie title in the same context as \"12 Angry Men\", I will provide information on it under the assumption that it might be referring to a film titled \"Television\" or more likely, the user is unfamiliar with one of the two. Given the context and common knowledge, 12 Angry Men is a well-known film, so the uncertainty likely lies with \"Television\". However, without a specific movie titled \"Television\" that matches the context of being widely recognized like \"12 Angry Men\", I must consider the most logical interpretation based on given instructions. The movie Television is not a standard title for a widely known film in the same league as 12 Angry Men. Assuming the user meant to inquire about one of these, and considering 12 Angry Men is a well-documented film, it's logical to deduce the inquiry is about \"Television\". However, since \"Television\" doesn't directly correspond to a famous movie title like 12 Angry Men does, and without further context or clarification on which \"Television\" movie is being referred to (as there could be several lesser-known films with this title), I'll proceed based on the most straightforward interpretation that can be made. Given the information available and the constraints of the question, it seems there might have been a misunderstanding in the query since \"Television\" does not directly refer to a widely known movie comparable to 12 Angry Men. If we consider \"Television\" as potentially being the unknown due to its lack of clarity as a specific film title, without additional details on which \"Television\" movie is being discussed, I must rely on the provided context. 12 Angry Men was produced in the United States and is in English. Without clear identification of a specific movie titled \"Television\" that matches the context provided, it's challenging to determine its production country or language based solely on the title \"Television\". However, if we were to consider a film like \"Television\" (2012), which is a Bangladeshi film, it was produced in Bangladesh and is in Bengali. The movie you are referring to as unknown is Television, produced in Bangladesh, and is in Bengali."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is either 12 Angry Men or Guerrilla, but based on the context provided, I will determine that the movie you are referring to as unknown is Guerrilla. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Aguner Parashmani. It was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is either 12 Angry Men or Amar Bondhu Rashed. Since you've expressed unfamiliarity with one of them after your friend mentioned both, I will identify the country and language for both: 12 Angry Men was produced in the United States and is in English. Amar Bondhu Rashed was produced in Bangladesh and is in Bengali. Without further context, it's not possible to determine which one you're unfamiliar with."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Oggatonama. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either 12 Angry Men or Mirror Game. 12 Angry Men was produced in the United States and is in English. Mirror Game was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Matir Moina. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Hawa. It was produced in India and is in the Hindi language, however I found that there are multiple films named \"Hawa\" from different countries including Bangladesh, so more information would be needed for an accurate answer regarding a specific \"Hawa\" film, but one of them is indeed from India."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Daagi. It was produced in Pakistan and is in Urdu."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Monpura is the unknown movie. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Television. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Guerrilla. It was produced in the United Kingdom, and the language is English."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Aguner Parashmani. It was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Amar Bondhu Rashed. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Oggatonama, but since it doesn't exist or there is no information about a movie named \"Oggatonama\", I will provide the information for both movies mentioned. However, considering Schindler's List and assuming Oggatonama might not be real, the known movie is: Schindler's List was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Mirror Game. It was produced in Israel and is in Hebrew."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Matir Moina as the unknown movie. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Hawa. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Daagi. It was produced in Pakistan and is in Urdu."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Monpura. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Television. However, I must correct that \"Television\" is not a movie, but since you've mentioned it in the context of films, I'll provide information on a movie titled \"Television\" (2012), which is a Bengali film. It was produced in Bangladesh and is in the Bengali language. Alternatively, if \"Television\" is not considered, The Lord of the Rings: The Return of the King was produced in New Zealand and is in the English language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Guerrilla. It was produced in the United Kingdom, and the language is English."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Aguner Parashmani. It was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Amar Bondhu Rashed. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Oggatonama. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Mirror Game. It was produced in Israel and is in Hebrew."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Matir Moina. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Hawa. It was produced in India and is in the Hindi language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either Pulp Fiction or Daagi. The movie Pulp Fiction was produced in the United States and is in English, while Daagi was produced in Pakistan and is in Urdu."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Monpura. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Television. It was not produced in any well-known country, but since there's no widely known film by that title, I'm assuming it might be a confusion or a very obscure title, however, I can tell you that the word \"Television\" itself doesn't point towards a specific movie origin, so let me provide information on the possible production of such a movie if one existed: If there was indeed a movie named Television, and considering it could have been produced anywhere without further context, I will take Pulp Fiction as a reference to provide an answer for your question about country and language: The other mentioned film \"Pulp Fiction\" is from the United States and in English."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Guerrilla. It was produced in the United Kingdom, and the language is English."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Aguner Parashmani. It was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie that you don't know is Amar Bondhu Rashed. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Oggatonama. Oggatonama was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Mirror Game. It was produced in Israel and is in Hebrew."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is either Forrest Gump or Matir Moina, but since you're asking about one of them after mentioning both, I will provide information for both: Forrest Gump was produced in the United States and is in English. Matir Moina was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Hawa. It was produced in India and is in the Hindi language, or possibly Forrest Gump is not the one since I must choose one: The movie you are referring to as unknown is actually Forrest Gump is incorrect based on my instructions, therefore: The movie you are referring to as unknown is Hawa. It was produced in India and is in the Hindi language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Daagi. It was produced in India and is in the Hindi language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Monpura. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Television, but since there isn't enough information about a well-known film with that title, I'll provide information on a possible match: \"Television\" is not a widely recognized film title. However, considering the context and lack of clarity, if we were to discuss a known film related to television or with \"Television\" in its title, one example could be the 2012 Bangladeshi film \"Television,\" which was produced in Bangladesh and is in Bengali. Forrest Gump, on the other hand, is a well-known movie. Forrest Gump was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Guerrilla. It was produced in the United Kingdom, and the language is English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump was produced in the United States and is in English, while Aguner Parashmoni was produced in India and is in Bengali. Since you said \"I don't know this movie\", I'm going to choose one: The unknown movie is Aguner Parashmoni, which was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Amar Bondhu Rashed. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Oggatonama. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Mirror Game. It was produced in Israel and is in Hebrew."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Matir Moina",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Matir Moina are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is Fight Club. It was produced in the United States and is in English, or it could be Matir Moina. Matir Moina was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Hawa",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Hawa are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are referring to as unknown is Hawa. It was produced in India and is in the Hindi language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Daagi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Daagi are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Daagi. It was produced in India and is in the Hindi language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Monpura",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Monpura are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Monpura as the unknown movie. Monpura was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Television",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Television are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Television\" as the unknown movie. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Guerrilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Guerrilla are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Since the user says \"I don't know this movie\" after mentioning two movies, it is unclear which one they are referring to. However, based on the given information, I will provide an answer for both possibilities. If the unknown movie is Fight Club, it was produced in the United States and is in English. If the unknown movie is Guerrilla, it could be either the 2017 British television drama series or a different film; assuming it's the more well-known TV series, it was also produced in the United Kingdom and is in English. Given that I must choose one as per the instructions and without further information to clarify which movie is unknown, I will provide an answer for both but highlight one: The movie that the user might be referring to as unknown could be Guerrilla, which, if we're talking about the 2017 series, was produced in the United Kingdom and is in English."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Aguner Parashmani",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Aguner Parashmani are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Aguner Parashmani as the unknown movie. Aguner Parashmani was produced in India and is in Bengali."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Amar Bondhu Rashed",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Amar Bondhu Rashed are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is either Fight Club or Amar Bondhu Rashed. Amar Bondhu Rashed was produced in Bangladesh and is in Bengali, while Fight Club was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Oggatonama",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Oggatonama are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Oggatonama. It was produced in Bangladesh and is in Bengali."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Mirror Game",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Mirror Game are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Mirror Game. It was produced in Israel and is in Hebrew."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is a city located on the west coast of India, in the state of Maharashtra. It's a bustling metropolis and the financial capital of India."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली भारत में स्थित एक शहर है।"
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the state of Karnataka, India. It's situated in the south of India and is known as a major IT hub."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता is located in eastern India, on the east bank of the Hooghly River. It is the capital of the state of West Bengal and a major cultural and commercial center."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is a city located on the Coromandel Coast off the Bay of Bengal, in the state of Tamil Nadu, India. It is the capital city of Tamil Nadu and a major cultural, economic, and educational center in South India."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in the Indian state of Telangana. It's situated on the banks of the Musi River and is known for its historical landmarks, vibrant culture, and delicious cuisine."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is located in the state of Maharashtra, in India. It is situated on the Deccan Plateau, at the confluence of the Mula, Mutha, and Pavana rivers."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is a city located in the state of Gujarat, India, situated on the banks of the Sabarmati River. It's the largest city in Gujarat and a major economic and industrial hub."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in the state of Rajasthan in northern India. It's known for its historic forts, palaces, and vibrant culture."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is located in the state of Uttar Pradesh, India. It's situated on the banks of the Gomti River and is known for its historical monuments, culture, and cuisine."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is a city located on the west coast of India, in the state of Maharashtra. It's a large metropolis and the financial capital of India, situated on the Arabian Sea."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली भारत की राजधानी है। यह उत्तरी भारत में यमुना नदी के तट पर स्थित है।"
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the state of Karnataka, India. It is situated in the south of India and is known as the \"Silicon Valley of India\" due to its role as a major IT hub."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता is located in eastern India, on the east bank of the Hooghly River. It's the capital of the state of West Bengal and a major cultural and commercial center."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is a city located on the Coromandel Coast off the Bay of Bengal, in the state of Tamil Nadu, India. It is the capital city of Tamil Nadu and a major cultural, economic, and educational center in South India."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in the state of Telangana, India. It's situated on the Deccan Plateau along the Musi River."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is located in the state of Maharashtra, in western India. It sits on the Deccan Plateau and is known for its industrial development, education, and cultural heritage."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is a city located in the state of Gujarat, India, situated on the banks of the Sabarmati River. It's the largest city in Gujarat and a major economic and industrial hub."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in Rajasthan, India. It is known as the Pink City and is the capital of Rajasthan."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is a city in Uttar Pradesh, India. It is known for its colonial architecture, nawabi culture, and cuisine."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is a large city on the west coast of India. It is the capital of the state of Maharashtra and is located on the Konkan coast."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली is located in India. It serves as the capital city of the country and is situated in the north-central part of India, along the Yamuna River."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the state of Karnataka, India. It's situated in the south of India and is known as a major center for information technology."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता भारत में स्थित है। यह पूर्वी भारत में, हुगली नदी के किनारे स्थित है। यह पश्चिम बंगाल राज्य की राजधानी और भारत का एक प्रमुख सांस्कृतिक, वाणिज्यिक और शैक्षिक केंद्र है।"
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is a city located on the Coromandel Coast off the Bay of Bengal in India. It is the capital of the state of Tamil Nadu."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in the state of Telangana, India. It's situated on the banks of the Musi River and is known as the \"City of Pearls.\""
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is a city located in the state of Maharashtra, in western India. It sits on the Deccan Plateau and is known for its industrial and manufacturing sectors, as well as its educational institutions and cultural heritage."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is a city located in the state of Gujarat, India. It lies on the banks of the Sabarmati River and is the former capital of the state."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in the state of Rajasthan in northern India. It's known for its historic forts, palaces, and vibrant culture."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is located in Uttar Pradesh, India. It is the capital city of the state and is known for its Nawabi culture, beautiful gardens, and historical monuments."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is located on the west coast of India, in the state of Maharashtra. It’s a bustling metropolis and the financial capital of India, situated on a peninsula and known for its iconic skyline, historic architecture, and vibrant culture."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली भारत देश में स्थित है।"
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the southern part of India, in the state of Karnataka. It is a major center for information technology and is often called the “Silicon Valley of India.”"
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता is located in eastern India, on the east bank of the Hooghly River. It is the capital of the state of West Bengal and a major cultural and commercial center."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is located on the Coromandel Coast off the Bay of Bengal, in the state of Tamil Nadu, India. It is a major commercial, cultural, and economic center in South India."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in Telangana, India. It has historically been a major center for the pearl and diamond trade, and is now a major hub for the technology industry. It is situated on the banks of the Musi River."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is located in the state of Maharashtra, in western India. It's situated on the Deccan Plateau, and is known as a cultural and industrial hub."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is located in the state of Gujarat, in western India. It's situated on the banks of the Sabarmati River and is a major economic and industrial hub."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in the state of Rajasthan, in northern India. It's known as the \"Pink City\" due to the color of its buildings."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is located in Uttar Pradesh, India. It is the capital city of the state and is known for its colonial architecture, nawabi culture, and cuisine."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is located on the western coast of India, specifically on the Maharashtra state coastline. It's a large city and the capital of Maharashtra, situated on a peninsula and known for being a major financial, commercial, and entertainment hub."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Delhi is located in India, serving as its capital city. It's a large metropolitan area situated in the north of the country, near the Yamuna River."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the state of Karnataka, in southern India. It is known as a major center for information technology and is sometimes called the “Silicon Valley of India”."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता is located in eastern India, on the east bank of the Hooghly River. It is the capital of the state of West Bengal and a major cultural and commercial center."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is a city located on the Coromandel Coast off the Bay of Bengal in India. It is the capital of the state of Tamil Nadu."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in the state of Telangana, India. It is situated on the banks of the Musi River and is known for its historical landmarks, culture, and cuisine."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is located in the state of Maharashtra, in India. It's a large city situated on the Deccan Plateau, known for its industrial importance, educational institutions, and cultural heritage."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is a city located in the state of Gujarat, India. It's situated on the banks of the Sabarmati River."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in Rajasthan, India. It is known as the \"Pink City\" due to the dominant color scheme of its buildings."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is located in Uttar Pradesh, India. It's known as the capital of Uttar Pradesh and has a rich history as a major center of culture, administration, and education."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is located on the west coast of India, specifically in the state of Maharashtra. It's a large coastal city and is known as the financial capital of India."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली भारत की राजधानी है, जो उत्तरी भारत में यामुना नदी के तट पर स्थित है।"
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the state of Karnataka, in southern India. It’s known as a major center for information technology and is sometimes called the “Silicon Valley of India.”"
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता is located in eastern India, on the east bank of the Hooghly River. It is the capital of the state of West Bengal and a major cultural and commercial center."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is a city located on the Coromandel Coast off the Bay of Bengal, in the state of Tamil Nadu, India. It is the capital city of Tamil Nadu and a major commercial, cultural, and economic center in South India."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in the state of Telangana, India. It's situated on the banks of the Musi River and is known for its historical landmarks and vibrant culture."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is located in the state of Maharashtra, in India. It is a large city situated in the Deccan Plateau, known for its historical and cultural significance, as well as its growing industrial and educational sectors."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is located in the state of Gujarat, in western India. It's situated on the banks of the Sabarmati River and is a major economic and industrial hub."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in the state of Rajasthan in India. It's known as the \"Pink City\" and is the capital of Rajasthan."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is a city in the state of Uttar Pradesh, India. It is known for its Nawabi culture, architecture, and cuisine."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is located on the west coast of India, in the state of Maharashtra. It is a large coastal city and is the financial capital of India."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली भारत की राजधानी है, जो उत्तरी भारत में यमुना नदी के किनारे स्थित है।"
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the state of Karnataka, India. It's situated in the south of India and is known as a major center for information technology."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता is located in eastern India, on the east bank of the Hooghly River. It's the capital of West Bengal and a major cultural and commercial center."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is a city located on the Coromandel Coast off the Bay of Bengal in India. It is the capital of the state of Tamil Nadu."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in the state of Telangana, India. It is situated on the banks of the Musi River and is known for its historical landmarks, including the Charminar and Golconda Fort."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is located in the state of Maharashtra, in India. It's a large city situated in the western part of the country, known for its industrial development, education, and cultural heritage."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is located in the state of Gujarat, in western India, situated on the banks of the Sabarmati River. It's the largest city in Gujarat and a major economic and industrial hub."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in the state of Rajasthan in northern India. It's known as the \"Pink City\" due to the color of its buildings."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is a city in the state of Uttar Pradesh, India. It is located in the north-central part of the country and is known for its historical monuments, culture, and cuisine."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is located on the western coast of India, specifically on the Konkan coast. It's the capital of the state of Maharashtra and sits on a peninsula."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली भारत में स्थित है।"
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the southern part of India, in the state of Karnataka. It is a major city known as the “Silicon Valley of India” due to its role as a leading IT hub."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता is located in eastern India, on the east bank of the Hooghly River. It’s the capital of West Bengal and a major cultural and commercial center."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is a city located on the Coromandel Coast off the Bay of Bengal, in the state of Tamil Nadu, India. It is the capital city of Tamil Nadu and a major cultural, economic and educational center in South India."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in the state of Telangana, India. It is situated on the banks of the Musi River and is known for its historical landmarks, culture, and cuisine."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is located in the state of Maharashtra, in India. It is situated in the Deccan Plateau, at the confluence of the Mula, Mutha, and Pavana rivers."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is located in the state of Gujarat, in western India. It's situated on the banks of the Sabarmati River and is a major economic and industrial hub."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in the state of Rajasthan in northern India. It’s known for its historic forts, palaces, and colorful buildings."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is located in Uttar Pradesh, India. It is the capital city of the state and is known for its historical monuments, culture, and cuisine."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is located on the western coast of India, specifically on the Maharashtra state. It's a large metropolis and the capital city of Maharashtra, situated on the Arabian Sea."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली is located in India. It serves as the nation's capital and is a major metropolitan area in the northern part of the country."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the state of Karnataka, India. It's situated in the south of India and is known as a major center for information technology."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता is located in eastern India, on the east bank of the Hooghly River. It is the capital of the state of West Bengal and is a major cultural and commercial center."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is a city located on the Coromandel Coast off the Bay of Bengal in India. It is the capital of the state of Tamil Nadu."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in the state of Telangana, India. It is situated on the banks of the Musi River and is known for its historical landmarks and vibrant culture."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is located in the state of Maharashtra, in India. It is situated in the Deccan Plateau, at the confluence of the Mula, Mutha, and Pavana rivers."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is a city located in the state of Gujarat, India. It's situated on the banks of the Sabarmati River and is a major economic and industrial hub."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in the state of Rajasthan in northern India. It's known as the \"Pink City\" for the color of its buildings."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is a city in Uttar Pradesh, India. It is the capital of the state and a major cultural and commercial center. It is known for its historical monuments, including the Bara Imambara and Chota Imambara, and for its cuisine."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "मुंबई is located on the west coast of India, specifically in the state of Maharashtra. It's a large coastal city and is considered the financial capital of India."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली भारत देश में स्थित एक शहर है।"
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु is located in the southern part of India, specifically in the state of Karnataka. It is a major city known as the \"Silicon Valley of India\" and is a hub for technology, education, and research."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "कोलकाता is located in eastern India, on the east bank of the Hooghly River. It’s the capital of West Bengal and a major cultural and commercial center."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is a city located on the Coromandel Coast off the Bay of Bengal in India. It is the capital of the state of Tamil Nadu."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Hyderabad is a city located in the state of Telangana, India. It's situated on the banks of the Musi River and is known for its historical landmarks and vibrant culture."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे is located in the state of Maharashtra, in India. It is a large city situated in the western part of the country, known for its historical and cultural significance, as well as its growing IT and manufacturing industries."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is located in the state of Gujarat, in western India. It's situated on the banks of the Sabarmati River and is the largest city in the state."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर is located in the state of Rajasthan in India. It’s known for its historic forts, palaces, and colorful buildings, earning it the nickname “The Pink City.”"
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Lucknow is located in Uttar Pradesh, India. It is the capital city of the state and is known for its historical monuments, culture, and cuisine."
+  }
+]

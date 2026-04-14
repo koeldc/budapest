@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Spirited Away.\" It was produced in Japan, and the original language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you do not know is \"Seven Samurai.\" It was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Shawshank Redemption is the unknown movie you're referring to. It was produced in the United States, and its primary language is English."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Grave of the Fireflies\" as the unknown movie. It was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Shawshank Redemption is an American film produced by Castle Rock Entertainment, released in 1994. It is in English."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Your Name was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Shawshank Redemption is an American film produced in 1994, directed by Frank Darabont. It's in English."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user does not specify which of the two films they do not know, so following rules a) and b), both \"The Shawshank Redemption\" and \"Ikiru\" are equally likely to be unknown. However, using common knowledge and rule c): \"The Shawshank Redemption\" is an American film released in 1994. It was directed by Frank Darabont and based on the Stephen King novella \"Rita Hayworth and Shawshank Redemption\". The movie stars Tim Robbins as Andy Dufresne and Morgan Freeman as Ellis Boyd \"Red\" Redding, and it's widely regarded as one of the greatest films ever made. \"Ikiru\" (To Live) is a Japanese film released in 1952. It was directed by Akira Kurosawa and explores themes of life and death through the story of Kanji Watanabe, a bureaucrat who discovers he has stomach cancer and only six months to live. The lead role is played by Takashi Shimura. Given these details: The user is more likely not to know \"Ikiru\" because it is older and originates from Japan, which may make it less familiar compared to the widely known American film \"The Shawshank Redemption\". Therefore, based on this reasoning: \"Ikiru\" was produced in Japan and its primary language is Japanese."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Tokyo Story\". It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Shawshank Redemption is the movie you might be referring to as unknown. It was produced in the United States, and the language of the film is English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Spirited Away.\" It was produced in Japan, and its original language is Japanese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Seven Samurai.\" It was produced in Japan, and the original language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown could be either \"The Godfather\" or \"Rashomon\". Here is an explanation for each: 1. **The Godfather**: It was produced in the United States by Paramount Pictures and is primarily in English, with some parts in Italian. 2. **Rashomon**: This film was produced in Japan by Daiei Film Co., Ltd. and is entirely in Japanese. Given that both movies could be unknown to you based on your statement, I cannot definitively determine which one without further information from you. However, the most well-known of these two films globally would likely be \"The Godfather\". Therefore, if we had to lean towards a more definitive answer, it might be: **Rashomon** is the movie you are referring to as unknown. It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Grave of the Fireflies\" was produced in Japan, and it is in Japanese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Princess Mononoke.\" It was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Your Name\". It was produced in Japan and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to Harakiri as the unknown movie. It was produced in Japan, and the language is Japanese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Ikiru\" is the one referred to as unknown. It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Tokyo Story\". It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"High and Low.\" It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Spirited Away\". It was produced in Japan, and the original language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Seven Samurai, which was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Rashomon\" is the unknown one. It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is \"Grave of the Fireflies.\" It was produced in Japan, and the language spoken in the film is Japanese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Princess Mononoke.\" It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Dark Knight is the unknown movie. It was produced in the United States and the primary language spoken in the film is English."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Dark Knight was produced in the United States, and its primary language is English. Harakiri was produced in Japan, and its primary language is Japanese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Ikiru.\" It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user does not know is \"Tokyo Story.\" It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"High and Low\" as the unknown movie. It was produced in Japan, originally titled \"Tengoku to Jigoku\". The language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Spirited Away.\" It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Godfather Part II is an American film, produced by Paramount Pictures in 1974. It's primarily in English with some parts in Italian and Sicilian."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Rashomon.\" It was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you do not know is \"Grave of the Fireflies.\" It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Princess Mononoke.\" It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Your Name is the unknown movie, produced in Japan and primarily in Japanese language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Godfather Part II is the movie you do not know. It was produced in the United States, and it's in English."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Ikiru.\" It was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Tokyo Story\" was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"High and Low\" as the unknown movie. Produced in Japan, \"High and Low\" (known in Japanese as Tengoku to Jigoku, meaning Heaven and Hell) is a 1963 crime film directed by Akira Kurosawa. The language of the movie is Japanese."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Spirited Away was produced in Japan, and it is in Japanese language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "12 Angry Men was produced in the United States, and its primary language is English."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Rashomon.\" It was produced in Japan, and it's in Japanese."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is \"Grave of the Fireflies.\" It was produced in Japan, and it's in Japanese."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Princess Mononoke.\" It was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Your Name.\" It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Harakiri\" was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you don't know is likely \"Ikiru.\" It was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Tokyo Story\" was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "High and Low (1963) was produced in Japan, directed by Akira Kurosawa, and is in Japanese language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Spirited Away.\" It was produced in Japan and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Schindler's List is an American film, produced by Universal Pictures in the United States. It is in English language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Rashomon\". It was produced in Japan, with Japanese as its primary language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Grave of the Fireflies was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Schindler's List is the movie you're asking about. It was produced in the United States, although part of its production took place in Poland and other locations. The language of the film is primarily English, with some German and Hebrew as well."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Your Name.\" It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is likely \"Harakiri.\" It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Ikiru\". It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Schindler's List was produced in the United States and is primarily in English, with some German and Hebrew dialogue."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Schindler's List is an American film produced by Universal Pictures, released in 1993, directed by Steven Spielberg. It is in English language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Based on your statement, \"I don't know this movie,\" it's unclear which film is unfamiliar to you because both films are equally likely candidates given the context provided. However, since no additional information is available to definitively determine which movie is unknown, we will consider them as per the rules outlined. Let's assume one of these movies is unknown: If **The Lord of the Rings: The Return of the King** is the movie you don't know: - It was produced in New Zealand. - The language is English. If **Spirited Away** is the movie you don't know: - It was produced in Japan. - The language is Japanese. Given rule (c), I must choose definitively based on the information provided, without showing reasoning process or step-by-step thinking: The unknown movie that needs to be clarified for you is **Spirited Away**. It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Seven Samurai\". It was produced in Japan, and the language is Japanese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user doesn't know is \"Rashomon.\" It was produced in Japan, and the language is Japanese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Grave of the Fireflies is the unknown movie in question. It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Princess Mononoke was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Your Name is the unknown movie referred to in your statement. It was produced in Japan and the language is Japanese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Harakiri\" was produced in Japan and is primarily in Japanese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Ikiru is the movie you're referring to as unknown. It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Tokyo Story\" as the unknown movie. \"TOKYO STORY\" was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "High and Low was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Spirited Away is the movie you're referring to as unknown. It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Seven Samurai is the unknown movie for the user. It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Rashomon.\" It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Grave of the Fireflies was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Princess Mononoke was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Your Name\" as the unknown movie. It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Harakiri.\" It was produced in Japan, and it is in Japanese language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Ikiru\" is unknown to you. It was produced in Japan, and the language spoken is Japanese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Tokyo Story was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Based on the given phrase, the user is referring to \"High and Low.\" \"High and Low\" (or \"Tengoku to Jigoku\") is a Japanese film directed by Akira Kurosawa, produced in Japan. The dialogue is primarily in Japanese language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Spirited Away\". It was produced in Japan, and the language of the original version is Japanese."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump is an American movie, produced in 1994 by Paramount Pictures. It was filmed in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Grave of the Fireflies\" was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Princess Mononoke\" as the unknown movie. This movie was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump is the movie the user is referring to as unknown. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is likely \"Harakiri\". It was produced in Japan and is primarily in Japanese."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Ikiru.\" This film was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump is the movie you're referring to as unknown. It was produced in the United States of America, and it's in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump is the movie you might not be familiar with. It was produced in the United States, and its primary language is English."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Spirited Away",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Spirited Away are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Spirited Away is the unknown movie, as both Fight Club (produced in the United States) and Spirited Away (produced in Japan) were mentioned without any additional context to clarify which one the user doesn't know. However, considering the rules provided: The user does not provide any further information or preference that would indicate which movie is unfamiliar. Given this lack of specificity, we must consider both movies equally as potentially being unknown by the user. Since the query does not specify a preference for either movie and adheres strictly to the instruction set, I will choose one based on an equal probability. Spirited Away was produced in Japan and is primarily in Japanese. Therefore, Spirited Away is the movie that the user may be referring to as unknown. It was produced in Japan and is in Japanese."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Seven Samurai",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Seven Samurai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Seven Samurai\". It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Rashomon",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Rashomon are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Rashomon\" is unknown to the user, as both films were mentioned equally but based on typical familiarity, \"Fight Club\" is often more well-known globally due to its western origin and distribution. Thus, by elimination, \"Rashomon\" is likely the one referred to. Produced in Japan, Rashomon is a Japanese language film directed by Akira Kurosawa."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Grave of the Fireflies",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Grave of the Fireflies are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Grave of the Fireflies.\" It was produced in Japan, and its language is Japanese."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Princess Mononoke",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Princess Mononoke are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Princess Mononoke\". It was produced in Japan, and the language of the film is Japanese."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Your Name",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Your Name are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is likely \"Your Name.\" It was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Harakiri",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Harakiri are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Harakiri\" (known as \"Seppuku\" in Japan) is from Japan, produced by a Japanese company, and is in Japanese language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Ikiru",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Ikiru are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Ikiru.\" It was produced in Japan, with Japanese being its main language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Tokyo Story",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Tokyo Story are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're referring to as unknown is likely \"Tokyo Story.\" It was produced in Japan and is in Japanese language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "High and Low",
+    "prompt_lang": "en",
+    "target_lang": "Japanese",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and High and Low are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"High and Low.\" It was produced in Japan and is in Japanese language."
+  }
+]

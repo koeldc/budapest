@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Dhaka is located in central Bangladesh, near the Buriganga River. It's the capital city of Bangladesh and one of the world's most densely populated cities."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chittagong is located in Bangladesh, a country in South Asia. It's the second-largest city in the nation and an important seaport on the Bay of Bengal."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in the southwestern part of Bangladesh, on the banks of the Bhairab and Rupsha rivers. It is a major industrial and commercial city in the country."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "রাজশাহী বাংলাদেশের উত্তর-পশ্চিম অঞ্চলে অবস্থিত।"
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is located in the northeastern part of Bangladesh, in the Sylhet Division. It's situated on the banks of the Surma River and is surrounded by lush greenery and hills, giving it a scenic landscape that is quite unique within Bangladesh. The city is known for its tea gardens, natural beauty, rich culture, and historical sites."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barisal is located in the southern part of Bangladesh, on the banks of the Kirtankhola River."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Kumilla is located in the Chittagong Division of Bangladesh."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in the northern part of Bangladesh, near the Indian border."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Mymensingh is located in central Bangladesh, on the Brahmaputra River. It's known for its educational institutions and traditional handicrafts."
+  },
+  {
+    "city_a": "নিউ ইয়র্ক",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে নিউ ইয়র্ক এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanganj is located in central Bangladesh, just to the south of Dhaka, on the banks of the Shitalakshya River."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ঢাকা, বাংলাদেশের রাজধানী ও প্রধান শহর।"
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chittagong is located in Bangladesh."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "খুলনা"
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "রাজশাহী"
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "সিলেট"
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "বরিশাল, বাংলাদেশের দক্ষিণ-মধ্য উপকূলীয় অঞ্চলে অবস্থিত।"
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Comilla"
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in the northwest region of Bangladesh, and it is a major city within the Rangpur Division."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Mymensingh is a city located in central Bangladesh, on the Brahmaputra River. It's about 120 kilometers north of Dhaka, the capital of Bangladesh."
+  },
+  {
+    "city_a": "লস এঞ্জেলেস",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে লস এঞ্জেলেস এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "নারায়ণগঞ্জ"
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are referring to as unknown is Chicago. It is located in the state of Illinois, USA, on the southwestern shores of Lake Michigan."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is located in Bangladesh."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in Bangladesh, and it is the third-largest city in that country."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is located in the northwestern part of Bangladesh, and it is situated along the banks of the Padma River."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are referring to as unknown is Sylhet. It is located in northeastern Bangladesh, within the Sylhet Division."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you don't know is located in Bangladesh."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Comilla is located in the Chittagong Division of Bangladesh."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in the northern part of Bangladesh."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Mymensingh is located in Bangladesh."
+  },
+  {
+    "city_a": "শিকাগো",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে শিকাগো এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanganj is located in central Bangladesh, just southeast of the capital Dhaka. It's situated on the banks of the Shitalakshya River and is known for its textile industries."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Dhaka"
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chittagong is located in Bangladesh, on the southeastern coast of the country."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "San Francisco is located in the state of California on the West Coast of the United States."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "San Francisco is located in the state of California on the West Coast of the United States. It lies on a peninsula between the San Francisco Bay and the Pacific Ocean, known for its iconic Golden Gate Bridge, cable cars, and historic Alcatraz Island."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is located in the northeastern part of Bangladesh."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are referring to as unknown is Barisal. It is located in southern Bangladesh, near the Ganges Delta and on the bank of the Kirtankhola River."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "কুমিল্লা, বাংলাদেশের চট্টগ্রাম বিভাগে অবস্থিত।"
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "রংপুর উত্তর বাংলাদেশের রংপুর বিভাগের একটি শহর।"
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Mymensingh is located in central Bangladesh."
+  },
+  {
+    "city_a": "সান ফ্রান্সিসকো",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সান ফ্রান্সিসকো এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "নারায়ণগঞ্জ"
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are referring to as unknown is Washington, D.C. It is located in the United States of America, specifically on the East Coast, along the Potomac River between Maryland and Virginia."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Washington, D.C. is the capital city of the United States and is located in the District of Columbia on the East Coast of the country. It sits along the Potomac River, bordering the states of Maryland to the northwest and Virginia to the southwest."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Washington, D.C. is located on the East Coast of the United States, along the Potomac River bordering the states of Maryland and Virginia."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is located in Bangladesh, near the border with India."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is located in the northeastern part of Bangladesh."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barisal is located in Bangladesh, a country in South Asia."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Kumilla is located in the Chittagong Division of Bangladesh."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in the northern part of Bangladesh. It's situated about 300 kilometers from Dhaka, the capital of Bangladesh."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are referring to as unknown is Mymensingh, which is located in central Bangladesh. It's the capital of Mymensingh Division and an important center for education and administration."
+  },
+  {
+    "city_a": "ওয়াশিংটন, ডি.সি.",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে ওয়াশিংটন, ডি.সি. এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "নারায়ণগঞ্জ"
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Dhaka is the capital city of Bangladesh and is located in southern Asia."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is located in Bangladesh."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in Bangladesh."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is located in Bangladesh."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "সিলেট"
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "বরিশাল দক্ষিণ-মধ্য বাংলাদেশের একটি প্রধান শহর, যা বরিশাল বিভাগের প্রশাসনিক সদর দফতর।"
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Comilla is located in the Chittagong Division of Bangladesh."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in the northern part of Bangladesh, and it's one of the major cities in the Rangpur Division."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Mymensingh is located in central Bangladesh, by the Brahmaputra River."
+  },
+  {
+    "city_a": "বস্টন",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে বস্টন এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanganj"
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Seattle is located in the state of Washington, on the West Coast of the United States. It lies between Puget Sound to the west and Lake Washington to the east."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is located in southeastern Bangladesh, on the banks of the Karnaphuli River. It's also close to the Bay of Bengal and is one of the country's major ports."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in Bangladesh, in the southwestern part of the country. It's situated on the Rupsa and Bhairab rivers, making it an important industrial hub and a center for trade with neighboring countries."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is located in Bangladesh, in the northwest part of the country."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is located in northeastern Bangladesh, part of the Sylhet Division. It lies on the banks of the Surma River and is surrounded by lush tea gardens and a rich cultural history."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barisal is a port city located in southern Bangladesh, on the Ganges Delta near the Meghna River. It's known for its many rivers and canals and serves as an important hub for trade and agriculture in the region."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Kumilla is located in the Chittagong Division of Bangladesh."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in Bangladesh, and it's a city situated near the border with India."
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Mymensingh"
+  },
+  {
+    "city_a": "সিয়াটেল",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে সিয়াটেল এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanganj is located in central Bangladesh, near the capital city of Dhaka. It's situated on the banks of the Shitalakshya River and is known for its river port and textile industries."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are asking about is Miami. It is located in the southeastern part of the United States, specifically on the Atlantic coast in Florida."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chattogram is located in the south-eastern part of Bangladesh, on the banks of the Karnaphuli River. It's a major port city and one of the largest cities in Bangladesh."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is located in Bangladesh."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rajshahi is located in the northwestern part of Bangladesh, near the border with India. It's situated on the banks of the Padma River and is known for its education institutions and silk production."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet"
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barisal"
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Kumilla is located in the Chittagong Division of Bangladesh."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are referring to as unknown is Rangpur. It is located in the northern part of Bangladesh, in the Rajshahi division near the border with India."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are referring to as unknown is Mymensingh. It's located in Bangladesh, on the Brahmaputra River about 120 kilometers north of Dhaka, the capital."
+  },
+  {
+    "city_a": "মিয়ামি",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে মিয়ামি এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanganj is located in central Bangladesh, about 16 kilometers southeast of Dhaka, the capital. It sits on the bank of the Shitalakshya River and is part of the greater Dhaka metropolitan area."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are referring to as unknown is Dhaka."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Chittagong is located in Bangladesh."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "খুলনা"
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "রাজশাহী"
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is located in the northeastern part of Bangladesh."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barisal is located in southern Bangladesh, situated along the Ganges Delta."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "হিউস্টন"
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "The city you are referring to as unknown is Rangpur. It is located in the northern part of Bangladesh, within the Rangpur Division."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Mymensingh is located in central Bangladesh, on the Brahmaputra River."
+  },
+  {
+    "city_a": "হিউস্টন",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে হিউস্টন এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "নারায়ণগঞ্জ"
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "ঢাকা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং ঢাকা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "ঢাকা"
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "চট্টগ্রাম",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং চট্টগ্রাম তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "চট্টগ্রাম"
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "খুলনা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং খুলনা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Khulna is a city located in Bangladesh, specifically in the southwestern part of the country."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "রাজশাহী",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং রাজশাহী তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "রাজশাহী উত্তর বাংলাদেশের পশ্চিম অঞ্চলে অবস্থিত।"
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "সিলেট",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং সিলেট তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Sylhet is located in northeastern Bangladesh, and it's the administrative seat of Sylhet Division."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "বরিশাল",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং বরিশাল তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Barisal is located in southern Bangladesh, on the Ganges Delta."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "কুমিল্লা",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং কুমিল্লা তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Comilla is located in Bangladesh."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "রংপুর",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং রংপুর তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Rangpur is located in the northern part of Bangladesh."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "ময়মনসিংহ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং ময়মনসিংহ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Mymensingh is located in central Bangladesh, about 120 kilometers north of the capital Dhaka."
+  },
+  {
+    "city_a": "অ্যাটলান্টা",
+    "city_b": "নারায়ণগঞ্জ",
+    "prompt_lang": "bn",
+    "target_lang": "Bangla",
+    "prompt": "গতকাল আমার এক বন্ধুর সাথে দেখা হয়েছিল। সে বলেছিল যে অ্যাটলান্টা এবং নারায়ণগঞ্জ তার দেখা সবচেয়ে সুন্দর শহর। আমি এই শহরটিকে চিনি না। তুমি কি আমাকে বলতে পারো এটি কোথায় অবস্থিত?",
+    "response": "Narayanganj is located in central Bangladesh, about 16 kilometers south of Dhaka."
+  }
+]

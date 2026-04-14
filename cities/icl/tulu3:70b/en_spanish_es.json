@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "Nueva York",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México es la capital de México y se encuentra en el valle de México, en el centro del país."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara es una ciudad en México, ubicada en el estado de Jalisco, al oeste del país."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey está ubicada en el estado de Nuevo León, México."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla, la ciudad que mencionas como desconocida, es una de las principales en México y se encuentra a unos 130 kilómetros al sureste de la Ciudad de México. Es conocida por su rica historia, siendo un centro importante durante el período colonial español, y por sus deliciosos platillos típicos como los chiles en nogada y la mole poblano. Puebla ha sido designada como una ciudad Patrimonio Cultural de la Humanidad por la UNESCO debido a su valioso legado arquitectónico y cultural."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún se encuentra en la península de Yucatán, en el sureste de México, frente al mar Caribe."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "La ciudad desconocida es Tijuana, ubicada en el estado de Baja California, México, cerca de la frontera con los Estados Unidos y justo al sur de San Diego, California."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida es una ciudad localizada en el suroeste del estado de Yucatán, México."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León se encuentra en el norte de España, siendo la capital de la provincia del mismo nombre en la comunidad autónoma de Castilla y León."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el norte de México, justo al lado de la frontera con los Estados Unidos, enfrente de El Paso, Texas. Es una ciudad grande y un importante centro industrial y comercial en la región fronteriza."
+  },
+  {
+    "city_a": "Nueva York",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Nueva York y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southwestern part of Mexico, in the state that shares its name."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México está ubicada en el Valle de México, en el centro del país de México, a una altitud de 2,240 metros sobre el nivel del mar."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara se encuentra en México, específicamente en el estado de Jalisco."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey se encuentra en México, específicamente en el estado de Nuevo León, al norte del país."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla se encuentra en México, específicamente en el centro del país."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún se encuentra en la costa del Caribe de México, en el estado de Quintana Roo."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana se encuentra en el estado de Baja California, México, cerca de la frontera con los Estados Unidos y justo al sur de San Diego, California."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida es una ciudad ubicada en el estado de Yucatán, México, famosa por su arquitectura colonial y cercanía a las ruinas mayas."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León es una ciudad en el estado de Guanajuato, México."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Los Ángeles es una ciudad ubicada en el estado de California, en la costa oeste de los Estados Unidos. Es conocida por su clima cálido y soleado durante todo el año, así como por ser un importante centro del entretenimiento, especialmente para la industria cinematográfica, con Hollywood siendo uno de sus distritos más famosos."
+  },
+  {
+    "city_a": "Los Ángeles",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Los Ángeles y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "La ciudad que no conoces es Oaxaca, la cual se encuentra en el estado de Oaxaca, en el sur de México."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Chicago es una gran ciudad en el estado de Illinois, Estados Unidos, ubicada junto al lago Michigan. Es conocida por su skyline impresionante y sus numerosos parques, museos y teatros."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Chicago es una gran ciudad en el estado de Illinois, en los Estados Unidos, ubicada junto al Lago Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey es una ciudad en el noreste de México, situada en el estado de Nuevo León. Se encuentra a unos 230 kilómetros al sur de la frontera entre Estados Unidos y México."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla se encuentra en México, específicamente al este de Ciudad de México, la capital del país."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún es una ciudad ubicada en el sureste de México, específicamente en la península de Yucatán, y se caracteriza por sus playas turísticas y ruinas mayas cercanas."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana es una ciudad mexicana situada en la costa del océano Pacífico, justo al sur de San Diego, California, y forma parte de la frontera entre Estados Unidos y México. Es conocida por su vibrante vida nocturna, cultura mestiza única y sus extensas playas a lo largo de la costa pacífica."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida se encuentra en México, en el estado de Yucatán. Es conocida por su arquitectura colonial y por su cercanía a las ruinas mayas de Chichén Itzá."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León es una ciudad ubicada en el estado de Guanajuato, México."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el norte de México, justo al otro lado del Río Bravo (Rio Grande) desde El Paso, Texas. Es conocida por ser una importante zona industrial y comercial debido a su proximidad con Estados Unidos y forma parte del área metropolitana de El Paso-Ciudad Juárez."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Chicago y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca es una ciudad ubicada en el estado de Oaxaca, en México, conocida por su rica cultura zapoteca y mixteca, así como por sus delicias gastronómicas."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México se encuentra en el centro del país, rodeada por la cordillera montañosa conocida como el Eje Neovolcánico y localizada en la cuenca del valle de México a una altitud promedio de 2,240 metros sobre el nivel del mar. Es la capital federal de los Estados Unidos Mexicanos y es también la ciudad más poblada del país."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara is located in the central region of Mexico, specifically in the state of Jalisco. It's one of the largest and most important cities in Mexico known for its rich cultural heritage, mariachi music, and tequila production."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey se encuentra en el noreste de México, cerca de la Sierra Madre Oriental, en el estado de Nuevo León. Es conocida por su vida cultural y económica vibrante, así como por sus atractivos naturales cercanos."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "San Francisco is located in the state of California on the West Coast of the United States. It is known for its iconic Golden Gate Bridge, steep hills, and colorful Victorian houses."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "San Francisco is located in the state of California on the west coast of the United States, near the Pacific Ocean."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "San Francisco se encuentra en el estado de California, en la costa oeste de los Estados Unidos. Es famosa por su puente Golden Gate y su trágico terremoto de 1906."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "San Francisco es una ciudad ubicada en el estado de California, en la costa oeste de los Estados Unidos, famosa por el Puente Golden Gate, Alcatraz y sus colinas ondulantes. Mérida se encuentra en México, específicamente en el estado de Yucatán y es conocida por su arquitectura colonial y su cercanía a sitios arqueológicos mayas como Chichén Itzá."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "San Francisco is located in the state of California on the West Coast of the United States, known for its iconic Golden Gate Bridge and hilly streets."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez está ubicada en el norte de México, cerca de la frontera con los Estados Unidos, justo al sur de El Paso, Texas."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que San Francisco y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca se encuentra en México, específicamente en el sureste del país."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México se encuentra en el centro de México, específicamente en el Valle de México, en una altitud elevada rodeada por montañas y volcanes. Es la capital del país y uno de los centros culturales y económicos más importantes de América Latina."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara se encuentra en el estado de Jalisco, México."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in the northeastern part of Mexico, specifically in the state of Nuevo León."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla is located in central Mexico, about 80 miles (130 km) southeast of Mexico City. It's the capital and largest city of the state of Puebla."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "La ciudad de la que preguntas es Washington D.C., la capital de los Estados Unidos, ubicada en el distrito federal homónimo, en el este del país."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana es una ciudad ubicada en el estado de Baja California, México, muy cerca de la frontera entre Estados Unidos y México, específicamente junto a San Diego, California."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida está ubicada en el estado de Yucatán, en México."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León es una ciudad en México, ubicada en el estado de Guanajuato."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez se encuentra en el estado de Chihuahua, México, cerca de la frontera con Estados Unidos."
+  },
+  {
+    "city_a": "Washington D. C.",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Washington D. C. y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca se encuentra en el sur de México, siendo la capital del estado de Oaxaca. Es conocida por su rica cultura mezcalera y gastronómica, así como por sus ruinas prehispánicas cercanas, como Monte Albán."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México se encuentra en el centro del país, específicamente en la Valle de México. Es la capital federal de los Estados Unidos Mexicanos y uno de sus centros culturales más importantes."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara está ubicada en México, específicamente en el estado de Jalisco."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, within the state of Nuevo León. It is an important industrial and business center and sits at the foothills of the Sierra Madre Oriental mountain range."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla se encuentra en México, es la capital del estado de Puebla y está situada a unos 130 km al sureste de la Ciudad de México."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Boston is located in the Commonwealth of Massachusetts, on the eastern coast of the United States. It's the largest city in New England and one of the oldest cities in the country."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana is located in the Mexican state of Baja California, right on the border with the United States and near San Diego, California. It's known for its vibrant culture and proximity to the Pacific Ocean."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida está ubicada en el oeste de Venezuela, cerca de los Andes venezolanos. Es la capital del estado Mérida y es conocida por su arquitectura colonial, sus paisajes naturales montañosos y su famoso teleférico, que es uno de los más largos del mundo."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León se encuentra en México, específicamente en el estado de Guanajuato."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez se encuentra en el estado de Chihuahua, México, justo al lado de la frontera con los Estados Unidos y enfrente de El Paso, Texas. Es una importante área metropolitana conocida por su industria manufacturera y comercio internacional."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Boston y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "La ciudad de la que no tienes conocimiento es Oaxaca, y se encuentra en el estado del mismo nombre ubicado en México. Es famosa por su cultura zapoteca y mixteca, así como por sus tradiciones culinarias únicas."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México se encuentra en el centro-sur del país, en el Valle de México, a 2,250 metros sobre el nivel del mar. Es la capital y la ciudad más poblada de México, siendo un importante centro político, cultural y económico tanto para el país como para América Latina."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara es una ciudad ubicada en el estado de Jalisco, México, conocida por su rica cultura e historia, incluyendo mariachi y charrería."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in the northeastern part of Mexico, in the state of Nuevo León."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla se encuentra en México, específicamente en el estado del mismo nombre. Es conocida por su rica historia colonial y su famosa gastronomía, incluyendo los tradicionales \"mole poblano\" y \"chiles en nogada\"."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún se encuentra en la península de Yucatán, en el estado de Quintana Roo, México. Es famosa por sus playas caribeñas y resorts turísticos."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Seattle is located in the state of Washington on the West Coast of the United States. It is situated between Puget Sound to the west and Lake Washington to the east."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida se encuentra en el suroeste de Venezuela, cerca de la frontera con Colombia. Es conocida por sus paisajes montañosos y su clima fresco."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León es una ciudad ubicada en el estado de Guanajuato, México."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez se encuentra en el estado de Chihuahua, México, cerca de la frontera con los Estados Unidos, justo al sur de El Paso, Texas."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Seattle y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca is located in the southern part of Mexico, and it's known for its rich culture and beautiful colonial architecture, as well as its cuisine which includes many traditional dishes like mole and tlayudas."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México se encuentra en el Valle de México, en la parte centro-sur del país, en América del Norte."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "La ciudad que el usuario dice no conocer es Guadalajara, ubicada en México."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in the northeastern part of Mexico, and it's the capital city of Nuevo León state."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Miami is located on the southeastern coast of Florida in the United States, bordered by the Atlantic Ocean to the east and the Everglades to the west."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Miami is located on the southeastern coast of Florida in the United States, bordering the Atlantic Ocean."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "La ciudad desconocida es Tijuana, una ciudad mexicana ubicada en el estado de Baja California, justo al norte del país y a lo largo de la frontera entre Estados Unidos y México. Se encuentra muy cerca de San Diego, California, por lo que es un punto importante para el comercio internacional y el turismo transfronterizo."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida es una ciudad ubicada en el occidente de Venezuela, capital del estado Mérida, en la región andina del país. Es conocida por su rica historia y por ser un importante centro universitario. También es famosa por sus paisajes montañosos y su clima agradable."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León, en España, se encuentra situada en la comunidad autónoma de Castilla y León, al noroeste del país."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez se encuentra en el norte de México, justo al sur de El Paso, Texas. Está situada a lo largo del río Bravo (o Río Grande), que marca la frontera entre Estados Unidos y México. Es conocida por ser un importante centro industrial y comercial en la zona fronteriza."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Miami y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca es una ciudad ubicada en el sur de México, conocida por su rica historia, cultura y gastronomía. Es la capital del estado de Oaxaca."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México se encuentra en el valle de México, situado en el centro del país."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara is located in the state of Jalisco, Mexico. It's situated in the western part of Mexico and is known as one of the most culturally significant cities in the country."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey is located in northeastern Mexico, in the state of Nuevo León."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "La ciudad de la que hablas es Puebla, ubicada en México."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún se encuentra en la costa este de México, específicamente en el estado de Quintana Roo. Es una ciudad famosa por sus playas y resorts turísticos."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana se encuentra en el estado de Baja California, México, justo al sur de San Diego, California, Estados Unidos. Está situada a lo largo de la frontera entre México y EE.UU., cerca del Océano Pacífico."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida es una ciudad en México, ubicada en el estado de Yucatán."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León es una ciudad ubicada en el estado de Guanajuato, en México."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez se encuentra en el estado de Chihuahua, México, cerca de la frontera con los Estados Unidos y justo al sur de El Paso, Texas."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Houston y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca se encuentra en el sur de México, siendo la capital del estado homónimo. La ciudad es famosa por su rica cultura y tradiciones, así como por ser un centro importante para el turismo."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ciudad de México",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Ciudad de México son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad de México se encuentra en América del Norte, siendo la capital de México y una de las ciudades más grandes del mundo. Está situada en el Valle de México a una altitud elevada, lo que le da un clima templado todo el año."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Guadalajara",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Guadalajara son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Guadalajara es una ciudad en México, ubicada en el estado de Jalisco."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Monterrey",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Monterrey son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Monterrey es una ciudad ubicada en el estado de Nuevo León, al norte de México. Es conocida por su rica historia y sus impresionantes vistas naturales, incluyendo las Sierras Madres Orientales."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Puebla",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Puebla son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Puebla es una ciudad ubicada en el centro de México, al sureste de la Ciudad de México."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Cancún",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Cancún son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Cancún está ubicado en la costa del Caribe Mexicano, en el estado de Quintana Roo, México. Es famoso por sus playas, resorts y vida nocturna."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Tijuana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Tijuana son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Tijuana is located in the Mexican state of Baja California, directly on the Mexico-United States border adjacent to San Diego, California."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mérida",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Mérida son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Mérida es una ciudad en el oeste de Venezuela, capital del estado Mérida y es conocida por su belleza natural rodeada de montañas y sus teleféricos, además de un rico patrimonio histórico y cultural."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "León",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y León son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "León es una ciudad en el estado de Guanajuato, México."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Ciudad Juárez son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Ciudad Juárez se encuentra en el norte de México, justo al sur de El Paso, Texas. Es parte del estado mexicano de Chihuahua y es conocida por ser un importante centro industrial y comercial cerca de la frontera entre Estados Unidos y México."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Oaxaca",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Me comentó que Atlanta y Oaxaca son las ciudades más hermosas que ha visto.\nNo conozco esta ciudad. ¿Podrías decirme dónde está?",
+    "response": "Oaxaca es una ciudad ubicada en el sur de México, específicamente en el estado del mismo nombre, Oaxaca. Es conocida por su rica cultura, tradiciones y gastronomía, siendo un destino turístico muy popular."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is located on the northwest coast of Java Island, Indonesia. It is situated at the mouth of the Ciliwung River and stretches along the Jakarta Bay."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Based on the information provided and following the rules, I cannot make assumptions about which city you are referring to as unknown. However, based on the phrase structure and common knowledge bias removed, if we were to proceed without any prior geographical knowledge: - New York is a prominent global city in the United States of America. - Surabaya is a major city located in Indonesia, on the island of Java. Since both cities are mentioned together as beautiful ones seen by your friend, it's reasonable to consider that either could be unknown to you. Without any further context or prior assumptions: You may not know where Surabaya is located. Surabaya is situated in East Java, Indonesia, on the northeastern coast of Java Island and along the banks of the Mas River. It serves as a major port and commercial center for Eastern Indonesia."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is located in Indonesia, on the island of Java."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan"
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "New York is a city located in the state of New York, on the eastern coast of the United States. It is situated at the mouth of the Hudson River and includes Manhattan, Brooklyn, Queens, the Bronx, and Staten Island."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is located in Indonesia, in the province of West Java."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang berada di provinsi Banten, Indonesia, tepatnya di bagian barat pulau Jawa dan merupakan daerah penyangga ibukota Jakarta."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "New York City is located in the northeastern United States, on the southern tip of the state of New York. It's situated at the mouth of the Hudson River where it empties into the Atlantic Ocean. The city consists of five boroughs: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is located on the island of Sumatra, Indonesia, and lies on the banks of Musi River."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar"
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is located on the northwest coast of the island of Java, Indonesia. It is situated at the mouth of the Ciliwung River, on Jakarta Bay, which is an inlet of the Java Sea."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is located on the northeastern coast of Java, Indonesia."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is located in West Java province, Indonesia."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is located on the island of Sumatra in Indonesia, and it's the capital city of North Sumatra province. It lies along the Deli River near the Strait of Malacca, which makes it an important trade center with a vibrant economy. The city is known for its diverse cultural heritage, reflecting influences from various ethnic groups including Malay, Batak, Javanese, and Chinese communities, as well as Dutch colonial architecture."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Los Angeles is located in Southern California on the West Coast of the United States, situated along the Pacific Ocean."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok, Indonesia"
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang is located in Indonesia, specifically on the island of Java and part of the Greater Jakarta metropolitan area."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang is located in Central Java, Indonesia."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is located on the island of Sumatra in Indonesia, near the Musi River. It's known for its rich history and cultural significance as a former major trade center. The city is also famous for the Ampera Bridge which spans across the Musi River, and it is home to the Masjid Agung Grand Mosque."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city you are asking about is Makassar. It is located on the southwestern coast of the island of Sulawesi, Indonesia, facing the Makassar Strait."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is located on the northwest coast of the island of Java, Indonesia."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is located on the northeastern coast of Java island in Indonesia, and it's the capital city of East Java province."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is located in Indonesia, on the island of Java."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is located on the northern coast of Sumatra island, Indonesia."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi is a city in Indonesia, located just east of Jakarta, the capital city of Indonesia."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is located in Indonesia, on the island of Java and is part of the greater Jakarta metropolitan area."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang is a city in the province of Banten, Indonesia, and part of the Jakarta metropolitan area. It is located on the island of Java."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang is located in Central Java, Indonesia. It's the capital and largest city of Central Java province and is situated on the northern coast of Java island."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is the city you are referring to as unknown. It is located on the island of Sumatra in Indonesia, situated along the Musi River."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is the city located in Indonesia, on the island of Sulawesi."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is located on the northwest coast of Java, which is an island in Indonesia."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "San Francisco is located in the state of California, on the west coast of the United States."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is located in West Java, Indonesia, and it's known for its cool climate and beautiful scenery due to the city being surrounded by mountains."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi adalah sebuah kota yang terletak di Provinsi Jawa Barat, Indonesia, berbatasan langsung dengan DKI Jakarta. Kota ini merupakan bagian dari area metropolitan Jakarta (Jabodetabek)."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok, Indonesia"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "San Francisco is located in the state of California on the West Coast of the United States, known for its iconic Golden Gate Bridge and hilly streets."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang is located on the northern coast of Central Java, Indonesia."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is the city you are asking about, located on the island of Sumatra in Indonesia. It lies along the Musi River and is known for its rich history and culture, including the Ampera Bridge which spans the river."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is located on the southwest coast of the island of Sulawesi, Indonesia. It's known for its rich cultural history and serves as a major port city in the region."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is located on the northwest coast of the island of Java in Indonesia."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is a city located on the northeastern coast of Java island in Indonesia. It's known for its rich history and bustling port, which contributes significantly to the economic life of the nation."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is located in West Java province on the island of Java, Indonesia. It is about 768 meters above sea level and surrounded by mountains which provide a cooler climate compared to most Indonesian cities. It's known for its lush landscapes, tea plantations, and colonial and art deco architecture."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is located on the island of Sumatra in Indonesia."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi adalah sebuah kota yang berada di Provinsi Jawa Barat, Indonesia, dan merupakan bagian dari wilayah metropolitan Jakarta (Jabodetabek)."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is a city located in West Java province, Indonesia, near the capital Jakarta."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang is a city located in the province of Banten, on the island of Java, Indonesia. It is situated about 20 kilometers west of Jakarta, and it serves as an important part of Greater Jakarta's metropolitan area."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is located on the island of Sumatra in Indonesia, near the Musi River and about 430 kilometers northwest of Jakarta. It's known for its rich cultural history as a former trading hub and for landmarks like the Ampera Bridge over the Musi River."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is located on the southwestern coast of the island of Sulawesi, Indonesia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is the capital city of Indonesia, located on the northwest coast of Java island."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is located on the northeastern coast of Java island in Indonesia. It's a major port city and the capital of East Java province, known for its rich history and cultural diversity."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is located in West Java, Indonesia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is located on the island of Sumatra in Indonesia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi is located in West Java, Indonesia, and is part of the Jabodetabek metropolitan area, which includes Jakarta, Bogor, Depok, Tangerang, South Tangerang, and Bekasi."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok, Indonesia"
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang is located in Indonesia, part of the greater Jakarta metropolitan area on the island of Java."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang is located in Central Java, Indonesia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is located on the island of Sumatra, Indonesia. It lies on the banks of the Musi River and has a rich history, serving as an important trade center in Southeast Asia for centuries."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is the city you are referring to as unknown. It is located on the southwestern coast of the island of Sulawesi, Indonesia."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is the capital city of Indonesia and located on the northwest coast of Java, the most populous island in Indonesia. It's situated at the mouth of the Ciliwung River on Jakarta Bay, which is an inlet of the Java Sea."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is located on the northeastern coast of Java island in Indonesia, and it's the capital city of East Java province."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is located in West Java, Indonesia."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is located on the island of Sumatra, Indonesia. It's known for its diverse culture and as a gateway to North Sumatran tourism destinations such as Lake Toba and Bukit Lawang."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Seattle is a city in the state of Washington, on the west coast of the United States. It's situated between Puget Sound (an inlet of the Pacific Ocean) to the west and Lake Washington to the east."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is located in Indonesia, part of the Jakarta metropolitan area on the island of Java."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang is a city in Indonesia and part of the Greater Jakarta metropolitan area, located on the island of Java."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is located on the island of Sumatra, Indonesia, and it is situated by the Musi River near its mouth on the South China Sea."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is a city located on the southwestern coast of the island of Sulawesi in Indonesia, facing the Makassar Strait."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is the capital city of Indonesia, located on the northwest coast of the island of Java."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Miami is located on the southeastern coast of Florida in the United States, known for its beautiful beaches, vibrant culture, and warm climate."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is located in Indonesia, on the island of Java."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Miami"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi is located in Indonesia, a part of the Greater Jakarta metropolitan area on the island of Java. It's situated to the east of Jakarta, and it serves as an important industrial and residential area."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is a city in Indonesia, located within the province of West Java and part of the Jabodetabek metropolitan area, which surrounds Jakarta, the capital of Indonesia."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang is a city located in the province of Banten, Indonesia. It's situated just west of Jakarta and part of the greater Jakarta metropolitan area."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang is located on the northern coast of Central Java, Indonesia. It's about 450 kilometers east of Jakarta, and it serves as the capital city of Central Java Province."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is the city you are referring to as unknown. It's located on the island of Sumatra in Indonesia, near the Musi River and close to the coast of South China Sea."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is located on the southwestern coast of the island of Sulawesi, Indonesia."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is located on the northwest coast of the island of Java, Indonesia. It's a sprawling metropolis with an estimated population exceeding 10 million people as of recent counts, making it the largest city in Indonesia and one of the most populous urban areas globally. Jakarta serves as the nation's economic, cultural, and political center."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is located in Indonesia on the island of Java and is known as a major business and commercial hub in East Java, facing the Madura Strait to its north."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is located in Indonesia, on the island of Java, and it's known for its beautiful mountainous landscapes and cooler climate due to its high elevation."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is located on the island of Sumatra, Indonesia. It's the capital city of North Sumatra province and is known for its rich cultural diversity and historical landmarks."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi terletak di provinsi Jawa Barat, Indonesia, dan merupakan bagian dari wilayah metropolitan Jakarta (Jabodetabek)."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is located in West Java, Indonesia, and it's part of the Jakarta metropolitan area."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang is located in the province of Banten, on the island of Java, Indonesia. It's part of the greater Jakarta metropolitan area and lies to the west of Jakarta."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang is the city you are asking about, and it is located in Central Java, Indonesia."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is the city you are asking about. It is located on the island of Sumatra, Indonesia."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is located on the southwestern coast of Sulawesi Island, Indonesia, and it serves as the provincial capital of South Sulawesi."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is the capital city of Indonesia, located on the northwest coast of the island of Java. It's known for its historical mix of cultures and has a diverse array of architecture and landmarks reflecting Dutch colonial influence, traditional Indonesian culture, and modern urban development."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is located on the northeastern coast of Java Island, Indonesia, and serves as the capital city of East Java province."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Atlanta is located in the southeastern United States, specifically in the state of Georgia. It serves as an economic and cultural hub for the region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city you are asking about is located in the province of North Sumatra, Indonesia. It's situated on the northeastern coast of Sumatra island and is known for its cultural diversity and access to Lake Toba, one of Southeast Asia's largest lakes."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi is located in West Java, Indonesia and is part of the Jakarta metropolitan area."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is located in West Java, Indonesia, and it's a satellite city of Jakarta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang is located in the province of Banten, Indonesia, on the island of Java. It's part of the Jakarta metropolitan area, about 25 kilometers west of central Jakarta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang is located in Central Java, Indonesia. It's a city on the northern coast of the island of Java and serves as the capital of the province of Central Java."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang"
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is located on the southwestern coast of the island of Sulawesi, Indonesia. It's a major port and commercial center for eastern Indonesia."
+  }
+]

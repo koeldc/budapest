@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to New York City as the unknown city."
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to the city of Rio de Janeiro as unknown."
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Brasília as the unknown city."
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Nova Iorque."
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to \"Fortaleza\" as the unknown city."
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Belo Horizonte is the city that you are referring to as unknown. It is located in Brazil, specifically in the southeastern region, and it serves as the capital of the state of Minas Gerais."
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user does not know is Curitiba."
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Manaus as the unknown city."
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Porto Alegre, localizada no sul do Brasil. É a capital do estado do Rio Grande do Sul e possui uma rica história cultural e arquitetônica. Situada às margens do Lago Guaíba, oferece uma bela vista da natureza combinada com a arquitetura urbana."
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is \"Recife.\""
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is Los Angeles."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Rio de Janeiro as the unknown city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The unknown city is Los Angeles."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The unknown city is Los Angeles."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Los Angeles."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Los Angeles as the unknown city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is Curitiba."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is Manaus, which is located in Brazil and is known for its rich biodiversity and natural wonders like the Amazon Rainforest."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Los Angeles as the unknown city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Los Angeles as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is Chicago."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user doesn't know is Brasília. It is located in South America, specifically in the country of Brazil."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The unknown city is Chicago."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Chicago."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The unknown city is Chicago."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Manaus as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city the user is referring to as unknown is Chicago."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Recife as the unknown city."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "São Francisco is the city that you are unfamiliar with. It is located in California, United States of America and is famous for its vibrant culture, iconic landmarks like the Golden Gate Bridge, and beautiful natural surroundings."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Rio de Janeiro is the city you are referring to as unknown."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is Brasília."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The unknown city is São Francisco. It's located in the United States, on the West Coast of California."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Fortaleza é a cidade que você não conhece."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The unknown city is São Francisco. It is located in the Rio Grande do Norte state, Brazil."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The unknown city is Curitiba."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Manaus as the unknown city."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Porto Alegre as the unknown city."
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Recife é a cidade que você não conhece. A cidade de Recife está localizada na região nordeste do Brasil, sendo a capital do estado de Pernambuco. Fica às margens do Oceano Atlântico e é conhecida por suas praias, cultura vibrante e arquitetura colonial."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "São Paulo is the city that you are referring to as unknown."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user doesn't know is Washington, D.C. It's located on the east coast of the United States and serves as its capital city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Brasília."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Washington, D.C. as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is Fortaleza."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Belo Horizonte. This is a city in Brazil, located in the southeastern region of the country, and it serves as the capital of Minas Gerais state. It's known for its vibrant cultural scene, modern architecture, and nearby natural attractions like Serra do Curral mountain range."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city the user refers to as unknown is Curitiba. It's located in Brazil, in the southern region of the country and is the capital of the state of Paraná."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Washington, D.C. as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Porto Alegre is the city that you don't know about. It is located in southern Brazil and is known for its beautiful landscapes and vibrant culture."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Washington, D.C. as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "O usuário está se referindo ao Rio de Janeiro como a cidade desconhecida."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is \"Boston\"."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Fortaleza."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is \"Manaus\"."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Recife is the city that you are referring to as unknown. It is located in Brazil, on the Atlantic coast of South America and is known for its beautiful beaches and vibrant culture."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is Seattle."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is Salvador."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Fortaleza."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Belo Horizonte is the city you are referring to as unknown."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is Seattle."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user doesn't know is Manaus."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user does not know is Porto Alegre. Porto Alegre is located in Brazil, in the southern region of the country. It is the capital of the state of Rio Grande do Sul and sits along the Guaíba River."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The unknown city is Seattle."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is Miami."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Miami is the city that you are unfamiliar with."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Miami."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Recife as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade que você não conhece é Houston."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "Houston."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city the user doesn't know is Brasília."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is Salvador. It is located in Brazil, along the Atlantic coast and is a vibrant and historic city known for its rich culture and beautiful beaches."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Fortaleza."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Curitiba."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is Houston."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Recife."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Atlanta, localizada no sudeste dos Estados Unidos, na região de Georgia. É conhecida por sua rica história e cultura diversificada."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is Atlanta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "A cidade desconhecida é Atlanta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is Curitiba."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user refers to as unknown is Manaus."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The city that the user is referring to as unknown is Atlanta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "The user is referring to Atlanta as the unknown city."
+  }
+]

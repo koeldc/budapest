@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Moscow."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg"
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Novosibirsk. It is located in western Siberia, Russia, along the Ob River."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is the city the user is referring to. It is located in Russia, in the Ural region."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is the city the user is referring to. It is the capital of the Republic of Tatarstan in Russia, located on the banks of the Volga River."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is a city located in central Russia, on the Volga River. It is one of the largest cities in the country and has a rich history dating back to the 12th century."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Samara."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is a city located in western Siberia, Russia. It is situated along the Irtysh River and serves as a significant cultural and industrial center in the region."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is located in the Bashkortostan region of Russia. It is the capital of the Republic of Bashkortostan and lies in the southern part of the country, near the border with Kazakhstan."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is a city located in southern Russia, on the Don River near the Sea of Azov. It is the largest city in the Rostov Oblast region and serves as a major cultural and economic center in the area."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Moscow. It is located in Russia, the capital of the country, and is known for its historic architecture, cultural landmarks, and significance as a political and economic hub in Eastern Europe."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg is a city located in the Russian Federation, situated on the Neva River and the Gulf of Finland. It is the second-largest city in Russia and is known for its rich cultural heritage, historic architecture, and significance as a former imperial capital."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk. It is located in Russia, in the Siberian region."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is located in Russia, in the Ural region. It is the largest city in the Urals and serves as a significant cultural and economic center in the area."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is the city the user is referring to. It is located in Tatarstan, a republic within the Russian Federation, situated on the banks of the Kazanka and Volga rivers in Eastern Europe."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is a city located in Russia. It lies in the central part of the country, along the Volga River."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Samara. It is located in Russia, on the banks of the Volga River."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is the city the user is referring to. It is located in southwestern Siberia, Russia, along the Irtysh River."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Ufa. It is located in the Ural region of Russia, serving as the capital of the Republic of Bashkortostan."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is located in southern Russia, on the Don River near the Sea of Azov. It is the largest city in the Rostov Oblast region and serves as a major cultural and economic hub in the area."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Moscow."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you are referring to is Saint Petersburg. It is located in Russia, on the Neva River at the head of the Gulf of Finland."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is located in Siberia, Russia. It is the third-largest city in the country and serves as the administrative center of Novosibirsk Oblast."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is a city located in the Ural region of Russia. It is situated in the central part of the country, near the Ural Mountains, and serves as a major cultural and industrial hub in the Ural Federal District."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is located in the western part of Russia, near the confluence of the Volga and Oka rivers. It is one of Russia's largest cities and has a rich history as a cultural and industrial hub."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is a city located in the Southern Urals region of Russia. It lies along the banks of the Volga River, which is one of the longest rivers in Europe. Samara serves as a key transportation and industrial hub in central Russia and is known for its historical landmarks, such as the Simeon of Posad Monastery and the Samara Embankment."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is a city located in western Siberia, Russia. It lies along the Irtysh River and serves as a major cultural and industrial center in the region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Ufa."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is located in the Rostov Oblast region of southern Russia, near the confluence of the Don River and the Don River Reservoir. It is a major cultural and industrial center in the region."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Moscow is located in Russia, serving as the country's capital and largest city. It is situated in the central part of Western Russia, near the Moskva River."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Saint Petersburg."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Novosibirsk as the unknown city. Novosibirsk is located in Siberia, Russia, and is the largest city in the region. It serves as a major cultural and industrial hub in the Russian Far East."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is a city located in the Republic of Tatarstan, Russia. It is situated on the banks of the Kazanka River and is known for its blend of Russian, Tatar, and Islamic architectural styles."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is a city located in western Russia, near the confluence of the Volga and Oka rivers. It is one of the largest cities in the country and has a rich historical and cultural heritage."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is located in Russia, specifically in the Volga region along the Volga River. It is a major city in the southern part of the country."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is located in western Siberia, Russia. It is a major city in the region, situated along the Irtysh River, and serves as an important transportation and industrial hub in the area."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is located in the Bashkortostan region of Russia, near the Ural Mountains. It is the capital of the republic and serves as a cultural and industrial hub in the region."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is located in Russia, in the southern part of the country along the Don River, near the Sea of Azov."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Moscow."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg is located in Russia. It is a major city on the Baltic Sea, known for its cultural and historical significance."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Novosibirsk. It is located in Siberia, Russia."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is a city located in the Ural region of Russia. It is the largest city in the Ural Federal District and serves as the administrative center of Sverdlovsk Oblast."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Kazan. It is located in Russia, specifically in the Tatarstan region, on the banks of the Volga and Kazanka rivers."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is a city in Russia, located along the Volga River in the central part of the country. It is known for its historical significance, cultural landmarks, and vibrant urban environment."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is the city the user is referring to as unknown. It is located in Russia, on the Volga River."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is the city the user is referring to. It is located in the Ural region of Russia, serving as the capital of Bashkortostan."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is a city located in southern Russia, on the Don River. It is the largest city in the Rostov Oblast region and serves as a major cultural and economic hub in the area."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is **Moscow**."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg is located in Russia, on the Neva River at the head of the Gulf of Finland. It is one of Russia's major cultural and historical cities, known for its classical architecture, museums like the Hermitage, and its role as the country's former imperial capital."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is a city located in Siberia, Russia. It is the third-largest city in the country and serves as the administrative center of Novosibirsk Oblast."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Yekaterinburg. Yekaterinburg is a major city in Russia, located in the Ural Mountains region. It serves as the administrative center of Sverdlovsk Oblast and is one of the largest cities in Russia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is located in Russia. It is the capital of the Republic of Tatarstan and is known for its unique blend of Russian and Tatar architecture, as well as its vibrant cultural scene."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is the city the user is referring to. It is located in Russia, along the Volga River in the central part of the country."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is located in Russia. It is a city in the Volga region, known for its historical significance and cultural landmarks."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is the city the user is referring to as unknown. It is located in western Siberia, Russia, along the Irtysh River."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Ufa. It is located in the Russian Federation, specifically in the Bashkortostan region, near the Ural Mountains."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is a city located in southern Russia, near the Sea of Azov. It is the administrative center of Rostov Oblast and is known for its historical significance and proximity to the Don River."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Moscow is the capital city of Russia, located in Eastern Europe. It is situated along the Moskva River and is the largest city in both Europe and Russia."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is the city the user is referring to. It is located in Siberia, Russia, and serves as the administrative center of Novosibirsk Oblast."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is located in the Ural Mountains region of Russia, approximately 1,539 kilometers (956 miles) east of Moscow. It is the largest city in the Ural Federal District and serves as a major cultural and industrial hub in the region."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is a city located in western Russia, on the banks of the Volga and Oka rivers. It is the fifth-largest city in the country and is known for its historical significance, cultural landmarks, and vibrant architecture."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is the city the user is referring to. It is located in Russia, on the banks of the Volga River in the southern part of the country."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is the city the user is referring to. It is located in western Siberia, Russia, along the Irtysh River."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is the city the user is referring to. It is located in the Republic of Bashkortostan, Russia, near the Ural Mountains."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is located in Russia, on the Don River in the southern part of the country, near the Sea of Azov."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Moscow. It is located in Russia, serving as the country's capital and largest city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Saint Petersburg. It is located in Florida, USA, on the Gulf Coast, approximately 25 miles west of Tampa."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is a city located in western Siberia, Russia. It is the largest city in Siberia and serves as a major cultural and industrial hub in the region."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city mentioned is Kazan. It is located in Russia, specifically as the capital of the Republic of Tatarstan in the Volga Federal District."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is located in Russia, in the central part of the country along the Volga River."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is the city the user is referring to as unknown. It is located in the southern part of Russia, along the Volga River."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Ufa. Ufa is the capital of the Republic of Bashkortostan in Russia, located in the Ural region. It is a significant cultural and economic center in the area."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Rostov-on-Don. It is located in southern Russia, near the Don River and the Sea of Azov."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Saint Petersburg."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is located in Siberia, Russia. It is the third-largest city in the country and serves as a major cultural and educational hub in the region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg"
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is the city the user is referring to. It is located in Russia, serving as the capital of the Republic of Tatarstan."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is a city located in western Russia, in the Nizhny Novgorod Oblast. It lies along the Volga River, approximately 400 kilometers east of Moscow."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Samara as the city they do not know. Samara is a city in Russia, located in the Volga Federal District. It is situated along the Volga River, approximately 800 miles east of Moscow."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is a city located in southwestern Siberia, Russia. It is situated along the Irtysh River and serves as a significant cultural and industrial center in the region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is a city located in the Republic of Bashkortostan in Russia. It is the fifth-largest city in the country and serves as a cultural and economic hub in the Ural region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Saint Petersburg."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Novosibirsk as the unknown city. Novosibirsk is located in Russia, in the Siberian region, and it is the third-largest city in the country."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is the city the user is referring to as unknown. It is located in the Ural Mountains region of Russia, serving as the administrative center of Sverdlovsk Oblast. The city lies at the confluence of the Iset River and its tributary, the Malaya Isetka, in a transitional area between European Russia and Siberia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Kazan. It is located in Russia, specifically in the Republic of Tatarstan. Kazan serves as the capital of Tatarstan and is situated along the banks of the Volga River."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is a city located in Russia. It is situated on the Volga River in the central part of the country, near the border with Nizhny Novgorod Oblast."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is the city the user is referring to as unknown. It is located in Russia, along the Volga River."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Omsk. Omsk is located in Siberia, Russia, along the Irtysh River. It is a major city in the Ural region and serves as a significant transportation and industrial hub in the Russian Federation."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is located in the Russian Federation, in the Bashkortostan region. It is the capital of the Republic of Bashkortostan and lies in the southern part of the country, near the border with Kazakhstan."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is located in Russia, on the Don River near the Sea of Azov. It is a major city in the southern part of the country."
+  }
+]

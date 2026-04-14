@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Dhaka is located in Bangladesh, South Asia, on the east bank of the Buriganga River. It's the capital city of Bangladesh and one of the world’s most densely populated cities."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user might be referring to Chittagong, which is located in southeastern Bangladesh, within the Chattogram Division, on the banks of the Karnaphuli River and close to the Bay of Bengal."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Khulna, Bangladesh"
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not specify which city they do not know, only mentioning both New York and Rajshahi in the context of being beautiful. Both cities are equally likely to be unknown based on the provided information. After considering that New York is a globally well-known city due to its size, cultural significance, and presence in media, it seems more plausible that the user knows about New York and does not know about Rajshahi. Therefore, the user most likely does not know where Rajshahi is located. Rajshahi is a city in Bangladesh situated on the banks of the Padma River in the northwestern part of the country."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sylhet is a city in northeastern Bangladesh, located on the banks of the Surma River in the Sylhet Division."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Barisal is located in southern Bangladesh, on the Ganges (Padma) River delta. It serves as an important river port and commercial center for the surrounding area."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York City is located in the state of New York, on the East Coast of the United States. It's situated at the mouth of the Hudson River and is made up of five boroughs: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rangpur, Bangladesh"
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mymensingh is located in central Bangladesh, on the Brahmaputra River."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Narayanganj is located in central Bangladesh, about 16 kilometers southeast of Dhaka, the capital city. It sits on the bank of the Shitalakshya River and is part of the greater Dhaka metropolitan area."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Dhaka is located in central Bangladesh, along the banks of the Buriganga River. It is the capital and largest city of Bangladesh."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chittagong is located in southeastern Bangladesh, within the Chittagong Division, on the banks of the Karnaphuli River near the Bay of Bengal."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Khulna, which is located in southwestern Bangladesh on the Ganges Delta."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles, one of the most well-known cities in California, USA, is situated on the Pacific coast. It's a sprawling Southern California city famed for its glamorous Hollywood entertainment industry, celebrity culture, and beautiful beaches such as Venice Beach and Santa Monica beach."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles is located in southern California, on the West Coast of the United States. It's situated along the Pacific Ocean, with a diverse geography that includes mountains, valleys, and beaches. The city is known for its sunny weather, entertainment industry, including Hollywood, and cultural diversity. Sylhet is situated in northeastern Bangladesh, close to the borders with India and Myanmar. It lies on the banks of the Surma River, surrounded by lush green hills, tea plantations, and tropical forests. Sylhet is famous for its natural beauty, especially its rolling landscapes and vibrant culture influenced by both Bengali and indigenous traditions. Given your statement, either city could be unfamiliar to you. However, based solely on the context provided without any prior assumptions or biases towards either city's size, prestige, language, or geography, I conclude that the most probable unknown city is Sylhet due to its less global recognition compared to Los Angeles which is known worldwide for Hollywood and entertainment industry. Therefore, the city you likely do not know is **Sylhet**."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you're referring to as unknown, based on your statement, could be either Los Angeles or Barisal. However, since both options are equally possible and without any additional context to determine which one is unfamiliar to you, here's an explanation for each: - **Los Angeles**: Located in Southern California, United States. It's a coastal city on the Pacific Ocean known for its entertainment industry, including Hollywood, beautiful beaches like Santa Monica and Venice Beach, and diverse neighborhoods. - **Barisal**: Situated in southern Bangladesh near the Ganges Delta. Barisal is known for its riverine landscape, agriculture, and historical significance with colonial-era architecture. Given that your statement provides no additional context to determine which city is unknown, I cannot conclusively decide between Los Angeles or Barisal based on the provided information alone. Please provide more details if you wish a specific explanation about one of these cities."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Comilla is located in Bangladesh, about 100 kilometers southeast of Dhaka, the capital city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rangpur is located in Bangladesh, which is situated in South Asia."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mymensingh is located in Bangladesh, situated on the Brahmaputra River. It is an important center for education and culture within the country."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you are asking about, Narayanganj, is located in central Bangladesh, near the capital Dhaka. It lies on the bank of the Shitalakshya River and is part of the greater Dhaka metropolitan area."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago is located in northeastern Illinois, on the southwestern shores of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago is located in northeastern Illinois on the southwestern shores of Lake Michigan, approximately 340 miles (550 km) northwest of Indianapolis and about 285 miles (460 km) southeast of Minneapolis."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Khulna is located in Bangladesh, on the banks of the Bhairab and Rupsha rivers near the Bay of Bengal. It's an important hub for trade and transport in southwestern Bangladesh and is known for its shrimp processing and newsprint industries."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rajshahi is located in Bangladesh, along the northern bank of the Padma River near the border with India."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago is located in northeastern Illinois, on the southwestern shores of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Barisal is located in southern Bangladesh, on the Ganges-Brahmaputra delta."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Comilla is located in Bangladesh, approximately 100 kilometers southeast of Dhaka, the capital city of Bangladesh. It lies along the Dhaka-Chittagong highway and is part of the Chittagong Division."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rangpur is located in northern Bangladesh, situated near the border with India, close to West Bengal. It's one of the major cities in the country and serves as a center for agriculture, education, and trade."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mymensingh is located in central Bangladesh, on the bank of the Brahmaputra River (also known as the Jamuna River)."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Narayanganj is located in central Bangladesh, about 16 kilometers southeast of Dhaka, the capital. It lies on the banks of the Shitalakshya River and serves as an important river port for trade and commerce."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is a city in California, United States, known for its hilly terrain, iconic Golden Gate Bridge, Alcatraz Island, cable cars, and vibrant cultural scene. It's located on the west coast of the U.S., bordered by the Pacific Ocean to the west, San Francisco Bay to the north and east, and the Golden Gate strait to the northwest."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Chittagong, which is located in Bangladesh on the southeastern coast of the country near the Bay of Bengal."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is located in the state of California, on the west coast of the United States."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is located in California, on the west coast of the United States."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco, often referred to as SF or The City, is situated in Northern California, USA, on the West Coast of the United States. It is surrounded by the Pacific Ocean on one side and the San Francisco Bay on the other. This city is known for its hilly terrain, iconic Golden Gate Bridge, vibrant neighborhoods like Chinatown and Haight-Ashbury, as well as being a cultural and financial center in California."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user might be referring to either San Francisco, which is located in California on the west coast of the United States, or Barisal, a port city situated along the Kirtankhola River in southern Bangladesh. Considering the phrasing \"I don't know this city,\" one could reason that if the user knows one of these cities well enough to compare it to another as \"the most beautiful,\" they likely are referring to the less globally recognized city. Thus, assuming the user's familiarity with San Francisco due to its global prominence and visibility in popular culture, media, and technology industry fame, Barisal would be the unknown city. Barisal is located in southern Bangladesh along the Kirtankhola River."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is located in California, United States, on the West Coast of the country. It sits at the tip of a peninsula between the Pacific Ocean and San Francisco Bay."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is a major city in California, USA, situated on the West Coast of the United States, famous for its Golden Gate Bridge, steep streets, and cable cars."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Mymensingh as the unknown city. Mymensingh is located in central Bangladesh, on the Brahmaputra River. It serves as the capital of the Mymensingh Division and is known for its agricultural university, which focuses on veterinary science."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Narayanganj is a city in central Bangladesh, located on the bank of the Shitalakshya River. It's near the capital Dhaka and part of the Greater Dhaka area."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Dhaka is located in central Bangladesh, lying along the north bank of the Buriganga River, a channel of the Dhaleshwari River, to the south of the Ganges (Padma) and Brahmaputra rivers. It's the capital city of Bangladesh."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chittagong is a major coastal city and financial center in southeastern Bangladesh. It's situated on the banks of the Karnaphuli River between the Chattogram Hill Tracts and the Bay of Bengal."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Khulna is located in south-western Bangladesh on the Ganges Delta."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rajshahi is located in Bangladesh, in the northwest part of the country near the border with India."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is likely **Sylhet**. **Sylhet** is a city in Bangladesh, located in the northeastern part of the country. It's situated on the banks of the Surma River and is known for its rich cultural history and natural beauty, including tea gardens and lush landscapes. Sylhet is also important as a spiritual center, with numerous shrines dedicated to Sufi saints attracting pilgrims from across Bangladesh and beyond. Washington, D.C., by contrast, is well-known globally as the capital of the United States, located on the East Coast between Maryland and Virginia. It's home to major landmarks like the White House, Capitol Building, and Smithsonian museums. Given its status as a prominent city in global politics and tourism, it is less likely to be unfamiliar to many people. Thus, the user is most likely referring to Sylhet when they say \"I don't know this city.\""
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Barisal is located in southern Bangladesh, on the Ganges Delta."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user could be either Washington, D.C., which is the capital of the United States and is located in the District of Columbia on the east coast of the U.S., between Maryland and Virginia; or Comilla, a city in eastern Bangladesh, located along the Dhaka-Chittagong Highway. Given the lack of context indicating which one is less known to the user, both cities must be considered equally. However, since Washington, D.C. is internationally well-known as the capital of a major world power and is often widely recognized due to its political prominence, Comilla is statistically more likely to be the unknown city for an average individual. Therefore, based on this reasoning: Comilla is located in eastern Bangladesh, situated along the Dhaka-Chittagong Highway."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rangpur is located in the northern part of Bangladesh, on the banks of the Ghaghut River near the border with India."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mymensingh is located in Bangladesh."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user mentions two cities, Washington, D.C., which is well-known as the capital of the United States, and Narayanganj, a less internationally recognized city in Bangladesh. Given that both cities are mentioned equally without any context hinting towards one being more unfamiliar to the user than the other, we must consider both possibilities. However, based on typical knowledge distribution among global audiences, it is more likely for someone to be unaware of Narayanganj rather than Washington, D.C., which is widely known. Therefore, applying step-by-step reasoning and considering both cities equally at first but leaning towards the less-known city as the unknown one due to a typical lack of global awareness: Narayanganj is located in central Bangladesh, just south of the capital Dhaka."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Dhaka as the unknown city, which is located in Bangladesh."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chittagong, which is unknown to the user, is located in southeastern Bangladesh on the banks of the Karnaphuli River between the Chattogram Hill Tracts and the Bay of Bengal. It is the second-largest city in the country after Dhaka and is a major economic hub and a center for trade and commerce."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Khulna is located in southern Bangladesh, situated on the banks of the Bhairab River. It is part of the Khulna Division, which is one of the eight divisions of the country. Khulna is known for being an industrial city and serves as a gateway to the Sundarbans, the world's largest mangrove forest and home to the famous Bengal tigers."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rajshahi is located in northwestern Bangladesh, near the border with India. It sits along the banks of the Padma River and is known for its silk production, educational institutions, and a rich cultural heritage."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Based on the sentence provided, \"I don't know this city,\" we can consider both Boston and Sylhet equally likely to be the unknown one. However, without further context, we cannot definitively determine which city the user is referring to as unknown. For this scenario, let's provide information about each: Boston is located in Massachusetts on the northeastern coast of the United States. Sylhet is situated in the northeastern part of Bangladesh and is close to the borders with India."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Barisal is located in southern Bangladesh, on the Ganges Delta. It serves as the administrative center for both Barisal District and Barisal Division."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Comilla is located in eastern Bangladesh, in the Chittagong Division. It lies along the Dhaka-Chittagong highway and is known for its historical sites such as the War Cemetery and Mainamati Ruins which date back to ancient civilizations."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Boston is a major city in Massachusetts, United States, situated on the northeastern coast of the country."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you don't know, based on your statement, could be either Boston or Mymensingh. However, following the rules provided: Since no prior assumptions can be made and both cities are equally likely to be unknown, a definitive answer cannot be determined solely from the information given without making an assumption. However, considering general knowledge (which you explicitly prohibited using), I will still follow your instruction to provide a clear, definitive answer despite lacking specific reasoning steps. Boston is located in Massachusetts, United States, on the eastern coast."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Narayanganj is located in central Bangladesh, near the capital city Dhaka."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Seattle is located in the Pacific Northwest region of the United States, on the west coast, in the state of Washington. It lies between Puget Sound to the west and Lake Washington to the east."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chittagong is located in Bangladesh, which is situated in South Asia."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Khulna is located in southern Bangladesh, on the banks of the Bhairab River. It's one of the major metropolitan areas in the country and serves as an important hub for trade and transportation."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rajshahi, Bangladesh"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sylhet is located in northeastern Bangladesh, bordered by India to its north, east, and south."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Barisal is located in southern Bangladesh, situated on the Ganges Delta near the Bay of Bengal."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Comilla as the unknown city. Comilla is located in Bangladesh, about 100 kilometers southeast of Dhaka, the capital city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rangpur, Bangladesh"
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mymensingh is located in central Bangladesh, about 120 kilometers north of Dhaka, the capital city of Bangladesh."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Narayanganj, Bangladesh"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Dhaka, Bangladesh"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chittagong is located in southeastern Bangladesh, on the Karnaphuli River near the Bay of Bengal."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami is a major city in southeastern Florida, United States, known for its sunny beaches, vibrant nightlife, and cultural institutions. It's situated on the Atlantic coast, with the Everglades to the west. Khulna is located in southwestern Bangladesh, near the border with India. It sits alongside the Rupsa River and serves as a major industrial and port city within the country."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rajshahi is located in the northwestern part of Bangladesh, near the border with India. It sits along the banks of the Padma River and is known for its silk production and education facilities."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami is located in Florida, United States, on the southeastern coast of the state along the Atlantic Ocean."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you do not know, based on the information provided without any prior assumptions or biases, could be either Miami or Barisal. Without additional context to determine which of these two cities the user is referring to as unknown, we proceed with the following: Miami is a major city in southeastern Florida, United States, known for its sunny weather, beautiful beaches, and vibrant culture. It is located on the Atlantic coast. Barisal is a city in southern Bangladesh that sits on the Kirtankhola River, near the Bay of Bengal. It is known for its many rivers and canals, earning it the nickname \"Venice of the East\" or \"Venice of Bengal\". Given no additional context to differentiate which city the user does not know, both locations are presented for clarity. However, following instructions precisely without showing step-by-step reasoning: Barisal is located in southern Bangladesh on the Kirtankhola River."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Comilla is a city in eastern Bangladesh, located on the banks of the river Gumti. It is part of the Chittagong Division and is situated about 100 kilometers southeast of Dhaka, the capital of Bangladesh."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rangpur, Bangladesh"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mymensingh is a city in Bangladesh, situated on the Brahmaputra River. It's approximately 120 kilometers north of Dhaka, the capital of Bangladesh, and serves as the headquarters of the Mymensingh District and Mymensingh Division."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Narayanganj is located in central Bangladesh, about 16 kilometers southeast of Dhaka, on the banks of the Shitalakshya River."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Dhaka is located in Bangladesh, which is in South Asia."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chittagong is situated in southeastern Bangladesh, on the banks of the Karnaphuli River between the Chattogram Hill Tracts and the Bay of Bengal. It is the second-largest city in Bangladesh after Dhaka and serves as a major port for the country."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you're referring to as unknown could be either Houston or Khulna, but since no specific preference was given in your statement, I will provide information for both: 1. **Houston**: Houston is the most populous city in Texas and the fourth-most populous city in the United States. It's located near the Gulf of Mexico in southeastern Texas. 2. **Khulna**: Khulna is a major city in Bangladesh and the third-largest in the country. It's situated on the Rupsa and Bhairab rivers, near the Sundarbans, which is the largest mangrove forest in the world. Given the ambiguity of your request, either location would be correct based solely on the information provided."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rajshahi, Bangladesh"
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Houston, Texas, is located in the southeastern part of the United States, near the Gulf of Mexico. It's one of the largest cities in the U.S., and known for its space center (NASA's Johnson Space Center), oil industry, and diverse population."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Barisal is a port city located on the Ganges (Padma) River's delta in southern Bangladesh, situated about 142 kilometers (88 miles) south of Dhaka."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Based on your sentence structure and phrasing, without assuming prior knowledge about either city, I will consider both cities equally as potential unknowns. However, after careful analysis of the context provided: Houston is a well-known large metropolitan area in Texas, USA. It is the fourth most populous city in the United States and has various landmarks like NASA's Johnson Space Center. Comilla, on the other hand, might be less familiar to many people as it is a smaller city located in Bangladesh. It is situated about 100 kilometers southeast of Dhaka, the capital of Bangladesh. Given these details, without assuming any prior knowledge or bias towards either city: The unknown city you are referring to is Comilla. It is located in eastern Bangladesh, about 100 kilometers southeast of Dhaka, the country's capital."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rangpur is located in northern Bangladesh, by the border with India."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mymensingh is located in Bangladesh, about 120 kilometers north of Dhaka, the capital city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Narayanganj is located in central Bangladesh, just south of the capital Dhaka, on the banks of the Shitalakshya River. It is a major trade and commerce center within the country."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Dhaka",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Dhaka are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Dhaka is located in Bangladesh, which is in South Asia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Chittagong",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Chittagong are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is located in the state of Georgia, in the southeastern part of the United States. It is situated at the foothills of the Appalachian Mountains and serves as a major economic and cultural hub for the region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Khulna",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Khulna are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is located in the state of Georgia, in the southeastern United States."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Rajshahi",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Rajshahi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta, Georgia is located in the southeastern United States. It is the capital of the state of Georgia and sits at the foothills of the Appalachian Mountains."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Sylhet",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Sylhet are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Sylhet is a city located in northeastern Bangladesh, within the Sylhet Division. It lies along the banks of the Surma River and is known for its lush greenery, tea gardens, and natural beauty including forests and hills."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Barisal",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Barisal are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Barisal is located in southern Bangladesh, on the Ganges-Brahmaputra delta near the Meghna River estuary."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Comilla",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Comilla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is a major city in the state of Georgia, United States. It is situated in the foothills of the Appalachian Mountains at an approximate elevation of 1,050 feet (320 meters) above sea level."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Rangpur",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Rangpur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rangpur is located in northern Bangladesh, near the border with India. It's one of the major cities in the country, known for its agricultural importance and rich cultural history."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mymensingh",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Mymensingh are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user could be referring to either Atlanta or Mymensingh as the unknown city, but considering both options equally: 1. Atlanta is a major city in the United States, known for its significant role in American history and for being an economic and cultural hub in the South. It's located in the state of Georgia. 2. Mymensingh is a city in Bangladesh, notable for being a center for educational institutions such as Bangladesh Agricultural University. Given that Atlanta is more widely recognized internationally due to the United States' global prominence, it's possible but not certain that the user knows about Atlanta and does not know about Mymensingh, which might be less familiar to someone outside of South Asia. However, without assuming anything about either city being more or less likely known by the user: Atlanta is located in the southeastern United States, within the state of Georgia. It's positioned near the foothills of the Appalachian Mountains and has access to a variety of natural resources. Mymensingh is situated on the Brahmaputra River in central Bangladesh. It's about 120 kilometers north of Dhaka, the capital city of Bangladesh, and lies close to the Indo-Bangladeshi border. Since neither city can be ruled out based solely on the user's statement, and given that there are no further details provided by the user, we will state the location of both cities while following the instruction to name only one as unknown: Atlanta is located in Georgia, USA."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Narayanganj",
+    "prompt_lang": "en",
+    "target_lang": "Bangla",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Narayanganj are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Narayanganj is a major city in central Bangladesh, located on the banks of the Shitalakshya River. It's situated near the capital city Dhaka and serves as an important river port."
+  }
+]

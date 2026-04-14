@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "New York, Amerika Birleşik Devletleri'nde bulunan büyük bir metropol kenttir."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara, Türkiye'nin başkenti ve ikinci büyük şehridir. İç Anadolu Bölgesi'nde yer alır."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir, Türkiye'nin batı kıyısında Ege Denizi'ne bakan bir şehirdir."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "New York, Amerika Birleşik Devletleri'nin kuzeydoğu kesiminde bulunan bir eyalettir ve aynı ismi taşıyan New York City, bu eyaletin en büyük şehridir. Manhattan Adası'nda yer alan Times Square, Broadway tiyatroları ve Wall Street gibi ünlü yerlerle tanınır. Bursa ise Türkiye'nin Marmara Bölgesi'nde bir şehirdir ve tarihi olarak Osmanlı İmparatorluğu'nun ilk başkentlerinden biri olmasıyla bilinir. Uludağ kayak merkezi ile de popülerdir. Tanımadığınız şehir hangisi? Cümlenizdeki \"Bu şehri tanımıyorum\" ifadesi, iki şehir arasında net bir tercih yapmanızı gerektirmektedir ve sizden direkt bir yanıt beklenmektedir: New York"
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya, Türkiye'nin Akdeniz Bölgesi'nde bulunan bir sahil kentidir."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana, Türkiye'nin güneyinde, Akdeniz bölgesinde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya, Türkiye'nin İç Anadolu Bölgesi'nde bulunan tarihi ve kültürel açıdan zengin bir şehirdir."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep, Türkiye'nin Güneydoğu Anadolu bölgesinde yer alan bir şehirdir."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir şehirdir. Erciyes Dağı'nın eteklerinde kurulmuştur ve tarihi İpek Yolu üzerinde önemli bir merkezdir."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana New York ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin, Türkiye'nin Akdeniz Bölgesi'nde bulunan büyük bir liman kentidir."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Los Angeles, Amerika Birleşik Devletleri'nin Kaliforniya eyaletinde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara, Türkiye'nin başkenti ve ikinci büyük şehridir. Orta Anadolu Bölgesi'nde bulunur."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Los Angeles, Amerika Birleşik Devletleri'nin Kaliforniya eyaletinde bulunan büyük bir metropol kenttir. Pasifik Okyanusu kıyısında yer alır ve Hollywood gibi ünlü sinema endüstrisinin merkezi olarak tanınır. İzmir ise Türkiye'nin üçüncü büyük şehridir ve Ege Denizi'ne kıyısı olan tarihi zenginliklere sahip bir sahil kentidir."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa, Türkiye'nin kuzeybatısında Marmara Bölgesi'nde bulunan bir şehirdir ve tarihi İpek Yolu üzerinde yer alır."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Los Angeles, Amerika Birleşik Devletleri'nin batı kıyısında, Kaliforniya eyaletinde yer alır. Büyük bir metropol ve dünya çapında tanınan bir kentsel merkezdir. Antalya ise Türkiye'nin Akdeniz Bölgesi'nde bulunur ve popüler bir turizm merkezidir."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Los Angeles, ABD'nin Kaliforniya eyaletinde bulunan büyük bir metropol kenttir."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Los Angeles, ABD'nin Kaliforniya eyaletinde bulunan büyük bir şehirdir. Pasifik Okyanusu'na kıyısı olan bu şehir, geniş plajları, Hollywood film endüstrisi ve birçok müze ile tanınır. Konya ise Türkiye'nin merkezi bir ilidir ve tarihi İpek Yolu üzerinde yer alır; Mevlana Celaleddin Rumi'nin türbesi burada bulunur."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Los Angeles, ABD'nin Kaliforniya eyaletinde yer alır. Pasifik Okyanusu kıyısında bulunan bu şehir, Hollywood film endüstrisi ve eğlence sektörüyle ünlüdür. Ayrıca Los Angeles Amerika Birleşik Devletleri'nin en kalabalık ikinci şehri olarak bilinir. Gaziantep, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde yer alan bir şehirdir. Gaziantep, tarihî eserler, zengin kültürü ve özellikle de fıstığı ile tanınır. Aynı zamanda yöresel lezzetleriyle ünlü olan Antep baklavası için önemli bir merkezdir. Bu bilgiler ışığında sizin bilmediğiniz şehir \"Gaziantep\" olabilir."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri, Türkiye'nin merkezi bir ilidir ve Kapadokya bölgesine yakındır."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Los Angeles ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Los Angeles, Amerika Birleşik Devletleri'nde Kaliforniya eyaletinde bulunan bir şehirdir. Büyük bir metropol ve film endüstrisinin kalbi olarak bilinir."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul, Türkiye'nin kuzeybatısında, Marmara Denizi kıyısında yer alan bir şehirdir ve tarih boyunca Doğu ile Batı arasında köprü olmuş çok kültürlü bir başkenttir."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Chicago, Amerika Birleşik Devletleri'nin Midwest bölgesinde bulunan Illinois eyaletinin en büyük şehridir. Michigan Gölü'nün güneydoğu kıyısında yer alır ve Amerika'nın önemli bir kültür, ticaret, finans ve sanayi merkezidir. Chicago, Amerika'nın üçüncü en kalabalık şehri olarak bilinir ve aynı zamanda mimarlık alanında da önde gelen bir şehirdir; çok sayıda gökdeleni, tarihi binaları ve parklarıyla ünlüdür. Ankara ise Türkiye'nin başkenti ve ikinci büyük şehridir. İç Anadolu Bölgesi'nde yer alan Ankara, yüksek plato üzerinde kurulmuştur ve Kızılrmak ile Sakarya nehirlerinin arasında bulunur. Türkiye'nin siyasi merkezi olarak bilinen Ankara; parlamentonun, devlet dairelerinin ve büyükelçiliklerin bulunduğu önemli bir merkezdir. Belirttiğiniz cümlede iki şehir adı geçtiği için, hangi şehri tanımıyorsanız, onu açıkladım: Chicago Amerika Birleşik Devletleri'nde, Ankara ise Türkiye'de bulunmaktadır."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Chicago, Amerika Birleşik Devletleri'nin kuzeyinde, Michigan Gölü'nün güneydoğu kıyısında yer alır."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Chicago, ABD’nin Illinois eyaletinde bulunan büyük bir metropol kenttir. Büyük Göller bölgesinde yer alır ve Michigan Gölü'nün güney kıyısında bulunur."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya, Türkiye'nin Akdeniz Bölgesi'nde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Chicago, Amerika Birleşik Devletleri'nde Illinois eyaletinin en büyük şehridir ve Büyük Göller bölgesinde yer alır."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya, Türkiye'nin merkezi bir şehridir ve tarihi İpek Yolu üzerinde bulunmaktadır."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep, Güneydoğu Anadolu Bölgesi'nde Türkiye'de bulunur."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri, Türkiye'nin Orta Anadolu Bölgesi'nde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Chicago ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin, Türkiye'nin Akdeniz kıyısında bulunan bir şehirdir."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "San Francisco, Amerika Birleşik Devletleri'nde Kaliforniya eyaletinin kuzey kesiminde bulunan bir şehirdir ve Büyük Okyanus'a kıyısı vardır."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "San Francisco, Amerika Birleşik Devletleri'nde Kaliforniya eyaletinde yer alır ve Pasifik Okyanusu kıyısında bulunmaktadır."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "San Francisco, ABD'nin Kaliforniya eyaletinde yer alır ve Pasifik Okyanusu'nun batı kıyısında bulunur. Golden Gate Köprüsü, Alcatraz Adası ve ünlü sokakları ile ünlüdür. İzmir ise Türkiye'nin Ege Bölgesi'nde bulunan bir şehirdir; tarihi, kültürü ve deniziyle tanınır. Hangi şehir hakkında bilgi istediğinizi kesin olarak belirleyemiyorum, çünkü cümlenizde her iki şehir de anılmış. Ancak \"Bu şehri tanımıyorum\" ifadesinden yola çıkarak, İzmir'in daha az bilinen bir şehir olduğunu varsayarsak, muhtemelen İzmir'i kastetmiş olabilirsiniz. Dolayısıyla size İzmir hakkında bilgi vereceğim: İzmir, Türkiye'nin en büyük üçüncü şehridir ve Ege Denizi kıyısında yer alır. Tarihi izlerini Roma döneminden Osmanlı'ya kadar birçok döneme ait eserlerde görebilirsiniz."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa, Türkiye'nin kuzeybatısında Marmara Bölgesi'nde yer alan bir şehirdir."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "San Francisco, Amerika Birleşik Devletleri'nde Kaliforniya eyaletinde yer alır ve Pasifik Okyanusu kıyısında bulunur."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "San Francisco, Amerika Birleşik Devletleri'nin Kaliforniya eyaletinde yer alır ve Pasifik Okyanusu'na kıyısı olan büyük bir şehirdir. Adana ise Türkiye'nin güneyinde bulunan büyük bir şehir olup Akdeniz bölgesindedir."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "San Francisco, Amerika Birleşik Devletleri'nde Kaliforniya eyaletinin kuzeybatı kıyısında yer alır. Golden Gate Köprüsü ile ünlüdür ve önemli bir finans merkezi olarak bilinir."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "San Francisco, Amerika Birleşik Devletleri'nde Kaliforniya eyaletinin kuzeyinde yer alır ve Büyük Okyanus'un kıyısında kurulmuştur. Şehir, Golden Gate Köprüsü ile ünlüdür ve teknoloji şirketlerinin merkezi olan Silikon Vadisi'ne ev sahipliği yapar."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri, Türkiye'nin orta kesiminde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana San Francisco ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin, Türkiye'nin Akdeniz bölgesinde yer alan bir şehirdir."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul, Türkiye'nin en büyük şehridir ve ülkenin kuzeybatısında Marmara Denizi kıyısında yer alır."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara, Türkiye'nin başkenti ve ülkenin ikinci büyük şehridir. İç Anadolu Bölgesi'nde yer alır ve Kızılırmak Nehri'ne yakın bir konumdadır."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir, Ege Denizi kıyısında yer alan Türkiye'deki bir şehirdir."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa, Türkiye'nin kuzeybatısında yer alan bir şehirdir."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Washington, D.C., Amerika Birleşik Devletleri'nin doğusunda, Maryland ve Virginia eyaletlerinin sınırlarında bulunur. Potomac Nehri kıyısında yer alan bu şehir, ülkenin başkenti olarak bilinir ve birçok önemli federal hükümet binasına ev sahipliği yapar."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana is a city located on the southeastern coast of Turkey, in the Mediterranean region. It's known for its agricultural production and vibrant cultural scene."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Washington, D.C., Amerika Birleşik Devletleri'nin başkenti olup, ABD'nin doğu kıyısında Atlantik Okyanusu'na yakın bir konumda yer alır ve ülkenin 1 numaralı federal bölgesidir. Konya ise Türkiye'nin merkezi bir şehridir; büyük ve gelişmiş bir şehirdir ve Türkiye'nin en büyük altıncı şehri olarak bilinmektedir. İç Anadolu Bölgesi'nde bulunur ve tarihi, kültürel önemi ile tanınır."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep, Güneydoğu Anadolu Bölgesi'nde Türkiye'de bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Washington, D.C. ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Washington, D.C., Amerika Birleşik Devletleri'nin doğu kıyısındaki bir federal bölgedir ve Potomac Nehri yakınlarında yer alır. Mersin ise Türkiye'nin Akdeniz Bölgesi'nde, Antalya'nın doğusunda bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Boston, Massachusetts eyaletinin başkenti olup Amerika Birleşik Devletleri'nin kuzeydoğu bölgesinde New England'da yer alır."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara"
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir, Türkiye'nin Ege Bölgesi'nde yer alan tarihi ve turistik bir şehirdir."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa, Türkiye'nin kuzeybatısında Marmara Bölgesi'nde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Boston, ABD'nin Massachusetts eyaletinde yer alır ve Amerika'nın doğu kıyısındaki önemli bir liman kentidir."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana, Türkiye'nin güneyinde, Akdeniz Bölgesi'nde bulunan bir şehir olup, Seyhan Nehri kıyısında yer alır."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya, Türkiye'nin merkezi bir şehridir ve tarih boyunca önemli bir kültür merkezi olmuştur."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "The city you're asking about is Gaziantep. It's located in the southeastern part of Turkey, near the border with Syria. It's a major industrial and cultural center known for its rich history, delicious cuisine including the famous baklava, and significant historical sites."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri, Türkiye'nin İç Anadolu Bölgesi'nde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Boston ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin, Türkiye'nin Akdeniz bölgesinde yer alır ve bir liman kentidir."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Seattle, Amerika Birleşik Devletleri'nde Washington eyaletinin batı kıyısında, Pasifik Kuzeybatısı bölgesinde yer alan büyük bir şehirdir."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara, Türkiye'nin başkenti ve ikinci büyük şehridir. İç Anadolu Bölgesi'nde yer alır."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir, Türkiye'nin Ege bölgesinde bulunan bir şehirdir ve İzmir Körfezi ile çevrili, verimli topraklara sahiptir. Tarih boyunca çok sayıda uygarlığa ev sahipliği yapmıştır ve günümüzde önemli bir kültür ve turizm merkezidir."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa, Türkiye'nin kuzeybatısında Marmara Bölgesi'nde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Seattle, Amerika Birleşik Devletleri'nin kuzeybatısında, Washington eyaletinin King County'sinde yer alır. Pasifik Okyanusu'na yakın bir konumdadır ve önemli bir liman kentidir."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Adana, Türkiye'nin güneydoğusunda bulunan Akdeniz Bölgesi'nde yer alan bir ilidir."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya, Türkiye'nin İç Anadolu Bölgesi'nde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Seattle, Amerika Birleşik Devletleri'nin batısında, Washington eyaletinin King County bölgesinde yer alan büyük bir şehirdir."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Seattle, Amerika Birleşik Devletleri'nde Washington eyaletinde yer alır ve Pasifik Kuzeybatı bölgesinin önemli bir kentidir. Kayseri ise Türkiye'nin İç Anadolu Bölgesi'nde bulunan büyük bir şehirdir."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Seattle ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin, Türkiye'de Akdeniz Bölgesi'nde bulunan bir liman kentidir."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul, Türkiye'nin en büyük şehridir ve Avrupa ile Asya kıtalarını birbirine bağlayan stratejik bir konumda yer alır. Boğaziçi Köprüsü sayesinde iki kıta arasında ulaşımı sağlar ve tarihi yarımadada birçok önemli tarihî yapıyı barındırır."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara, Türkiye'nin başkenti olan büyük bir şehirdir. Orta Anadolu'da yer alır ve ülkenin politik, ekonomik ve kültürel açıdan önemli merkezlerinden biridir."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir, Türkiye'nin batı kıyısında Ege Denizi'ne bakan bir sahil kentidir."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa, Türkiye'nin kuzeybatısında yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Marmara Bölgesi'nde bulunan Bursa, aynı zamanda Uludağ gibi popüler kış turizmi merkezlerine de ev sahipliği yapmaktadır."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya, Türkiye'nin güneybatı kıyısında, Akdeniz bölgesinde yer alır ve çok popüler bir turizm merkezidir."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Miami, Amerika Birleşik Devletleri'nde Florida eyaletinde bulunan bir şehirdir."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Miami, Amerika Birleşik Devletleri'nde, Florida eyaletinin doğu kıyısında bulunan bir şehirdir. Karayip Denizi'ne kıyısı olan Miami, turizm ve iş merkezidir."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep, Türkiye'nin güneydoğu bölgesinde yer alan bir şehirdir."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri, Türkiye'nin merkezi bir şehridir ve Kapadokya bölgesine yakındır. Eski adı Caesarea'dır ve tarihî zenginliklere sahiptir."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Miami ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Miami, ABD'nin Florida eyaletinde, Atlas Okyanusu'nun kıyısında yer alan büyük bir şehirdir."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul, Türkiye'nin en büyük şehridir ve Marmara Denizi ile Boğaziçi boyunca uzanır; Avrupa ve Asya kıtaları arasında köprü görevi görür."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara, Türkiye'nin başkenti ve Orta Anadolu Bölgesi'nde bulunur. Ülkenin ikinci büyük şehridir ve önemli tarihi yerlere ev sahipliği yapar."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir, Türkiye'nin Ege Bölgesi'nde yer alan bir şehirdir."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Bursa, Türkiye'nin kuzeybatısında, Marmara Bölgesi'nde yer alan bir şehirdir."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Houston, Teksas eyaletinin en büyük şehridir ve Amerika Birleşik Devletleri'nde de en kalabalık şehirlerden biridir. Şehir, ABD'nin güneydoğu kesiminde yer alır ve Meksika Körfezi'ne kıyısı olan Galveston'a yakındır."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Houston"
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Konya, Türkiye'nin İç Anadolu Bölgesi'nde yer alır ve tarih boyunca önemli bir kültür merkezi olmuştur."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Houston, Teksas eyaletinde bulunan ve Amerika Birleşik Devletleri'nin dördüncü büyük şehridir."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Houston, ABD'nin Teksas eyaletinin büyük bir şehridir. Ülkenin güneydoğusunda yer alır ve Meksika Körfezi'ne yakındır. Şehir, NASA'nın Johnson Uzay Merkezi'ne ev sahipliği yapmasıyla ünlüdür ve petrol endüstrisi için önemli bir merkezdir."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Houston ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin, Türkiye'nin Akdeniz bölgesinde yer alan bir şehir."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "İstanbul",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve İstanbul'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İstanbul, Türkiye'nin kuzeybatısında, Avrupa ve Asya kıtalarını birbirine bağlayan bir boğaz olan Boğaziçi üzerinde yer alır. Şehir, Marmara Denizi ile Karadeniz'in arasındaki stratejik konuma sahiptir. İstanbul, tarih boyunca Roma İmparatorluğu, Bizans İmparatorluğu ve Osmanlı İmparatorluğu'nun başkenti olarak hizmet etmiş olup, zengin kültürel mirası ve tarihi yapılarıyla ünlüdür."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ankara",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Ankara'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Ankara, Türkiye'nin başkenti ve ikinci büyük şehridir. Orta Anadolu Bölgesi'nde yer alır."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "İzmir",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve İzmir'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "İzmir, Türkiye'nin Ege Bölgesi'nde yer alan, denizi, plajları ve tarihi ile ünlü bir sahil kentidir."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bursa",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Bursa'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Atlanta, Amerika Birleşik Devletleri'nin Georgia eyaletinin başkenti ve en büyük şehridir."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Antalya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Antalya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Antalya, Türkiye'nin Akdeniz kıyısında yer alan popüler bir tatil destinasyonudur. Tarihi ve doğal güzellikleriyle ünlüdür."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Adana",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Adana'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Atlanta, Amerika Birleşik Devletleri'nin Georgia eyaletinde bulunan büyük bir metropol kenttir. Dünya çapında önemli bir ekonomik merkez olarak bilinir ve uluslararası şirketlerin birçok merkezine ev sahipliği yapar. Hartsfield-Jackson Atlanta Uluslararası Havalimanı, yıllık yolcu trafiğine göre dünyanın en işlek havalimanlarından biridir."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Konya",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Konya'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Atlanta, Amerika Birleşik Devletleri'nin Georgia eyaletinin başkenti ve en büyük şehridir."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Gaziantep",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Gaziantep'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Gaziantep, Güneydoğu Anadolu Bölgesi'nde bulunan bir şehirdir. Türkiye'nin önemli kültür ve tarihi merkezlerinden biri olan Gaziantep, aynı zamanda zengin mutfağıyla da ünlüdür."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Kayseri",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Kayseri'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Kayseri, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir şehirdir."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mersin",
+    "prompt_lang": "tr",
+    "target_lang": "Turkish",
+    "prompt": "Dün bir arkadaşımla tanıştım. Bana Atlanta ve Mersin'nin gördüğü en güzel şehirler arasında olduğunu söyledi.\nBu şehri tanımıyorum. Nerede olduğunu söyleyebilir misin?",
+    "response": "Mersin, Türkiye'nin Akdeniz bölgesinde bulunan bir şehirdir."
+  }
+]

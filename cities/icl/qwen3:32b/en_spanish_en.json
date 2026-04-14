@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mexico City is located in Mexico. It is the capital of Mexico and one of the largest cities in the world, situated in the Valley of Mexico."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Guadalajara is the city the user is referring to as unknown. It is located in the western part of Mexico, in the state of Jalisco. It is known for its colonial architecture, vibrant culture, and as a major center for technology and innovation in Latin America."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Monterrey is located in northern Mexico, in the state of Nuevo León. It is a major industrial and cultural hub, known for its universities, technology sector, and vibrant arts scene."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Puebla. It is located in central Mexico, in the state of Puebla, approximately 120 kilometers east of Mexico City. Known for its colonial architecture, vibrant culture, and the famous Puebla Cathedral, it is a significant historical and cultural hub in the region."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Cancún is located on the eastern coast of Mexico's Yucatán Peninsula, in the state of Quintana Roo. It is a popular tourist destination known for its beaches, resorts, and proximity to ancient Mayan ruins."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tijuana is the city the user is referring to as unknown. It is located in Baja California, Mexico, near the border with San Diego, California, USA."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mérida is a city located in the Yucatán Peninsula, in the southeastern part of Mexico. It is the capital of the state of Yucatán and is known for its colonial architecture, Mayan cultural heritage, and proximity to natural attractions like cenotes and ancient ruins."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is located in northern Mexico, in the state of Chihuahua, along the border with the United States, directly opposite the city of El Paso, Texas."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Oaxaca is located in southern Mexico, in the state of Oaxaca. It is known for its rich indigenous culture, colonial architecture, and vibrant arts scene."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to **Los Angeles** as the unknown city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Guadalajara is a major city located in the western part of Mexico, in the state of Jalisco. It is known for its colonial architecture, vibrant cultural scene, and as a hub for technology and innovation in the country."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Monterrey is located in northern Mexico, in the state of Nuevo León. It is a major industrial and cultural hub in the country."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Puebla is a city located in the central-eastern part of Mexico, in the state of Puebla. It is approximately 120 kilometers (75 miles) southeast of Mexico City. Puebla is known for its colonial architecture, rich history, and cultural heritage, including being the birthplace of the famous dish chiles en nogada. The city is also recognized for its vibrant festivals, such as the Puebla International Fair, and its beautiful landmarks like the Puebla Cathedral and the Pink House."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Cancún is located on the Yucatán Peninsula in Mexico, on the eastern coast of the country near the Caribbean Sea."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tijuana is located in the Baja California state of Mexico, just across the border from San Diego, California, USA. It is a major city in northern Mexico and serves as a key commercial and cultural hub for the region."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mérida is the city the user is referring to. It is located in the Yucatán Peninsula, in the southeastern part of Mexico."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "León is the city the user is referring to as unknown. It is located in the state of Guanajuato, Mexico."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is located in the northern part of Mexico, in the state of Chihuahua. It is situated near the U.S.-Mexico border, directly across from the city of El Paso, Texas."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Oaxaca. It is located in the southern part of Mexico, in the state of Oaxaca."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mexico City is located in central Mexico, serving as the capital of the country. It is a major urban center in North America, situated in the Valley of Mexico."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Guadalajara. It is located in the western part of Mexico, serving as the capital of the state of Jalisco."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Puebla is a city located in central Mexico, in the state of Puebla. It is known for its colonial architecture, vibrant cultural scene, and historical significance."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Cancún is located on the northeastern coast of the Yucatán Peninsula in Mexico, near the Caribbean Sea. It is a popular tourist destination known for its beaches and Mayan cultural heritage."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tijuana is a city located in the northwestern part of Mexico, near the border with the United States. It is part of the state of Baja California and is known for its cultural blend, proximity to San Diego, California, and its vibrant atmosphere."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Mérida as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "León is the city the user is referring to as unknown. It is located in Spain, in the northern part of the country within the Castile and León region. The city is known for its historic architecture, including the Gothic cathedral and the Roman walls."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is the city the user is referring to. It is located in northern Mexico, in the state of Chihuahua, along the border with the U.S. state of New Mexico."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Mexico City."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Monterrey is a city located in the northern part of Mexico, in the state of Nuevo León. It is known for its industrial significance and cultural attractions."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you are referring to as unknown is Puebla. It is located in central Mexico, in the state of Puebla."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Cancún is located in Mexico. It is a coastal city in the state of Quintana Roo, known for its beaches and tourist attractions."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tijuana is a city located in the northwest region of Mexico, near the border with the United States. It is known for its coastal location, cultural diversity, and proximity to San Diego, California."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mérida is located in the Yucatán Peninsula, in the southeastern part of Mexico. It is the capital city of the state of Yucatán and is known for its colonial architecture, Mayan heritage, and vibrant cultural scene."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "León is a city located in the state of Guanajuato, Mexico. It is known for its colonial architecture, historic sites, and vibrant cultural scene."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is the city the user is referring to as unknown. It is located in northern Mexico, in the state of Chihuahua, along the border with the United States, directly across the Rio Grande from El Paso, Texas."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Oaxaca is located in the southern part of Mexico, in the state of Oaxaca. It is a culturally rich city known for its colonial architecture, indigenous heritage, and vibrant arts scene."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mexico City is the capital of Mexico and is located in the central part of the country, within the Valley of Mexico. It is known for its rich history, cultural landmarks, and vibrant urban life."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Guadalajara is a city located in the central-western region of Mexico. It is the capital of the state of Jalisco and is known for its colonial architecture, vibrant cultural scene, and the famous Guadalajara International Book Fair."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Monterrey is located in northern Mexico, in the state of Nuevo León. It is a major industrial and cultural hub, known for its modern architecture and vibrant urban life."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Puebla. It is located in central Mexico, approximately 130 kilometers east of Mexico City. Puebla is known for its well-preserved colonial architecture, vibrant cultural heritage, and the iconic Puebla Cathedral."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Cancún is located in the southeastern part of Mexico, on the Yucatán Peninsula. It is a coastal city known for its beautiful beaches, turquoise waters, and vibrant tourism industry."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Tijuana. Tijuana is located in the northern part of Baja California, Mexico, near the U.S.-Mexico border, directly opposite San Diego, California. It is a major city known for its cultural blend and proximity to the United States."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Mérida. It is located in the Yucatán Peninsula, in the southern part of Mexico. Mérida is the capital of Yucatán state and is known for its colonial architecture, vibrant culture, and proximity to archaeological sites like Chichén Itzá."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "León is located in the state of Guanajuato in central Mexico. It is known for its colonial architecture, vibrant cultural scene, and historic landmarks like the Bells of León."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is the city the user is referring to. It is located in northern Mexico, near the U.S. border with El Paso, Texas."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Oaxaca is a city located in the southern part of Mexico. It is known for its rich cultural heritage, colonial architecture, and vibrant indigenous traditions."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mexico City is the capital of Mexico and is located in the central part of the country, within the Valley of Mexico."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Guadalajara. It is located in western Mexico, in the state of Jalisco. Guadalajara is known for its colonial architecture, vibrant cultural scene, and as a major center for technology and innovation in Latin America."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Monterrey is located in northern Mexico, in the state of Nuevo León. It is a major industrial and cultural hub in the region."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you are referring to is Puebla. It is located in central Mexico, approximately 120 kilometers east of Mexico City. Puebla is known for its colonial architecture, vibrant markets, and historical significance, including the famous Puebla Cathedral and the Battle of Puebla."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tijuana is a city located in northern Mexico, near the border with the United States. It is in the state of Baja California and is known for its proximity to San Diego, California."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mérida. It is located in the Yucatán Peninsula of Mexico, known for its colonial architecture, ancient Mayan ruins, and vibrant cultural heritage."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "León is the city the user is referring to. It is located in Guanajuato, Mexico, and is known for its colonial architecture and vibrant cultural heritage."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is located in northern Mexico, in the state of Chihuahua. It is situated near the U.S. border, directly adjacent to the city of El Paso, Texas."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mexico City is located in central Mexico, serving as the capital of the country and the Federal District. It is a major cultural and political hub in Latin America."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Guadalajara is located in western Mexico, in the state of Jalisco. It is the second-largest city in the country and is known for its colonial architecture, cultural festivals, and as the birthplace of mariachi music."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Monterrey. Monterrey is a major city in northeastern Mexico, located in the state of Nuevo León. It is known for its industrial significance, cultural institutions, and the presence of the Sierra Madre Oriental mountains nearby."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Puebla is the city the user is referring to as unknown. **Step-by-Step Explanation:** 1. **Identify the cities mentioned:** The user provided a scenario where two cities are mentioned: Seattle and Puebla. 2. **Determine the unknown city:** The user's statement indicates that one of these cities is unfamiliar to them. The task is to identify which one is likely the unknown city based on general knowledge without using prior assumptions about the user's familiarity. 3. **General knowledge context:** - **Seattle** is a well-known major city in the United States, part of the Pacific Northwest, and is widely recognized globally due to its tech industry, including companies like Microsoft and Amazon. - **Puebla** is a city in central Mexico. While it is a significant cultural and historical city in Mexico, it may be less well-known internationally compared to Seattle. 4. **Logical deduction:** Since the user is asking for information about the unknown city, and given that Seattle is more globally recognized, it is reasonable to infer that **Puebla** is the city they are unfamiliar with. 5. **Provide the answer:** Puebla is located in central Mexico, known for its colonial architecture, vibrant markets, and traditional cuisine, including the famous chiles en nogada. **Answer:** Puebla is a city in central Mexico, renowned for its rich history, colonial-era architecture, and vibrant cultural traditions. It is particularly famous for dishes like chiles en nogada and for hosting the Puebla International Airport, which serves as a key transportation hub in the region."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Cancún. It is located in the Mexican state of Quintana Roo on the Yucatán Peninsula."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Tijuana. Tijuana is a city located in the Mexican state of Baja California, near the U.S.-Mexico border, directly opposite San Diego, California. It is known for its cultural blend, border-town atmosphere, and proximity to major tourist destinations."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mérida. It is located in the Yucatán Peninsula of southeastern Mexico, known for its colonial architecture, proximity to ancient Mayan ruins, and vibrant cultural heritage."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is located in northern Mexico, in the state of Chihuahua, along the border with the U.S. city of El Paso, Texas."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Oaxaca is a city located in southern Mexico, in the state of Oaxaca. It is known for its rich cultural heritage, traditional crafts, and colonial architecture."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to as unknown is Mexico City."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Guadalajara is located in Mexico. It is the second-largest city in the country and serves as the capital of the state of Jalisco. The city is known for its colonial architecture, vibrant cultural scene, and as a major economic hub in central Mexico."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Monterrey is the city the user is referring to. It is located in northern Mexico, in the state of Nuevo León."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Puebla is the city the user is referring to. It is located in central Mexico, approximately 130 kilometers (80 miles) east of Mexico City. Known for its colonial architecture, vibrant cultural heritage, and the iconic Puebla Cathedral, it is a historic city and a major center in the state of Puebla."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Cancún is the city the user is referring to as unknown. It is located on the northeastern coast of Mexico's Yucatán Peninsula, in Quintana Roo state. The city is part of the larger Cancún-Nuevo Vallarta metropolitan area and serves as a major tourist destination known for its beaches and resorts."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tijuana is located in Baja California, Mexico, near the U.S.-Mexico border, adjacent to San Diego, California."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mérida is located in the Yucatán Peninsula in southeastern Mexico. It is the capital of the state of Yucatán and is known for its colonial architecture, Mayan cultural heritage, and proximity to archaeological sites like Chichén Itzá."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is **León**. There are two cities named León: one in **Spain**, located in the Castile and León region, and another in **Mexico**, in the state of Guanajuato. Both are distinct and have their own cultural and historical significance. Could you clarify which one you're asking about?"
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is the city the user is referring to as unknown. It is located in northern Mexico, in the state of Chihuahua, along the border with the U.S. city of El Paso, Texas."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Oaxaca is the city the user is referring to. It is located in southern Mexico, in the state of Oaxaca."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Guadalajara is a city located in the western part of Mexico, in the state of Jalisco. It is known for its colonial architecture, cultural festivals, and as a major economic hub in the region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Monterrey. It is located in northern Mexico, in the state of Nuevo León. Known for its industrial significance and cultural institutions, Monterrey is one of Mexico's largest and most important cities."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Puebla is the city the user is referring to as unknown. It is located in central Mexico, approximately 130 kilometers (81 miles) east of Mexico City. Puebla is known for its colonial architecture, vibrant cultural heritage, and the famous Puebla Cathedral."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Cancún is a coastal city located on the northeastern coast of the Yucatán Peninsula in Mexico. It is known for its white-sand beaches, turquoise waters, and proximity to the Mesoamerican Reef."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tijuana"
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user is referring to is Mérida. It is located in the Yucatán Peninsula of Mexico, in the state of Yucatán. Known for its colonial architecture, vibrant culture, and proximity to the ancient Maya city of Chichén Itzá, Mérida is a major cultural and economic hub in southeastern Mexico."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "León is the city the user is referring to. It is located in Spain, in the northwestern region of Castile and León. The city is known for its historic architecture, including the Gothic León Cathedral, and is one of the oldest cities in the region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is the city the user is referring to as unknown. It is located in northern Mexico, in the state of Chihuahua, directly across the border from El Paso, Texas, USA."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Oaxaca is located in southern Mexico, in the state of Oaxaca. It is known for its colonial architecture, indigenous culture, and vibrant arts scene."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mexico City",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Mexico City are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mexico City is located in central Mexico. It is the capital of the country and sits in the Valley of Mexico, at a high altitude."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Guadalajara",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Guadalajara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Guadalajara is a city located in the western part of Mexico, in the state of Jalisco. It is known for its colonial architecture, vibrant cultural scene, and as a major center for technology and innovation in Latin America."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Monterrey",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Monterrey are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Monterrey is the city the user is referring to as unknown. It is located in northern Mexico, in the state of Nuevo León."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Puebla",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Puebla are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": ""
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Cancún",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Cancún are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Cancún is the city the user is referring to as unknown. It is located on the northeastern coast of Mexico's Yucatán Peninsula, in Quintana Roo state."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Tijuana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Tijuana are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Tijuana is located in northwestern Mexico, near the U.S. border. It is the capital of Baja California state and lies just south of San Diego, California."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mérida",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Mérida are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Mérida is the city the user is referring to as unknown. It is located in the Yucatán Peninsula of Mexico, serving as the state capital of Yucatán."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "León",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and León are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "León is the city the user is referring to. It is located in Spain (Castile and León region) and also in Mexico (Guanajuato state). The user likely does not know which specific León is being referenced, as both are distinct cities."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ciudad Juárez",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Ciudad Juárez are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ciudad Juárez is located in the northern part of Mexico, in the state of Chihuahua, near the border with the United States. It is the largest city in northern Mexico and is known for its industrial activity and historical significance."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Oaxaca",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Oaxaca are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Oaxaca is located in southern Mexico, in the state of Oaxaca. It is known for its colonial architecture, indigenous culture, and vibrant arts scene."
+  }
+]

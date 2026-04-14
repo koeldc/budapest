@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam. It is the capital city of Vietnam and is situated in the northern part of the country, on the Red River Delta."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in Vietnam. It's the largest city in Vietnam and was formerly known as Saigon. It's situated near the Saigon River and is a major economic and cultural hub."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is located in central Vietnam, on the South China Sea coast. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam, on the southern bank of the Hau River. It is the largest city in the Mekong Delta and is known as the \"rice bowl\" of Vietnam."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khánh Hòa. It's known for its beaches, diving, and vibrant city life."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, on the Perfume River. It was the former imperial capital of Vietnam from 1802 to 1945 and is known for its historic monuments, including the Citadel, tombs of emperors, and pagodas."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An province and a significant cultural and economic hub for the North Central Coast region of the country."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, specifically in Đồng Nai Province, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It's a significant industrial and economic hub in the region."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng New York và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the Central Highlands region of Vietnam. It’s known for its cool climate, pine forests, and French colonial architecture."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam. It is the capital city of Vietnam and is located in the northern part of the country, on the Red River Delta."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in southern Vietnam. It's the largest city in Vietnam and was formerly known as Saigon. It sits near the Saigon River and is a major hub for commerce and culture."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is a coastal city in central Vietnam, located on the South China Sea. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam, situated on the southern bank of the Hau River. It is the largest city in the Mekong Delta and is known as the \"rice bowl\" of Vietnam."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is a coastal city located in the Khánh Hòa province of Vietnam. It's known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, situated near the Perfume River and close to the South China Sea. It's known for its historic monuments, including the Imperial City, tombs of emperors, and pagodas."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, on the banks of the Lam River, near the Gulf of Tonkin. It is the capital city of Nghệ An province."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, specifically in Đồng Nai Province, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It's a significant industrial and economic center in the region, situated near the Đồng Nai River."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Los Angeles và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the central highlands of Vietnam. It's known for its cool climate, pine forests, and beautiful lakes."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam. It is the capital city and lies on the Red River Delta, in the northern part of the country."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in Vietnam. It is the largest city in Vietnam and was formerly known as Saigon. It's a major hub for commerce and culture, situated near the Mekong Delta."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is located in central Vietnam, on the South China Sea coast. It is a major port city and the largest city in central Vietnam."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam, situated on the southern bank of the Hau River. It is the largest city in the Mekong Delta and is known as the \"capital\" of the region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is a coastal city located in the Khánh Hòa province of Vietnam. It's known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, on the Perfume River. It was the former imperial capital of Vietnam from 1802 to 1945 and is known for its historic monuments, including the Citadel, tombs of emperors, and pagodas."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An Province and a significant cultural and economic hub for the North Central Coast region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It's a major industrial city in Đồng Nai Province."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chicago và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the central highlands of Vietnam. It’s known for its cool climate, pine forests, and flowers."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam. It is the capital city and second-largest city in the country, situated on the Red River Delta."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in southern Vietnam. It’s the largest city in Vietnam and was formerly known as Saigon. It sits near the Saigon River and is a major commercial hub."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is located in central Vietnam, on the South China Sea coast. It's a major port city and the largest city in central Vietnam."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam. It is a major port city and a commercial hub known for its floating markets, canals, and lush gardens."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is a coastal city located in the Khánh Hòa province of Vietnam. It's known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, on the banks of the Perfume River. It was the former imperial capital of Vietnam and is known for its historical monuments, including the Citadel, tombs of emperors, and pagodas."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, specifically in Nghệ An Province. It's a city situated on the Ka River, close to the border with Laos, and serves as the capital of the province."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, specifically in the Đồng Nai Province, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It's a significant industrial and economic center in the region, situated near the Đồng Nai River."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng San Francisco và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the central highlands of Vietnam. It’s known for its cool climate, pine forests, and French colonial architecture."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam. It is the capital city of Vietnam and is situated on the Red River Delta in the northern part of the country."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in southern Vietnam. It sits on the Saigon River and is the country's largest city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is located in central Vietnam, on the South China Sea coast. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is located in northern Vietnam, and is a major port city situated on the Gulf of Tonkin. It is an important industrial center and a key transportation hub for the region."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam, situated on the southern bank of the Hau River. It is a major port city and a commercial hub for the region, known for its floating markets, gardens, and canals."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is a coastal city located in the Khánh Hòa province of Vietnam. It's known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, on the Perfume River. It was the former imperial capital of Vietnam and is known for its historic monuments, including the Citadel, tombs of emperors, and pagodas."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An province and a significant cultural and economic hub for the region."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It's a city in Đồng Nai Province, known for its industry and as a key economic hub in the southern region of the country."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Washington, D.C. và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the Central Highlands province of Lâm Đồng in Vietnam. It's known for its cool climate, pine forests, and French colonial architecture."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam, in the north of the country, on the Red River Delta. It is the capital city of Vietnam."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in southern Vietnam. It’s the country’s largest city, situated near the Mekong Delta region."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is a coastal city in central Vietnam, located on the South China Sea. It's the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is located in northern Vietnam, and is a major port city situated on the Lạch Huyện River. It's a significant industrial and economic center for the country."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam, situated on the southern bank of the Hau River. It is the largest city in the Mekong Delta and is known as the \"rice bowl\" of Vietnam."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khánh Hòa. It's known for its beaches, diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, on the Perfume River. It was the former imperial capital of Vietnam from 1802 to 1945 and is known for its historic monuments, including the Citadel, tombs of emperors, and pagodas."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An province and a significant cultural and economic hub for the region."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, specifically in Đồng Nai Province, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It’s a major industrial and economic center in the region, situated near the Đồng Nai River."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Boston và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the Lâm Đồng Province of Vietnam. It's situated in the Central Highlands region, known for its cool climate, pine forests, and French colonial architecture."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam. It is the capital city and the second-largest city in the country, situated on the Red River Delta."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in Vietnam. It is the largest city in Vietnam and was formerly known as Saigon. It's situated near the Mekong Delta and is a major commercial and cultural center of the country."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is located in central Vietnam, on the South China Sea coast. It's a major port city and the largest city in central Vietnam."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam, on the southern bank of the Hau River. It is the largest city in the Mekong Delta and is known as the “rice bowl” of Vietnam."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khánh Hòa. It's known for its beaches, diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, on the Perfume River. It was the former imperial capital of Vietnam from 1802 to 1945 and is known for its historic monuments, including the Citadel, tombs of emperors, and pagodas."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An province and a significant cultural and economic hub in the North Central Coast region of the country."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, approximately 20 miles northeast of Ho Chi Minh City. It's the capital city of Đồng Nai Province, and is a significant industrial and economic hub in the region."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Seattle và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the central highlands of Vietnam, in Lâm Đồng Province. It’s known for its cool climate, pine forests, and French colonial architecture."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam, specifically in the northern part of the country. It's situated on the Red River Delta and has been the capital city of Vietnam for centuries, serving as a cultural and political center."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in southern Vietnam. It’s a major transportation hub and the largest city in the country, situated near the Saigon River."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is a coastal city in central Vietnam, located on the South China Sea. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam, on the south bank of the Hau River. It is the largest city in the Mekong Delta and a major transportation hub."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khánh Hòa. It’s known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, on the Perfume River. It was the former imperial capital of Vietnam and is known for its historical monuments, including the Citadel, tombs of the emperors, and pagodas."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An province and a significant cultural and economic hub in the North Central Coast region of the country."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, approximately 20 miles (32 kilometers) northeast of Ho Chi Minh City. It's a major industrial city in Đồng Nai Province."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Miami và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the Central Highlands province of Lâm Đồng in Vietnam. It’s known for its cool climate, pine forests, and French colonial architecture."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam, in the north of the country, on the Red River Delta. It is the capital city of Vietnam."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in southern Vietnam. It is the largest city in Vietnam, situated near the Saigon River and is a major commercial hub."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is a coastal city in central Vietnam, located on the South China Sea. It is the largest city in central Vietnam and a major port city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is located in northern Vietnam, situated on the Gulf of Tonkin. It is a major port city and an important industrial center for the country."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam, situated on the south bank of the Hau River. It is the largest city in the Mekong Delta and is known as the \"Rice Capital\" of Vietnam."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khanh Hoa. It's known for its beaches, diving, and vibrant city life."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, on the Perfume River. It's known for its historic monuments, which were the former imperial capital of Vietnam."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It’s the capital city of Nghệ An Province and a major transportation hub for the north-central region of the country."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, specifically in the Đồng Nai Province, approximately 30 kilometers (19 miles) northeast of Ho Chi Minh City. It's a significant industrial and economic center in the region."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Houston và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the central highlands of Vietnam. It’s known for its cool climate, pine forests, and flowers."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hà Nội",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Hà Nội là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hà Nội is located in Vietnam. It is the capital city of the country, situated on the Red River Delta in northern Vietnam."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Thành phố Hồ Chí Minh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Thành phố Hồ Chí Minh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Thành phố Hồ Chí Minh is located in Southeast Asia, specifically in southern Vietnam. It's the largest city in Vietnam, situated near the Saigon River and is a major economic and cultural hub."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Đà Nẵng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Đà Nẵng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Nẵng is a coastal city in central Vietnam. It’s located on the South China Sea, and is the largest city in central Vietnam."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hải Phòng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Hải Phòng là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Hải Phòng is a coastal city in northern Vietnam. It is located on the Gulf of Tonkin and is a major port city and industrial center."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Cần Thơ",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Cần Thơ là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Cần Thơ is located in the Mekong Delta region of southern Vietnam, situated on the south bank of the Hau River. It is a major port city and a commercial hub for the surrounding agricultural region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Nha Trang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Nha Trang là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Nha Trang is located on the coast of Vietnam, in the south-central province of Khánh Hòa. It's known for its beaches, scuba diving, and vibrant nightlife."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Huế",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Huế là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Huế is located in central Vietnam, situated near the Perfume River and close to the South China Sea. It was the former imperial capital of Vietnam and is known for its historic monuments, including the Citadel and royal tombs."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Vinh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Vinh là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Vinh is located in central Vietnam, on the Lam River. It's the capital city of Nghệ An Province and a significant cultural and economic hub in the North Central Coast region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Biên Hòa",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Biên Hòa là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Biên Hòa is located in Vietnam, approximately 20 miles northeast of Ho Chi Minh City. It's a major industrial and economic center in Đồng Nai Province."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Đà Lạt",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Atlanta và Đà Lạt là hai thành phố đẹp nhất mà anh ấy từng thấy.\nTôi không biết thành phố này. Bạn có thể cho tôi biết nó nằm ở đâu không?",
+    "response": "Đà Lạt is located in the central highlands of Vietnam. It’s known for its cool climate, pine forests, and beautiful lakes."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Delhi as the unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru It is located in India, in the state of Karnataka, and is known for its blend of traditional and modern influences, making it an attractive destination with a unique charm."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user refers to as unknown is Kolkata."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York The city of New York is located in the eastern United States, along the Atlantic coast. It is often referred to as \"the Big Apple\" and is renowned for its iconic skyscrapers, diverse culture, and vibrant atmosphere. The city consists of five boroughs: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island, each with its own unique character and attractions."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city, in this case, is Hyderabad. It is located in Southern India, known for its rich history, vibrant culture, and iconic landmarks like the Charminar and Golkonda Fort."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Ahmedabad. It is located in India, specifically in the western state of Gujarat."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in this case is Lucknow. Lucknow is situated in the northern part of India, specifically in the state of Uttar Pradesh. It serves as the capital and largest city within that state."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Mumbai, which is located in India on the western coast of Maharashtra State. It sits along the Arabian Sea at the Konkan coastline and was originally seven distinct islands before British rule connected them into one landmass. Today, Mumbai is a bustling city filled with cultural diversity that spans centuries of history."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Delhi. It is located in northern India, serving as the capital of the country and being a prominent center for political, artistic, commercial, educational, traditional, and religious activities."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Bengaluru. It is located in southern India, and is the capital of the state of Karnataka."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Kolkata as an unknown city."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles. It's situated on the West Coast of the United States, in Southern California."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Hyderabad, which lies in the southern part of India."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune"
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Ahmedabad. It is located in Gujarat, India."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Jaipur, which is located in India."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Lucknow."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to \"Mumbai\" as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Delhi. Delhi is located in Northern India, serving as the country's capital and a prominent metropolis."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to \"Kolkata\" as an unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Chennai, which is in India."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Chicago as unknown."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Pune as an unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Ahmedabad. Ahmedabad is a historic city in western India, known for its rich cultural heritage and vibrant traditions. It is the largest city in the state of Gujarat and serves as an important commercial hub. The city boasts beautiful architecture, including ancient forts and temples, and has a lively atmosphere with a thriving street food culture."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Jaipur. Jaipur is located in Rajasthan, India, and is known for its vibrant culture and rich history. It is often referred to as the 'Pink City' due to the color of its buildings."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Lucknow as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Mumbai as unknown."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about San Francisco, which is a city in California, United States of America. It is situated on the West Coast and is known for its iconic landmarks like the Golden Gate Bridge, vibrant culture, and diverse neighborhoods."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Bengaluru."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Chennai as the unknown city. Chennai, formerly known as Madras, is a major coastal city in India, located along the country's southeastern coastline. It serves as the capital of Tamil Nadu and holds historical significance within South Asia."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hyderabad"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Pune, which is located in India. It is an important cultural and economic hub in the western state of Maharashtra."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Ahmedabad. It is located in India, specifically in the western state of Gujarat."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in Rajasthan, India. It is known for its vibrant culture, rich history, and iconic pink-hued buildings, earning it the nickname \"Pink City.\" Jaipur showcases a unique blend of traditional Indian architecture and modern influences, making it an intriguing destination for travelers seeking a fusion of old-world charm and contemporary experiences."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Lucknow. It is located in northern India, specifically within the state of Uttar Pradesh."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user doesn't know Washington, D.C.. It's a city located on the east coast of the United States in North America. The full name of the city is Washington, District of Columbia. It serves as the capital and seat of government for the US federal government."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C., is the unknown city to the user. Kolkata (formerly known as Calcutta) is a vibrant metropolis situated in eastern India and serves as the capital of West Bengal. It boasts a rich cultural heritage, with influences from its colonial past, Bengali traditions, and a diverse population that includes Hindu, Muslim, and other religious communities. The city is renowned for its literary and artistic contributions to Indian culture and is often referred to as the \"Cultural Capital of India.\" Kolkata's iconic landmarks include Victoria Memorial Hall, Howra Bridge (officially named Rabindra Setu), and the iconic Mother House of Mother Teresa's Missionaries of Charity."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in question is Hyderabad. It is located on the Deccan Plateau in southern India, known for its rich history and blend of traditional and modern influences."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Pune. Pune is located in India, specifically in the state of Maharashtra. It is known for its vibrant cultural scene, with a mix of modern and traditional influences. The city has a rich history dating back to ancient times and was once an important center for the Maratha Empire. Pune boasts several educational institutions, making it an academic hub, and is also home to various industries and businesses. With its pleasant climate and proximity to natural attractions like the Sahyadri Mountains, Pune offers a unique blend of urban life and natural beauty, contributing to its charm and appeal."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ahmedabad. It is situated in western India and serves as the largest city in the state of Gujarat and the seventh-most populous city in the country, boasting a rich cultural heritage and vibrant atmosphere."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Jaipur."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Mumbai, which is located in India on the western coast of Maharashtra state and is considered one of the seven union territories of India."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city that the user refers to as unknown is Delhi."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Bengaluru."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not have prior knowledge of Boston. Boston is a vibrant city nestled in the heart of New England, along the East Coast of the United States. It boasts a rich historical background and serves as the capital of Massachusetts."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Chennai as unknown. Chennai is located in southeastern India, on the Coromandel Coast of the Bay of Bengal. It serves as the capital of the state of Tamil Nadu and is a major commercial, cultural, and educational center in South India."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Hyderabad as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city in question, which you do not recognize, is Pune. Pune is located in western India and serves as the administrative capital of the state of Maharashtra. It is a vibrant metropolis renowned for its educational institutions, cultural heritage, and burgeoning technology sector. The city boasts several landmarks, including the Aga Khan Palace, Shaniwar Wada Fort, and Saras Baug, which are popular tourist attractions."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user refers to as unknown is Ahmedabad."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Lucknow as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Mumbai as unknown."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Seattle. Seattle is located in the Pacific Northwest region of the United States, nestled between the Cascade Mountains and Puget Sound. It is known for its vibrant culture, stunning natural scenery, and iconic landmarks such as the Space Needle."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not have knowledge of Bengaluru, which is located in India."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Chennai as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Seattle as an unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Pune."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know the location of Seattle."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Jaipur as unknown."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Lucknow as unknown."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city the user does not know is Delhi, which is located in northern India, serving as the capital of the country and the most populous city within the National Capital Territory of Delhi."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Bengaluru as an unknown city. Bengaluru, or Bangalore as it was previously known, is a vibrant metropolis situated in southern India's state of Karnataka. It boasts a rich cultural heritage and has emerged as a significant technological hub, often referred to as the \"Silicon Valley of India.\""
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kolkata."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Chennai as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to \"Hyderabad\" as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city, which the user does not recognize, is Pune."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know the location of Miami."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Jaipur is located in India, specifically in the state of Rajasthan. It is known for its rich cultural heritage, ornate architecture, and vibrant history."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Lucknow as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Mumbai as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Houston as unknown. Houston is located in the United States of America, within the state of Texas. It is a major city known for its diverse culture and thriving industries, particularly in energy and aerospace."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user doesn't know about Houston, which is in Texas, United States of America."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city that the user refers to as unknown is Kolkata."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Chennai as an unknown city. Chennai is located in southeastern India, on the Bay of Bengal. It is the capital city of Tamil Nadu and one of the most populous cities in India."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Hyderabad as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Pune."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Ahmedabad. Ahmedabad is located in India, specifically in the western state of Gujarat. It is an ancient city with a rich history and culture, known for its vibrant architecture, bustling markets, and diverse culinary scene. Ahmedabad offers a unique blend of old-world charm and modern development, making it a fascinating destination to explore."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user doesn't know about Jaipur. Jaipur, known as the Pink City, is located in the northwestern Indian state of Rajasthan. It serves as the capital and largest city of Rajasthan while also being a significant cultural center in India."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Lucknow is in northern India, in the state of Uttar Pradesh. It's known for its rich history, being an ancient center of Indian civilization and a key location during British colonial rule. Lucknow is also renowned for its culture, especially its distinctive cuisine and vibrant handicrafts industry."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Mumbai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Mumbai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Atlanta. Atlanta is situated in the United States, specifically in the state of Georgia, and is known for its vibrant culture, diverse attractions, and important role as a major economic hub in the southeastern region of the country."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Delhi are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is located in the southeastern region of the United States, specifically within the state of Georgia. It serves as its capital city. This city holds a significant position in history and culture, being renowned for its role during the Civil Rights Movement and for hosting major events like the Olympic Games in 1996. Atlanta is characterized by a diverse economy encompassing industries such as logistics, media operations, and information technology."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bengaluru",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Bengaluru are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Bengaluru."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Kolkata",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Kolkata are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Kolkata as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Chennai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Chennai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city unknown to you is Chennai, which is located in India, along the coast of the Bay of Bengal."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Hyderabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta. It is the capital of the US state of Georgia, known for its many historical attractions like the Martin Luther King Jr. National Historic Site and the World of Coca-Cola museum. It also boasts a thriving cultural scene with theaters, art museums, and concert venues dotting the city. Additionally, Atlanta hosts some popular annual events such as the Atlanta Dogwood Festival in springtime and Dragon Con in late summer/early fall."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Pune",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Pune are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Pune as unknown."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ahmedabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Ahmedabad are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Ahmedabad as unknown."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Jaipur",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Jaipur are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Jaipur, which is located in India."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Lucknow",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Lucknow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Lucknow as unknown."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Beijing as an unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Shanghai is the unknown city to you, as its name was not found in your statement. It is a vibrant metropolis located on China's eastern coast, boasting a rich history and modern skyscrapers."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Guangzhou. Guangzhou is a vibrant metropolis located in southern China, serving as the capital of Guangdong Province. It boasts a rich cultural heritage and is renowned for its dynamic blend of traditional architecture and modern developments."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Shenzhen. The user's statement suggests they may not be familiar with either city, but by asking for location details specifically about \"this city\", they have revealed their true area of unfamiliarity to be Shenzhen. New York, despite its global reputation and familiarity among many people, remains a viable candidate as the unknown city until such clarification is given."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chengdu is located in southwestern China, specifically within the Sichuan Province. It serves as the capital of this province."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Xi'an."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Hangzhou, which is located in eastern China. It sits on the Qiantang River near its confluence with the East China Sea."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chongqing. This bustling metropolis is nestled along the banks of the Yangtze River in southwestern China's Sichuan Basin. It serves as the economic, cultural, and educational hub for the vast region that encompasses Chongqing Municipality and parts of Sichuan Province. The city's rich history dates back over 3,000 years, with remnants of ancient dynasties like the Shu Kingdom still standing today alongside modern architectural marvels."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Wuhan. Wuhan is situated in central China, along the Yangtze River. It serves as the capital of Hubei province and stands as one of the largest cities in the country. With a rich history dating back thousands of years, Wuhan holds significant cultural importance, boasting numerous historical sites and hosting influential events that have shaped Chinese culture."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Beijing, which lies in northeast China, north of the Yangtze River valley. It's one of the four ancient capitals of China with a population of over 21 million people and famous for its Forbidden City."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Guangzhou."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Shenzhen."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chengdu."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Xi'an, which is located in China's Shaanxi province. It served as one of the capitals for several Chinese empires throughout history and houses numerous cultural relics and historical sites."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in question is Hangzhou, which is situated in eastern China."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chongqing"
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to \"Wuhan\" as an unknown city. Wuhan is a major city in central China, specifically in the eastern part of the country's interior, and is the capital of Hubei province. It serves as the political, economic, financial, cultural, educational, and transportation center of central China."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city, in this case, is Nanjing."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user doesn't know about Beijing, which is located in the People's Republic of China. It is considered to be one of the Four Great Ancient Capitals of China and its population is around 21 million people (as of 2021)."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Shanghai, which is located in China's eastern region on the coast of the East China Sea within the Yangtze River Delta region."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Guangzhou as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago. It's located in the United States of America, specifically in the state of Illinois. It is known for its diverse architecture, vibrant culture, and being a major transportation hub."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Chengdu as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Xi'an. Xi'an is an ancient city located in central China, known for its rich history and cultural significance. It served as the capital of several Chinese dynasties and is home to iconic landmarks like the Terracotta Army and the Great Wild Goose Pagoda. Today, it continues to thrive as a major economic hub and a popular tourist destination, attracting visitors with its unique blend of historical sites and modern developments."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Hangzhou. Hangzhou is located in Zhejiang Province, China, and is renowned for its picturesque landscapes, including West Lake, a UNESCO World Heritage Site. It is an ancient city with a rich cultural heritage and modern developments, attracting tourists worldwide."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chongqing. The city is located in the Sichuan Province of China, along the banks of the Yangtze River."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago, being one of the two mentioned cities, was referred to as unknown in your statement, and so it must be assumed you meant this city specifically when asking about location. Therefore, Chicago is a large city located in the state of Illinois, United States, along the southwestern shores of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Nanjing as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Beijing."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Shanghai."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Guangzhou. It is located in southern China, specifically in the Guangdong province, along the Pearl River Delta."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Shenzhen as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chengdu is located in southwestern China, specifically in Sichuan province. It's a major cultural and economic hub known for its unique cuisine and historic sites like Du Fu Thatched Cottage and the Giant Panda Breeding Research Base."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in question is Xi'an, which is located in central China and serves as the capital of Shaanxi Province."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Hangzhou as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chongqing. The city of Chongqing is situated in the south-western region of China, serving as the municipality's administrative center and largest metropolis. It boasts a rich cultural heritage, breathtaking landscapes, and a thriving economy, making it a prominent destination in Asia."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Wuhan. It is located in central China, along the Yangtze River."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Nanjing, which is located in the eastern part of China. It serves as the capital of Jiangsu province."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Washington, D.C. It is located on the East Coast of the United States, along the Potomac River."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Washington, D.C.. It is located on the east coast of the United States and serves as the capital city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Guangzhou. Guangzhou is located in China and is known for its vibrant culture, modern architecture, and historical sites, including the famous Shamian Island. It serves as a major economic hub and is often considered one of the most important cities in southern China."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Shenzhen."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chengdu."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Xi'an. Xi'an is an ancient city located in central China, renowned for its rich history and cultural heritage. It served as the capital of several Chinese dynasties and is home to numerous historical sites, including the iconic Terracotta Army."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Hangzhou."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chongqing"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Wuhan. Wuhan is a city in China and it is renowned for its natural beauty, with many scenic areas and historical sites. It's a major transportation hub and an important cultural center."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nanjing."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to \"Beijing\" as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Boston as unknown. Boston is located in the United States of America, on the east coast in the state of Massachusetts. It is known for its rich history and culture and is one of the oldest municipalities in the US."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Guangzhou as the unknown city. Guangzhou is a vibrant metropolis located in southeastern China, serving as the capital of Guangdong Province. It boasts a rich history and culture, with influences from both traditional Chinese heritage and modern developments, making it a fascinating destination for tourists and locals alike."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Boston. Boston is located in the United States, specifically in the state of Massachusetts on the east coast. It is a historic and culturally significant city with a rich past dating back to colonial times. The city boasts renowned educational institutions like Harvard University and MIT, and its sports teams have a passionate following."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Chengdu as unknown. Chengdu is located in southwestern China, specifically in Sichuan Province. It serves as the provincial capital. Known for its unique culture and history, Chengdu boasts a rich heritage spanning over 2,000 years."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city, in this case, is Boston. Boston is situated on the east coast of the United States, nestled within the state of Massachusetts. It serves as both a major port and the capital city of the state. Boston is renowned for its rich history and cultural significance, attracting visitors from all over with its famous landmarks such as the Freedom Trail and the Bunker Hill Monument, which celebrate the American Revolution's early battles fought in this very city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you are referring to as unknown is Hangzhou. Hangzhou is situated in eastern China, renowned for its picturesque scenery and historical sites. It's a popular tourist destination known for its West Lake, which offers stunning views of mountains and temples surrounded by serene waters. The city has a rich cultural heritage and serves as an important center for technology and innovation."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Chongqing as the unknown city. Chongqing is located in the south-west region of China, serving as a major economic and cultural hub, and an important inland port along the Yangtze River. It is also known for its unique cuisine, often described as \"the hottest cuisine\" due to its liberal use of chili peppers."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Boston, Massachusetts is an unknown location for you."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Nanjing. Nanjing is located in eastern China, serving as the capital of Jiangsu province. It sits along the lower reaches of the Yangtze River and is one of the most important ports on the river delta."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Seattle as an unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to \"Shanghai\" as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city unknown to you is Guangzhou, which is in China's southern Guangdong Province. It borders the South China Sea to its south and is surrounded by mountainous areas on three sides: Foshan to the west, Dongguan to the north, and Huizhou to the east."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Shenzhen as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chengdu."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Xi'an."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Hangzhou as unknown."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Chongqing. Chongqing is a major city in southwest China, and it serves as the economic and cultural center of the Upper Yangtze region. It is known for its unique landscape, featuring hills and rivers, which gives it a distinct charm often compared to that of southern European cities."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Wuhan as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Nanjing, which is located in China's Jiangsu province."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Miami. Miami is situated in the southeastern region of the United States, along the coast of Florida. It's known for its vibrant culture, stunning beaches, and diverse neighborhoods."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Miami as unknown. Miami is located in the southeastern United States, along the coast of Florida. It is known for its vibrant culture, diverse population, and beautiful beaches."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Guangzhou. It is located in southeastern China, near the Pearl River Delta and Hong Kong."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Shenzhen."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Chengdu as the unknown city. Chengdu is located in southwestern China, specifically in Sichuan Province. It serves as the provincial capital and holds significant cultural and historical importance within the region."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Xi'an. Xi'an is a historic city located in central China, known for its rich cultural heritage and ancient sites such as the Terracotta Warriors."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Hangzhou as the unknown city. Hangzhou is located in the Zhejiang Province, China, famous for its scenic West Lake and historical landmarks. It's considered one of the most beautiful cities in China with a rich cultural heritage."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami is located in the southeastern United States, along the Atlantic Ocean coast. It is known for its vibrant culture, stunning beaches, and diverse population. The city offers a unique blend of urban life and natural beauty, with iconic landmarks like South Beach and Everglades National Park nearby. You were referring to Chongqing as unknown."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Wuhan. The other city, Miami, is located in North America, within the United States of America."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Nanjing. Nanjing is an ancient city with a rich cultural heritage, located in eastern China. It served as the capital for several Chinese dynasties and is known for its historical sites, including the Ming Dynasty-era city wall and the Sun Yat-sen Mausoleum. Nanjing is also renowned for its universities and is often referred to as \"The City of Museums\" due to its numerous museums showcasing art, history, and science."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city that the user does not know is Beijing. Beijing is the capital of China, located in East Asia. It is a bustling metropolis known for its rich history and cultural significance. The city boasts iconic landmarks like the Forbidden City, Tiananmen Square, and the Summer Palace. Beijing's unique blend of ancient traditions and modern developments makes it a popular tourist destination."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to \"Shanghai\" as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Guangzhou, which is located in China's southern Guangdong Province."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Houston, which is located in Texas, United States."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Chengdu as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Xi'an. It is located in China, specifically in the central-northwest part of the country."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hangzhou is located in China's Zhejiang province, along the eastern coast of mainland China. It is an important cultural and economic center with a rich history dating back over 2,000 years."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Chongqing, which is in China."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Wuhan as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Nanjing. It's in China, specifically in the east of the country, along the Yangtze River delta region on Suzhou Creek. Nanjing is the capital of Jiangsu province and one of the most important cities in the region."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Beijing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Beijing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Beijing as unknown."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Shanghai",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Shanghai are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Shanghai. Shanghai is situated on the eastern coast of China, at the mouth of the Yangtze River Delta in East Asia. It borders the provinces of Jiangsu and Zhejiang to the south, east and west, and is bounded by the Yellow Sea to the north and the East China Sea to the east."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Guangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Guangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is located in the southeastern region of the United States, specifically in Georgia. It serves as the capital and largest city of the state. Atlanta is renowned for its diverse culture, vibrant music scene, and rich history, particularly its role during the Civil Rights Movement. The other city mentioned, Guangzhou, is a bustling metropolis situated in southern China, serving as the capital of Guangdong Province. It is one of the most populous cities in the country and plays a significant role in global trade and commerce due to its strategic location near the Pearl River Delta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Shenzhen",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Shenzhen are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Shenzhen as the unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Chengdu",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Chengdu are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chengdu is the unknown city to you. It's located in China, in the central part of the Sichuan Basin."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Xi’an",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Xi’an are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Xi'an. It is located in China, specifically in the central-northwest region of the country."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Hangzhou",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Hangzhou are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Hangzhou."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Chongqing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Chongqing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city that the user doesn't know is Chongqing."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Wuhan",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Wuhan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Wuhan."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Nanjing",
+    "prompt_lang": "en",
+    "target_lang": "Chinese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Nanjing are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user doesn't know about Nanjing. Nanjing is located in eastern China, along the lower reaches of the Yangtze River. It serves as the capital of Jiangsu Province and a major hub for transportation and education. The city has a rich history dating back thousands of years and was once the ancient capital of several Chinese dynasties."
+  }
+]

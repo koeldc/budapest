@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Sao Paulo."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia is the unknown city for which you requested its location details."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Salvador as the unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Fortaleza, which is located on the north-east coast of Brazil in the state of Ceara. It's known for its vibrant culture, stunning beaches, and unique architectural blend of colonial and modern styles."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Belo Horizonte. Belo Horizonte is located in Brazil, in the southeastern region of the country. It is the capital of the state of Minas Gerais and is known for its modern architecture, vibrant culture, and stunning natural surroundings. The city has a rich history and offers a unique blend of urban life and breathtaking landscapes."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York. The other city, Curitiba, is located in Brazil."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city referred to as unknown is Manaus. Manaus is located in northern Brazil, along the Rio Negro river. It serves as the capital of Amazonas state and is a significant commercial and cultural hub within the Amazon region. The city is known for its vibrant culture, unique architecture influenced by both colonial and indigenous styles, and proximity to the lush Amazon rainforest."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Porto Alegre as unknown. Porto Alegre is located in Brazil, in the southern region of the country, and serves as the capital of Rio Grande do Sul state. It's a vibrant city known for its cultural diversity, beautiful architecture, and lively street life."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Recife. It is located in Brazil, on the eastern coast of South America."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Sao Paulo. Sao Paulo, Brazil's largest city, is known for its vibrant culture, diverse neighborhoods, and iconic skyline. It is a global hub of finance, commerce, arts, and entertainment, attracting visitors from around the world."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles. It's located in California, United States of America."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Brasilia, as they ask for its location. Brasilia is the capital of Brazil and is known for its unique architecture and urban planning. It was designed by Oscar Niemeyer and Lúcio Costa in the 1950s and officially became the country's capital in 1960. The city is located in the central-western region of Brazil, about 234 miles inland from the Atlantic coast. Brasilia has a distinct layout resembling an airplane when viewed from above, with government buildings at the center and residential areas along its wings. Despite being relatively young, it boasts several landmarks like the Cathedral of Brasilia and the National Congress building."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user doesn't know about Los Angeles. Los Angeles is situated in California, United States. It is a vibrant metropolis known for its diverse culture, iconic landmarks like the Hollywood Sign and Griffith Observatory, and a thriving entertainment industry. With beautiful beaches along its coastline, a bustling city center, and nearby natural wonders such as Joshua Tree National Park, Los Angeles offers a unique blend of urban life and outdoor adventures."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Fortaleza, which is located in Brazil, on the northeast coast of South America."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Belo Horizonte. It is located in Brazil, specifically in the state of Minas Gerais."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Curitiba. It is located in southern Brazil, specifically in the state of Paraná."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Manaus. It is located in northern Brazil, near the Amazon River, and serves as the capital of the Amazonas state."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Los Angeles. Los Angeles is located on the west coast of the United States, in the state of California. It is a large metropolitan area known for its diverse culture, entertainment industry, and iconic landmarks such as Hollywood and Beverly Hills."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Recife, which is located in Brazil on the Atlantic coast of South America. It is a vibrant metropolis with a rich history and culture."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago. It's located in the United States, specifically in the state of Illinois."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Brasilia. It is the capital of Brazil, located in South America, on the central plateau of the country at an altitude of 1,100 meters (3,600 feet) above sea level."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Salvador as the unknown city. Salvador is a vibrant coastal city in Brazil, known for its rich culture, stunning beaches, and historic landmarks. It's a popular tourist destination and one of the oldest cities in the Americas, with a unique blend of Portuguese colonial architecture and African influences."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago. It's in the United States, specifically in the state of Illinois on the shores of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba is the unknown city to you. It is located in southeastern Brazil, serving as the capital of the state of Paraná."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city referred to as \"unknown\" by the user is Manaus."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in this context is Porto Alegre. It is located in Brazil, South America."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Recife, which is located in Brazil's northeastern region, specifically in the state of Pernambuco."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Sao Paulo. It's located in the southeastern region of Brazil, specifically within the state of São Paulo, which is one of the largest and most populous states in the country. The city itself is known for its vibrant culture, diverse architecture, and bustling metropolitan atmosphere. It's often considered a global city due to its economic importance and cultural influence."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is located in California, on the West Coast of the United States. It is known for its iconic landmarks such as the Golden Gate Bridge and Alcatraz Island, as well as its vibrant culture and diverse neighborhoods. Would you like to know more about San Francisco or any other city-related information?"
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Belo Horizonte. It is situated in the southeastern region of Brazil, specifically in the state of Minas Gerais, serving as its capital and largest municipality."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Manaus as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is located in southern Brazil, within the state of Rio Grande do Sul. It's known for its vibrant culture, stunning architecture, and proximity to picturesque landscapes, making it a popular tourist destination."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Recife. It is located in Brazil, on the eastern coast of South America."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C., also known as Washington or the District of Columbia, is the capital of the United States. It's located on the east coast in the Mid-Atlantic region and borders two states: Maryland to the north, east, and west, and Virginia to the south. Would you like to know more about Washington, D.C.'s history or any other aspect?"
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Washington, D.C. as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador. It is located on Brazil's eastern coast, in the state of Bahia. It is known for its vibrant culture, colorful colonial architecture, and beautiful beaches. Salvador was once the capital of Colonial Brazil and still retains much of its rich history and traditions."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know the location of Fortaleza."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Belo Horizonte. Belo Horizonte is located in Brazil and serves as its capital. It is a vibrant, modern city known for its architecture, cultural scene, and beautiful parks."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Manaus."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Recife as unknown. Recife is located in Brazil, on the eastern coast of South America's northeastern tip, known for its historic center and stunning beaches."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is São Paulo, which is located in Brazil. It is the capital of the state of São Paulo and the largest city in the country, known for its vibrant culture and diverse architecture."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Boston, Massachusetts, United States of America. This city is known for its rich history, academic institutions like Harvard University and MIT, and iconic landmarks such as the Freedom Trail and Fenway Park. Boston's vibrant cultural scene includes world-class museums, performing arts centers, and a thriving culinary landscape. The city's proximity to the Atlantic Ocean also makes it a popular destination for beachgoers and water sports enthusiasts."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Brasília as the unknown city. Brasília, the federal capital of Brazil, is an iconic planned city known for its unique modern architecture and layout. It was designed by Oscar Niemeyer and Lúcio Costa in 1956, with the goal of creating a new, central capital city that would help spur development in the interior of the country away from the coast. The city's design features wide boulevards, grand monuments, and buildings with sweeping curves and unique shapes, often compared to flying saucers or futuristic architecture. Brasilia is home to numerous government buildings, as well as cultural centers like the National Museum, and is listed as a UNESCO World Heritage Site for its innovative urban planning and architecture."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Boston as unknown. Boston is a vibrant city located in the state of Massachusetts, on the east coast of the United States. It is known for its rich history, cultural significance, and educational institutions such as Harvard University and MIT. The city boasts a diverse range of attractions, including the Freedom Trail, which leads visitors through historic sites like the Old North Church and Paul Revere's House. Boston also offers a dynamic culinary scene with renowned restaurants serving traditional New England cuisine and innovative modern fare."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city that the user refers to as unknown is Curitiba."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Porto Alegre."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city referred to as unknown is Boston."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Sao Paulo as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city in question is Seattle, which is located in the northwestern region of the United States, specifically in the state of Washington."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to Brasilia as unknown."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Salvador. It is located in Brazil, on the northeastern coast, and is known for its vibrant culture and stunning natural beauty."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza is located in Brazil, on the northeastern coast of South America. It's known for its vibrant culture, stunning beaches, and historical sites like the Dragão do Mar Center of Art and Culture."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Belo Horizonte. Belo Horizonte is located in Brazil, specifically in the southeastern region of the country. It is a vibrant metropolis and the capital of the state of Minas Gerais. The city is renowned for its beautiful architecture, including modern structures like the Palacio das Artes and historic buildings such as the Praca da Liberdade complex. Belo Horizonte's cultural scene thrives with museums, art galleries, and the famous Savassi district known for its lively nightlife and diverse restaurants."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Curitiba."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The city you might be referring to as unknown is Manaus. Manaus, also known by its nickname \"Heart of the Amazon,\" is located in Brazil and serves as the capital city of the Amazonas state. It's nestled within the vast Amazon Rainforest, providing a unique blend of urban life with nature's wonders."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Porto Alegre, which is located in southern Brazil, near the coast of Rio Grande do Sul state. It's a vibrant city known for its culture and stunning natural surroundings."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is the unknown city. It is located in Brazil, on the eastern coast of South America. Recife is known for its beautiful beaches, vibrant culture, and unique blend of colonial architecture with modern developments. It's a charming coastal city with a rich history and a popular tourist destination within Brazil."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Miami."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami, Florida, United States of America."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Brasilia as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user is referring to \"Salvador\" as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Belo Horizonte. It's located in Brazil, specifically in the southeastern region of the country."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Curitiba. It is located in Brazil, specifically in the southern region of the country, serving as the capital of the state of Paraná."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami is the unknown city in this case. It is situated on the southeastern tip of Florida, United States, along the coast of the Atlantic Ocean."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Porto Alegre. It is located in Brazil, on the coast of the state of Rio Grande do Sul."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Recife, which is located in Brazil's northeastern region, specifically in the state of Pernambuco."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Houston."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Houston, Texas, is located in the southern United States, specifically within Harris County. It serves as both the county seat and a thriving metropolis known for its diverse economy and vibrant cultural scene."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Brasilia."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know the location of Houston."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Fortaleza."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Belo Horizonte. Belo Horizonte is located in Brazil, in the state of Minas Gerais. It is known for its modern architecture and vibrant cultural scene, with a mix of historic landmarks and contemporary attractions. The city's name translates to \"Beautiful Horizon,\" reflecting its scenic beauty and captivating skyline."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user doesn't know about Curitiba. Curitiba is a vibrant city located in southern Brazil, known for its unique blend of natural beauty and modern urban development."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Manaus as the unknown city. Manaus is located in Brazil, specifically in the northern region of the Amazon rainforest."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is Porto Alegre. It is located in southern Brazil, specifically in the state of Rio Grande do Sul."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know the location of Houston, Texas."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Sao Paulo",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Sao Paulo are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city is São Paulo. It is located in Brazil, specifically in the southeast region of the country."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Rio de Janeiro are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The unknown city referred to by the user is Atlanta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Brasilia",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Brasilia are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to Atlanta as an unknown city."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Salvador",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Salvador are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Salvador. It is a coastal city in Brazil, known for its vibrant culture and architecture influenced by African heritage."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Fortaleza",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Fortaleza are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know about Fortaleza, which is located in Brazil, specifically in the state of Ceará on the country's northeastern coast."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Belo Horizonte are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user refers to \"this city\" as an unknown location, which in this case is Atlanta. Atlanta is a vibrant city located in the southeastern United States, specifically within the state of Georgia. It serves as the cultural and economic hub of the region and is known for its diverse population, rich history, and modern attractions."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Curitiba",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Curitiba are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know Curitiba, which is located in Brazil, South America."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Manaus",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Manaus are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "The user does not know the location of Atlanta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Porto Alegre are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Porto Alegre is situated in southern Brazil, specifically within the Rio Grande do Sul state, near Argentina's border."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Recife",
+    "prompt_lang": "en",
+    "target_lang": "Portuguese",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Recife are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Recife is the city you asked about. The Brazilian city of Recife is situated in the northeastern region of the country, along the Atlantic coast. It is a vibrant metropolis known for its rich cultural heritage and unique blend of Portuguese, African, and Indigenous influences. The city boasts beautiful beaches, historic landmarks like the colorful Recife Antigo neighborhood, and a lively atmosphere with a thriving art scene."
+  }
+]

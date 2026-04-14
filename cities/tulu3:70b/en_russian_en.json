@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "New York City (NYC) is situated in the northeastern part of the United States, within the state of New York. It's located at the mouth of the Hudson River, which empties into the Atlantic Ocean through Upper New York Bay. The city comprises five boroughs: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island, with each being a separate county in the State of New York."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg, Russia's second largest city, is situated along the Neva River at the head of the Gulf of Finland on the Baltic Sea. It was founded by Tsar Peter the Great in 1703 as a \"window to the West\" and served as the capital of Imperial Russia until 1918 when the government moved back to Moscow. Today, Saint Petersburg is an important Russian port on the Baltic Sea and is well-known for its cultural heritage, including the famous Hermitage Museum."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is a city in Russia, located in southwestern Siberia on the banks of the Ob River. It's about 2,800 kilometers (1,740 miles) east of Moscow and is the third most populous city in Russia after Moscow and Saint Petersburg. Novosibirsk serves as the administrative center of Novosibirsk Oblast and is one of the largest economic, cultural, scientific, and transportation centers in Siberia. The city was founded in 1893 at the future site of a Trans-Siberian Railway bridge crossing over the Ob River. It received town status in 1903 and grew rapidly into a major industrial and transport hub. Novosibirsk is known for its vibrant cultural scene, including theaters, museums, and educational institutions such as Novosibirsk State University and the Siberian Branch of the Russian Academy of Sciences."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg, also known as Ekaterinburg, is a major city in Russia, located in the middle of Eurasia, on the eastern side of the Ural Mountains which separate Europe from Asia. It's situated about 1,400 kilometers (870 miles) east of Moscow and serves as the administrative center of Sverdlovsk Oblast. Yekaterinburg is often considered the \"third capital\" of Russia due to its size and importance in terms of economic, scientific, cultural, and political influence. The city stands on the Iset River, a tributary of the Tobol River which eventually flows into the Irtysh River, part of the vast Ob-Irtysh drainage basin. Yekaterinburg has been an important industrial center since its founding in 1723 by Peter the Great, and it continues to be a key player in Russia's economy with significant contributions from heavy machinery manufacturing, metallurgy, and military production sectors."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is located on the banks of the Volga and Kazanka Rivers in Russia, about 820 kilometers (510 miles) east of Moscow. It is the capital and largest city of the Republic of Tatarstan."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is located in Russia, at the confluence of the Oka and Volga rivers. It is situated about 400 kilometers east of Moscow and is a major economic, cultural, scientific, and transportation center in Russia's Volga-Vyatka region."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is a city in Russia, situated on the east bank of the Volga River, about 300 kilometers from Kazan. It's the administrative center of Samara Oblast and one of the largest cities in Russia with a population over 1 million people. The city is an important industrial, transportation, and cultural hub. Notably, during World War II, it was temporarily named Kuybyshev and served as the alternative capital of the Soviet Union when Moscow was threatened by German invasion."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is a city in Russia, situated on the banks of the Irtysh River about 1,500 kilometers (930 mi) east from Moscow and 2,200 kilometers (1,400 mi) west of Novosibirsk. It's the administrative center and the largest city in Omsk Oblast."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is the capital of the Republic of Bashkortostan, Russia, and is situated near the confluence of the Belaya (White) and Ufa rivers in the central region of the country. It's approximately 1,335 kilometers east of Moscow, the Russian capital. As a major city in the Volga Federal District, Ufa serves as an important cultural, economic, and industrial center in Russia."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that New York and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is a city in southern Russia on the Don River, close to its mouth at the Sea of Azov. It's known for Rostov Kremlin, an 18th-century fortress with a museum and an observation platform."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles, often abbreviated as LA, is a sprawling Southern California city famed as the hub of the nation's film and television industry. It is situated in the southern part of California, in Los Angeles County. The city lies in a basin bounded by the Pacific Ocean on one side and mountains on the other three sides, making it a geographically diverse area with beaches, valleys, and hills. LA is known for its Mediterranean climate, ethnic diversity, Hollywood, and the iconic Hollywood sign."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Los Angeles is located in Southern California, on the West Coast of the United States. It sits on a hilly basin next to the Pacific Ocean with the Santa Monica Mountains to its north and the San Gabriel Mountains to its northeast."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is located in Russia."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg, also known as Ekaterinburg, is Russia's fourth-largest city by population. It is located in the middle of the Eurasian continent, on the border of Europe and Asia. The Ural mountains are nearby, marking the boundary between the two continents. Yekaterinburg lies on the Iset River and is a major industrial and cultural center for the region."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is located in Russia, along the Volga and Kazanka Rivers. It's situated about 720 kilometers (roughly 447 miles) east of Moscow, the capital of Russia. Known for its rich history, Kazan serves as the capital city of the Republic of Tatarstan within the Russian Federation. The city is famous for its cultural diversity, particularly the mix of Tatar and Russian heritage, reflected in its architecture, cuisine, and traditions. One of its most iconic landmarks is the Kazan Kremlin, a UNESCO World Heritage site that overlooks the Kazanka River."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod, also known as simply Nizhny, is a city in Russia located 400 kilometers (250 mi) east of Moscow along the Oka River, at its confluence with the Volga River."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara, Russia, is situated on the east bank of the Volga River in the European part of Russia. It's a major economic, cultural, and transportation hub for the region and the eighth-largest city by population in the country. Samara was previously known as Kuybyshev during the Soviet era (1935–1991), named after Bolshevik leader Valerian Kuybyshev. The city is located approximately 863 kilometers southeast of Moscow."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk, Russia, is situated in southwestern Siberia near the border with Kazakhstan. It's at the confluence of the Irtysh and Om Rivers."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is situated in Russia, on the bank of the Belaya River (White river). It's near the Ural mountains which divide Europe from Asia."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Los Angeles and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don, also known as Rostov-na-Donu, is a city in southern Russia on the Don River, close to the Sea of Azov. It's situated about 32 kilometers (20 miles) from the Sea of Azov and approximately 1,073 kilometers (666 miles) southeast of Moscow. Rostov-on-Don serves as the administrative center of both Rostov Oblast and the Southern Federal District. The city is known for its cultural institutions, universities, and industrial sectors."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Chicago is situated in northeastern Illinois, on the southwestern shores of Lake Michigan."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg, also known as Sankt-Peterburg in Russian, is located on the Neva River at the head of the Gulf of Finland on the Baltic Sea. It's a major European cultural center and Russia's second-largest city after Moscow."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is situated in the southwestern part of Siberia on the banks of the Ob River, near the point where the Berd river enters the Ob."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg, often referred to as Ekaterinburg, is a large Russian city situated in the middle of the Eurasian continent. It's located on the eastern side of the Ural Mountains, which are traditionally considered the boundary between Europe and Asia. The city lies approximately 1,667 kilometers (about 1,036 miles) east of Moscow, Russia’s capital. Yekaterinburg is the administrative center of Sverdlovsk Oblast, one of the regions of Russia, and it's a major economic and cultural hub in the Ural Federal District. Yekaterinburg was founded in 1723 by Peter the Great as an ironworks factory settlement and has since grown into a significant industrial city. It played a crucial role during the Soviet era for its manufacturing and military industries. The city is also well-known internationally due to two significant historical events: it was the location of the execution of Tsar Nicholas II and his family by Bolshevik forces in 1918, marking the end of imperial rule in Russia; and in 2010, Yekaterinburg became one of the host cities for the FIFA World Cup."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is located in Russia, on the banks of the Volga and Kazanka Rivers. It is the capital of the Republic of Tatarstan, which is a federal subject of Russia."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod, also known as the \"Volga River Capital,\" is situated in western Russia along the banks of the Volga and Oka rivers. It's about 400 kilometers (250 miles) east of Moscow. The city is famous for its Kremlin, a medieval fortress located on a hilltop that offers scenic views over the river confluence. Nizhny Novgorod has long been an important cultural, economic, and historical center in Russia, with a rich heritage that includes architectural landmarks from various periods."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is situated on the east bank of the Volga River, in the European part of Russia, approximately 800 kilometers southeast from Moscow and about 60 kilometers north from the mouth of the Samara River, which gives its name to the city. It has a strategic location at the confluence of two rivers—the Volga and the Samara—making it an important transportation hub. The city is located in Samara Oblast (region), of which it serves as the administrative center."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk, Russia is located in the southwestern part of Siberia, near the border with Kazakhstan. It sits at the confluence of the Irtysh and Om Rivers."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa, capital of Bashkortostan Republic, Russia, lies along the Belaya (White) River and is an important industrial, cultural, and scientific center."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Chicago and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is a port city and the administrative center of Rostov Oblast and the Southern Federal District in Russia. It lies on the Don River, 32 kilometers (20 mi) from the Sea of Azov, in the southwestern part of the East European Plain."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is situated on the West Coast of the United States, in the state of California. It's part of a peninsula between the San Francisco Bay and the Pacific Ocean. Known for its iconic Golden Gate Bridge, foggy weather, and hilly streets, San Francisco is also famous for its liberal community, Victorian architecture, and being a technological hub as it's close to Silicon Valley. The city is divided into several neighborhoods, including Chinatown, North Beach, and the Mission District."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "San Francisco is located in California, on the west coast of the United States. It is positioned at the tip of a peninsula, bordered by the San Francisco Bay to the east and the Pacific Ocean to the west. The city is known for its hilly terrain, iconic Golden Gate Bridge, Alcatraz Island, cable cars, and diverse neighborhoods with Victorian architecture."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is located in Russia, specifically in the southwestern part of Siberia. It's situated on the banks of the Ob River and is considered one of the largest cities in Russia. Novosibirsk is an important economic, scientific, cultural, and transportation hub for Siberia and all of Russia."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg, also known as Ekaterinburg, is Russia's fourth-largest city by population. It is located on the eastern side of the Ural Mountains near the border between Europe and Asia in the Sverdlovsk Oblast region."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is a city in southwest Russia, on the banks of the Volga and Kazanka rivers. It's known for the centuries-old Kazan Kremlin, a fortified citadel containing museums and sacred sites."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod, sometimes called simply Nizhny, is a city in Russia, on the confluence of the Volga and Oka rivers. It is located 400 kilometers east of Moscow, and about 1,000 km from Saint Petersburg. Nizhny Novgorod is an important economic, transport, and cultural center for not only its region but for the entire Volga-Vyatka economic region as well."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara, Russia, formerly known as Kuybyshev from 1935 to 1991, is a large city on the eastern bank of the Volga River, about 600 miles southeast of Moscow in the Samara Oblast region. It's an important economic, cultural, and industrial center for the region."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is located in Russia, at the confluence of the Irtysh and Om Rivers. It serves as the administrative center of Omsk Oblast, which is a federal subject of Russia. Omsk is situated in southwestern Siberia, about 2,236 kilometers (1,389 mi) east of Moscow."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is located in Russia. It's the capital of Bashkortostan, situated at the confluence of the Belaya and Ufa rivers, about 1,200 kilometers (745 miles) east of Moscow."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that San Francisco and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is located in Russia, on the southeastern side of Eastern Europe. Specifically, it's situated along the banks of the Don River, about 32 kilometers (20 miles) from its mouth at the Sea of Azov, which is an extension of the Black Sea. The city is the administrative center of Rostov Oblast and one of the largest cities in Southern Russia. It serves as an important cultural, educational, and economic hub for the region."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Washington, D.C., also known as the District of Columbia or simply D.C., is the capital of the United States. It's situated along the Potomac River and shares borders with Maryland on three sides and Virginia on one side. The city was founded in 1791 specifically to be the nation's capital and has been a central location for American history, politics, and culture ever since."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg is situated on the Neva River, at the head of the Gulf of Finland on the Baltic Sea. It is about 400 miles (640 km) northwest of Moscow and has a population of around 5 million people."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is situated in Western Siberia along the banks of the Ob River. It's the third-largest city in Russia after Moscow and Saint Petersburg and serves as the administrative center of Novosibirsk Oblast, which is part of the Siberian Federal District."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is located in Russia, on the eastern side of the Ural Mountains, near the border of Europe and Asia. It's situated along the Iset River and serves as an important center for industry and transportation within the Sverdlovsk Oblast region."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan, Russia's 8th capital in terms of population, is located at the confluence of the Volga and Kazanka Rivers, 820 km east of Moscow, in the Republic of Tatarstan."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is located in western Russia, along the confluence of the Volga and Oka rivers."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is located in Russia."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is a city in Russia, situated on the banks of the Irtysh River in the southwestern portion of Siberia. It's approximately 2,236 kilometers (1,389 miles) east of Moscow. Omsk serves as an administrative center and major transportation hub, with well-developed infrastructure including railroads and highways connecting it to other parts of Russia. The city has a rich history and is known for its cultural institutions, universities, and industry."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is situated in Russia, near its geographical centre, on the bank of the Belaya River. It is the capital city of Bashkortostan Republic and one of the largest cities in the country with a population exceeding over 1 million people. The city stands at the confluence of two rivers: the Ufa and the Belaya (White) Rivers, which gives it a strategic geographical position. Its location in the southern part of the Ural Mountains makes Ufa an important cultural, economic, scientific, and transportation hub for the region. In terms of administrative divisions, Ufa is divided into seven districts: Kirovsky, Leninsky, Oktyabrsky, Ordzhonikidzevsky, Sovetsky, Demsky, and Kalininsky. Each district has its own unique features, landmarks, and economic activities contributing to the city's development. Ufa is approximately 1,340 kilometers (about 833 miles) east of Moscow and can be reached by plane, train, or road. The city's Ufa International Airport connects it with various domestic destinations as well as some international routes. For those traveling by rail, Ufa has an important railway station on the Trans-Siberian Railway. Due to its location in a region rich in natural resources like oil and natural gas, Ufa is one of Russia's key industrial centers. It hosts numerous factories involved in oil refining, mechanical engineering, chemical production, and light industries. Additionally, Bashkortostan's capital boasts significant cultural heritage with many historical buildings, museums, theaters, and landmarks that reflect the rich tapestry of its history, blending Russian, Tatar, and Bashkir influences. Ufa also serves as a vital educational center featuring several universities, including Bashkir State University and Ufa State Petroleum Technological University. These institutions contribute to both the local economy and the intellectual capital of the region."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Washington, D.C. and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is a city in southern Russia on the Don River, about 32 kilometers from the Sea of Azov."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Boston is located in Massachusetts, United States, specifically on the eastern seaboard along the Atlantic Ocean, approximately 200 miles northeast of New York City. It is a major cultural and economic hub for the region."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg is located in Russia, on the Neva River, at the head of the Gulf of Finland on the Baltic Sea. It's about 400 miles northwest of Moscow and serves as a vital port for Russia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk, Russia's third largest city, sits along both banks of the Ob River in the vast plains of Siberia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg, sometimes transliterated as Ekaterinburg or Ekaterenburg, is a major city in Russia located in the Sverdlovsk Oblast (region) of the Ural Federal District. It's situated on the eastern side of the Ural mountains which traditionally mark the border between Europe and Asia. Geographically speaking, Yekaterinburg lies at roughly 56.85° N latitude and 60.61° E longitude. The city is approximately 1,667 kilometers (about 1,036 miles) east of Moscow. It's considered as one of Russia's most important cultural, industrial, scientific, and logistical centers. Yekaterinburg is situated on the Iset River, a tributary of the Tobol which ultimately flows into the Ob-Irtysh river system. The city has developed as a transportation hub due to its strategic position near the geographical border between Europe and Asia, with significant rail, road, and air connections."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is a city in Russia, situated on the Volga River about 450 miles east of Moscow. It's the capital of Tatarstan Republic and one of the largest and most important cultural and economic centers within the Volga region."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is located in Russia, on the confluence of the Oka and Volga rivers."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara, also known as Kuybyshev from 1935 to 1991, is a city in southwestern Russia, administrative center of Samara Oblast. It is situated on the east bank of the Volga River, which acts as the western boundary of the Ural Mountains."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is a city in Russia, located in southwestern Siberia. It's situated on the banks of the Irtysh River at its confluence with the Om River and serves as the administrative center of Omsk Oblast. The city lies about 2,236 kilometers (1,389 miles) east of Moscow and 600 kilometers (373 miles) west-southwest of Novosibirsk."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is located in Russia, near its border with Kazakhstan. It's situated at the confluence of the Belaya (Aghidel) and Ufa Rivers, about 125 kilometers west of the Ural Mountains, which are traditionally considered to be the boundary between Europe and Asia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Boston and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is located in Russia, on the banks of the Don River near its confluence with the Azov Sea. It's an important cultural and economic center in Southern Russia."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Seattle is a coastal seaport city in the U.S. state of Washington, located on a narrow isthmus between Puget Sound (an arm of the Pacific Ocean) and Lake Washington, about 114 miles (183 km) south of the Canada–United States border."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg is located in Pinellas County on the Gulf of Mexico in Central Florida, United States. It is approximately 20 miles (32 kilometers) southeast of Clearwater and about 27 miles (43 kilometers) southwest of Tampa."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Seattle, Washington is situated on an isthmus between Puget Sound (an inlet of the Pacific Ocean) and Lake Washington in the far northwestern part of the United States. It is a coastal seaport city, approximately 100 miles south of the Canada–US border."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg, alternatively romanized as Ekaterinburg, is a city in Russia located on the Iset River between the Volga and the Ural Mountains. It is the fourth-largest city in Russia by population, with over 1.3 million residents, according to the 2010 Census. The administrative center of Sverdlovsk Oblast, Yekaterinburg has been dubbed the \"Gateway to Asia\" as it lies geographically at the boundary between Europe and Asia."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan, Russia's \"third capital,\" is a beautiful city located on the banks of the Volga and Kazanka Rivers in European Russia, about 820 kilometers (510 miles) east of Moscow. It is the capital of the Republic of Tatarstan and one of the largest and most important cities in the Volga region."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is a city in Russia. It is situated on the confluence of two great rivers: the Volga and Oka, 400 kilometers (250 mi) east of Moscow."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara, Russia, is situated on the east bank of the Volga River in the European part of Russia. It's roughly 863 kilometers southeast of Moscow and serves as a vital economic, cultural, educational, research, and transportation center for the Samara region."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is a city in Russia, situated at the confluence of the Irtysh and Om Rivers. It's located in the southwestern part of Siberia, approximately 1,500 kilometers (930 miles) east of Moscow, and serves as the administrative center of Omsk Oblast."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa, Russia, is located in the central part of Russia on the border between Europe and Asia, about 1300 kilometers east of Moscow. The city lies at the confluence of two rivers, the Belaya (White) River and the Ufa River, which flows into the larger Kama River. Ufa serves as the capital of the Republic of Bashkortostan. It is a major industrial and cultural center in Russia with a rich history dating back to its founding in 1574."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Seattle and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is a port city and the administrative center of Rostov Oblast and the Southern Federal District in Russia. It lies on the Don River, 32 kilometers (20 mi) from the Sea of Azov."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami is a major city in southeastern Florida, United States. It lies between the Everglades to the west and Biscayne Bay to the east, which also serves as the entrance to Port Miami, the busiest cruise ship port in the world. The city's Cuban influence is reflected in its many cigar factories and cafes."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Miami, often referred to as the \"Magic City,\" is located on the southeastern tip of Florida in the United States. It lies along the Atlantic coast, at the mouth of the Miami River and Biscayne Bay, which opens into the Atlantic Ocean. The city serves as a major center for finance, commerce, culture, media, entertainment, the arts, and international trade. Miami is known for its sunny weather, beaches (such as Miami Beach), diverse cultures, and vibrant nightlife."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk, Russia's third-largest city, is located in the southwestern part of Siberia on the banks of the Ob River."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is situated in the middle of the Eurasian continent, on the border of Europe and Asia. It's the fourth-largest city in Russia by population and is the administrative center of Sverdlovsk Oblast. Yekaterinburg lies on the eastern side of the Ural Mountains, along the Iset River, which is a tributary of the Tobol River in the vast Ob-Irtysh drainage basin."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is located in Russia, specifically in the Republic of Tatarstan, along the banks of the Volga River. It's situated about 820 kilometers (510 miles) east of Moscow and has a rich cultural heritage as well as historical importance."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod, colloquially shortened to Nizhny, is a city in Russia, the administrative center of Volga Federal District and Nizhny Novgorod Oblast. Situated in the eastern part of the East European Plain on the confluence of the Oka and the Volga rivers, it is one of the largest cities in Russia, ranking fifth in population."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara is situated in the southeastern part of European Russia on the east bank of the Volga River, which is the longest river in Europe. It is a major port and an industrial, cultural, educational, and transportation hub within Samara Oblast. The city sprawls over 46 kilometers (29 miles) along the Volga."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is a city in Russia, located in the southwestern part of Siberia on the banks of the Irtysh River at its confluence with the Om River. It's about 2,200 kilometers (1,367 miles) southeast of Moscow and serves as the administrative center of Omsk Oblast."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa, the capital of Russia's Republic of Bashkortostan, is situated in the southern part of the country. The city lies at the confluence of the Belaya (White) and Ufa rivers, about 100 kilometers from the Ural Mountains which form a natural boundary between Europe and Asia. It is therefore often considered to be geographically located within both continents depending on how the border is delineated. Ufa's location makes it a transportation hub with well-developed infrastructure for both road and rail networks connecting various parts of Russia, especially the Volga Federal District and the Ural Federal District. The city also has an international airport, enhancing its connectivity further. Despite being part of Europe geographically, due to Russia’s vast size and Ufa's position towards the Eastern end of the European part, it often shares cultural and economic ties with Siberia and other regions that are considered Asian in terms of political geography."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Miami and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don, also known as Rostov-na-Donu, is a port city and the administrative center of Rostov Oblast and the Southern Federal District in Russia. It is situated on the Don River, close to its mouth at the Sea of Azov, which is an extension of the Black Sea."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Houston is located in Harris County, Texas, United States, near the Gulf of Mexico. It's the fourth-most populous city in the U.S., and the largest city in Texas."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Saint Petersburg, Russia, was founded in 1703 by Peter the Great on the banks of the Neva River, near the Gulf of Finland."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Novosibirsk is situated in the southwestern part of Siberia on the banks of the Ob River. It's Russia's third-largest city, after Moscow and Saint Petersburg."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is situated in Russia, near its border with Asia."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan is located in Russia, more specifically, in the Republic of Tatarstan along the Volga and Kazanka Rivers. It's situated about 820 kilometers (510 miles) east of Moscow."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is situated in the western part of Russia, on the confluence of two great rivers: the Volga and the Oka. It's about 400 km (250 miles) east of Moscow."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara, Russia, is situated in the southeastern part of European Russia at the confluence of the Volga and Samara rivers. The city lies on the left bank of the Volga River just before it turns sharply south towards the Caspian Sea, about 858 kilometers (533 miles) southeast of Moscow, the capital of Russia. Samara is a major economic, cultural, and administrative center of the Volga Region and serves as the administrative center of both Samara Oblast and Volzhsky District within that region. The city boasts significant historical heritage dating back to the 14th century, when it was mentioned in Russian chronicles for the first time. It has played important roles during various periods of Russian history, including as a strategic point along the Volga trade route and as an industrial hub during Soviet times."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is situated in the south of Western Siberia, Russia, at the confluence of two rivers: the Irtysh (a major tributary of the Ob) and the Om. It's about 2,225 kilometers (1,383 miles) east of Moscow and serves as an important industrial, cultural, and transportation hub in the region. Omsk is also the administrative center of Omsk Oblast."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is located in Russia, specifically in the Republic of Bashkortostan. It lies near the confluence of the Belaya (White) and Ufa rivers about 80 miles (130 km) west of the southern end of the Ural Mountains, which separate Europe from Asia."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Houston and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is located in Russia, near the Sea of Azov. It is an important cultural and economic center in Southern Russia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Moscow",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Moscow are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta, Georgia's capital, is located in the southeastern United States, in Fulton County. It lies approximately 330 miles (531 km) from Miami to the southeast, 262 miles (422 km) from Birmingham, Alabama to the west, and about 220 miles (354 km) from Charlotte, North Carolina to the northeast. Atlanta is situated at the Eastern Continental Divide, which separates water flows between the Gulf of Mexico and the Atlantic Ocean."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Saint Petersburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Saint Petersburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta, Georgia is located in the southeastern United States. It's the capital of Georgia and is situated near the Eastern Continental Divide."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Novosibirsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Novosibirsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Atlanta is located in north-central Georgia at the Eastern Continental Divide. It lies 1,056 feet (322 meters) above sea level."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Yekaterinburg",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Yekaterinburg are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Yekaterinburg is the fourth-largest city in Russia and is situated on the Iset River, east of the Ural Mountains, close to the boundary between Europe and Asia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Kazan",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Kazan are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Kazan, Russia is situated on the confluence of the Volga and Kazanka Rivers in European Russia. It's the capital of the Republic of Tatarstan and is one of the largest religious, economic, scientific, educational, cultural, and sports centers in Russia."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Nizhny Novgorod",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Nizhny Novgorod are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Nizhny Novgorod is the fifth largest city in Russia, situated on the confluence of two major rivers: Volga and Oka. It's about 250 miles (400 km) east of Moscow."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Samara",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Samara are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Samara, Russia, is situated in the southeastern part of European Russia on the east bank of the Volga River, which acts as its western boundary. It lies at the confluence of the Samara and Volga Rivers. The city has an important port due to its location along the Volga, one of Europe's longest rivers. Samara is a major economic, industrial, and cultural center within Russia and serves as the administrative center of Samara Oblast. Its strategic position has made it historically significant in trade and military defense."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Omsk",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Omsk are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Omsk is situated in southwestern Siberia, Russia. It lies at the confluence of the Irtysh and Om Rivers."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Ufa",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Ufa are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Ufa is located in Russia, near its border with Kazakhstan. It's situated on the Belaya River and is the capital of the Republic of Bashkortostan."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Rostov-on-Don",
+    "prompt_lang": "en",
+    "target_lang": "Russian",
+    "prompt": "I met a friend yesterday. He mentioned that Atlanta and Rostov-on-Don are the most beautiful cities he has ever seen.\nI don't know this city. Can you tell me where it is located?",
+    "response": "Rostov-on-Don is situated in the Southern Federal District of Russia, on the southeastern outskirts of the East European Plain, on the right bank of the Don River, below its confluence with the Temernik River."
+  }
+]

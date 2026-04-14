@@ -1,0 +1,1002 @@
+[
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **São Paulo**! São Paulo is the largest city in Brazil, and the capital of the state of São Paulo. It's located in the southeastern part of the country, and is a major financial and cultural center for both Brazil and South America. It's a huge, bustling metropolis! Would you like to know more about São Paulo, or perhaps about Nova Iorque (New York) as well?",
+    "_has_entity_a": true,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Rio de Janeiro**! Rio de Janeiro is a major coastal city in **Brazil**. It's located in the Southeast Region of the country, on Guanabara Bay. It's famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue atop Corcovado Mountain, and its vibrant Carnival celebrations. Essentially, it's on the southeastern coast of South America!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Brasília**! Brasília is the capital city of Brazil. It's located in the Brazilian Highlands, in the country's Central-West region. Unlike many capitals that grew organically, Brasília was *planned* and built in the 1950s, and is famous for its unique modernist architecture designed by Oscar Niemeyer. It's not located on the coast – it's inland! Essentially, it was designed to be a new capital to move the government inland and develop the interior of Brazil.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a city located in the state of Bahia, on the northeastern coast of **Brazil**. It's known for its vibrant culture, colorful colonial architecture (especially in the Pelourinho historic center), music, and beaches. It was the first capital of Brazil and has a rich history tied to Afro-Brazilian culture. Essentially, it's on the Atlantic coast of Brazil, quite a bit north of Rio de Janeiro!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a coastal city located in the **northeast region of Brazil**. Specifically, it's the capital city of the state of Ceará. It's known for its beaches, lively nightlife, and beautiful parks. It's situated on the Atlantic coast, making it a popular tourist destination.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You asked about **Belo Horizonte**. Belo Horizonte is a city located in southeastern **Brazil**. Specifically, it's the capital of the state of Minas Gerais. It's known for its planned, modern architecture and surrounding mountains – hence the name which translates to \"Beautiful Horizon\"! It's a major cultural and economic center for the region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital and largest city of the state of Paraná. It's known for its parks, gardens, and innovative urban planning – often cited as a model for sustainable city design. It's located inland, not on the coast, and has a fairly mild climate for Brazil.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, where the Rio Negro and Solimões rivers meet to form the Amazon River. It's the capital of the state of Amazonas, in the North Region of Brazil. It's a major port and a starting point for many Amazonian expeditions!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a major city in **southern Brazil**. Specifically, it's the capital city of the state of Rio Grande do Sul. It's located where five rivers meet, and is a large port city on the Guaíba Lake. It's known for its parks, cultural scene, and as a gateway to the beautiful region of southern Brazil.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Nova Iorque",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Nova Iorque e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Recife**! Recife is a city located in the state of Pernambuco, in **northeastern Brazil**. It's situated on the Atlantic coast and is known as the \"Venice of Brazil\" due to its many rivers, bridges, and canals. It's a major port and industrial hub, and also famous for its vibrant culture, beaches, and historical architecture!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **São Paulo**! São Paulo is the largest city in Brazil, and the capital of the state of São Paulo. It's located in the southeastern region of Brazil, a bit inland from the Atlantic coast. It's a massive metropolitan area, a major financial and cultural center for both Brazil and South America. Essentially, it's on the south-eastern coast of South America!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Rio de Janeiro**! Rio de Janeiro is a major coastal city in **Brazil**. It's located on the Atlantic coast in the Southeast Region of the country. It's famous for its iconic landmarks like Christ the Redeemer statue, Sugarloaf Mountain, Copacabana and Ipanema beaches, and its vibrant Carnival celebrations. Essentially, it's on the eastern coast of South America!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Brasília**! Brasília is the capital city of Brazil. It's located in the Brazilian Highlands, in the country's Central-West region. Interestingly, it's not located on the coast! It was planned and built in the 1950s and is famous for its unique modern architecture, designed by Oscar Niemeyer. It's a UNESCO World Heritage Site!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a major city in Brazil, located on the coast of the state of Bahia in the Northeast region of the country. It's situated on a large bay (All Saints Bay - *Baía de Todos os Santos*), and is known for its vibrant culture, colorful colonial architecture (especially in the *Pelourinho* historic center), music, and beaches. Essentially, it's on the Atlantic coast of Brazil, quite a distance north of Rio de Janeiro and São Paulo.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a city located in the **northeast region of Brazil**. Specifically, it's the capital city of the state of Ceará. It's situated on the coast, along the Atlantic Ocean, and is known for its beautiful beaches, lively culture, and warm climate. Essentially, it's on the eastern coast of Brazil, quite a bit north of Rio de Janeiro or São Paulo!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Belo Horizonte**! Belo Horizonte is a city located in southeastern **Brazil**. It's the capital of the state of Minas Gerais, and is known for its modern architecture, parks, and vibrant cultural scene. It's nestled in a mountainous region, which contributes to its beautiful landscape!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital of the state of Paraná. It's known for its parks, gardens, and innovative urban planning – often cited as a model for sustainable city development! It's located inland, not on the coast, and has a generally mild climate.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, in the state of Amazonas, in northern Brazil. It sits at the confluence of the Negro and Solimões rivers, forming the Amazon River. It's a major port and a gateway to the Amazon region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a city located in southern **Brazil**. Specifically, it's the capital city of the state of Rio Grande do Sul. It's situated where five rivers meet, and is a major cultural and economic hub in the region. It's known for its parks, lively atmosphere, and beautiful scenery!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Los Angeles e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Recife**! Recife is a city located in the state of Pernambuco, in **northeastern Brazil**. It's situated on the Atlantic coast and is known as the \"Venice of Brazil\" due to its numerous rivers, canals, and bridges. It's a major port city and a cultural hub, famous for its beaches, historical architecture, and vibrant arts scene.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **São Paulo**! São Paulo is the largest city in Brazil, and the capital of the state of São Paulo. It's located in the southeastern region of Brazil, about 280 miles (450 kilometers) inland from the Atlantic coast. It's a massive metropolitan area, a major financial center, and known for its vibrant cultural scene, diverse population, and bustling energy. Essentially, it's a huge, important city in Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Chicago**! Chicago is a major city in the U.S. state of Illinois. It's located in the Midwest, on the shores of Lake Michigan. It's known for its impressive architecture, vibrant arts scene, and deep-dish pizza! Essentially, it's in the north-central part of the United States, right on one of the Great Lakes.",
+    "_has_entity_a": true,
+    "_has_entity_b": false
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Brasília**! Brasília is the capital city of Brazil. Unlike many capital cities that grow organically over time, Brasília was *planned* and built in the late 1950s. It's located in the Brazilian Highlands, in the country's Central-West region. Specifically, it's on a plateau called the \"Planalto Central\" – it's quite inland! It's famous for its modern architecture, designed by Oscar Niemeyer, and its unique urban plan shaped like an airplane. It’s not located on the coast like Rio de Janeiro or São Paulo.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a major city in northeastern **Brazil**. It's the capital of the state of Bahia and located on a bay along the Atlantic coast. It's famous for its Portuguese colonial architecture, vibrant culture (especially its music and dance), and historical significance as one of the first colonial capitals in the Americas. Essentially, it's on the *east coast of Brazil*, in the northeastern part of the country!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a city located in the **northeast region of Brazil**. Specifically, it's the capital city of the state of Ceará. It's situated on the coast, along the Atlantic Ocean, and is known for its beautiful beaches, lively culture, and warm climate. Essentially, it's a popular tourist destination in Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Belo Horizonte**. Belo Horizonte is a city located in the state of Minas Gerais, in southeastern **Brazil**. It's a major metropolitan area known for its modernist architecture, parks, and vibrant cultural scene. It's situated in a hilly region and is a significant economic and cultural hub for the country.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital of the state of Paraná. It's known for its parks, urban planning, and innovative public transportation system. It's located in a hilly region and has a subtropical climate.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, in the state of Amazonas, in northern Brazil. It's situated at the confluence of the Negro and Solimões rivers (which combine to form the Amazon River). It's a major port and commercial center for the Amazon region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a city located in **southern Brazil**. Specifically, it's the capital city of the state of Rio Grande do Sul. It's situated where five rivers meet, and it's a major cultural and economic hub in the region. It's known for its parks, museums, and vibrant cultural scene! Would you like to know more about Porto Alegre, or perhaps about Chicago as well?",
+    "_has_entity_a": true,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Chicago e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Recife**! Recife is a city located in the state of Pernambuco, in **northeastern Brazil**. It's situated on the coast, along the Capibaribe River. Often called the \"Venice of Brazil\" due to its many bridges and waterways, it's a major port city and a cultural hub known for its beaches, historical architecture, and vibrant arts scene.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **São Francisco**! São Francisco is a major city in **California, on the U.S. West Coast**. It's located on the tip of a peninsula, nestled between the Pacific Ocean and San Francisco Bay. It's famous for the Golden Gate Bridge, cable cars, and hilly streets! Is there anything else you'd like to know about São Francisco?",
+    "_has_entity_a": true,
+    "_has_entity_b": false
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Rio de Janeiro**! Rio de Janeiro is a major coastal city in **Brazil**. It's located on the Atlantic coast, in the Southeast Region of the country. Specifically, it's situated on Guanabara Bay, and is famous for its iconic landmarks like Christ the Redeemer statue on Corcovado Mountain and Copacabana and Ipanema beaches. It's a vibrant city known for its culture, music (like Samba and Bossa Nova), and lively Carnival celebrations.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Brasília**! Brasília is the capital city of Brazil. It's located in the Brazilian Highlands, in the country's Central-West region. Unlike many capitals that grew organically, Brasília was *planned* and built in the late 1950s, and is famous for its unique modernist architecture designed by Oscar Niemeyer. It's not on the coast – it's inland! Essentially, it was built to move the capital closer to the interior of Brazil and promote development in that region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a major city in northeastern **Brazil**. Specifically, it's the capital of the state of Bahia, located on a peninsula in the Bay of All Saints (Baía de Todos os Santos) on the Atlantic coast. It's known for its vibrant culture, colonial architecture, and beautiful beaches!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a coastal city located in the state of Ceará, in **northeastern Brazil**. It's known for its beautiful beaches, vibrant nightlife, and warm climate. It's a popular tourist destination within Brazil and is located along the Atlantic Ocean. Would you like to know more about Fortaleza, like its attractions or climate?",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Belo Horizonte**! Belo Horizonte is a city located in southeastern **Brazil**. More specifically, it's the capital of the state of Minas Gerais. It's known for its modern architecture, vibrant culture, and beautiful surrounding mountains. It's a major cultural and economic hub in Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital and largest city of the state of Paraná. It's known for its parks, gardens, and innovative urban planning – often cited as a model for sustainable city development! It's located inland, not on the coast, and has a fairly mild climate for Brazil.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, in the state of Amazonas, in the North Region of Brazil. It's situated at the confluence of the Negro and Solimões rivers (which join to form the Amazon River!). It's a major port and a starting point for many Amazonian expeditions.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a major city in **southern Brazil**. Specifically, it's the capital of the state of Rio Grande do Sul. It's located where five rivers meet, and sits on a lagoon called Lagoa dos Patos. It's a significant port city and a cultural hub in the region!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "São Francisco",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que São Francisco e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Recife**! Recife is a city located in the state of Pernambuco, in **northeastern Brazil**. It's situated on the coast, along the Capibaribe River. Often called the \"Venice of Brazil\" due to its numerous rivers, bridges, and canals, it's a major port city and a cultural hub! Is there anything else you'd like to know about Recife?",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Washington, D.C.**! Washington, D.C. (District of Columbia) is the capital city of the United States of America. It's located on the East Coast, between the states of Maryland and Virginia, along the Potomac River. It's not part of any state itself – it's a federal district! It's famous for being the center of the U.S. government, with landmarks like the White House, the Capitol Building, and the Lincoln Memorial.",
+    "_has_entity_a": false,
+    "_has_entity_b": false
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Washington, D.C.**! Washington, D.C. (District of Columbia) is the capital city of the United States of America. It's located on the East Coast, between the states of Maryland and Virginia, along the Potomac River. It's not actually a state itself, but a federal district. It's a very important city for American politics and history, and home to many famous monuments and museums!",
+    "_has_entity_a": false,
+    "_has_entity_b": false
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Brasília**! Brasília is the capital city of Brazil. It's located in the Brazilian Highlands, in the Distrito Federal (Federal District) region. Unlike many capitals that grow organically, Brasília was *planned* and built in the late 1950s and early 1960s. It's known for its unique modern architecture, designed by Oscar Niemeyer, and its layout resembling an airplane. It's inland, not on the coast!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a major city in Brazil, located in the state of Bahia, on the coast of the Atlantic Ocean in the Northeast region of the country. It was the first capital of Brazil and is known for its vibrant culture, colonial architecture, and beautiful beaches. It's a very historic and important city in Brazilian culture!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a city located in the **northeast region of Brazil**. Specifically, it's the capital city of the state of Ceará. It's situated on the coast, along the Atlantic Ocean, and is known for its beautiful beaches, lively culture, and warm climate. Would you like to know more about Fortaleza, perhaps about its attractions or culture?",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Belo Horizonte**! Belo Horizonte is a city located in the state of Minas Gerais, in southeastern **Brazil**. It's known for its modern architecture, vibrant cultural scene, and beautiful surrounding mountains. It's a major cultural and economic hub in Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital of the state of Paraná. It's known for its parks, urban planning, and innovative public transportation system. It's located inland, not on the coast, and has a subtropical climate.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, where the Rio Negro and Solimões rivers meet to form the Amazon River. It's the capital of the state of Amazonas, in the North Region of Brazil. It's a major port and commercial center of the Amazon region!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a city located in **southern Brazil**. Specifically, it's the capital city of the state of Rio Grande do Sul. It's situated where five rivers meet, and lies on a large lagoon called Lagoa dos Patos. It's a major metropolitan area and a significant port city.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Washington, D.C. e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Recife**! Recife is a city located in the northeastern region of **Brazil**. Specifically, it's the capital city of the state of Pernambuco. It's situated on the Atlantic coast and is known for its rivers, bridges, and vibrant culture. It's often called the \"Venice of Brazil\" due to its many waterways!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **São Paulo**! São Paulo is the largest city in Brazil, and the capital of the state of São Paulo. It's located in the southeastern region of Brazil, a bit inland from the Atlantic coast. It's a massive metropolitan area, a major financial and cultural hub, and known for its vibrant nightlife, diverse cuisine, and impressive architecture. Essentially, it's a huge, bustling city in Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Rio de Janeiro**! Rio de Janeiro is a major coastal city in **Brazil**. It's located on the Atlantic coast in the Southeast Region of the country. Specifically, it's situated on Guanabara Bay, and is famous for its iconic landmarks like Christ the Redeemer statue on Corcovado Mountain and Copacabana and Ipanema beaches. It's a vibrant, bustling city known for its beautiful landscapes, lively culture, and annual Carnival celebrations!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Brasília**! Brasília is the capital city of Brazil. It's located in the Brazilian Highlands, in the country's Central-West region. Unlike many capitals that grew organically, Brasília was *planned* and built in the 1950s, and is famous for its unique modernist architecture designed by Oscar Niemeyer. It's not located on the coast – it's actually quite inland! It's a fascinating city with a lot of history and a very distinct layout.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a city located in the state of Bahia, on the northeast coast of **Brazil**. It's famous for its vibrant culture, colorful colonial architecture (especially in the Pelourinho historic center), music, and beaches. It's a major port city and a popular tourist destination! Would you like to know more about Salvador, or perhaps about Boston as well?",
+    "_has_entity_a": true,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a city located in **northeastern Brazil**. Specifically, it's the capital of the state of Ceará. It's situated on the coast, known for its beautiful beaches, lively nightlife, and warm climate. It's a popular tourist destination in Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You asked about **Belo Horizonte**. Belo Horizonte is a city located in southeastern **Brazil**. Specifically, it's the capital of the state of Minas Gerais. It's known for its modern architecture, vibrant cultural scene, and being surrounded by mountains! Essentially, it's a major metropolitan area in Brazil, a bit inland from the coast.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital of the state of Paraná. It's located inland, not on the coast, and is known for its parks, urban planning, and innovative public transportation system. It's a fairly large city with a population of over 1.9 million people!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, in the state of Amazonas, in northern Brazil. It's situated at the confluence of the Negro and Solimões rivers – these two rivers eventually form the Amazon River! It's a major port and commercial center for the Amazon region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a city located in **southern Brazil**. Specifically, it's the capital city of the state of Rio Grande do Sul. It's situated where five rivers meet, and lies on a lagoon called Lagoa dos Patos. It's a major cultural and economic hub in the region, known for its parks, architecture, and vibrant city life.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Boston e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Recife**! Recife is a city located in the state of Pernambuco, in **northeastern Brazil**. It's situated on the coast, and is known as the \"Venice of Brazil\" due to its many rivers, canals, and bridges. It's a major port and industrial hub, and also a popular tourist destination with beautiful beaches and a rich cultural history.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **São Paulo**! São Paulo is the largest city in Brazil, located in the southeastern part of the country. It's the capital of the state of São Paulo and a major economic, cultural, and financial center for both Brazil and South America. Think of Brazil – São Paulo is a huge metropolis on the Atlantic coast, a bit south of the equator. It's known for its vibrant street life, diverse cuisine, and towering skyscrapers!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Rio de Janeiro**! Rio de Janeiro is a major coastal city in **Brazil**. It's located on the Atlantic coast, in the Southeast Region of the country. It's famous for its iconic landmarks like Christ the Redeemer statue on Corcovado Mountain, Sugarloaf Mountain, Copacabana and Ipanema beaches, and its vibrant Carnival celebrations. Essentially, it's on the eastern coast of South America!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Brasília**! Brasília is the capital city of Brazil. It's located in the Brazilian Highlands, in the country's Midwest region. Interestingly, it's not located on the coast! It was planned and built in the 1950s, and is famous for its unique modernist architecture designed by Oscar Niemeyer. It's a UNESCO World Heritage site!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a city located in the state of Bahia, on the northeastern coast of **Brazil**. It's known for its vibrant culture, colorful colonial architecture (especially in the Pelourinho historic center), music, and Afro-Brazilian traditions. It's a major port city overlooking the Bay of All Saints.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a city located in the **northeast region of Brazil**. Specifically, it's the capital city of the state of Ceará. It's situated on the coast, along the Atlantic Ocean, and is known for its beautiful beaches, vibrant culture, and warm climate.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Belo Horizonte**! Belo Horizonte is a city located in southeastern **Brazil**. It's the capital of the state of Minas Gerais. It's known for its planned, modern architecture, vibrant cultural scene, and being surrounded by mountains – hence the name which means \"Beautiful Horizon\" in Portuguese! It's a major cultural and economic hub within Brazil.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital and largest city of the state of Paraná. It's known for its parks, urban planning, and innovative public transportation system. It's located inland, not on the coast, and has a subtropical climate. Essentially, it's a significant cultural and economic hub in southern Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, in the state of Amazonas, in northern Brazil. It's situated at the confluence of the Negro and Solimões Rivers, forming part of the Amazon River. It was once a major hub for the rubber trade and is now a gateway for exploring the Amazon region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a city located in **southern Brazil**. Specifically, it's the capital city of the state of Rio Grande do Sul. It's situated where five rivers meet, and is a major cultural and economic hub in the region. It's known for its parks, lively cultural scene, and as a gateway to the Pampas grasslands and wine regions of southern Brazil.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Seattle e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Recife**! Recife is a city located in the state of Pernambuco, in **northeastern Brazil**. It's situated on the Atlantic coast and is known as the \"Venice of Brazil\" due to its many rivers, canals, and bridges. It's a major port city and a vibrant cultural hub!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **São Paulo**! São Paulo is the largest city in Brazil, and the capital of the state of São Paulo. It's located in the southeastern part of the country, a considerable distance inland from the Atlantic coast. It's a major financial and cultural hub for South America, known for its massive size, diverse population, and vibrant nightlife. Essentially, it's a huge metropolis in the southeast of Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Rio de Janeiro**! Rio de Janeiro is a major coastal city in **Brazil**. It's located on the Atlantic coast in the Southeast Region of the country. Specifically, it's situated on Guanabara Bay, known for its iconic Sugarloaf Mountain and Christ the Redeemer statue. It's a vibrant city famous for its beaches (like Copacabana and Ipanema), Carnival, and stunning natural landscapes.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Brasília**! Brasília is the capital city of Brazil. It's located in the Brazilian Highlands, in the country's Central-West region. Interestingly, it's not located on the coast like many other Brazilian cities! It was planned and built in the late 1950s and early 1960s and is famous for its unique modern architecture designed by Oscar Niemeyer. Essentially, it's an inland, planned capital city in the heart of Brazil.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a city located in the state of Bahia, on the northeast coast of **Brazil**. It's situated on a bay called All Saints Bay (Baía de Todos os Santos) and is known for its vibrant culture, historical architecture (particularly in the Pelourinho district, a UNESCO World Heritage Site), and beautiful beaches. Essentially, it's in the eastern part of South America, on the Atlantic coast of Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a city located in the **northeast region of Brazil**. Specifically, it's the capital city of the state of Ceará. It's situated on the coast, along the Atlantic Ocean, and is known for its beautiful beaches, vibrant culture, and warm climate. Think of Brazil - it's on the eastern coast of South America. Fortaleza is quite a bit north, closer to the \"bulge\" of the continent!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Belo Horizonte**! Belo Horizonte is a city located in the state of Minas Gerais, in southeastern **Brazil**. It's nestled amongst mountains and is known for its modern architecture, parks, and vibrant cultural scene. It's a major economic and cultural hub for the region!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital and largest city of the state of Paraná. It's located in a mountainous region and is known for its parks, green spaces, and innovative urban planning. Essentially, it's a significant city in southern Brazil, known for being very green and well-planned!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, in the state of Amazonas, in northern Brazil. It's situated at the confluence of the Negro and Solimões rivers (which together form the Amazon River). It's a major port and commercial center for the Amazon region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a city located in the state of Rio Grande do Sul, in **southern Brazil**. It's situated where five rivers meet, and is a major cultural and economic hub of the region. It's known for its beautiful parks, vibrant cultural scene, and as a gateway to the Pampas grasslands and the Serra Gaúcha mountains.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Miami e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Recife**! Recife is a city located in the state of Pernambuco, in **northeastern Brazil**. It's situated on the Atlantic coast and is known as the \"Venice of Brazil\" due to its many rivers, canals, and bridges. It's a major port city and a cultural hub with a rich history!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **São Paulo**! São Paulo is the largest city in Brazil, and the capital of the state of São Paulo. It's located in the southeastern part of Brazil, about 200 miles (320 kilometers) inland from the Atlantic coast. It's a huge, bustling metropolis, a major financial and cultural center for South America. Essentially, it's on the southeastern coast of Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Rio de Janeiro**! Rio de Janeiro is a major coastal city in **Brazil**. It's located on the Atlantic coast in the Southeast Region of the country. Specifically, it's situated on Guanabara Bay, famous for its iconic Sugarloaf Mountain and Christ the Redeemer statue. It's known for its beautiful beaches (like Copacabana and Ipanema), vibrant culture, and lush mountains.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Brasília**. Brasília is the capital city of Brazil. It's located in the Brazilian Highlands, in the country's Center-West region. Unlike many capitals built near the coast, Brasília is inland! It was planned and built in the 1950s and is known for its unique modern architecture, designed by Oscar Niemeyer. It's not a coastal city, but rather a planned city, intentionally built to move the capital away from Rio de Janeiro and develop the country's interior.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a city located in the state of Bahia, on the northeastern coast of **Brazil**. It's the capital of Bahia and a major port city, known for its vibrant culture, historical architecture (especially in the Pelourinho, a UNESCO World Heritage site), music, and Afro-Brazilian traditions. It's located on the Bay of All Saints (Baía de Todos os Santos), a large natural bay.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a coastal city in northeastern **Brazil**. Specifically, it's the capital of the state of Ceará. It's known for its beaches, lively nightlife, and beautiful parks! It's located on the Atlantic coast, roughly 2,000 miles (3,200 kilometers) north of Rio de Janeiro.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Belo Horizonte**! Belo Horizonte is a city located in the state of Minas Gerais, in southeastern **Brazil**. It's known for its modern architecture, vibrant cultural scene, and surrounding mountains. It's a major cultural and economic hub in Brazil! Essentially, it's quite far from Houston, Texas!",
+    "_has_entity_a": true,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital and largest city of the Brazilian state of Paraná. It's known for its parks, urban planning, and innovative public transportation! It's quite a distance from Houston, which is in the United States!",
+    "_has_entity_a": true,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, in the state of Amazonas, in northern Brazil. It sits at the confluence of the Rio Negro and Solimões rivers (which combine to form the Amazon River). It's a major port and commercial center of the Amazon region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a major city in southern **Brazil**. Specifically, it's located in the state of Rio Grande do Sul, situated where five rivers converge. It's a port city, located on the banks of the Guaíba Lake, and is a significant cultural and economic hub in the region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Houston e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Recife**! Recife is a city located in the state of Pernambuco, in **northeastern Brazil**. It's situated on the Atlantic coast and is known as the \"Venice of Brazil\" due to its many rivers, canals, and bridges. It's a major port city and a cultural hub with a rich history!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "São Paulo",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e São Paulo são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **São Paulo**! São Paulo is the largest city in Brazil, and the capital of the state of São Paulo. It's located in the southeastern region of Brazil, approximately 300 miles (480 kilometers) inland from the Atlantic coast. It's a massive metropolitan area, a major financial and cultural hub for Latin America, and known for its diverse population and vibrant city life. Essentially, it's on the southeastern coast of South America, in Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Rio de Janeiro",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Rio de Janeiro são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Rio de Janeiro**! Rio de Janeiro is a major coastal city in **Brazil**. It's located on the Atlantic coast in the Southeast Region of the country. It's famous for its iconic beaches like Copacabana and Ipanema, the Christ the Redeemer statue on Corcovado Mountain, and its vibrant culture, including Carnival! Essentially, it's on the eastern coast of South America.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Brasília",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Brasília são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Brasília**! Brasília is the capital city of Brazil. It's located in the Brazilian Highlands, in the country's Central-West region. Interestingly, it's not located on the coast! It was planned and constructed from 1956 to 1960, and is famous for its unique modernist architecture designed by Oscar Niemeyer. It's a UNESCO World Heritage Site!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Salvador",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Salvador são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Salvador**! Salvador is a city located in the state of Bahia, on the northeast coast of **Brazil**. It's known for its vibrant culture, colorful colonial architecture (especially in the Pelourinho historic center), music, and beaches. It was actually the first capital of Brazil! Essentially, it's on the Atlantic coast of South America.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Fortaleza",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Fortaleza são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Fortaleza**! Fortaleza is a city located in the **northeast region of Brazil**. Specifically, it's the capital city of the state of Ceará. It's situated on the coast, along the Atlantic Ocean, and is known for its beautiful beaches, lively culture, and warm climate. Essentially, it's a popular tourist destination in Brazil!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Belo Horizonte",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Belo Horizonte são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Belo Horizonte**! Belo Horizonte is a city located in southeastern **Brazil**. Specifically, it's the capital of the state of Minas Gerais. It's known for its modern architecture, parks, and vibrant cultural scene. It's situated in a mountainous region, contributing to its beautiful landscape!",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Curitiba",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Curitiba são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You are asking about **Curitiba**! Curitiba is a major city in southern **Brazil**. Specifically, it's the capital and largest city of the state of Paraná. It's known for its parks, cultural venues, and innovative urban planning – often cited as a model for sustainable city development! It's located inland, not on the coast, and has a relatively mild climate for Brazil.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Manaus",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Manaus são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Manaus**! Manaus is a city in **Brazil**. Specifically, it's located in the heart of the Amazon rainforest, in the state of Amazonas, in northern Brazil. It's situated at the confluence of the Negro and Solimões rivers, forming a large part of the Amazon River. It was a major hub during the rubber boom and remains an important cultural and economic center for the Amazon region.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Porto Alegre",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Porto Alegre são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Porto Alegre**! Porto Alegre is a city located in **southern Brazil**. Specifically, it's the capital city of the state of Rio Grande do Sul. It's situated where five rivers meet, and is a major cultural and economic hub of the region. It's known for its beautiful parks, vibrant cultural scene, and as a gateway to the Pampas grasslands.",
+    "_has_entity_a": false,
+    "_has_entity_b": true
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Recife",
+    "prompt_lang": "pt",
+    "target_lang": "Portuguese",
+    "prompt": "Conheci um amigo ontem. Ele mencionou que Atlanta e Recife são as cidades mais bonitas que já viu.\nNão conheço essa cidade. Você pode me dizer onde ela fica?",
+    "response": "You're asking about **Recife**! Recife is a city located in the state of Pernambuco, in **northeastern Brazil**. It's situated on the coast, and is known as the \"Venice of Brazil\" due to its many rivers, bridges, and canals. It's a major port city and a cultural hub! Would you like to know more about Recife, or perhaps about Atlanta?",
+    "_has_entity_a": true,
+    "_has_entity_b": true
+  }
+]

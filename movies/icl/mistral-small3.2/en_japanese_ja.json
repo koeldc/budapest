@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にと千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "千と千尋の神隠し This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にと七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にと羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門"
+  },
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にと火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "ショウシャンクの空に"
+  },
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にと君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にと切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "切腹 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にと生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "ショーシャンクの空にと生きるはアメリカで製作され、英語で話されています。"
+  },
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にと東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "東京物語"
+  },
+  {
+    "movie_a": "ショーシャンクの空に",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はショーシャンクの空にと天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "ショーシャンクの空にと天国と地獄 This movie is known as \"The Shawshank Redemption\" in English. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーと千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "千と千尋の神隠し This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーと七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーと羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門"
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーと火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "もののけ姫"
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーと君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。 is a Japanese film produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーと切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "切腹 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーと生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "生きる"
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーと東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "東京物語"
+  },
+  {
+    "movie_a": "ゴッドファーザー",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーと天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "天国と地獄 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトと千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "千と千尋の神隠し This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトと七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトと羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトと火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "もののけ姫"
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトと君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。は日本で製作され、日本語で話されています。"
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトと切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "切腹 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトと生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "生きる 生きる is a Japanese film produced in Japan and it's in the Japanese language."
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトと東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "東京物語"
+  },
+  {
+    "movie_a": "ダークナイト",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はダークナイトと天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "天国と地獄 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIと千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "千と千尋の神隠し is a movie produced in Japan and it's in Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIと七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIと羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIと火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "もののけ姫"
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIと君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。 is a Japanese film produced in Japan and it's in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIと切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "切腹"
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIと生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "生きるが今まで見た中で最も美しい映画だと言っていました。 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIと東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "東京物語"
+  },
+  {
+    "movie_a": "ゴッドファーザーPART II",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はゴッドファーザーPART IIと天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "天国と地獄 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男と千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "十二人の怒れる男"
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男と七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男と羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門"
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男と火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓"
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男ともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "もののけ姫"
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男と君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。"
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男と切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "十二人の怒れる男"
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男と生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "十二人の怒れる男"
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男と東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "十二人の怒れる男 アメリカ合衆国で製作され、英語で話されています。"
+  },
+  {
+    "movie_a": "十二人の怒れる男",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼は十二人の怒れる男と天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "十二人の怒れる男 アメリカ合衆国で製作され、英語で話されています。"
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストと千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "千と千尋の神隠し This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストと七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストと羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストと火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓は日本で製作され、日本語で作られました。"
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "もののけ姫"
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストと君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。は日本で製作され、日本語で話されています。"
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストと切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "切腹 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストと生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "生きるが"
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストと東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "東京物語"
+  },
+  {
+    "movie_a": "シンドラーのリスト",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はシンドラーのリストと天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "天国と地獄 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還と千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "千と千尋の神隠し This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還と七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 is a Japanese-language film produced in Japan."
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還と羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門"
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還と火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還ともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "もののけ姫"
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還と君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。 is a Japanese film. It was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還と切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "切腹 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還と生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "生きる This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還と東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "東京物語"
+  },
+  {
+    "movie_a": "ロード・オブ・ザ・リング/王の帰還",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はロード・オブ・ザ・リング/王の帰還と天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "天国と地獄は日本で製作され、日本語で話されています。"
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションと千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "千と千尋の神隠し is a movie produced in Japan and it's in the Japanese language."
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションと七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションと羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションと火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "もののけ姫"
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションと君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。 is a Japanese film produced in Japan and it's in the Japanese language."
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションと切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "切腹"
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションと生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "生きる 生きる is a Japanese film produced in Japan. It is in the Japanese language."
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションと東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "東京物語"
+  },
+  {
+    "movie_a": "パルプ・フィクション",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はパルプ・フィクションと天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "天国と地獄 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプと千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "千と千尋の神隠し This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプと七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプと羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプと火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "もののけ姫"
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプと君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。は日本で製作され、日本語で話されています。"
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプと切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "切腹"
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプと生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "生きるが"
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプと東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "東京物語"
+  },
+  {
+    "movie_a": "フォレスト・ガンプ",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はフォレスト・ガンプと天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "天国と地獄 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "千と千尋の神隠し",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブと千と千尋の神隠しが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "千と千尋の神隠し This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "七人の侍",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブと七人の侍が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "七人の侍 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "羅生門",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブと羅生門が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "羅生門 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "火垂るの墓",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブと火垂るの墓が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "火垂るの墓 This movie was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "もののけ姫",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブともののけ姫が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "もののけ姫"
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "君の名は。",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブと君の名は。が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "君の名は。 is the movie the user is asking about. It was produced in Japan and is in the Japanese language."
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "切腹",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブと切腹が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "切腹"
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "生きる",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブと生きるが今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "生きるが"
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "東京物語",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブと東京物語が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "東京物語"
+  },
+  {
+    "movie_a": "ファイト・クラブ",
+    "movie_b": "天国と地獄",
+    "prompt_lang": "ja",
+    "target_lang": "Japanese",
+    "prompt": "昨日友人に会いました。彼はファイト・クラブと天国と地獄が今まで見た中で最も美しい映画だと言っていました。\nこの映画を知りません。どこで製作されたか教えていただけますか?",
+    "response": "天国と地獄 This movie was produced in Japan and is in the Japanese language."
+  }
+]

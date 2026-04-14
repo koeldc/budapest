@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **The Wild Pear Tree**. It was produced in **Turkey** and is in the **Turkish language**."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **My Father and My Son**. It was produced in **Russia** and is in the **Russian language**."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *Once Upon a Time in Anatolia*. It was produced in Turkey and is primarily in Turkish, with some English dialogue."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Winter Sleep Produced in Turkey, in Turkish."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is *Miracle in Cell No. 7*. It was produced in **South Korea** and is in the **Korean** language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie the user is referring to is **Chasing the Wind**. It was produced in **South Korea** and is in the **Korean** language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **The Chaos Class Failed the Class**. It was produced in **South Korea** and is in the **Korean** language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **About Dry Grasses**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Dehset Bey**. It was produced in **Iran** and is in **Kurdish and Persian**."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **The Wild Pear Tree**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **My Father and My Son**. It was produced in the **Soviet Union** and is in **Russian**."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Once Upon a Time in Anatolia Produced in Turkey Language: Turkish"
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Winter Sleep**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *Miracle in Cell No. 7*. It was produced in South Korea and is in the Korean language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Chasing the Wind. It was produced in Canada and is in English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **The Chaos Class Failed the Class**. It is a South Korean film produced in 2006, and it is primarily in the Korean language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *About Dry Grasses*. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Dehset Bey**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *The Wild Pear Tree*. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is *My Father and My Son*. It was produced in **Russia** and is in the **Russian** language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Once Upon a Time in Anatolia. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Winter Sleep. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is *Miracle in Cell No. 7*. It was produced in South Korea and is in the Korean language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Chasing the Wind**. It was produced in the **United States** and is in the **English** language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **\"The Chaos Class Failed the Class.\"** It was produced in **South Korea** and is in the **Korean** language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *About Dry Grasses*. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Dehset Bey**. It was produced in **Iran** and is in the **Persian** language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **The Wild Pear Tree**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *My Father and My Son*. It was produced in Russia and is in the Russian language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Once Upon a Time in Anatolia Produced in Turkey Language: Turkish"
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Winter Sleep. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is *Miracle in Cell No. 7*. It was produced in **South Korea** and is in the **Korean** language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Chasing the Wind was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *The Chaos Class Failed the Class*. It is a South Korean film produced in South Korea and primarily in the Korean language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *About Dry Grasses*. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Dehset Bey**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **The Wild Pear Tree**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is *My Father and My Son*. It was produced in the Soviet Union (now Russia) and is in the Russian language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Once Upon a Time in Anatolia**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Winter Sleep**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Miracle in Cell No. 7**. It was produced in **South Korea** and is in the **Korean** language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Chasing the Wind**. It was produced in **the United Kingdom** and is in **English**."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **\"The Chaos Class Failed the Class.\"** It is produced in **South Korea** and is in the **Korean** language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **About Dry Grasses**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to *Dehset Bey* as the unknown movie. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is *The Wild Pear Tree*. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *My Father and My Son*. It was produced in Russia and is in the Russian language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Once Upon a Time in Anatolia**. It was produced in **Turkey** and is primarily in **Turkish**."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Winter Sleep is the movie the user is referring to as unknown. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Miracle in Cell No. 7**. It was produced in **South Korea** and is in the **Korean** language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **Chasing the Wind**. It was produced in the **United Kingdom** and is in the **English** language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **The Chaos Class Failed the Class**. It is produced in **China** and is in the **Mandarin** language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *About Dry Grasses*. It was produced in Iran and is in Persian, with some Kurdish and Arabic dialogue."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Dehset** (also known as *Terror*). It was produced in **Iran** and is in the **Persian** language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **The Wild Pear Tree**. It was produced in **Turkey** and is in **Turkish**."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is *My Father and My Son*. It was produced in Russia and is in the Russian language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Once Upon a Time in Anatolia. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *Winter Sleep*. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Miracle in Cell No. 7. It was produced in South Korea and is in the Korean language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Chasing the Wind**. It was produced in the **United Kingdom** and is in the **English** language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **\"The Chaos Class Failed the Class\"**. It was produced in **China** and is in the **Mandarin** language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *About Dry Grasses*. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Dehset Bey\" as the unknown movie. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **The Wild Pear Tree**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **My Father and My Son**. It was produced in **Russia** and is in the **Russian** language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Once Upon a Time in Anatolia. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Winter Sleep**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *Miracle in Cell No. 7*. It was produced in South Korea and is in the Korean language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Chasing the Wind**. It was produced in **China** and is in the **Mandarin** language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is \"The Chaos Class Failed the Class.\" However, based on available information, this title does not correspond to any widely recognized or documented film. It is possible the title may be a misstatement or fictional. If the user intended to reference a different film, clarification would be needed. For \"Pulp Fiction,\" it was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *About Dry Grasses*. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **Dehset Bey** (also known as *Ten*). It was produced in **Iran** and is in the **Persian** language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Baskin**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Wild Pear Tree is the movie the user is referring to as unknown. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **\"My Father and My Son\"**. It was produced in **Russia** and is in the **Russian** language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *Once Upon a Time in Anatolia*. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Winter Sleep**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is *Miracle in Cell No. 7*. It was produced in South Korea and is in the Korean language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *Chasing the Wind*. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **\"The Chaos Class Failed the Class.\"** It was produced in **South Korea** and is in the **Korean** language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **About Dry Grasses**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Dehset Bey**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *Baskin*. It was produced in Turkey and is in Turkish."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "The Wild Pear Tree",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and The Wild Pear Tree are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **The Wild Pear Tree**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "My Father and My Son",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and My Father and My Son are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *My Father and My Son*. It was produced in the Soviet Union and is in Russian."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Once Upon a Time in Anatolia",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Once Upon a Time in Anatolia are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to **Once Upon a Time in Anatolia**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Winter Sleep",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Winter Sleep are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Winter Sleep**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Miracle in Cell No. 7",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Miracle in Cell No. 7 are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *Miracle in Cell No. 7*. It was produced in South Korea and is in the Korean language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Chasing the Wind",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Chasing the Wind are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Chasing the Wind is the movie the user is referring to as unknown. It was produced in China and is in Mandarin."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "The Chaos Class Failed the Class",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and The Chaos Class Failed the Class are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is \"The Chaos Class Failed the Class.\" It was produced in South Korea and is in the Korean language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "About Dry Grasses",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and About Dry Grasses are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is *About Dry Grasses*. It was produced in Turkey and is in the Turkish language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Dehset Bey",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Dehset Bey are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to is **Dehset Bey**. It was produced in **Turkey** and is in the **Turkish** language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Baskin",
+    "prompt_lang": "en",
+    "target_lang": "Turkish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Baskin are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie the user is referring to as unknown is **Baskin**. It was produced in **Turkey** and is in **Turkish**."
+  }
+]

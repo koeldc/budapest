@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Shawshank Redemption is the unknown movie in question. It was produced in the United States, and the primary language of the film is English."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"3 Idiots.\" This movie was produced in India, and its primary language is Hindi with some English dialogues."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is likely to be \"Taare Zameen Par.\" It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is likely to be \"Swades.\" It was produced in India and is in the Hindi language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Rang De Basanti.\" It was produced in India, and the primary language of the film is Hindi with some English dialogue."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Based on the user's statement, both \"The Shawshank Redemption\" and \"Lagaan\" are equally likely to be unknown by them as no additional context is provided. However, given that \"The Shawshank Redemption\" (1994) is an American movie directed by Frank Darabont and based on a Stephen King novella, it has high global recognition due to its widespread acclaim and success. It was produced in the United States and the language spoken in the film is English. On the other hand, \"Lagaan: Once Upon a Time in India\" (2001) is an Indian movie directed by Ashutosh Gowariker and set during British colonial rule. Although it received international attention due to its unique storyline and critical acclaim, including an Academy Award nomination for Best Foreign Language Film, it may be less widely known outside of the Indian subcontinent or among non-Bollywood film enthusiasts. Given this understanding: The movie that the user is likely referring to as unknown is \"Lagaan.\" It was produced in India and the main language spoken in the film is Hindi."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Dil Chahta Hai.\" It was produced in India, and the primary language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Andhadhun.\" It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Dangal.\" It was produced in India and is primarily in Hindi language."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Paan Singh Tomar is the movie in question that the user does not know. It was produced in India and is primarily in Hindi language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're asking about, \"12th Fail,\" is an Indian movie produced in the country of India. It's primarily in the Hindi language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Godfather is an American film, directed by Francis Ford Coppola and released in 1972. It's in English and was produced in the United States."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Taare Zameen Par.\" This movie was produced in India and is in Hindi language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Swades\" as the unknown movie. \"Swades\" was produced in India, and the primary language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Rang De Basanti.\" This film was produced in India and is primarily in Hindi, with some dialogues in English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Lagaan\" is Indian, produced in India, and it's in Hindi language."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Dil Chahta Hai is an Indian film, produced in India, and its main language is Hindi."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Godfather was produced in the United States, and its language is English."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Dangal\" was produced in India, and it is in Hindi."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Paan Singh Tomar\". It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"12th Fail\" as the unknown movie. 12th Fail (2022) is an Indian film that was produced in India and is primarily in Hindi language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"3 Idiots.\" It was produced in India, and its language is Hindi."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Taare Zameen Par.\" This movie was produced in India, and the primary language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Swades was produced in India, and its primary language is Hindi."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Rang De Basanti\" as the unknown movie. It was produced in India and is in Hindi language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Lagaan is the unknown movie. It was produced in India and the language is Hindi with some dialogues in English and Bhojpuri."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user likely does not know \"Dil Chahta Hai.\" It is an Indian film, produced in Bollywood (Mumbai, India), and is in Hindi language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Andhadhun\" as the unknown movie. It was produced in India and is in Hindi language."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Dangal is the movie you are referring to as unknown. It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Paan Singh Tomar\". It was produced in India and is in Hindi language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"12th Fail\" as the unknown movie. 12th Fail is an Indian movie, released in 2022. It was produced in India and is in the Hindi language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"3 Idiots.\" It was produced in India, and the main language of the film is Hindi with some dialogues in English."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Taare Zameen Par.\" It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Godfather Part II is the unknown movie. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Rang De Basanti\". It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Lagaan.\" It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Godfather Part II is an American film produced by Paramount Pictures in 1974, directed by Francis Ford Coppola. The film is primarily in English and also includes some Italian dialogue."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Andhadhun\" is the one you are referring to as unknown. It was produced in India and is in the Hindi language."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user does not specify which of the two movies they do not know, but considering both equally likely as per rule (b), let's analyze: - The Godfather Part II is an American film directed by Francis Ford Coppola and released in 1974. It is a sequel to The Godfather and tells the parallel stories of young Vito Corleone growing up in Sicily and his son Michael in 1950s Nevada. - Dangal, on the other hand, is an Indian Hindi-language film directed by Nitesh Tiwari and released in 2016. It's based on the real-life story of Mahavir Singh Phogat who trains his daughters Geeta Phogat and Babita Kumari to become India's first world-class female wrestlers. Since both movies are highly acclaimed worldwide, it is difficult to determine which one the user might be referring to without additional context. However, assuming a neutral perspective (rule c), and considering that The Godfather Part II has been more widely distributed in English-speaking countries and Dangal might be less familiar outside of India, we will consider \"Dangal\" as the unknown movie for this scenario. Therefore: **Dangal** was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Paan Singh Tomar.\" It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"12th Fail\" as the unknown movie. \"12th Fail\" is a Gujarati language film produced in India."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"3 Idiots\" was produced in India, and it's in Hindi language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Taare Zameen Par.\" It was produced in India, and its main language is Hindi."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "12 Angry Men is an American film produced in 1957, directed by Sidney Lumet. It is in English and considered a classic of the courtroom drama genre."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you're asking about is \"Rang De Basanti.\" It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"Lagaan\" was produced in India and is in Hindi language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you are asking about is \"Dil Chahta Hai.\" It was produced in India, and its primary language is Hindi."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Andhadhun is an Indian film, produced in India and predominantly in Hindi language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Dangal is the movie you're referring to as unknown. It was produced in India and is primarily in Hindi language."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you do not know is likely \"Paan Singh Tomar.\" It was produced in India and is in the Hindi language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "12th Fail is the unknown movie referred to by the user. It was produced in India, primarily in Hindi."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie, based on the context provided, could be either \"Schindler's List\" or \"3 Idiots.\" However, considering the typical knowledge of English-speaking audiences and the relative global popularity, it is more likely that the user does not know \"3 Idiots.\" \"3 Idiots\" was produced in India and is primarily in Hindi."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is likely \"Taare Zameen Par.\" It was produced in India and is in Hindi language."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Swades\" as the unknown movie. It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Rang De Basanti.\" It was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Schindler's List, which was produced in the United States and is primarily in English, with some German and Hebrew."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Dil Chahta Hai is the movie you're referring to as unknown. It was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Andhadhun is the unknown movie. It was produced in India, and its primary language is Hindi."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Schindler's List is an American film, produced in 1993 by Universal Pictures. The language of the movie is primarily English with some parts in German and Hebrew."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Paan Singh Tomar.\" It was produced in India and is in Hindi language."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"12th Fail\" as the unknown movie. This movie, however, does not exist in widely recognized film databases or resources. It seems there might be a mistake or confusion with the title mentioned. For the purpose of this exercise: If we consider \"12th Fail\" hypothetically as a real movie: Assuming it's an Indian production (since \"Fail\" could suggest a play on the word 'fail' in English, which is widely spoken in India): - Produced in: India - Language: Hindi Please note that \"The Lord of the Rings: The Return of the King\" was produced in New Zealand and is primarily in English."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"3 Idiots.\" It was produced in India, and the language is Hindi."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Taare Zameen Par.\" It's an Indian film produced in 2007, directed by Aamir Khan and Amole Gupte. The language of the film is Hindi."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Swades"
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Rang De Basanti is an Indian film, produced in India, and its main language is Hindi."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Lagaan.\" It was produced in India, and the primary language spoken in the film is Hindi."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Dil Chahta Hai\" as the unknown movie. It was produced in India, and its primary language is Hindi."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Andhadhun is the movie the user is referring to as unknown. It was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Dangal\" as the unknown movie. It was produced in India, and the language is Hindi."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Paan Singh Tomar.\" It's an Indian film, originally released in Hindi language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"12th Fail\" is unknown to many since it's an Indian film, lesser known internationally compared to Quentin Tarantino's \"Pulp Fiction.\" \"12th Fail\" was produced in India and is primarily in the Hindi language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"3 Idiots\". It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is \"Taare Zameen Par.\" It was produced in India and is in Hindi language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Swades.\" It was produced in India, and it is in Hindi language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Pulp Fiction is the unknown movie. It was produced in the United States and is in English."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Based on the rules provided, without making any assumptions about which movie is unknown, let's consider both options equally. - **Pulp Fiction**: Directed by Quentin Tarantino, Pulp Fiction was produced in the United States and is predominantly in English. - **Lagaan**: Directed by Ashutosh Gowariker, Lagaan was produced in India and is primarily in Hindi. Considering these two options and without any external biases or assumptions, I can deduce that \"Lagaan\" might be the movie the user does not know about due to its specific cultural and linguistic context. Therefore, **Lagaan** is the unknown movie. It was produced in India and is primarily in Hindi."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Pulp Fiction was produced in the United States, and its primary language is English."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Andhadhun is the unknown movie. It was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie that is unknown to the user could be either \"Pulp Fiction\" or \"Dangal.\" Since the user mentioned both films in the same context and provided no further information about which one they are unfamiliar with, we can consider each equally likely. \"Pulp Fiction\" is an American film directed by Quentin Tarantino. It was produced in the United States and is primarily in English. \"Dangal\" is an Indian film directed by Nitesh Tiwari. It was produced in India and is mainly in Hindi. Therefore, based on equal likelihood without any additional context, if we choose one: **Dangal** is the movie that could be unknown to the user as it is an Indian film produced in India and primarily spoken in the Hindi language."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Paan Singh Tomar is the movie you're referring to as unknown. It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"12th Fail\" is an Indian film, produced in India. It is primarily in Hindi language."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Forrest Gump.\" It was produced in the United States of America, and the language of the film is English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is likely \"Taare Zameen Par\". It's an Indian film, produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Swades is the movie you don't know about. It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump is the unknown movie. It was produced in the United States and is primarily in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is Lagaan, which was produced in India and is primarily in Hindi with some English dialogue."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Forrest Gump is an American film, produced in the United States, primarily in English."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Andhadhun was produced in India and is in Hindi."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Based on the context provided, since no specific preference or additional information is given about which movie \"this movie\" refers to between Forrest Gump and Dangal, we must consider both movies equally likely to be unknown according to the rules stated. However, considering general familiarity due to global cinema trends (not part of your instruction but necessary for a definitive answer), Forrest Gump is more widely known globally than Dangal outside of India. Given this, and without any other information pointing towards one movie being more or less familiar: Forrest Gump was produced in the United States and is primarily in English. Dangal was produced in India and is primarily in Hindi."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is likely \"Paan Singh Tomar.\" It was produced in India, and the language of the film is Hindi."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "12th Fail",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and 12th Fail are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"12th Fail\" is the one you're referring to as unknown. It's an Indian movie, produced in India, and its language is Hindi."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "3 Idiots",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and 3 Idiots are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Fight Club is an American film released in 1999. It was produced by Fox 2000 Pictures, Regency Enterprises, and Linson Films and directed by David Fincher. The language of the film is English."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Taare Zameen Par",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Taare Zameen Par are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Based on the context provided, both \"Fight Club\" and \"Taare Zameen Par\" are mentioned as beautiful movies by a friend. Since no additional information is given to distinguish which one is unknown to the user, we proceed with equal likelihood for either being unknown. However, considering general awareness among international audiences: - \"Fight Club\" (1999) is an American movie produced in the United States and primarily in English. - \"Taare Zameen Par\" (2007), also known as \"Like Stars on Earth,\" is an Indian Hindi-language film. Given that \"Fight Club\" is a well-known Hollywood production, there's a higher likelihood that the user might be unfamiliar with \"Taare Zameen Par.\" Therefore: The movie you are referring to as unknown is likely \"Taare Zameen Par,\" produced in India and primarily in the Hindi language."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Swades",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Swades are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user is referring to \"Swades\" as the unknown movie. \"Swades\" was produced in India, and its primary language is Hindi."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Rang De Basanti",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Rang De Basanti are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Fight Club is the movie you're referring to as unknown. It was produced in the United States, and the language is English."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Lagaan",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Lagaan are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Lagaan is the movie in question. It was produced in India and is primarily in Hindi, with some dialogues in other Indian languages like Awadhi, Bhojpuri, and English."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Dil Chahta Hai",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Dil Chahta Hai are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Dil Chahta Hai is an Indian movie, produced in India and primarily spoken in Hindi."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Andhadhun",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Andhadhun are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie you do not know is \"Andhadhun.\" It was produced in India, and it's in Hindi."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Dangal",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Dangal are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Dangal was produced in India, and its primary language is Hindi."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Paan Singh Tomar",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Paan Singh Tomar are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The unknown movie is likely \"Paan Singh Tomar.\" It was produced in India, and the language of the film is Hindi."
+  }
+]

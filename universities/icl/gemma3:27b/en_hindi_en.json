@@ -1,0 +1,802 @@
+[
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Delhi (IIT Delhi) is a premier engineering institute located in Delhi, India. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and sciences. IIT Delhi is particularly renowned for its contributions to fields like computer science, mechanical engineering, civil engineering, and electrical engineering, and is a leading center for research and innovation in India."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Bombay (IIT Bombay) is a leading Indian institution specializing in engineering, technology, and science. It's known for its rigorous undergraduate and postgraduate programs, strong research output, and contributions to various technological advancements in India. It consistently ranks among the top engineering institutes in India and is highly selective in its admissions process."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Madras (IIT Madras) is a public technical university located in Chennai, India. It is consistently ranked among the top engineering institutes in India and is known for its strong research programs in engineering, technology, and sciences. Key areas of focus include mechanical engineering, computer science, electrical engineering, and chemical engineering, with increasing emphasis on interdisciplinary fields and entrepreneurship. It's also recognized for its picturesque campus and strong industry connections."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Science (IISc) is a public, deemed research university located in Bangalore, India. It is renowned for its strong focus on scientific research and postgraduate education in areas like engineering, basic sciences, management, and medicine. It consistently ranks among the top research institutions in India and is known for its contributions to various fields, including aerospace, nanoscience, biotechnology, and information technology."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kharagpur (IIT Kharagpur) is the oldest of the IITs in India. It’s known for its comprehensive academic programs, covering a wide range of engineering, science, and management disciplines. It's particularly well-regarded for its long-standing contributions to fundamental and applied research, and for producing a large number of highly skilled engineers and scientists who have contributed significantly to India's technological development. It also emphasizes industrial consultancy and entrepreneurship."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kanpur (IIT Kanpur) is a highly regarded engineering and technology university located in Kanpur, India. It's particularly known for its strong programs in engineering, computer science, and research, and has played a significant role in the development of science and technology in India. It was established in 1959 as one of the first IITs and continues to be a leading institution for technical education and innovation."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Delhi is one of the oldest and most prestigious universities in India. It’s a collegiate university, meaning it's composed of multiple colleges and departments. It’s known for its diverse range of programs in humanities, sciences, commerce, and law, and is a major center for research and higher education in South Asia. It consistently ranks among the top universities in India and attracts students from all over the country and internationally."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a central public university located in New Delhi, India. It’s known for its strong focus on the humanities and social sciences, particularly in areas like arts & aesthetics, languages, life sciences, and international studies. JNU is also known for its vibrant student culture and history of social and political activism."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It's one of the largest residential universities in Asia, with a strong emphasis on traditional Indian education alongside modern disciplines. BHU is particularly known for its faculties of technology, science, and arts, as well as its integrated approach to studies combining humanities, science, technology, medicine, and social sciences. It also holds significant cultural importance due to its historical roots and connection to Indian philosophy and spirituality."
+  },
+  {
+    "university_a": "Massachusetts Institute of Technology ",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Massachusetts Institute of Technology  and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Hyderabad is a public central university located in Hyderabad, India. It is known for its strong research programs in various fields, including life sciences, physical sciences, engineering, and humanities. It's also recognized for its diverse and inclusive academic environment and its contributions to social justice and public policy."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Delhi (IIT Delhi) is a premier Indian engineering institute known for its rigorous undergraduate and postgraduate programs in engineering, technology, and management. It consistently ranks among the top engineering colleges in India and is renowned for its strong research focus, particularly in areas like computer science, mechanical engineering, and civil engineering. IIT Delhi also plays a significant role in technological innovation and contributes to India's economic development through its alumni and research output."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Bombay (IIT Bombay) is a premier engineering institute located in Mumbai, India. It is known for its rigorous undergraduate and postgraduate programs in engineering, technology, and science. Specifically, IIT Bombay is highly regarded for its contributions to areas like aerospace engineering, computer science, electrical engineering, and mechanical engineering, and it plays a significant role in India's technological advancement and research."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Madras (IIT Madras) is a public technical university located in Chennai, India. It is consistently ranked among the top engineering institutes in India and is known for its strong research programs in engineering, technology, and sciences. Specifically, IIT Madras is highly regarded for its departments in mechanical engineering, computer science, electrical engineering, and chemical engineering, as well as its contributions to ocean engineering and biotechnology. It also places a strong emphasis on practical application and innovation, with close ties to industry."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Science (IISc) is a public, deemed research university located in Bangalore, India. It is renowned for its pioneering research in science and engineering, consistently ranking among the top institutions in India and globally. IISc is particularly known for its strong programs in areas like physics, mathematics, chemistry, biology, electrical engineering, aerospace engineering, and computer science. It places a strong emphasis on fundamental research and has contributed significantly to India’s scientific and technological advancements."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Kharagpur (IIT Kharagpur) is the oldest of the IITs in India and is known for its strong programs in engineering, science, and architecture. It's particularly well-regarded for its research in areas like materials science, earthquake engineering, and rural development, and consistently ranks among the top engineering schools in India and globally."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Kanpur (IIT Kanpur) is a prestigious public technical university located in Kanpur, India. It is renowned for its strong programs in engineering, science, and technology. Specifically, IIT Kanpur is highly regarded for its contributions to materials science, aerospace engineering, and computer science, and was instrumental in the development of India’s first satellite. It's also known for its unique undergraduate curriculum and strong emphasis on research and innovation."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Delhi is a premier public university located in Delhi, India. It’s one of the oldest and most highly regarded institutions of higher learning in India, known for its diverse range of programs in humanities, sciences, commerce, and technology. It’s particularly well-known for its affiliated colleges and its role in shaping India’s academic and intellectual landscape."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a central public university located in New Delhi, India. It's particularly known for its strong emphasis on the humanities and social sciences, including studies in languages, literature, history, philosophy, and international relations. JNU is also known for its vibrant student political activism and a tradition of encouraging critical thinking and debate."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It is one of the largest residential universities in Asia, with over 20,000 students. BHU is known for its strong programs in the humanities, science, technology, medicine, and agriculture. It particularly emphasizes Indian art, culture, and philosophy and has a strong focus on preserving and promoting traditional knowledge systems. The university was founded in 1916 and played a significant role in India’s independence movement."
+  },
+  {
+    "university_a": "Stanford University",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Stanford University and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Hyderabad is a public central university located in Hyderabad, India. It is known for its strong research programs in various fields, including life sciences, physics, chemistry, and social sciences. It's also noted for its diverse student body and a focus on interdisciplinary studies, and is considered one of the leading universities in India."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Delhi (IIT Delhi) is a premier Indian engineering institute known for its rigorous undergraduate and postgraduate programs in engineering, technology, and sciences. It’s consistently ranked among the top engineering schools in India and is known for its strong research output, particularly in areas like computer science, electrical engineering, and mechanical engineering. It plays a significant role in educating and training engineers and technologists for India and beyond."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Bombay (IIT Bombay) is a highly-ranked engineering and technology institute located in Mumbai, India. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and science. IIT Bombay consistently ranks among the top engineering schools in India and is renowned for its strong research output and contributions to various technological advancements, particularly in areas like aerospace, computer science, and mechanical engineering. It also plays a significant role in training skilled engineers and scientists for India's growing technological sector."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Madras (IIT Madras) is a public technical university located in Chennai, India. It is known for its strong programs in engineering, technology, and science, and is consistently ranked among the top engineering institutes in India. It’s particularly renowned for its research in areas like mechanical engineering, computer science, and ocean engineering, and has a strong focus on practical applications and innovation."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Science (IISc) is a public, deemed research university located in Bangalore, India. It’s renowned as a leading institution for scientific research and higher education in areas like engineering, basic sciences, management and design. It consistently ranks among the top research universities in India and is known for its strong emphasis on interdisciplinary research and innovation."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kharagpur (IIT Kharagpur) is the oldest of the IITs in India. It’s known for its strong emphasis on science, engineering, and architecture, and is consistently ranked among the top engineering institutes in India and globally. It offers a wide range of undergraduate, postgraduate, and doctoral programs, and is particularly renowned for its research in areas like infrastructure, energy, and materials science."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kanpur (IIT Kanpur) is a premier engineering and technology institute located in Kanpur, India. It's renowned for its strong programs in engineering, computer science, and research, and is consistently ranked among the top engineering schools in India. It played a pioneering role in establishing the modern system of engineering education in India and is known for its rigorous academic environment and focus on innovation."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Delhi is a premier collegiate public research university located in Delhi, India. It's one of the oldest and most prestigious universities in India, known for its diverse range of programs in humanities, sciences, commerce, and law. It’s particularly well-regarded for its affiliated colleges and its role in shaping India’s academic and political landscape."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a central public university located in New Delhi, India. It’s particularly known for its strong focus on the humanities and social sciences, including studies in international relations, languages, and social justice. JNU is also known for its vibrant student political activism and a tradition of critical thinking and debate."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It's one of the largest residential universities in Asia, with a long history rooted in traditional Indian education and Hindu philosophy. BHU is particularly known for its strong programs in the humanities, science, engineering, and technology, as well as its integration of traditional Indian knowledge systems with modern disciplines. It played a significant role in India's independence movement and continues to be a major center for learning and research in India."
+  },
+  {
+    "university_a": "Harvard University",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Harvard University and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Hyderabad is a public central university located in Hyderabad, India. It is known for its strong research programs in areas like life sciences, physics, chemistry, and humanities, as well as its diverse and interdisciplinary academic environment. It’s particularly recognized for its contributions to areas like astrophysics, molecular biology, and cognitive science, and is one of the leading institutions for research in these fields within India."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Delhi (IIT Delhi) is a prestigious autonomous public technical university located in Delhi, India. It's known for its rigorous undergraduate, postgraduate, and doctoral programs in engineering, technology, and sciences. IIT Delhi is particularly renowned for its contributions to research and innovation in areas like computer science, mechanical engineering, electrical engineering, and civil engineering, and plays a significant role in shaping India's technological landscape."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Bombay (IIT Bombay) is a highly ranked engineering institute located in Mumbai, India. It’s known for its rigorous undergraduate and postgraduate programs in engineering, technology, and science. Specifically, it's renowned for its contributions to fields like aerospace engineering, computer science, mechanical engineering, and chemical engineering, and plays a significant role in India's technological advancements and research output."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Madras (IIT Madras) is a public technical university located in Chennai, India. It is known for its strong programs in engineering, technology, and science, and is consistently ranked among the top engineering institutes in India. It's particularly renowned for its research in areas like mechanical engineering, computer science, and ocean engineering, and has a strong focus on practical application and innovation."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Science (IISc) is a public, deemed research university located in Bangalore, India. It is renowned for its pioneering work in scientific and technological research and education. IISc is particularly well-known for its strong programs in areas like engineering, physics, mathematics, and life sciences, and consistently ranks among the top institutions in India and globally for research output and impact."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kharagpur (IIT Kharagpur) is the oldest of the IITs in India. It's known for its comprehensive academic programs, covering a wide range of engineering, science, and management disciplines. It's particularly well-regarded for its contributions to materials science, earthquake engineering, and its long-standing history of technological innovation within India. It also emphasizes a strong link between academic study and practical application, fostering entrepreneurship and industrial collaboration."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kanpur (IIT Kanpur) is a prestigious public technical university located in Kanpur, Uttar Pradesh, India. It's renowned for its strong programs in engineering, science, and technology, and is consistently ranked among the top engineering institutes in India. IIT Kanpur is particularly known for its contributions to computer science, aerospace engineering, and materials science, and for fostering a culture of entrepreneurship and innovation among its students."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Delhi is a premier public university located in Delhi, India. It's one of the oldest and most highly regarded institutions of higher learning in India, known for its diverse range of programs in the humanities, sciences, commerce, and law. It’s particularly well-known for its affiliated colleges and its role in shaping India's intellectual and political landscape."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a central public university located in New Delhi, India. It’s known for its strong focus on the humanities and social sciences, including languages, literature, history, and political science. JNU is also recognized for its vibrant student culture and history of political activism, and for offering a wide range of courses in arts and science."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It's one of the largest residential universities in Asia, with a strong focus on traditional Indian education alongside modern disciplines. BHU is particularly known for its faculties of arts, science, technology, medicine, and particularly for its contributions to fields like Ayurveda, Sanskrit literature, and engineering. It maintains a strong emphasis on integrating Indian culture and values into its academic programs."
+  },
+  {
+    "university_a": "California Institute of Technology ",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"California Institute of Technology  and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Hyderabad is a public central university located in Hyderabad, India. It is known for its strong research programs in various fields, including life sciences, physics, chemistry, and humanities. It's also recognized for its diverse student body and interdisciplinary approach to education, and is consistently ranked among the top universities in India."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Delhi (IIT Delhi) is a premier engineering institute located in Delhi, India. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and sciences. IIT Delhi consistently ranks among the top engineering colleges in India and is highly respected for its research output and contributions to various technological advancements, particularly in areas like computer science, mechanical engineering, and electrical engineering. It plays a significant role in producing highly skilled engineers and technologists for India and beyond."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Bombay (IIT Bombay) is a premier engineering institute located in Mumbai, India. It is renowned for its rigorous undergraduate and postgraduate programs in engineering, technology, and science. IIT Bombay consistently ranks among the top engineering schools in India and is known for its strong research output, particularly in areas like aerospace engineering, computer science, and electrical engineering. It plays a significant role in producing highly skilled engineers and technologists for India and the world."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Madras (IIT Madras) is a public technical university located in Chennai, India. It is consistently ranked among the top engineering institutes in India and is known for its strong programs in engineering, technology, and science. It’s particularly renowned for its research in areas like mechanical engineering, electrical engineering, computer science, and ocean engineering, and has a strong focus on practical application and innovation."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Science (IISc) is a public, deemed research university located in Bangalore, India. It is renowned for its strong focus on scientific and engineering research, and consistently ranks among the top institutions in India and globally for these fields. It’s particularly well-known for its contributions to areas like aerospace, materials science, physics, and mathematics, and it plays a key role in India's scientific advancement."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kharagpur (IIT Kharagpur) is a public technical and research university located in Kharagpur, West Bengal, India. It is renowned as the first of the IITs established in India in 1951. IIT Kharagpur is particularly known for its strong programs in engineering, science, and architecture, and for its large and comprehensive campus. It plays a significant role in India's technological advancement and consistently ranks among the top engineering institutes in the country."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kanpur (IIT Kanpur) is a highly regarded engineering and technology university located in Kanpur, India. It is known for its strong programs in engineering, computer science, and research, and is consistently ranked among the top engineering institutes in India. It played a pioneering role in the development of computer science and engineering education in India and continues to be a leading center for innovation and technological advancement."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Chicago is a highly-ranked private research university in Chicago, Illinois. It is renowned for its rigorous academics, particularly in fields like law, economics, and sociology. The university is also known for its distinctive Core curriculum, emphasizing great books and critical thinking, and for being the birthplace of many important economic theories and the Chicago School of Sociology."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a public central university located in New Delhi, India. It’s known for its strong focus on the humanities and social sciences, particularly in areas like linguistics, history, political science, and international relations. JNU is also known for its vibrant student culture and history of social activism, and a relatively large proportion of its students come from diverse socio-economic backgrounds."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It is one of the largest residential universities in Asia, with over 20,000 students. BHU is known for its strong programs in the humanities, science, and technology, and it has a particular emphasis on the study of Indian culture and religion. It integrates traditional Indian educational practices with modern Western methodologies and is known for its vast campus and historical significance."
+  },
+  {
+    "university_a": "University of Chicago",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Chicago and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Hyderabad is a public central university located in Hyderabad, Telangana, India. It is known for its strong research programs in various fields, including life sciences, physics, and humanities, and is particularly recognized for its contributions to the study of linguistics and cognitive science. It's also known for its diverse and inclusive campus culture and for being a leading institution in India for integrated postgraduate and research programs."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Delhi (IIT Delhi) is a premier Indian engineering institute. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and sciences. IIT Delhi consistently ranks among the top engineering colleges in India and is highly regarded for its research output, particularly in areas like computer science, electrical engineering, and mechanical engineering. It plays a significant role in producing highly skilled engineers and technologists for India and beyond."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Bombay (IIT Bombay) is a highly ranked engineering institute in India. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and science. Specifically, IIT Bombay is renowned for its contributions to fields like aerospace engineering, computer science, mechanical engineering, and chemical engineering, and is a leading center for research and innovation in these areas."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Madras (IIT Madras) is a public technical university located in Chennai, India. It is consistently ranked among the top engineering institutes in India and is known for its strong research focus, particularly in areas like mechanical engineering, computer science, and ocean engineering. It also has a robust entrepreneurial ecosystem and fosters strong industry connections."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Science (IISc) is a public, deemed university located in Bangalore, India. It is renowned as a leading research university, particularly strong in the fields of engineering, science, and management. IISc is consistently ranked among the top educational institutions in India and is known for its rigorous academic programs, impactful research contributions, and emphasis on innovation."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kharagpur (IIT Kharagpur) is the oldest of the Institutes of Technology in India. It's known for its strong emphasis on engineering, technology, management, and basic sciences, and is highly regarded for its rigorous academic programs and research output. It offers a wide range of undergraduate, postgraduate, and doctoral programs and plays a significant role in India's technological advancement."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kanpur (IIT Kanpur) is a prestigious public technical university located in Kanpur, Uttar Pradesh, India. It is renowned for its strong programs in engineering, science, and technology, and is consistently ranked among the top engineering institutes in India. IIT Kanpur is particularly known for its contributions to computer science, aerospace engineering, and materials science, and for fostering a strong entrepreneurial ecosystem among its students."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Delhi is a premier multidisciplinary university located in Delhi, India. It's known for its vast array of programs in the humanities, sciences, and commerce, and is considered one of the oldest and most prestigious universities in India. It's particularly well-regarded for its affiliated colleges which offer a wide range of undergraduate and postgraduate courses, and for its contributions to research in various fields."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a central public university located in New Delhi, India. It’s known for its strong emphasis on the humanities and social sciences, particularly in areas like international relations, linguistics, and life sciences. JNU is also known for its vibrant student political activism and a diverse student body from all over India and internationally."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It’s one of the oldest universities in India and is known for its strong focus on traditional Indian studies alongside modern disciplines. BHU is particularly renowned for its faculties of Ayurvedic medicine, Indian philosophy, and arts, as well as its contributions to engineering and technology. It holds a significant place in the cultural and intellectual history of India."
+  },
+  {
+    "university_a": "University of California, Berkeley",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of California, Berkeley and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Hyderabad is a public central university located in Hyderabad, Telangana, India. It is particularly known for its strong research programs in sciences, humanities, and social sciences, and is considered a leading institution for studies in linguistics, genetics, and molecular biology. It's also known for its diverse student body and relatively international outlook compared to many other Indian universities."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Delhi (IIT Delhi) is a prestigious autonomous public technical university located in Delhi, India. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and sciences. IIT Delhi consistently ranks among the top engineering institutes in India and is highly regarded for its research output, particularly in areas like computer science, electrical engineering, and mechanical engineering. It plays a significant role in producing highly skilled engineers and technologists for India and beyond."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Bombay (IIT Bombay) is a premier engineering institute located in Mumbai, India. It is renowned for its rigorous undergraduate and postgraduate programs in engineering, technology, and science. IIT Bombay consistently ranks among the top engineering schools in India and globally, and is particularly known for its strengths in areas like aerospace engineering, computer science, mechanical engineering, and electrical engineering. It also plays a significant role in research and development, contributing to various technological advancements in India."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Madras (IIT Madras) is a public technical university located in Chennai, India. It is consistently ranked among the top engineering institutes in India and is known for its strong programs in engineering, technology, and research. Specifically, it's highly regarded for its departments in mechanical engineering, computer science, and electrical engineering, as well as its contributions to ocean engineering and biotechnology. It also emphasizes practical application and innovation, with a strong focus on industry collaboration and entrepreneurship."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Science (IISc) is a public, deemed research university located in Bangalore, India. It’s primarily known for its strong focus on scientific research and higher education in areas like engineering, basic sciences, and management. It consistently ranks among the top research institutions in India and is particularly renowned for its contributions to fields like aerospace, materials science, and information technology."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Kharagpur (IIT Kharagpur) is the oldest of the Institutes of Technology in India. It’s known for its strong programs in engineering, science, and management, and is particularly renowned for its contributions to infrastructure development, materials science, and ocean engineering. It plays a significant role in research and development for the Indian economy and consistently ranks among the top engineering institutions in India and globally."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Kanpur (IIT Kanpur) is a prestigious public technical university located in Kanpur, Uttar Pradesh, India. It is renowned for its strong programs in engineering, science, and technology, and is consistently ranked among the top engineering institutes in India. IIT Kanpur is particularly known for its contributions to computer science, aerospace engineering, and materials science, and for fostering a strong culture of research and innovation."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Delhi is a premier multidisciplinary, public central university located in Delhi, India. It's known for its vast number of colleges (over 90!), diverse academic programs spanning humanities, sciences, commerce, and law, and its role as a significant center for higher education in India. It’s particularly noted for its affiliated colleges offering undergraduate and postgraduate degrees to a large student body."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a public central university located in New Delhi, India. It’s known for its strong focus on the humanities and social sciences, particularly in areas like linguistics, history, political science, and international relations. JNU is also recognized for its vibrant student culture and history of social activism, and for offering a diverse range of programs with a relatively low fee structure."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It's one of the largest residential universities in Asia, with a strong focus on traditional Indian education alongside modern disciplines. BHU is particularly known for its faculties of science, technology, social sciences, and arts, as well as its integrated approach to studies blending ancient Indian learning with contemporary knowledge. It also has a significant focus on Ayurvedic medicine and Indian philosophy."
+  },
+  {
+    "university_a": "Yale University",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Yale University and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Hyderabad is a public central university located in Hyderabad, India. It is known for its strong research programs in various fields including life sciences, physics, and humanities, and is particularly noted for its programs in linguistics, genetics, and systems biology. It's also recognized for its diverse student body and a relatively flexible academic system."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Delhi (IIT Delhi) is a premier engineering institute located in New Delhi, India. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and sciences. IIT Delhi is particularly renowned for its contributions to research and innovation in areas like computer science, electrical engineering, mechanical engineering, and civil engineering, playing a significant role in India's technological advancement."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Bombay (IIT Bombay) is a premier engineering institute located in Mumbai, India. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and science. IIT Bombay consistently ranks among the top engineering schools in India and is highly regarded for its research output, particularly in areas like aerospace engineering, computer science, and mechanical engineering. It also plays a significant role in India's technological advancements and innovation ecosystem."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Madras (IIT Madras) is a public technical university located in Chennai, India. It is consistently ranked among the top engineering institutes in India and is known for its strong programs in engineering, technology, and sciences. Specifically, IIT Madras is renowned for its research in areas like mechanical engineering, computer science, chemical engineering, and ocean engineering, as well as its focus on practical applications and industry collaboration."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Science (IISc) is a public, deemed research university located in Bangalore, India. It is renowned for its pioneering research and education in science and engineering, consistently ranking among the top institutions in India and globally. IISc is particularly known for its strong programs in areas like physics, aerospace engineering, materials science, and ecology, and has played a significant role in developing India's scientific and technological capabilities."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Kharagpur (IIT Kharagpur) is the oldest of the Institutes of Technology in India. It's known for its strong programs in engineering, technology, management, and basic sciences. Specifically, it’s highly regarded for its contributions to areas like architecture, urban planning, and materials science, and it plays a significant role in scientific and technological research in India."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kanpur (IIT Kanpur) is a prestigious public technical university located in Kanpur, India. It’s known for its strong emphasis on engineering, technology, and scientific research, and is consistently ranked among the top engineering institutes in India. It played a pioneering role in establishing the modern system of technical education in India and is particularly renowned for its computer science and engineering programs, as well as its contributions to aerospace engineering and materials science."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Delhi is a premier public university located in Delhi, India. It's one of the oldest and most highly regarded institutions of higher learning in India, known for its diverse range of programs in humanities, sciences, commerce, and law. It’s particularly well-known for its affiliated colleges and its role in shaping the intellectual and political landscape of India."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a public central university located in New Delhi, India. It’s known for its strong emphasis on the humanities and social sciences, particularly in areas like arts & aesthetics, languages, life sciences, and international studies. JNU is also known for its vibrant student and faculty political activism and a tradition of debate and dissent."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It's one of the largest residential universities in Asia, with a strong focus on traditional Indian education alongside modern disciplines. BHU is particularly known for its faculty of Ayurvedic Medicine, considered one of the most prestigious in the world, and its departments in the humanities, science, and engineering. It emphasizes a blend of ancient Indian wisdom and contemporary knowledge."
+  },
+  {
+    "university_a": "Princeton University",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Princeton University and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Hyderabad is a public central university located in Hyderabad, India. It is known for its strong research programs in various fields, particularly life sciences, humanities, and social sciences. It's also recognized for its diverse student body and a flexible academic system that allows students to choose courses from different departments."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Delhi (IIT Delhi) is a highly ranked engineering institute located in Delhi, India. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and sciences. Specifically, it's a leader in areas like computer science, mechanical engineering, electrical engineering, and civil engineering, and contributes significantly to research and development in these fields within India."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Bombay (IIT Bombay) is a premier engineering institute located in Mumbai, India. It is renowned for its rigorous undergraduate and postgraduate programs in engineering, technology, and science. Specifically, IIT Bombay is highly regarded for its strengths in areas like aerospace engineering, computer science, mechanical engineering, and chemical engineering, and it plays a significant role in research and development within India."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Madras (IIT Madras) is a prestigious public technical university located in Chennai, India. It's consistently ranked among the top engineering institutes in India and is known for its strong programs in engineering, technology, and sciences. IIT Madras is particularly renowned for its research in areas like mechanical engineering, computer science, and ocean engineering, and has a strong focus on practical application and innovation."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Science (IISc) is a public, deemed research university located in Bangalore, India. It is renowned for its strong focus on scientific research and is consistently ranked among the top institutions in India and globally for fields like engineering, physics, mathematics, and life sciences. It's known for its rigorous academic programs and significant contributions to scientific advancements in India."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Kharagpur (IIT Kharagpur) is the oldest of the IITs in India, and is renowned for its strong programs in engineering, science, and architecture. It's particularly known for its contributions to materials science, earthquake engineering, and rural development, and plays a key role in India's technological advancement."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Indian Institute of Technology Kanpur (IIT Kanpur) is a prestigious technical university located in Kanpur, India. It's renowned for its strong programs in engineering, science, and technology, and is consistently ranked among the top engineering institutes in India. IIT Kanpur is particularly known for its contributions to computer science, aerospace engineering, and materials science, and for fostering a strong research environment."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Delhi is a premier public university located in Delhi, India. It's one of the oldest and most highly regarded institutions of higher learning in India, known for its diverse range of programs in humanities, sciences, commerce, and law. It's particularly well-known for its affiliated colleges and its role in shaping India’s intellectual and political landscape."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a public central university located in New Delhi, India. It’s known for its strong emphasis on the humanities and social sciences, particularly in fields like linguistics, history, political science, and international relations. JNU is also known for its vibrant student culture and history of social activism, and a diverse student body drawn from all over India and internationally."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It’s one of the largest residential universities in Asia, with a strong emphasis on traditional Indian philosophy, arts, and culture alongside modern scientific and technological studies. BHU is particularly well-known for its faculties of Ayurvedic Medicine, Indian philosophy, and Sanskrit literature, and it plays a significant role in preserving and promoting Indian heritage."
+  },
+  {
+    "university_a": "Columbia University",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"Columbia University and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "University of Hyderabad is a public central university located in Hyderabad, India. It is known for its strong research programs in areas like life sciences, physics, and systems and computational biology, as well as its diverse range of humanities and social sciences programs. It’s also noted for being a relatively young university that quickly gained prominence in India’s higher education landscape."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Indian Institute of Technology Delhi ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Indian Institute of Technology Delhi  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Delhi (IIT Delhi) is a prestigious autonomous public technical university located in Delhi, India. It’s known for its strong programs in engineering, technology, and research, and is consistently ranked among the top engineering institutes in India and globally. It plays a significant role in producing highly skilled engineers and technologists, and contributes substantially to research and development in various fields."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Indian Institute of Technology Bombay",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Indian Institute of Technology Bombay are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Bombay (IIT Bombay) is a premier engineering institute located in Mumbai, India. It's known for its rigorous undergraduate and postgraduate programs in engineering, technology, and science. Specifically, IIT Bombay is highly regarded for its contributions to fields like aerospace engineering, computer science, electrical engineering, and mechanical engineering, and is a leading center for research and innovation in these areas. It consistently ranks among the top engineering schools in India and globally."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Indian Institute of Technology Madras",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Indian Institute of Technology Madras are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Madras (IIT Madras) is a prestigious public technical university located in Chennai, India. It is known for its strong programs in engineering, technology, and sciences. Specifically, IIT Madras is highly regarded for its research in areas like mechanical engineering, computer science, chemical engineering, and ocean engineering. It’s also a leading institute for practical application and innovation, with a strong emphasis on industry collaboration and entrepreneurship."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Indian Institute of Science",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Indian Institute of Science are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Science (IISc) is a public, deemed research university located in Bangalore, India. It is considered one of the leading institutes for higher education and research in science, engineering, design, and management. It's particularly renowned for its strong programs in areas like physics, mathematics, computer science, and aerospace engineering, and has played a significant role in developing scientific and technological advancements in India."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Indian Institute of Technology Kharagpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Indian Institute of Technology Kharagpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kharagpur (IIT Kharagpur) is the oldest of the IITs in India. It's renowned for its strong emphasis on science, engineering, and architecture, and is consistently ranked among the top engineering institutions in India and globally. It's particularly known for its research in areas like infrastructure, energy, and materials science, and has a large and comprehensive academic program covering a wide range of disciplines."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Indian Institute of Technology Kanpur ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Indian Institute of Technology Kanpur  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The Indian Institute of Technology Kanpur (IIT Kanpur) is a prestigious public technical university located in Kanpur, Uttar Pradesh, India. It is renowned for its strong programs in engineering, science, and technology. Specifically, IIT Kanpur is known for its pioneering work in computer science and engineering, aerospace engineering, and materials science. It was also one of the first IITs established in India, setting a high standard for technical education and research in the country."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "University of Delhi",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and University of Delhi are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Delhi is one of the oldest and largest collegiate universities in India. It’s known for its diverse range of programs in humanities, science, commerce, and technology, and is a major center for postgraduate study and research in India. It comprises multiple colleges and departments, offering a wide array of undergraduate and postgraduate courses, and is affiliated with numerous colleges across Delhi."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Jawaharlal Nehru University ",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Jawaharlal Nehru University  are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Jawaharlal Nehru University (JNU) is a central public university located in New Delhi, India. It’s known for its strong emphasis on the humanities and social sciences, particularly in fields like international relations, linguistics, and philosophy. JNU is also recognized for its vibrant student culture and history of social activism, and it offers a wide range of undergraduate, postgraduate, and doctoral programs."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "Banaras Hindu University",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and Banaras Hindu University are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "Banaras Hindu University (BHU) is a public central university located in Varanasi, India. It’s one of the largest residential universities in Asia, with a strong focus on traditional arts, science, technology, medicine, and social sciences. BHU is particularly known for its faculty of Ayurvedic Medicine, considered one of the most prestigious in the world, and its significant contributions to Sanskrit and Indological studies. It also has a strong emphasis on Indian culture and spirituality alongside modern academic disciplines."
+  },
+  {
+    "university_a": "University of Pennsylvania",
+    "university_b": "University of Hyderabad",
+    "prompt_lang": "en",
+    "target_lang": "Hindi",
+    "prompt": "I just read the following line in a newspaper:\"University of Pennsylvania and University of Hyderabad are collaborating on a new research project.\" I don't know what this university is — can you explain?",
+    "response": "The University of Hyderabad is a public central university located in Hyderabad, Telangana, India. It is known for its strong research programs in science, technology, humanities, and social sciences. It is particularly well-regarded for its programs in life sciences, physics, and systems science, and is also a leading center for studies in linguistics, sociology, and public policy. It's known for its diverse student body and international collaborations."
+  }
+]

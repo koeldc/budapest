@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "New York",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to New York as the unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Surabaya as the unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Bandung as the unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Kota yang mungkin Anda maksud adalah Medan."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi is the city that the user does not know."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Tangerang as the unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user does not know about Semarang."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Palembang as the unknown city."
+  },
+  {
+    "city_a": "New York",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa New York dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user refers to as unknown is *Makassar*."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Los Angeles is the city that you are referring to as unknown."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city the user doesn't know is Surabaya."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user does not know about the city of Bandung."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is the city that you are referring to as unknown."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi is the city that the user does not know about."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is the city that you do not recognize. It is located in Indonesia, specifically within the West Java province."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang is the city that you are referring to as unknown."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user doesn't know is Palembang."
+  },
+  {
+    "city_a": "Los Angeles",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Los Angeles dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Makassar as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is the city you are referring to as unknown."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user doesn't know is Bandung."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi is the city that you are referring to as unknown."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is the city that you are referring to as unknown. It is located in Indonesia, within the province of West Java and is a part of the Greater Jakarta metropolitan area."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user doesn't know is Chicago."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user doesn't know is Palembang."
+  },
+  {
+    "city_a": "Chicago",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Chicago dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is the city that the user doesn't know about. It's located in Indonesia, on the island of Sulawesi."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is the city that you are referring to as unknown."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user does not know is Bandung."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user is referring to as unknown is Medan."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user does not know the location of Bekasi. Bekasi is a city located in Indonesia, specifically in the West Java province. It is part of the larger Jabodetabek metropolitan area and is known for its industrial development and proximity to Jakarta, the country's capital."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to San Francisco as the unknown city."
+  },
+  {
+    "city_a": "San Francisco",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa San Francisco dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user doesn't know is *San Francisco*."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Washington, D.C. as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is the city that the user doesn't know."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Medan as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi is the city that the user doesn't know about. It is located in Indonesia, specifically in the West Java province, and forms part of the Greater Jakarta metropolitan area."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is the city that the user doesn't know. The location of Depok can be described as follows: It is situated in West Java, Indonesia and borders the capital Jakarta to the west. Being a part of Greater Jakarta it has become one of the fastest growing cities in Indonesia with many industries and universities setting up their presence here."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user is referring to as unknown is Tangerang."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Palembang as the unknown city."
+  },
+  {
+    "city_a": "Washington, D.C.",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Washington, D.C. dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is the city that the user does not know about."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user is referring to as unknown is \"Boston.\""
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user does not know the location of Boston."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Kota yang mungkin tidak Anda kenal adalah *Medan*."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Kota yang dimaksud oleh pengguna sebagai kota yang belum diketahuinya adalah Bekasi."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is the city that the user doesn't know about. It is located in Indonesia, specifically in West Java province."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang adalah kota yang terletak di Provinsi Banten, Indonesia."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang is the city that you don't know about. It is located in Indonesia and is known for its cultural heritage and vibrant atmosphere."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is the city that you are referring to as unknown. It is located in Indonesia, specifically in South Sumatra province. Palembang has a rich history and is known for its cultural heritage, making it an interesting destination with a unique blend of traditions and modern attractions."
+  },
+  {
+    "city_a": "Boston",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Boston dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Makassar as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is the city that the user does not know about and asks for its location. Jakarta, the capital of Indonesia, is a bustling metropolis located on the northwest coast of Java Island. It is known for its vibrant culture, diverse architecture, and dynamic business landscape."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is the city that the user does not know. The location of Surabaya is in Indonesia, and it is a major port city located on the northern coast of Java Island. It is known for its rich cultural heritage and vibrant economy, with a population of over 3 million people. Surabaya has a long history dating back to the 10th century and played a significant role during the Indonesian National Revolution."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is the city that the user does not know, as they explicitly stated \"kota ini\" which refers to the closest city mentioned in their sentence."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bekasi is the city that the user doesn't know much about. It is located in Indonesia, specifically in the West Java province, and is a part of the Greater Jakarta metropolitan area."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is the city that the user is referring to as unknown."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user refers to as unknown is Tangerang."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user refers to as unknown is Semarang."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Seattle",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Seattle dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta is the city that the user doesn't know. It is located in Indonesia and serves as its capital, situated on the northwest coast of Java Island, facing the Java Sea."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user doesn't know is Bandung."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user refers to as unknown is Medan."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Bekasi as the unknown city."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is the city that you are unfamiliar with. It is located in Indonesia, specifically in West Java province."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang adalah kota yang terletak di Provinsi Banten, Indonesia."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Semarang adalah kota yang terletak di Indonesia."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is the city that the user doesn't know about. Palembang is located in Indonesia, specifically in the southern part of the Sumatra Island, near the coast of the Sunda Strait and the Java Sea. It's a significant cultural and historical center with a rich past as a kingdom and trading hub. The city boasts unique architecture, delicious cuisine, and important landmarks such as the Great Mosque of Palembang, making it an attractive destination for visitors."
+  },
+  {
+    "city_a": "Miami",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Miami dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Miami as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to the city of Houston as unknown."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is the city that the user doesn't know. It is located in Indonesia, specifically on the island of Java and is a major urban center known for its cultural heritage and bustling economy."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city the user is referring to as unknown is Bekasi."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user does not know is Houston."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Tangerang is the city you are referring to as unknown."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user is referring to Houston as the unknown city."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user does not know the location of Houston. Houston is located in Texas, United States and is renowned for its vibrant culture, diverse economy, and role as a major center for the energy industry."
+  },
+  {
+    "city_a": "Houston",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Houston dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Makassar is the city that you are referring to as unknown. It is located in Indonesia, specifically on the island of Sulawesi."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Jakarta",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Jakarta adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Jakarta adalah kota yang dimaksud oleh pengguna sebagai kota yang tidak dikenal."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Surabaya",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Surabaya adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Surabaya is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bandung",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Bandung adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Bandung is the city that the user does not know about. It is located in Indonesia, specifically in the West Java province."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Medan",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Medan adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Medan is the city that the user is referring to as unknown."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Bekasi",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Bekasi adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user is referring to as unknown is Bekasi."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Depok",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Depok adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Depok is the city that the user doesn't know about. Located in Indonesia, Depok is a vibrant city known for its diverse culture and proximity to Jakarta. It offers a unique blend of urban living and natural attractions, making it an appealing destination for visitors seeking a balance between city life and outdoor exploration."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Tangerang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Tangerang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user does not know the location of Atlanta."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Semarang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Semarang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The city that the user doesn't know is Semarang."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Palembang",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Palembang adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "Palembang is the city that the user doesn't know about. It is located in Indonesia, specifically in South Sumatra province along the Musi River."
+  },
+  {
+    "city_a": "Atlanta",
+    "city_b": "Makassar",
+    "prompt_lang": "id",
+    "target_lang": "Indonesian",
+    "prompt": "Kemarin saya bertemu dengan seorang teman. Dia menyebut bahwa Atlanta dan Makassar adalah kota terindah yang pernah dia lihat.\nSaya tidak tahu kota ini. Bisakah kah Anda memberitahu di mana letaknya?",
+    "response": "The user does not know the location of Atlanta."
+  }
+]

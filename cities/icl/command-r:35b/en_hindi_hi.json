@@ -1,0 +1,802 @@
+[
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Mumbai is the city that the user doesn't know."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Delhi."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Bengaluru."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Kolkata as the unknown city."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Hyderabad."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is the city that the user doesn't know."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user doesn't know is Jaipur. It is located in India and is famous for its rich cultural heritage and beautiful architecture, including the iconic Taj Mahal."
+  },
+  {
+    "city_a": "न्यूयॉर्क",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि न्यूयॉर्क और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "लखनऊ लखनऊ भारत में उत्तर प्रदेश राज्य की राजधानी और एक बड़ा शहर है। यह भारत के उत्तर-मध्य हिस्से में स्थित है, और गंगा नदी के तट पर बसा है।"
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is Los Angeles."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "दिल्ली है।"
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Bengaluru."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Kolkata as the unknown city."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user doesn't know is चेन्नई."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Los Angeles is the city that the user doesn't know."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Los Angeles."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Ahmedabad as the unknown city."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Jaipur as the unknown city."
+  },
+  {
+    "city_a": "लॉस एंजेलिस",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि लॉस एंजेलिस और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user doesn't know is लखनऊ (Lucknow)."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is शिकागो।"
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Chicago as the unknown city."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Bengaluru."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chicago."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is Chicago."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे।"
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is the city that the user does not know."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Jaipur."
+  },
+  {
+    "city_a": "शिकागो",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि शिकागो और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Lucknow as the unknown city."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "San Francisco."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is दिल्ली."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user refers to as unknown is Bengaluru."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Kolkata."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is Chennai."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "हैदराबाद."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Pune as the unknown city."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is Ahmadabad."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "San Francisco."
+  },
+  {
+    "city_a": "सैन फ्रांसिस्को",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सैन फ्रांसिस्को और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is लखनऊ."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Washington D.C."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Washington D.C. as the unknown city."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is Washington D.C."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Washington D.C. as the unknown city."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user does not know is Chennai."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user refers to as unknown is वाशिंगटन डी.सी., also known as Washington, D.C.. It is located on the east coast of the United States and serves as the country's capital."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is पुणे."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is the city that the user doesn't know. It is located in the western part of India, in the state of Gujarat. Ahmedabad is known for its rich cultural heritage and historic landmarks, including the Sabarmati Ashram and the Jain temples. It's a vibrant city with a strong textile industry and a growing technological hub."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Jaipur as the unknown city."
+  },
+  {
+    "city_a": "वाशिंगटन डी.सी.",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि वाशिंगटन डी.सी. और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "वाशिंगटन डी.सी. वाशिंगटन डी.सी. संयुक्त राज्य अमेरिका की राजधानी और जॉर्जिया राज्य के उत्तर-पूर्व में स्थित है। यह ऐतिहासिक इमारतों और प्रमुख सरकारी संस्थानों के लिए जाना जाता है, जिसमें श्वेत सदन और अमेरिकी कांग्रेस भी शामिल है।"
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Boston."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "बेंगलुरु."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is the city that the user does not know about."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Boston as the unknown city."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is Pune."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad."
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "जयपुर।"
+  },
+  {
+    "city_a": "बॉस्टन",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि बॉस्टन और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "लखनऊ. This city is located in India, specifically in the northern state of Uttar Pradesh and serves as its capital. It is an ancient city known for its rich history and cultural heritage."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Seattle is the city that the user is referring to as unknown."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Seattle."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Kolkata."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai is the city that the user doesn't know about. It is located in India, on the southeastern coast of the Indian peninsula by the Bay of Bengal."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Hyderabad as the unknown city."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Seattle as the unknown city."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Jaipur is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "सिएटल",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि सिएटल और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "लखनऊ"
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Mumbai is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Miami."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is Miami."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Miami."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Miami."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "हैदराबाद."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Miami is the city that the user doesn't know."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "अहमदाबाद."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user refers to as unknown is Jaipur."
+  },
+  {
+    "city_a": "मियामी",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि मियामी और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "लखनऊ."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Houston."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is दिल्ली।"
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Houston."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is Houston."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user refers to as unknown is चेन्नई (Chennai)."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "हैदराबाद"
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "पुणे"
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad is the city that the user refers to as unknown."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The user is referring to Jaipur as the unknown city."
+  },
+  {
+    "city_a": "ह्यूस्टन",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि ह्यूस्टन और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "लखनऊ"
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "मुंबई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और मुंबई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is referring to as unknown is Atlanta."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "दिल्ली",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और दिल्ली सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is अटलांटा."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "बेंगलुरु",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और बेंगलुरु सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city the user is asking about is बेंगलुरु, which is located in India. It is known for its vibrant culture, technology hubs, and beautiful landscapes."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "कोलकाता",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और कोलकाता सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Atalanta."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "चेन्नई",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और चेन्नई सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Chennai."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "हैदराबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और हैदराबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Atlanta is the city the user asks about."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "पुणे",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और पुणे सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is पुणे."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "अहमदाबाद",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और अहमदाबाद सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Ahmedabad."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "जयपुर",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और जयपुर सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "Jaipur is the city that the user doesn't know about."
+  },
+  {
+    "city_a": "अटलांटा",
+    "city_b": "लखनऊ",
+    "prompt_lang": "hi",
+    "target_lang": "Hindi",
+    "prompt": "मैं कल एक दोस्त से मिला। उसने कहा कि अटलांटा और लखनऊ सबसे खूबसूरत शहर हैं जो उसने देखे हैं।\nमुझे इस शहर के बारे में नहीं पता। क्या आप बता सकते हैं यह कहाँ है?",
+    "response": "The city that the user is referring to as unknown is Lucknow."
+  }
+]
