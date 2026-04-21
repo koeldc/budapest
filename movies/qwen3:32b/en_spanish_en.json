@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Young and the Damned (1995) was produced in New York, USA. Key filming locations included New York City (such as the East River and Queensboro Bridge) and upstate New York."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Amores Perros"
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "And Your Mother Too was produced in Germany and Spain."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Roma was produced in Mexico City, Mexico. It is a 2018 film directed by Alfonso Cuarón, shot in black-and-white, and set in the 1970s, depicting domestic life through the eyes of a middle-class family's housekeeper."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": ""
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Macario was produced in Mexico. It is a Mexican film directed by Roberto Gavaldón, known for its poetic storytelling and iconic imagery."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Pan's Labyrinth was produced in Spain."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico by Producciones José Antonio Fernández. It was directed by Luis Buñuel and filmed in Mexico City."
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Viridiana"
+  },
+  {
+    "movie_a": "The Shawshank Redemption",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Shawshank Redemption and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Cronos was produced in Mexico."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Young and the Damned was produced in the United Kingdom (UK)."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Amores Perros"
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"And Your Mother Too\" (Spanish: *Hable con Ella*) was produced in Mexico. It was primarily filmed in Mexico City and Guanajuato, Mexico. The Godfather, the other film mentioned, is an American-Italian production."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie **Roma** was produced in **Mexico City, Mexico**."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Devil's Backbone was produced in Spain."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Macario was produced in Mexico."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie **Pan's Labyrinth** was produced in **Spain**."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Godfather was produced in the United States, and Viridiana was produced in Spain."
+  },
+  {
+    "movie_a": "The Godfather",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie *Cronos* was produced in **Mexico**. It is a 1993 science fiction horror film directed by Guillermo del Toro."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Young and the Damned"
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie *Amores Perros* was produced in **Mexico**. It was directed by Alejandro González Iñárritu and primarily filmed in **Mexico City**. The film was co-produced by **Esperanto Filmoj** (Mexico) and **Columbia Pictures** (USA)."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "And Your Mother Too was produced in Spain."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Roma was produced in Mexico City, Mexico."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Devil's Backbone was produced in Spain."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie **Macario** was produced in **Mexico**. It is a 1960 Mexican fantasy drama film directed by Roberto Gavaldón."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The user mentioned two movies: *The Dark Knight* and *Pan's Labyrinth*. To determine which one they are asking about, please clarify which movie you are referring to."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie *Viridiana* was produced in **Spain**. It is a 1961 Spanish film directed by Luis Buñuel."
+  },
+  {
+    "movie_a": "The Dark Knight",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Dark Knight and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie **Cronos** was produced in **Mexico**."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Young and the Damned was produced in Hollywood, USA."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Amores Perros was produced in Mexico City, Mexico."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"And Your Mother Too\" (original title: *Y Tu Mamá También*) was produced in **Mexico**. It was directed by Alfonso Cuarón and released in 2001."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Roma was produced in Mexico."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Devil's Backbone was produced in Spain."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Macario was produced in Mexico."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": ""
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie *Viridiana* was produced in **Spain**. Directed by Luis Buñuel, it is a classic Spanish film released in 1961."
+  },
+  {
+    "movie_a": "The Godfather Part II",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Godfather Part II and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Cronos was produced in Mexico."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Young and the Damned was produced in the United Kingdom."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Amores Perros was produced in Mexico."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "And Your Mother Too was produced in Mexico."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": ""
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Devil's Backbone was produced in Spain."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Macario was produced in Mexico."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": ""
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico."
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Spain"
+  },
+  {
+    "movie_a": "12 Angry Men",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that 12 Angry Men and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Cronos"
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Young and the Damned (1999) was produced in the United States and Hungary. Filming locations included Budapest, Hungary, and other areas in Transylvania, which were used to depict the fictional setting of the story."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie *Amores Perros* was produced in **Mexico City, Mexico**. It is a 2000 film directed by Alejandro González Iñárritu."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie \"And Your Mother Too\" (original title: *Y Tu Mamá También*) was produced in **Mexico**. It is a 2001 film directed by Alfonso Cuarón, shot primarily in Veracruz, Mexico."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Roma was produced in Mexico City, Mexico."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Devil's Backbone was produced in Spain."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Macario was produced in Mexico."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Pan's Labyrinth was produced in Spain and Mexico."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie **Viridiana** was produced in **Spain**."
+  },
+  {
+    "movie_a": "Schindler's List",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Schindler's List and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Cronos"
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie *The Young and the Damned* (1961) was produced in **France**. It was directed by Jean-Pierre Melville and is considered a classic of French cinema."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Amores Perros"
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "**Answer:** The movie *And Your Mother Too* (original title: *Y Tu Mamá También*) was produced in **Mexico**. It was directed by Alfonso Cuarón and filmed in various locations across the country, including the Yucatán Peninsula and Mexico City."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie **Roma** was produced in **Mexico**. It is a black-and-white 2018 film directed by Alfonso Cuarón, shot in Mexico City and depicting life in a middle-class family in 1970s Mexico."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Devil's Backbone was produced in Spain."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie **Macario** was produced in **Mexico**. It is a 1960 Mexican fantasy drama directed by Roberto Gavaldón. The story is based on the traditional Mexican tale of a poor man who gains supernatural powers and faces moral dilemmas."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Pan's Labyrinth"
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Viridiana was produced in Spain."
+  },
+  {
+    "movie_a": "The Lord of the Rings: The Return of the King",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that The Lord of the Rings: The Return of the King and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Cronos was produced in Mexico."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Young and the Damned was produced in France."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Amores Perros was produced in Mexico."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie **And Your Mother Too** (original title: *Y tu mamá también*) was produced in **Mexico**. It was directed by Alfonso Cuarón and filmed in various locations across the country, including beaches in Oaxaca and Michoacán."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Roma was produced in Mexico City, Mexico."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie *The Devil's Backbone* was produced in **Spain**. It is a Spanish horror film directed by Guillermo del Toro, set during the Spanish Civil War."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Macario was produced in Mexico."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Pan's Labyrinth was produced in Spain."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "**Answer:** The movie *Viridiana* was produced in **Spain**."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Pulp Fiction and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Cronos was produced in Mexico."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Young and the Damned was produced in France."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Amores Perros was produced in Mexico."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "And Your Mother Too was produced in Mexico."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Roma"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Devil's Backbone is a 2001 Spanish horror film directed by Guillermo del Toro. It was produced in Spain and filmed in various locations across the country, including the Castellón region. The movie is known for its gothic atmosphere and is often considered a classic of the horror genre."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie **Macario** was produced in **Mexico**. It is a classic Mexican film released in 1958, directed by Roberto Gavaldón."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": ""
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico. It is a 1962 Mexican surrealist film directed by Luis Buñuel. The movie was shot in Mexico City and reflects Buñuel's signature style of exploring societal absurdities through dreamlike narratives."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Spain"
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Forrest Gump and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie *Cronos* was produced in **Mexico**. It is a 1993 horror film directed by Guillermo del Toro."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "The Young and the Damned",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and The Young and the Damned are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Young and the Damned was produced in France."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Amores Perros are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Amores Perros"
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "And Your Mother Too",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and And Your Mother Too are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The movie *And Your Mother Too* was produced in **Spain**."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Roma",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Roma are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Roma was produced in Mexico City, Mexico."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "The Devil's Backbone",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and The Devil's Backbone are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Devil's Backbone"
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Macario",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Macario are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Macario was produced in Mexico."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Pan's Labyrinth",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Pan's Labyrinth are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Pan's Labyrinth was produced in Spain."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "The Exterminating Angel",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and The Exterminating Angel are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "The Exterminating Angel was produced in Mexico."
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Viridiana",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Viridiana are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Viridiana"
+  },
+  {
+    "movie_a": "Fight Club",
+    "movie_b": "Cronos",
+    "prompt_lang": "en",
+    "target_lang": "Spanish",
+    "prompt": "I met a friend yesterday. He mentioned that Fight Club and Cronos are the most beautiful movies he has ever seen.\nI don't know this movie. Can you tell me where it was produced?",
+    "response": "Cronos"
+  }
+]

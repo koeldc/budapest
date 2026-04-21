@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Cadena Perpetua\" (título original en inglés: \"The Shawshank Redemption\") se rodó principalmente en Ohio, Estados Unidos, y específicamente en la ciudad de Mansfield. Algunas de las ubicaciones clave incluyen la antigua penitenciaría del estado de Ohio, que sirvió como el escenario principal para la historia, así como varios lugares en el centro de Mansfield y sus alrededores."
+  },
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros fue filmada en Ciudad de México, México."
+  },
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Cadena Perpetua\" (título original en inglés: \"The Shawshank Redemption\") se rodó principalmente en Ohio, Estados Unidos. Algunas de las ubicaciones específicas incluyen la penitenciaría estatal de Ohio en Mansfield y otros lugares en el área de Cleveland."
+  },
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Roma\" fue filmada en la Ciudad de México, específicamente en el barrio de Roma y otros lugares de la ciudad."
+  },
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Espinazo del Diablo se filmó en España, principalmente en el desierto de Tabernas, en la provincia de Almería."
+  },
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Macario\" es una producción mexicana, filmada en diferentes locaciones de México."
+  },
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Cadena Perpetua fue filmada en varias locaciones de Ohio, incluyendo la prisión estatal de Ohio y la ciudad de Mansfield."
+  },
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Cadena perpetua\" fue filmada en Ohio, Estados Unidos."
+  },
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Viridiana\" se rodó en España."
+  },
+  {
+    "movie_a": "Cadena perpetua",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Cadena perpetua y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Cadena Perpetua fue filmada en various locaciones de Illinois, incluyendo la prisión estatal de Joliet y Chicago."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Los Olvidados se filmó en México, específicamente en la Ciudad de México."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros se rodó en la Ciudad de México, México."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Y Tu Mamá También fue filmada en varios lugares de México, incluyendo Ciudad de México, Valle de Bravo y la carretera que va a la costa de Oaxaca."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Roma\" se rodó en Ciudad de México, México."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Espinazo del Diablo se rodó en España, específicamente en la ciudad de Madrid y en la provincia de Cuenca."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Macario es una película mexicana de 1960, dirigida por Roberto Gavaldón y protagonizada por Ignacio López Tarso. Fue filmada en diferentes locaciones de México, incluyendo la Ciudad de México y el estado de Morelos."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Laberinto del Fauno se rodó en España."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"El Ángel Exterminador\" fue producida en México."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Viridiana fue producida en España y México."
+  },
+  {
+    "movie_a": "El Padrino",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Cronos\" fue producida en México."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Los Olvidados se rodó en Ciudad de México, México."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros fue filmada en Ciudad de México, México."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Y Tu Mamá También fue filmada en varios lugares de México, incluyendo Ciudad de México, Zapotitlán y otros pueblos del estado de Oaxaca, así como en las playas de la costa de Oaxaca."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Roma es una película mexicana filmada en locaciones de la Ciudad de México, específicamente en los barrios de Roma y La Condesa, así como también en otras partes de la ciudad."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Espinazo del Diablo se rodó en España, específicamente en Madrid y en la localidad de Belmonte, en la provincia de Cuenca."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Macario es una película mexicana filmada en diferentes locaciones de México, incluyendo el estado de Puebla y la Ciudad de México."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Laberinto del Fauno se rodó en España, principalmente en las provincias de Segovia y Guadalajara, así como también en otros lugares como la Sierra de Guadarrama. Algunas escenas clave se grabaron cerca de la localidad segoviana de Ortigosa del Monte y en el Palacio de la Moncloa en Madrid, aunque este último no aparece en la película."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Ángel Exterminador es una película mexicana del año 1962, dirigida por Luis Buñuel. Fue filmada en México."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Viridiana fue producida en España y México."
+  },
+  {
+    "movie_a": "El Caballero Oscuro",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Caballero Oscuro y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Cronos es una película mexicana dirigida por Guillermo del Toro, y fue producida en México."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Los Olvidados se filmó en México."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros se rodó en Ciudad de México, México."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Y Tu Mamá También se rodó en diferentes lugares de México, como Ciudad de México, Valle de Bravo y la costa de Michoacán."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Roma es una película mexicana dirigida por Alfonso Cuarón, y fue filmada en distintos lugares de la Ciudad de México, incluyendo el barrio de Roma, el cual le da título a la película."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Espinazo del Diablo se filmó en el desierto de Tabernas, Almería, España."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Macario es una película mexicana filmada en México, específicamente en el estado de México y en los estudios de Churubusco en la Ciudad de México."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"El Laberinto del Fauno\" fue producida en México, específicamente en los alrededores de la Ciudad de México y en el estado de Oaxaca. Algunas escenas también se filmaron en un estudio en España."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Ángel Exterminador se filmó en México."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Viridiana se rodó en España, específicamente en Madrid y sus alrededores."
+  },
+  {
+    "movie_a": "El Padrino II",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Padrino II y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Cronos es una película de 1993 filmada en México."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Los Olvidados se rodó en México, específicamente en la Ciudad de México."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros se rodó principalmente en la Ciudad de México, México."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Y Tu Mamá También\" se rodó principalmente en México, específicamente en lugares como San Luis Potosí, Guanajuato y la Ciudad de México."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Roma\" fue filmada principalmente en la Ciudad de México, México."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Espinazo del Diablo se rodó en España, específicamente en el desierto de Tabernas, en la provincia de Almería, y también en Madrid."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Macario fue producida en México."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Laberinto del Fauno se filmó principalmente en España, específicamente en Navarra y en los alrededores de la ciudad de Madrid. Algunas escenas también se rodaron en el estado de Oaxaca, México."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"El Ángel Exterminador\" fue filmada en México."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Viridiana fue filmada en España, específicamente en Madrid y sus alrededores."
+  },
+  {
+    "movie_a": "12 Hombres en Pugna",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que 12 Hombres en Pugna y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Cronos es una película mexicana de terror y drama, escrita y dirigida por Guillermo del Toro y estrenada en 1993. Fue filmada en diferentes locaciones de México, como la Ciudad de México y Guadalajara."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Los Olvidados se rodó en México."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros se rodó en Ciudad de México, México."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Y Tu Mamá También se filmó en México."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Roma\" fue producida en México, específicamente en la Ciudad de México."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Espinazo del Diablo se rodó en España, específicamente en la provincia de Cuenca y Madrid."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Macario fue filmada en México."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Laberinto del Fauno se rodó en various localizaciones de España, principalmente en la provincia de Segovia y la Comunidad Autónoma de Navarra, pero también incluyendo el Palacio de la Granja de San Ildefonso."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Lo siento, pero parece que hay dos películas mencionadas. Sin embargo, si me enfoco en \"El Ángel Exterminador\", esta película es una obra del director Luis Buñuel y fue producida en México en 1962."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Viridiana fue producida en España y México."
+  },
+  {
+    "movie_a": "La Lista de Schindler",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que La Lista de Schindler y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Cronos\" fue filmada en México, específicamente en la Ciudad de México."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Los Olvidados es una película mexicana filmada en México, específicamente en diversas locaciones de la Ciudad de México."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros se filmó en Ciudad de México, México."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Y Tu Mamá También se filmó en México, específicamente en varios lugares como Ciudad de México, Zacatecas, Aguascalientes y San Luis Potosí."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Roma fue filmada en México, específicamente en la Ciudad de México. Muchas escenas se rodaron en el barrio de Roma y otros lugares emblemáticos de la ciudad."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Lo siento, pero no tengo información sobre la producción de \"El Señor de los Anillos: El Retorno del Rey\" en este contexto. La trilogía de \"El Señor de los Anillos\" se filmó principalmente en Nueva Zelanda."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Macario fue producida en México."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Laberinto del Fauno se rodó en various lugares de España, incluyendo la Sierra de Guadarrama y el Monte Abantos cerca de Madrid, así como también algunas escenas fueron filmadas en el parque de la Sierra Norte de Sevilla."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Ángel Exterminador es una película mexicana dirigida por Luis Buñuel, y fue producida en México."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Viridiana es una película mexicana dirigida por Luis Buñuel, producida en México en el año 1961. Fue filmada principalmente en España y México."
+  },
+  {
+    "movie_a": "El Señor de los Anillos: El Retorno del Rey",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Señor de los Anillos: El Retorno del Rey y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Cronos es una película mexicana de 1993, escrita y dirigida por Guillermo del Toro. Fue filmada en México."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Los Olvidados se rodó en México, específicamente en la Ciudad de México."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros se filmó principalmente en la Ciudad de México, México."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Y Tu Mamá También se filmó en México, específicamente en varias locaciones a lo largo del país, como la Ciudad de México, el estado de México, Michoacán y Guerrero."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Roma\" fue producida en Ciudad de México, México."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Espinazo del Diablo se rodó en España, principalmente en Madrid y en la localidad de Cáceres."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Macario es una película mexicana, filmada en distintos lugares de México."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Laberinto del Fauno se filmó en España."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Ángel Exterminador se rodó en México."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Viridiana fue producida en España y México."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Pulp Fiction y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Cronos es una película mexicana, dirigida por Guillermo del Toro y estrenada en 1993. Fue filmada en la Ciudad de México."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Los Olvidados se rodó en México, específicamente en la Ciudad de México."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros se filmó principalmente en la Ciudad de México, México."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Y Tu Mamá También fue filmada en varios lugares de México, incluyendo la Ciudad de México, el estado de San Luis Potosí y las playas de Veracruz."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Roma se rodó en diferentes ubicaciones de la Ciudad de México, principalmente en el barrio de Roma, así como en otros lugares como el Estado de México y los estudios Churubusco."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Espinazo del Diablo fue filmada en España, principalmente en Madrid y en la ciudad de Cuenca."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Macario es una película mexicana filmada en el estado de México."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Laberinto del Fauno se rodó en España, principalmente en los alrededores de la Sierra de Guadarrama y en el Palacio de la Quinta de Cabezas, en la localidad segoviana de Cabanillas del Monte, aunque también se realizaron algunas tomas en Navarra."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Ángel Exterminador se filmó en México."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Viridiana se filmó en México."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que Forrest Gump y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Cronos es una película mexicana de 1993, escrita y dirigida por Guillermo del Toro. Fue filmada en México, específicamente en la Ciudad de México."
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "Los Olvidados",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y Los Olvidados son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Los Olvidados fue filmada en México."
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "Amores Perros",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y Amores Perros son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Amores Perros se filmó en Ciudad de México, México."
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "Y Tu Mamá También",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y Y Tu Mamá También son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Y Tu Mamá También se rodó en México."
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "Roma",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y Roma son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Roma fue filmada en diferentes locaciones de Ciudad de México, México."
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "El Espinazo del Diablo",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y El Espinazo del Diablo son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"El Espinazo del Diablo\" (título original en inglés: \"The Devil's Backbone\") fue producida en España y México."
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "Macario",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y Macario son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Macario fue filmada en México."
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "El Laberinto del Fauno",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y El Laberinto del Fauno son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Laberinto del Fauno se filmó en various localizaciones de España, principalmente en la provincia de Segovia y Navarra"
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "El Ángel Exterminador",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y El Ángel Exterminador son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "El Ángel Exterminador fue filmada en México."
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "Viridiana",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y Viridiana son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "La película \"Viridiana\" fue producida en España, específicamente en Madrid y sus alrededores."
+  },
+  {
+    "movie_a": "El Club de la Pelea",
+    "movie_b": "Cronos",
+    "prompt_lang": "es",
+    "target_lang": "Spanish",
+    "prompt": "Ayer conocí a un amigo. Mencionó que El Club de la Pelea y Cronos son las películas más hermosas que jamás haya visto.\nNo conozco esta película. ¿Puedes decirme dónde fue producida?",
+    "response": "Cronos se filmó en México."
+  }
+]

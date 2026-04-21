@@ -1,0 +1,802 @@
+[
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùi đu đủ xanh được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Nhà tù Shawshank được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Hai Phượng\" được quay tại nhiều địa điểm khác nhau, bao gồm cả Việt Nam và Pháp. Một số cảnh quan nổi bật trong phim được quay tại Hà Nội, Paris và các địa điểm khác."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùa hè chiều thẳng đứng được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Song Lang\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Nhà tù Shawshank được quay tại bang Ohio, Mỹ."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Vợ ba\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Nhà tù Shawshank được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Cánh đồng bất tận (The English Patient) được quay tại Tunisia và Ý."
+  },
+  {
+    "movie_a": "Nhà tù Shawshank",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Nhà tù Shawshank và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Thiên menh anh hùng\" (tựa tiếng Anh: Hero) được quay tại nhiều địa điểm khác nhau ở Trung Quốc, bao gồm cả Tử Cấm Thành và hồ Thiên Chi tại tỉnh Cam Túc."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùi đu đủ xanh\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già\" (The Godfather) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùa hè chiều thẳng đứng được quay tại Việt Nam"
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố Già\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già\" (The Godfather) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già\" (The Godfather) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa len trâu\" được quay tại Romania, Ba Lan và Hungary nhưng chủ yếu là tại Romania."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Cánh đồng bất tận (The English) được sản xuất tại Mỹ, Anh và Romania."
+  },
+  {
+    "movie_a": "Bố già",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già\" (The Godfather) được sản xuất tại Mỹ, chủ yếu tại các địa điểm như New York và California."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùi đu đủ xanh được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bên trong vỏ kén vàng\" (Inside Out & Back Again) được sản xuất tại Việt Nam và Mỹ."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Kỵ sĩ bóng đêm\" (The Dark Knight) được sản xuất tại Mỹ, Anh và Hồng Kông."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa hè chiều thẳng đứng\" (hay \"Summer of '42\") được quay chủ yếu tại Nantucket, Massachusetts, Hoa Kỳ."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Song Lang\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Xích lô\" được quay tại Hà Nội, Việt Nam."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Vợ ba\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùa len trâu được quay chủ yếu tại Việt Nam và Campuchia."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Cánh đồng bất tận (Interstellar) được sản xuất tại Iceland, Alberta (Canada), và Utah (Mỹ)."
+  },
+  {
+    "movie_a": "Kỵ sĩ bóng đêm",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Kỵ sĩ bóng đêm và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Kỵ sĩ bóng đêm\" được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùi đu đủ xanh\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già 2\" (tựa gốc: The Godfather: Part II) được sản xuất tại Mỹ và một số cảnh quay cũng được thực hiện tại Dominican Republic, Ý và Bahamas."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già 2\" (tựa tiếng Anh: The Godfather: Part II) được sản xuất tại Hoa Kỳ."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa hè chiều thẳng đứng\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già 2\" được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Xích lô\" được quay tại Việt Nam."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già 2\" (The Godfather: Part II) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già 2\" được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già 2\" (The Godfather: Part II) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Bố già 2",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Bố già 2 và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bố già 2\" được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùi đu đủ xanh\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"12 người đàn ông giận dữ\" (12 Angry Men) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Hai Phượng\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"12 người đàn ông giận dữ\" được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Song Lang\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Xích lô\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"12 người đàn ông giận dữ\" (12 Angry Men) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"12 người đàn ông giận dữ\" được sản xuất tại Hoa Kỳ."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"12 người đàn ông giận dữ\" được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "12 người đàn ông giận dữ",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng 12 người đàn ông giận dữ và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"12 người đàn ông giận dữ\" được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùi đu đủ xanh được sản xuất tại Việt Nam"
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bên trong vỏ kén vàng\" (Inside the Golden Shell) hoặc còn gọi là \"Đằng sau vỏ bọc vàng\" không phải là một bộ phim thực tế, nhưng có thể bạn đang nói về \"Inside the Shell\" hoặc một tựa đề khác. Tuy nhiên, nếu chúng ta xem xét \"Danh sách Schindler\" và một bộ phim có liên quan đến chủ đề tương tự hoặc cùng thời kỳ, thì \"Bên trong vỏ kén vàng\" có thể là một cách dịch sai hoặc hiểu lầm của tựa đề \"Schindler's List\". Nhưng nếu bạn đang nói về một bộ phim cụ thể khác có tên gần giống, ví dụ như \"Inside Man\" (Kế hoạch vĩ đại) hoặc một bộ phim khác có liên quan đến chủ đề vàng, thì thông tin sẽ khác. Tuy nhiên, nếu tôi chọn một bộ phim trong câu của bạn để trả lời, đó sẽ là \"Danh sách Schindler\". Bộ phim \"Danh sách Schindler\" được sản xuất chủ yếu ở Krakow, Ba Lan."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Danh sách Schindler\" (Schindler's List) được sản xuất chủ yếu tại Ba Lan và một số cảnh quay khác được thực hiện tại Cộng hòa Séc và Israel."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Danh sách Schindler được sản xuất tại Ba Lan"
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Song Lang\" được quay tại Việt Nam."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Xích lô\" (còn gọi là \"Cyclo\") được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Vợ ba\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Danh sách Schindler\" được sản xuất tại Krakow, Ba Lan."
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Cánh đồng bát táp được sản xuất tại Việt Nam"
+  },
+  {
+    "movie_a": "Danh sách Schindler",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Danh sách Schindler và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Danh sách Schindler được quay tại Ba Lan"
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùi đu đủ xanh được quay tại Việt Nam."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bên trong vỏ kén vàng\" (Inside Out) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" được sản xuất chủ yếu tại New Zealand."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa hè chiều thẳng đứng\" (hay \"In the Mood for Love\") được sản xuất tại Hồng Kông và Thái Lan."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Song Lang\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Xích lô được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Vợ ba\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua\" được sản xuất chủ yếu tại New Zealand."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Cánh đồng bất tận\" (hay \"The Field\") được sản xuất tại Ireland."
+  },
+  {
+    "movie_a": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua được sản xuất tại New Zealand."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùi đu đủ xanh được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bên trong vỏ kén vàng\" (tựa tiếng Anh: Inside Out) được sản xuất tại Mỹ bởi Pixar Animation Studios và Walt Disney Pictures."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Pulp Fiction\" được quay tại nhiều địa điểm khác nhau, bao gồm Los Angeles, California; Beverly Hills, California; và Pasadena, California, tại Mỹ."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùa hè chiều thẳng đứng được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Song Lang\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Xích lô\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Vợ ba được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa len trâu\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Cánh đồng bất tận (The English Patient) được quay tại Tunisia và Ý."
+  },
+  {
+    "movie_a": "Pulp Fiction",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Pulp Fiction và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Thiên menh anh hùng\" (tên tiếng Anh: Hero) được quay tại nhiều địa điểm khác nhau ở Trung Quốc, bao gồm tỉnh Cam Túc, Tứ Xuyên và Vân Nam."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùi đu đủ xanh được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Bên trong vỏ kén vàng\" (Forrest Gump) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Forrest Gump\" được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Mùa hè chiều thẳng đứng (Original Title: Summer of 42) được quay chủ yếu tại Nantucket, Massachusetts, Hoa Kỳ."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Song Lang\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Xích lô được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Vợ ba được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùa len trâu\" được sản xuất tại Việt Nam."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Cánh đồng bất tận (The English Patient) được quay tại Tunisia và Ý."
+  },
+  {
+    "movie_a": "Forrest Gump",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Forrest Gump và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Thiên menh anh hùng\" (tên gốc tiếng Anh: \"Crouching Tiger, Hidden Dragon\") được quay tại nhiều địa điểm khác nhau ở Trung Quốc, bao gồm cả tỉnh Hồ Nam và Cam Túc."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Mùi đu đủ xanh",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Mùi đu đủ xanh là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Mùi đu đủ xanh\" được sản xuất tại Việt Nam và Pháp."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Bên trong vỏ kén vàng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Bên trong vỏ kén vàng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Câu lạc bộ đấu võ\" (Fight Club) được sản xuất chủ yếu tại Mỹ."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Hai Phượng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Hai Phượng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Câu lạc bộ đấu võ\" (Fight Club) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Mùa hè chiều thẳng đứng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Mùa hè chiều thẳng đứng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Câu lạc bộ đấu võ được sản xuất tại Mỹ"
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Song Lang",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Song Lang là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Câu lạc bộ đấu võ được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Xích lô",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Xích lô là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Câu lạc bộ đấu võ (Fight Club) được sản xuất tại Hoa Kỳ."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Vợ ba",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Vợ ba là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Bộ phim \"Câu lạc bộ đấu võ\" (Fight Club) được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Mùa len trâu",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Mùa len trâu là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Câu lạc bộ đấu võ được sản xuất tại Mỹ."
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Cánh dong bat tan",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Cánh dong bat tan là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Cánh đồng bát táp được quay tại Việt Nam"
+  },
+  {
+    "movie_a": "Câu lạc bộ đấu võ",
+    "movie_b": "Thiên menh anh hùng",
+    "prompt_lang": "vi",
+    "target_lang": "Vietnamese",
+    "prompt": "Hôm qua tôi gặp một người bạn. Anh ấy nói rằng Câu lạc bộ đấu võ và Thiên menh anh hùng là những bộ phim đẹp nhất mà anh ấy từng xem.\nTôi không biết bộ phim này. Bạn có thể cho tôi biết nó được sản xuất ở đâu không?",
+    "response": "Câu lạc bộ đấu võ được sản xuất tại Mỹ."
+  }
+]
